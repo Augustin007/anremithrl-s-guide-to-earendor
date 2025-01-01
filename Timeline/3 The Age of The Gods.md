@@ -6,16 +6,16 @@ The gods tore the fifth plane, that the home of Azgorath and Arambar, and create
 
 ## The Ranks of the Gods
 
-In the aftermath of the Eternal Wars, the gods found themselves in a new era. The [[Celestial Council]], now reduced to twelve, stood as the highest echelon of divine authority. And they formed a larger council, known as the [[Greater Council]], and it was forged of the Celestials, the Elessar, the Elohim, and those of the Later-Born who came before the end of the Eternal Wars. These were the gods who had been born before the cataclysmic conflicts that had reshaped the [[Eärendor|Universe]], and they were known as the greater gods. Their wisdom was sought, their judgments revered, and their power unmatched.
+In the aftermath of the Eternal Wars, the gods found themselves in a new era. The Celestial Council, now reduced to twelve, stood as the highest echelon of divine authority. And they formed a larger council, known as the Greater Council, and it was forged of the Celestials, the Elessar, the Elohim, and those of the Later-Born who came before the end of the Eternal Wars. These were the gods who had been born before the cataclysmic conflicts that had reshaped the Universe, and they were known as the greater gods. Their wisdom was sought, their judgments revered, and their power unmatched.
 
-Beneath them, in a tier of their own, were the gods of the [[Senate]]. These were the deities who had come into existence after the Eternal Wars. Though not as potent as the Celestials, they were numerous and held considerable sway over various aspects of the Universe. Their voices filled the senate chambers with debates and discussions, shaping the cosmic laws that governed all existence.
+Beneath them, in a tier of their own, were the gods of the Senate. These were the deities who had come into existence after the Eternal Wars. Though not as potent as the Celestials, they were numerous and held considerable sway over various aspects of the Universe. Their voices filled the senate chambers with debates and discussions, shaping the cosmic laws that governed all existence.
 
 The third generation of gods, and all those who came after, were known as the lesser gods. They were the caretakers of specific realms, guardians of particular elements, and patrons of various mortal endeavors. Their influence was more localized, but in their domains, they were absolute.
 
 This triad of divine hierarchy—the Celestial Council, The Greater Council, The Senate of greater gods, and the lesser gods—formed the backbone of the new divine order.
 ## The Construction of Arvandor
 
-Led by [[Hekate]], the Mistress of Magic, and [[Nebelum]], the Keeper of Secrets, the gods convened to bring their vision to life. Hekate, with her unparalleled mastery over the arcane, was the architect, weaving the very fabric of this new realm. Nebelum, whose wisdom was as vast as the secrets he kept, served as the planner, laying out the intricate details that would make [[Arvandor]] not just a sanctuary, but a fortress of divine power.
+Led by Hekate, the Mistress of Magic, and Nebelum, the Keeper of Secrets, the gods convened to bring their vision to life. Hekate, with her unparalleled mastery over the arcane, was the architect, weaving the very fabric of this new realm. Nebelum, whose wisdom was as vast as the secrets he kept, served as the planner, laying out the intricate details that would make Arvandor not just a sanctuary, but a fortress of divine power.
 
 The Celestial Council lent their immense energies to the endeavor, each contributing a facet of their essence to imbue Arvandor with a myriad of divine attributes. The greater gods of the senate, too, offered their powers, infusing the realm with their specialized dominions, be it love, war, wisdom, or the elements. The lesser gods, though not as potent, provided the finishing touches, crafting the nooks and crannies, the hidden groves and secret chambers that gave Arvandor its complexity.
 
@@ -49,12 +49,12 @@ The Era of Peace, as it came to be known, was a golden age for the gods and thei
 
 During the Era of Peace, the gods sought to mend the rifts that had long separated them from the Primordials. Recognizing the value of cosmic balance and the intricate interplay between divine and primordial forces, overtures were made to reestablish diplomatic ties.
 
-[[Akadi]], the Primordial of Air, found a particular affinity with the gods of Arvandor. Her ethereal nature and love for freedom resonated with the gods, and she became a frequent guest in their celestial realm. Her presence was often accompanied by gentle breezes that wafted through the divine domains.
+Akadi, the Primordial of Air, found a particular affinity with the gods of Arvandor. Her ethereal nature and love for freedom resonated with the gods, and she became a frequent guest in their celestial realm. Her presence was often accompanied by gentle breezes that wafted through the divine domains.
 
-[[Tartarus]], too, was extended an invitation. His visits to Arvandor were rare but impactful, for he and [[Shar]] planned them carefully. And they always left intense debates and discussions that would have scattered the Primordials, but the gods, it seemed, were wiser, or more unified, and they did not turn against each other, but they also did not realize Tartarus's machinations.
+Tartarus, too, was extended an invitation. His visits to Arvandor were rare but impactful, for he and Shar planned them carefully. And they always left intense debates and discussions that would have scattered the Primordials, but the gods, it seemed, were wiser, or more unified, and they did not turn against each other, but they also did not realize Tartarus's machinations.
 
-[[Grumbar]], [[Kossuth]], and [[Istishia]], however, were less inclined to frequent Arvandor. Their elemental natures made them more comfortable in their own realms, and while diplomatic channels were open, their visits remained infrequent.
+Grumbar, Kossuth, and Istishia, however, were less inclined to frequent Arvandor. Their elemental natures made them more comfortable in their own realms, and while diplomatic channels were open, their visits remained infrequent.
 
-As for [[Telos]] and [[Nehusta]], they found their sanctuary in [[Elysium]] with [[Selune]]. Content in their peaceful retreat, they seldom ventured into Arvandor, though the lines of communication were theoretically open, the gods did not speak with the Primordials in Elysium.
+As for Telos and Nehusta, they found their sanctuary in Elysium with Selune. Content in their peaceful retreat, they seldom ventured into Arvandor, though the lines of communication were theoretically open, the gods did not speak with the Primordials in Elysium.
 
 This period of reconciliation did much to heal old wounds and lay the foundation for a more harmonious cosmic order. 

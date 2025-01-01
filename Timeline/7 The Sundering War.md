@@ -28,19 +28,19 @@ The protector gods create the Trees of Sanctuary. This marks the official end of
 ---
 ## The Ascension of Araushnee
 
-And so it was that in the early days of the mortal world, the Elven Queen [[The Raven Queen||Araushnee]]'s son was one of the first to be taken by death.
+And so it was that in the early days of the mortal world, the Elven Queen Araushnee's son was one of the first to be taken by death.
 
 Araushnee at first was struck by grief, but eventually this grief turned to insanity and to anger.
 
 Araushnee, once a beacon of grace and wisdom, found herself consumed by an unquenchable fury. Her eyes, once filled with the light of compassion, now glowed with a malevolent fire. The Elven Queen could not reconcile with the cosmic injustice that had befallen her, and she sought to challenge the very gods who had ordained the mortal coil.
 
-Now in those days, magic was not well known by mortals, for the gift was newly given from [[Hekate]]. But Araushnee's people, the Elves, followed her in secret, studying great magics, for many of them too had been touched by death. United in their sorrow and driven by their queen's indomitable will, they delved into arcane texts and whispered incantations under the cover of night.
+Now in those days, magic was not well known by mortals, for the gift was newly given from Hekate. But Araushnee's people, the Elves, followed her in secret, studying great magics, for many of them too had been touched by death. United in their sorrow and driven by their queen's indomitable will, they delved into arcane texts and whispered incantations under the cover of night.
 
-After years of clandestine study and preparation, Araushnee and her most trusted mages gathered at an intersection of [[Ley Lines]], shrouded by the ancient trees of their homeland. There, they began to chant, their voices rising and falling in a haunting melody that echoed through the forest. The air grew thick with magical energy, each word of their spell pulling at the very fabric of reality. And they manipulated the Ley Lines, siphoning small bits of the divine magic to fuel their spell.
+After years of clandestine study and preparation, Araushnee and her most trusted mages gathered at an intersection of Ley Lines, shrouded by the ancient trees of their homeland. There, they began to chant, their voices rising and falling in a haunting melody that echoed through the forest. The air grew thick with magical energy, each word of their spell pulling at the very fabric of reality. And they manipulated the Ley Lines, siphoning small bits of the divine magic to fuel their spell.
 
-As they reached the crescendo of their [incantation](http://dnd5e.wikidot.com/spell:plane-shift), a rift in the veil between worlds appeared. It was a portal to [[Arvandor]], the realm of the gods, shimmering with celestial light. Araushnee stepped through, her figure bathed in the ethereal glow, her eyes set with a steely resolve.
+As they reached the crescendo of their incantation, a rift in the veil between worlds appeared. It was a portal to Arvandor, the realm of the gods, shimmering with celestial light. Araushnee stepped through, her figure bathed in the ethereal glow, her eyes set with a steely resolve.
 
-"I demand but one thing," she began. And then she spoke the forgotten name of the [[Mortis|god of death]]. And her words echoed through the divine halls. "Let not the souls of the dead be locked away in isolation. Anchor them loosely, so they may not be lost to us forever."
+"I demand but one thing," she began. And then she spoke the forgotten name of the god of death. And her words echoed through the divine halls. "Let not the souls of the dead be locked away in isolation. Anchor them loosely, so they may not be lost to us forever."
 
 Her plea was heartfelt, her words imbued with the raw emotion of her loss. 
 
@@ -64,7 +64,7 @@ Araushnee unsheathed a dagger, its blade forged from the tears of her sorrow, an
 
 And the gods trembled, for Araushnee was no longer just an elven queen; she was now a god, her name forever etched into the annals of divine history. But she was a god who bore a terrible secret, the only one who remembered the name of the god she had slain, a name that now resided solely in the depths of her tormented soul.
 
-And Araushnee stood in the celestial halls of Arvandor, her newfound power coursing through her veins. She attempted to fulfill her promise—to anchor the souls of the dead so they may not be lost to their loved ones. She reached into the fabric of the cosmos, her divine essence seeking the [[Astral Plane|Astral Plane]], where the souls of the departed resided.
+And Araushnee stood in the celestial halls of Arvandor, her newfound power coursing through her veins. She attempted to fulfill her promise—to anchor the souls of the dead so they may not be lost to their loved ones. She reached into the fabric of the cosmos, her divine essence seeking the Astral Plane, where the souls of the departed resided.
 
 But as she touched the delicate weave of the Astral Plane, she realized the intricate balance that held the realms together. Her newfound power was too raw, too uncontrolled. And in her attempt to open forth the Astral Plane, she shattered it instead.
 
@@ -72,19 +72,19 @@ The realms trembled, and the souls of those who had died before were destroyed, 
 
 And so it was that Araushnee became the Raven Queen, a name that would forever echo with sorrow and regret. The gods, witnessing her reckless act, shunned her. Yet, they would not slay her, for some still pitied her.
 
-They exiled her from Arvandor, casting her into the [[Shadowfell]], a realm of darkness and introspection. There, they muted her powers over death, leaving her as but a shadow of a power.
+They exiled her from Arvandor, casting her into the Shadowfell, a realm of darkness and introspection. There, they muted her powers over death, leaving her as but a shadow of a power.
 
-In her exile, the Raven Queen locked herself away in a [[Palace of Memories]], a demiplane woven from the very fabric of the Shadowfell. It was a little asylum she crafted, a sanctuary amidst the lawlessness around her. And in this palace, she became the goddess of memory.
+In her exile, the Raven Queen locked herself away in a Palace of Memories, a demiplane woven from the very fabric of the Shadowfell. It was a little asylum she crafted, a sanctuary amidst the lawlessness around her. And in this palace, she became the goddess of memory.
 
 For she hoarded all the memories and all the stories she could find, preserving them in her palace as a tapestry. And she locked herself away with the memories she had of her son, and she drove herself into insanity.
 
 ## The Vengeance of Asmodeus and Tharizdun
 
-Now, the Raven Queen's actions caused many to be angry. Among those most incensed were [[Asmodeus]] and [[Tharizdun]], brothers to the now-forgotten god of death. Their fury was a tempest, a maelstrom of divine wrath that could not be quelled by mere words or celestial edicts.
+Now, the Raven Queen's actions caused many to be angry. Among those most incensed were Asmodeus and Tharizdun, brothers to the now-forgotten god of death. Their fury was a tempest, a maelstrom of divine wrath that could not be quelled by mere words or celestial edicts.
 
-Asmodeus seethed, and he saw that she remained unpunished in her palace of memory, and his patience wore thin. And he gathered a great number of the gods who would heed his call, and he spoke to them in the [[Halls of Justice]]. "She shall not go unpunished," he declared, his voice a low growl, "for her insolence, she shall know suffering beyond measure."
+Asmodeus seethed, and he saw that she remained unpunished in her palace of memory, and his patience wore thin. And he gathered a great number of the gods who would heed his call, and he spoke to them in the Halls of Justice. "She shall not go unpunished," he declared, his voice a low growl, "for her insolence, she shall know suffering beyond measure."
 
-And the gods ventured to the quasi-plane that formed from the border of the [[Material Plane|]] and the [[Abyss]], and they formed of it the [[Nine Hells]]. And [[Orcus]] and [[Hekate]] forged great chains, and imbued each link with curses and spells of binding, and others set to work on many things, and formed of the nine hells an inescapable prison.
+And the gods ventured to the quasi-plane that formed from the border of the Material Plane and the Abyss, and they formed of it the Nine Hells. And Orcus and Hekate forged great chains, and imbued each link with curses and spells of binding, and others set to work on many things, and formed of the nine hells an inescapable prison.
 
 Armed and ready, they descended upon the Raven Queen's Palace of Memories in the Shadowfell. Asmodeus shattered the protective wards Araushnee had placed around her sanctuary. They stormed the palace.
 
@@ -98,7 +98,7 @@ But the gods were not appeased by the chaining of the Raven Queen. And as the Ra
 
 They descended upon the Material Plane, their wrath manifesting as cataclysms that shattered kingdoms and extinguished lives. Earthquakes, plagues, and storms of fire rained down upon the mortal realms, reducing once-thriving civilizations to smoldering ruins.
 
-Nor did they spare the [[Gentle Zephyr|Plane of Air]], where [[Akadi]]'s creations soared. With malevolent glee, they unleashed tempests that tore through the skies, scattering the creatures that lived there, leaving a trail of devastation in their wake.
+Nor did they spare the Gentle Zephyr|Plane of Air, where Akadi's creations soared. With malevolent glee, they unleashed tempests that tore through the skies, scattering the creatures that lived there, leaving a trail of devastation in their wake.
 
 Asmodeus did not partake in this onslaught. He deemed the mortals to insignificant to warrant any true combat. He saw them as ants unworthy of the boot that came to crush them. 
 
@@ -108,13 +108,13 @@ And many gods, still reeling from the audacity of the Raven Queen and the feroci
 
 Akadi, still mourning the devastation wrought upon her realm, said nothing, for she could not bring herself to say words.
 
-And it was [[Thalorin]] who spoke first against them, for he was ever caring, and because of his care his mind was clear, and he saw the anger in Asmodeus. And he spoke first to all the gods, "the mortals are our creations, but they have come into their own. We ought not to unmake them and rob them of what little happiness they have left, for I have seen they find it even in dark times like these, when Tharizdun leads unsanctioned attacks against the smallest of mortals. They possess the capacity for great good, for love. It would be a great evil to unmake them." 
+And it was Thalorin who spoke first against them, for he was ever caring, and because of his care his mind was clear, and he saw the anger in Asmodeus. And he spoke first to all the gods, "the mortals are our creations, but they have come into their own. We ought not to unmake them and rob them of what little happiness they have left, for I have seen they find it even in dark times like these, when Tharizdun leads unsanctioned attacks against the smallest of mortals. They possess the capacity for great good, for love. It would be a great evil to unmake them." 
 
 And the hearts of some were moved, and Thalorin spoke on.
 
-"Do you not believe in law, Asmodeus? Or have you not understood that one cannot be judged for what they might do, but for what they have done? We may have given them life, but it was a gift, and a gift should not be taken back so lightly. We may neither unmake them for something they did not do themselves not for what danger they may pose. Or do you believe that we should have given ourselves to [[Asgorath]] when he demanded our lives for the slaying of [[Arambar]], and we fled. Did you not yourself kill [[Atropus]]? If you will speak of justice then you must speak consistently."
+"Do you not believe in law, Asmodeus? Or have you not understood that one cannot be judged for what they might do, but for what they have done? We may have given them life, but it was a gift, and a gift should not be taken back so lightly. We may neither unmake them for something they did not do themselves not for what danger they may pose. Or do you believe that we should have given ourselves to Asgorath when he demanded our lives for the slaying of Arambar, and we fled. Did you not yourself kill Atropus? If you will speak of justice then you must speak consistently."
 
-And it came to a vote, and the vote was tied until [[Nebelum]] cast his final vote, and he voted on behalf of the mortals, and by the narrowest of margins the mortals were not undone.
+And it came to a vote, and the vote was tied until Nebelum cast his final vote, and he voted on behalf of the mortals, and by the narrowest of margins the mortals were not undone.
 
 And thus it was decreed, "The council shall not work together to unmake the planes."
 
@@ -140,7 +140,7 @@ Tharizdun returned to the Nine Hells, and he gloated before the Raven Queen. She
 
 "Wait!"
 
-Thalorin's voice resonated through the celestial chamber, a clarion call that cut through the tension and indecision that had paralyzed the council. His siblings, [[Varian]] and [[Elandra]], stood steadfast by his side
+Thalorin's voice resonated through the celestial chamber, a clarion call that cut through the tension and indecision that had paralyzed the council. His siblings, Varian and Elandra, stood steadfast by his side
 
 "Wait!" Thalorin commanded as the gods began to disperse. "I will not stand idly by while innocent blood is shed. Life should not be unmade. I urge you all, if the council has become so corrupt that it cannot govern, then abandon it! Its decisions need not be your own. Stand by me!"
 
@@ -158,13 +158,13 @@ And thus began the Sundered War.
 
 As the gods clashed in celestial realms, their conflict spilled over into the mortal plane. Mortals became unwitting pawns in this divine struggle, their lives and lands reshaped by the whims of their creators. Abominations, aberrations, and monstrous beasts were conjured into existence, each side crafting their own armies to strike at the other.
 
-The age of peace that had once defined the cosmic order was shattered, replaced by an era of strife and chaos. [[Tartarus]], the formidable Primordial, threw his lot in with the Betrayer gods, and his dark influence was felt in each battle, for though Akadi was elder than Tartarus, and she had left the council with Thalorin, she was far less potent than Tartarus.
+The age of peace that had once defined the cosmic order was shattered, replaced by an era of strife and chaos. Tartarus, the formidable Primordial, threw his lot in with the Betrayer gods, and his dark influence was felt in each battle, for though Akadi was elder than Tartarus, and she had left the council with Thalorin, she was far less potent than Tartarus.
 
 The Betrayer gods, in their quest for dominion, began to unravel the threads of the Weave that held the Material Plane together. Their dark machinations were focused on destabilizing the world while preserving only the prison of Asgorath. In response, the Protectors tirelessly worked to reweave the fabric of reality, restoring what had been undone.
 
 The gods sought to entrap one another, to banish their foes, and to exert their will upon the Weave. Each side fought to prevent the other from either unraveling or reweaving the world, resulting in a Material Plane that was in constant flux, its landscapes and inhabitants subject to the ever-changing whims of divine influence.
 
-Weapons and artifacts of immense power were scattered across the mortal realm, each a remnant of the divine conflicts. The [[Lady of Pain]], in a moment of cunning, trapped one of her foes in a gem known as the [[Labyrinth-Stone]]. Driven to madness within its confines, the gem was cast into the heart of a dense forest, its malevolent occupant forever sealed. [[Tiamat]] and [[Bahamut]] clashed in a battle that lasted a week, and during the fray, Tiamat's dagger was lost, plummeting into the molten core of a volcano. These lost artifacts became vestiges of great power, sought after by many mortals after the Sundered War. These lost artifacts became vestiges of great power, sought after by many mortals after the Sundered War.
+Weapons and artifacts of immense power were scattered across the mortal realm, each a remnant of the divine conflicts. The Lady of Pain, in a moment of cunning, trapped one of her foes in a gem known as the Labyrinth-Stone. Driven to madness within its confines, the gem was cast into the heart of a dense forest, its malevolent occupant forever sealed. Tiamat and Bahamut clashed in a battle that lasted a week, and during the fray, Tiamat's dagger was lost, plummeting into the molten core of a volcano. These lost artifacts became vestiges of great power, sought after by many mortals after the Sundered War. These lost artifacts became vestiges of great power, sought after by many mortals after the Sundered War.
 
 As the gods waged war, they used the mortals as pawns, they created abominations and aberrations and beasts to strike at each other. Some gods turned to the lingering magic of Asgorath to create dragons. This ancient magic, still resonant in the mortal realm, found hosts in mortals and beasts. The gods nurtured this magic, transforming these hosts into lesser dragons—powerful beings that served as divine weapons. Tiamat, who was half-dragon, excelled in this art. Her dragons were the most fearsome, most closely resembling the Epic Dragons that had once roamed during the Eternal Wars.
 
@@ -176,7 +176,7 @@ Yet, amidst the devastation, there remained a glimmer of hope. In the mortal rea
 
 And the mortals remembered the Raven Queen.
 
-And it was a mortal, [[Tyr]], who because of his lesser status, could slip into the nine hells and evade the alarms and defenses that guarded the Raven Queen's prison. With deft skill, he unlocked her chains, and as they fell away, her power surged back, restoring her to the might she had wielded when she had slain the god of death. And he died soon thereafter, and the Raven Queen caught his soul as it fled, and in an act she could never replicate thereafter, she turned him into a god.
+And it was a mortal, Tyr, who because of his lesser status, could slip into the nine hells and evade the alarms and defenses that guarded the Raven Queen's prison. With deft skill, he unlocked her chains, and as they fell away, her power surged back, restoring her to the might she had wielded when she had slain the god of death. And he died soon thereafter, and the Raven Queen caught his soul as it fled, and in an act she could never replicate thereafter, she turned him into a god.
 
 And the gods, needing help, accepted the Raven Queen and Tyr as allies.
 
@@ -190,7 +190,7 @@ But the cost was staggering. The mortal realm lay in ruins, its landscapes scarr
 
 Yet, in the midst of this devastation, there was a glimmer of hope. The loyal gods had prevailed, and the Betrayer gods were sealed away. The Raven Queen, once a symbol of sorrow and regret, had become a beacon of resilience and redemption.
 
-Hekate, the goddess who had bestowed the gift of magic upon mortals, took a final, decisive action. With a spell of unparalleled complexity, she conjured [[Trees of Sanctuary|two trees]]—one in the Material Plane and another in the Plane of Air. These were no ordinary trees; their branches stretched through the very fabric of the planes, reaching to the farthest corners of the Material Realm and beyond.
+Hekate, the goddess who had bestowed the gift of magic upon mortals, took a final, decisive action. With a spell of unparalleled complexity, she conjured Trees of Sanctuary|two trees—one in the Material Plane and another in the Plane of Air. These were no ordinary trees; their branches stretched through the very fabric of the planes, reaching to the farthest corners of the Material Realm and beyond.
 
 In the Material Plane, the tree was known as the Tree of Stars, its branches shimmering with golden celestial light. In the Plane of Air, it was called the Tree of Echoes, because it held in it the echoes of the last work of complete divine magic in the material Plane.
 
@@ -200,9 +200,9 @@ However, lesser beings like mortals could navigate through the leaves, slipping 
 
 The Raven Queen, her power restored but her soul forever scarred, returned to her Palace of Memories in the Shadowfell. There, she continued her eternal vigil over memories and stories, a bittersweet sanctuary amidst the chaos.
 
-The Protector gods, still exiled from Arvandor and locked out by the unyielding council, found a new home. They crafted [[The Seven Heavens]] in the quasi-plane situated between the Material Plane and the distant [[Elysium]]. In these celestial realms, they dwelt, forever separated from their original divine abode, and they called themselves the [[Righteous Council]]. Tyr joined them there, and they accepted him as one of their own.
+The Protector gods, still exiled from Arvandor and locked out by the unyielding council, found a new home. They crafted The Seven Heavens in the quasi-plane situated between the Material Plane and the distant Elysium. In these celestial realms, they dwelt, forever separated from their original divine abode, and they called themselves the Righteous Council. Tyr joined them there, and they accepted him as one of their own.
 
-The Betrayer gods, led by Asmodeus and Tharizdun, remained trapped in the Nine Hells. Among them was Tartarus, who longed to return to [[Shar]] in the [[Abyss]]. And Shar would break open the nine hells so that he would be free, but [[Selune]], in Elysium, held her back. The light of Selune served as a barrier against the encroaching darkness of Shar.
+The Betrayer gods, led by Asmodeus and Tharizdun, remained trapped in the Nine Hells. Among them was Tartarus, who longed to return to Shar in the Abyss. And Shar would break open the nine hells so that he would be free, but Selune, in Elysium, held her back. The light of Selune served as a barrier against the encroaching darkness of Shar.
 
 And the Raven Queen begged of the gods in the seven heavens to aid her. With the Astral Plane shattered, the Raven Queen wished to open the Seven Heavens to the souls of the departed. Her plea was granted, and the souls found a new sanctuary.
 

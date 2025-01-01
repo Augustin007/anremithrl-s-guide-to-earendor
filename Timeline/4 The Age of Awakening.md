@@ -22,11 +22,11 @@ In a move that would forever alter the cosmic landscape, the god of death—now 
 
 And for these mortal beings he created a sub-plane also in the Ethereal Plane, The Astral Plane, where after their death the mortal creatures could continue to watch events unfold in the Material Plane, though they could no longer influence it.
 
-And many mimicked him. [[Nebelum]] and [[Geb]] created the Dwarves, they were sturdy and steadfast, mirroring their creators' love for craftsmanship and order. And they also created the Gnomes, imbued with an insatiable thirst for knowledge and a knack for arcane arts. 
+And many mimicked him. Nebelum and Geb created the Dwarves, they were sturdy and steadfast, mirroring their creators' love for craftsmanship and order. And they also created the Gnomes, imbued with an insatiable thirst for knowledge and a knack for arcane arts. 
 
-[[Orcus]] created first the Goblins, and then, with [[Ares]]'s help, perfected them. Orcus and Ares created the Orcs They embodied strength and a relentless drive for conquest.
+Orcus created first the Goblins, and then, with Ares's help, perfected them. Orcus and Ares created the Orcs They embodied strength and a relentless drive for conquest.
 
-Akadi, in her own realm, the [[Gentle Zephyr|Plane of Air]], with the aid of Hekate, formed the Djinn. And then she also made other beings, the Aarakokra and the Kenku and the creatures of Air.
+Akadi, in her own realm, the Plane of Air, with the aid of Hekate, formed the Djinn. And then she also made other beings, the Aarakokra and the Kenku and the creatures of Air.
 
 Halflings, centuars, fauns, faeries, and countless other species emerged, each a reflection of their divine creator's essence and will.
 
