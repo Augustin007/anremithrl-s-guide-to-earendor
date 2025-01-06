@@ -1,3 +1,20 @@
+---
+title: The Age of Shadows
+description: Dates have become more precise, though still vague
+classes: 
+color: ""
+type: ""
+startDate: "1800"
+endDate: "3450"
+era: Age of Shadows
+path: ""
+tags:
+  - history
+  - ages
+  - timeline
+showOnTimeline: true
+---
+
 (~1800-~3450 AS):  Age of Shadows
 
 Korath was a spellweaver who wrote many enchantments for protection and concealment, creating the Hidden City.

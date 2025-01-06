@@ -1,3 +1,20 @@
+---
+title: 
+description: Dates have become more precise, though still vague
+classes: ""
+color: ""
+type: ""
+startDate: "-3000"
+endDate: "-1200"
+era: ""
+path: ""
+tags:
+  - history
+  - ages
+  - timeline
+showOnTimeline: true
+---
+
 The Age of Rising (~3000-1,200 BS):
 Later tribes and kingdoms begin to form. Larger kingdoms like the Ardwedili and Narheth. 
 Fendrel used mathematics to predict an eclipse, chart planets more accurately, monitor the movement of ley lines, and other such events. He worked with Liriel the stargazer for some time.

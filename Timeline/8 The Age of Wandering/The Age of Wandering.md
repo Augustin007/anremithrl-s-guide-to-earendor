@@ -1,3 +1,20 @@
+---
+title: ""
+description: Dates have become more precise, though still vague
+classes: ""
+color: ""
+type: ""
+startDate: "0"
+endDate: "1800"
+era: ""
+path: ""
+tags:
+  - ages
+  - history
+  - timeline
+showOnTimeline: true
+---
+
 (~0-~1800 AS)
 Age of Wandering:
 

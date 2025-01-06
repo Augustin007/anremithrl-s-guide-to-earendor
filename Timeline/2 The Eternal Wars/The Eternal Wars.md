@@ -1,3 +1,20 @@
+---
+title: ""
+description: Estimates of the timeline this far back vary deeply
+classes: ""
+color: ""
+type: ""
+startDate: "-1000000"
+endDate: 
+era: ""
+path: ""
+tags:
+  - ages
+  - history
+  - timeline
+showOnTimeline: true
+---
+
 > **A Categorization of Beings, by Anonymous**
 > 
 > The Eternal Wars began. In this time, primordials were unmade, scattered, and wounded. 
