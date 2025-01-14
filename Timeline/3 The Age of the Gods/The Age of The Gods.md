@@ -1,17 +1,3 @@
----
-title: ""
-description: The foundation of Arvandor. One hundred thousand years ago, give or take. Estimates here too vary deeply.
-classes: ""
-color: ""
-type: ""
-startDate: "-100000"
-endDate: "-10000"
-era: ""
-path: 
-tags: 
-showOnTimeline: true
----
-
 
 
 > ~100,000 BS (estimates vary deeply)

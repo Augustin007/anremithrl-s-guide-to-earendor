@@ -1,20 +1,3 @@
----
-title: The Age of Heroes
-description: 
-classes: ""
-color: ""
-type: ""
-startDate: "3450"
-endDate: "4600"
-era: Age of Heroes
-path: 
-tags:
-  - timeline
-  - history
-  - ages
-showOnTimeline: true
----
-
 (~3450-4600) AS:
 Veloria is founded
 

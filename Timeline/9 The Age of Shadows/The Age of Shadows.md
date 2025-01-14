@@ -1,19 +1,3 @@
----
-title: The Age of Shadows
-description: Dates have become more precise, though still vague
-classes: 
-color: ""
-type: ""
-startDate: "1800"
-endDate: "3450"
-era: Age of Shadows
-path: ""
-tags:
-  - history
-  - ages
-  - timeline
-showOnTimeline: true
----
 
 (~1800-~3450 AS):  Age of Shadows
 
@@ -26,6 +10,8 @@ Shar attempts to free Tartarus, spreading her influence across the planes.
 (~2300 AS): **Twins of Fate Campaign**: Two very different twin brothers guard a vital outpost in the middle of nowhere, but are pulled into an adventure to save their land.
 
 Seraphelle became the first mortal to ascend to godhood status post-sunder.
+
+Marin Brial developed mapping techniques and put together a lot of geometry and trigonometry. He also discovered spherical geometries and used it in his mappings
 
 Eliara the Peacemaker promoted dialogue and reconciliation between disparate groups, weaving the foundations of new societal norms.
 

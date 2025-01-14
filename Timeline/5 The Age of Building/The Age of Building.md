@@ -1,20 +1,3 @@
----
-title: ""
-description: Dates have become more precise, though still vague
-classes: ""
-color: ""
-type: ""
-startDate: "-5000"
-endDate: "-3000"
-era: ""
-path: ""
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 > ~5,000-3,000 BS Age of Building
 > 
 > The interference lessens as Thalorin, The forgotten brother, and the Hidden Name speak before the council. Though they are punished for bringing the Hidden Name into the home of the gods, Thalorin and the forgotten one do begin a movement against harming mortals or using them as slaves or servants. Toying with them.

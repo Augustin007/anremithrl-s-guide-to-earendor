@@ -1,20 +1,3 @@
----
-title: ""
-description: Dates have become more precise, though still vague
-classes: ""
-color: ""
-type: ""
-startDate: "0"
-endDate: "1800"
-era: ""
-path: ""
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 (~0-~1800 AS)
 Age of Wandering:
 
@@ -22,7 +5,6 @@ kobolds emerge as deformities from the draconic magic first poured in to contain
 
 People are scattered, don't know what is going on. Most information is lost. Several species are extinct from the sundering war and the time after it. The elves mantain their dominance as a mortal species.
 
-Marin Brial developed mapping techniques and put together a lot of geometry and trigonometry. He also discovered spherical geometries and used it in his mappings
 Eleutheros and Feullin studied the residual magical energies from the Sundered War, developing spells to cleanse and rejuvenate the land
 The Faeries, who fought under Asmodeus, are hated. But Asmodeus gives them a last gift to help them escape into small pockets between the planes with illusions. The gnomes who fought against their creator, are forgiven.  The faeries are slowly forgiven over time, but never trusted. The Faeries often curse or bless people who interfere with them, creating several of the beastfolk.
 
@@ -30,11 +12,12 @@ As the last skirmishes are fought, small kingdoms begin to arise again.
 
 Small kingdoms and tribes begin to trade and share knowledge, forming the foundation for future empires.
 
-(~1600 AS): **Shattering of Shadows Campaign**: In the valley of Echoriath in the Shattered Region, different tribes settle their differences and unite to form the Kesnan Kingdom and deal with the threats of the early age of Shadows.
-
-Malthos studied the Sundered War and wrote much on it. He also formed the first order of Paladins, devoted to fighting off the darkness. This is the Order of Names.
-
+(~1600 AS): **Shattering of Shadows Campaign**: In the valley of Echoriath in the Shattered Region, different tribes settle their differences and unite to form the Kesnan Kingdom and deal with the threats of the early age of Shadows. 
 In the Shattered Region, Sereth optimized troop deployments and such. Supply lines.
+
+In the North of Foedus, a priest of Thalorin, Malthos studied the Sundered War and wrote much on it. He formed a temple near the edge of the lake surrounding the Tree of Names, and devoted his life to tending to the tree ad protecting it. His disciples followed him, and descendents took up the mantle after them, devoted to fighting off the darkness. This is the Order of Names.
+
+
 
 ---
 

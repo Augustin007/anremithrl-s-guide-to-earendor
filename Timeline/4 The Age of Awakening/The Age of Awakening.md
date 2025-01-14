@@ -1,20 +1,3 @@
----
-title: ""
-description: Estimates have become more precise, though still vague
-classes: ""
-color: ""
-type: 
-startDate: "-10000"
-endDate: "-5000"
-era: ""
-path: ""
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 > ~10,000-5,000 BS: The Age of Awakening
 > The first life, trees and animals come to be. Elves and Ents are the first sentient beings to be created. Whether the Unknown Name (The God of Death) or the Hidden Name (The being of unknown origin, which often is called the god of Death/Marriage, but isn't properly a god. Marethyu in early language means death and marriage, and that is what he is often called) created them, scholars differ.  The Astral Plane is created for the souls of the dead. 
 > Humans are the secondborn. As a few other gods pick it up, others are created. These are the prominent species. Dwarves, halflings, and goliaths. 

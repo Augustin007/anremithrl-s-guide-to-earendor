@@ -1,20 +1,3 @@
----
-title: ""
-description: Dates have become more precise, though still vague
-classes: ""
-color: ""
-type: ""
-startDate: "-1200"
-endDate: "0"
-era: ""
-path: ""
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 Sundering War (~1200-0 BS)
 Araushnee (later the Raven Queen) descends into madness after the death of her son, igniting the Sundered War.
 The god Vecna rises as a tyrant, seeking dominion over life and death.

@@ -67,10 +67,15 @@ Servants of the nine hells team up with anarchists in Xyrdakul.
 Two characters wake up without memories in a strange forest.
 
 ---
+
+
+
+
+Campaigns not yet run
 #### Whispers of Divinity
 ????
 #### The Veil of Divinity
-To be started after Shadows of Divinity. Not yet begun. 
+To be started after Shadows of Divinity. Not yet begun. Vague character concepts already in the works.
 #### UNNAMED
 No Description - To be determined
-Had session 0. Characters are two dragonborn druids and an elven bard. Names haven't been set. Possible additional characters. Indefinite hiatus.
+Had session 0. Characters are two dragonborn druids and an elven bard. Names haven't been set. Possible additional characters. Indefinite hiatus. Possibly abandoned?

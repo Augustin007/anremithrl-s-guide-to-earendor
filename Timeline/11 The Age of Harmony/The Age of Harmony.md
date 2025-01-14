@@ -1,20 +1,3 @@
----
-title: The Age of Harmony
-description: 
-classes: 
-color: 
-type: 
-startDate: "4600"
-endDate: "5421"
-era: Age of Harmony
-path: ""
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 4600 - Age of Harmony begins. Modern International Calendar system put into place. Chose 0 to be best guess as to when the Sundering War occured, since most calendars were based on that, though wildly inconsistent and not kept very well throughout the ages.
 
 Nadia worked with the Fairy Lucy Iwaelf, who had known Richard the pyromancer, to make similar advancements in the field of water-shaping, and eventually generalise it to all evocation. They also recreated spells to summon elementals from texts about the Sundered War.

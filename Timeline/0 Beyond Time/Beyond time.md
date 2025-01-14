@@ -1,20 +1,3 @@
----
-title: Beyond Time
-description: The beginning of time itself. Time estimates hugely vary.
-classes: 
-color: ""
-type: ""
-startDate: "-1000000000"
-endDate: "-1000000000"
-era: 
-path: 
-tags:
-  - ages
-  - history
-  - timeline
-showOnTimeline: true
----
-
 > **An Excerpt from _The Annals of Time_ by Liriel the Stargazer**
 > 
 > There is the first cause. From this cause all else is. There is the first cause, and from this, Ao and Isfet are. They are the King of Order and the Queen of Chaos. And they were, are, and will be caused at all times, or no times, everywhere and nowhere. They are beyond time and beyond space. Beyond the notion of beginnings and endings. All there is, there, is a notion of _causation_, and they were not the first cause.
