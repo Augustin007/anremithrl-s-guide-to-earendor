@@ -1,0 +1,1 @@
+In the islands of Lysandra in the early age of Shadows, a young man named Eamon rises in the ranks of the Aka'lit.

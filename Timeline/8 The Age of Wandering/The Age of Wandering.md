@@ -17,8 +17,6 @@ In the Shattered Region, Sereth optimized troop deployments and such. Supply lin
 
 In the North of Foedus, a priest of Thalorin, Malthos studied the Sundered War and wrote much on it. He formed a temple near the edge of the lake surrounding the Tree of Names, and devoted his life to tending to the tree ad protecting it. His disciples followed him, and descendents took up the mantle after them, devoted to fighting off the darkness. This is the Order of Names.
 
-
-
 ---
 
 Varian was long gone, and the library of Eldorath was no more. Those who remained were scattered far and wide across the region. And it was impassable and difficult to survive there. It became filled with deep ravines, jagged mountains, and winding rivers. Few places had fertile land and many animals had died. Storms of pure chaos were common and dangerous. The survivors faced an impassable and inhospitable environment. The place became known as the shattered teeth.

@@ -8,48 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d329db236f4f9b66",
+            "id": "a775cc8933dfcd00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/8 The Age of Wandering/The Age of Wandering.md",
+                "file": "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 5 - Otherwordly Oddesey/Act 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Age of Wandering"
+              "title": "Act 5"
             }
           },
           {
-            "id": "59fcfaaaef235b9d",
+            "id": "3a9a38cd605771c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unfinished/0/0 - 0.md",
+                "file": "Timeline/11 The Age of Harmony/The Age of Harmony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - 0"
+              "title": "The Age of Harmony"
             }
           },
           {
-            "id": "6f1aea199138ab90",
+            "id": "5b58e345b7390955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unfinished/0/0 - 1.md",
+                "file": "Timeline/Campaign Chronology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - 1"
+              "title": "Campaign Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "File explorer"
@@ -81,7 +83,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -105,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
     "id": "24f5d8d04d89bc63",
@@ -188,44 +190,47 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "d329db236f4f9b66",
+  "active": "5b58e345b7390955",
   "lastOpenFiles": [
-    "Timeline/9 The Age of Shadows/The Age of Shadows.md",
-    "Timeline/8 The Age of Wandering/The Age of Wandering.md",
-    "Timeline/8 The Age of Wandering/The Shattering of Shadows",
-    "Timeline/Campaign Chronology.md",
-    "Unfinished/Untitled.canvas",
-    "Unfinished/Timeline.md",
     "Timeline/11 The Age of Harmony/The Age of Harmony.md",
-    "Timeline/10 The Age of Heroes/The Age of Heroes.md~",
-    "Timeline/9 The Age of Shadows/The Age of Shadows.md~",
-    "Timeline/5 The Age of Building/The Age of Building.md~",
-    "Timeline/4 The Age of Awakening/The Age of Awakening.md~",
-    "Timeline/4 The Age of Awakening/4913",
-    "Timeline/1 The Age of the Primordials/The Age of the Primordials.md~",
-    "Timeline/0 Beyond Time/Beyond time.md~",
-    "Timeline/0 Beyond Time/Beyond time.md",
-    "Unfinished/0/Aether.md",
-    "Unfinished/0/0 - 1.md",
-    "Unfinished/0/0 - 0.md",
-    "Unfinished/W&e.md",
-    "Test.md",
-    "Timeline/10 The Age of Heroes/The Age of Heroes.md",
-    "Timeline/7 The Sundering War/The Sundering War.md",
-    "Timeline/6 The Age of Rising/The Age of Rising.md",
-    "Timeline/5 The Age of Building/The Age of Building.md",
-    "Timeline/4 The Age of Awakening/The Age of Awakening.md",
-    "Timeline/3 The Age of the Gods/The Age of The Gods.md",
-    "Timeline/2 The Eternal Wars/The Eternal Wars.md",
-    "Timeline/1 The Age of the Primordials/The Age of the Primordials.md",
-    "Timeline-test.md",
-    "timeline-test-1.md",
-    "Timeline/11 The Age of Harmony",
-    "Timeline/10 The Age of Heroes",
-    "Timeline/Ages Past.md",
-    "Unfinished/11/11-1.md",
-    "Unfinished/11/11-0.md",
+    "Timeline/Campaign Chronology.md",
+    "Unfinished/1/1-0.md",
+    "Unfinished/9/9-0.md",
+    "Unfinished/9/9-1.md",
     "Unfinished/10/10-1.md",
+    "Unfinished/11/11-0.md",
+    "Unfinished/11/11-1.md",
+    "Unfinished/1/1-1.md",
+    "Unfinished/0/Debates Version 1.md",
+    "Unfinished/0/Debates Version 2.md",
+    "Unfinished/0/Aether.md",
+    "Timeline/0 Beyond Time/Beyond time.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5421-c UNNAMED/Campaign/Act 1/Untitled.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420 Conspiracy of Darkness/Characters.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 6 - Ancient Whispers/Act 6.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 5 - Otherwordly Oddesey/Act 5.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 4 - Shadows and Curses/ACT 4.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 3 - Secrets and Silence/Act 3.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 2 - Allies and Enemies/Act 2.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 1 - The Fall of a King/Act 1.md",
+    "Unfinished/Untitled.canvas",
+    "Timeline/1 The Age of the Primordials/The Age of the Primordials.md",
+    "Unfinished/W&e.md",
+    "Timeline/8 The Age of Wandering/Campaigns/1600 - The Shattering of Shadows/Campaign/Session 1 - The Shattering of Shadows.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Act 1/Untitled.md",
+    "Timeline/8 The Age of Wandering/Campaigns",
+    "Timeline/9 The Age of Shadows/Campaigns",
+    "Timeline/10 The Age of Heroes/Campaigns",
+    "Timeline/11 The Age of Harmony/Campaigns",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Act 1",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign",
+    "Timeline/Ages Past.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5421-c UNNAMED/Campaign/Act 1",
+    "Timeline/11 The Age of Harmony/Campaigns/5421-c UNNAMED/Campaign",
+    "Timeline/11 The Age of Harmony/Campaigns/5421-c UNNAMED (Hassan)",
+    "Timeline/11 The Age of Harmony/Campaigns/5421-c UNNAMED",
+    "Timeline/11 The Age of Harmony/Untitled.canvas",
+    "Timeline/11 The Age of Harmony/5415-5417 Echoes of Divinity/Untitled.canvas",
     "Timeline.canvas"
   ]
 }

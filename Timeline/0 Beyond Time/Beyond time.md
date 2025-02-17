@@ -70,7 +70,7 @@ _\*\[Ghalen here goes on a tangent, explaining how almost time forms a cotangent
 > 
 > Akadi, who was but newly come into being, and filled with laughter, fashioned the element of air. The Gentle Zephyr is a realm of boundless skies and ceaseless winds. It is a place of constant movement, where air currents twist and spiral into complex patterns, creating a never-ending dance of wind and cloud.
 > 
-> We named them Elements, and these are not the elements of us, the Wizards. Of the Alchemists and Chemists, like Oxygen and Iron and Argon, but instead represent a shift, or a state. Grumbar with the creation of mass and matter and solid, Istishia transforming it into movement, and liquid. Kossuth his fire, lightning, energy and it's movement, and Akadi with air.
+> We named them Elements, and these are not the elements of us, the Wizards. Of the Alchemists and Chemists, like Oxygen and Iron and Argon, but instead represent a shift, or a state. Grumbar with the creation of mass and matter and solid, Istishia transforming it into movement, and liquid. Kossuth his fire, lightning, energy and it's movement, and Akadi with air and lightness.
 > 
 > And so, these six—Akadi, Grumbar, Istishia, Kossuth, Arambar, and Asgorath—were the first to bear the title of Primordials, for they were the first to truly create, and the planes were their dominion and their masterpiece.
 > 
