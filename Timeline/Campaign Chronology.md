@@ -164,9 +164,9 @@ In the night, Kaeleth sees a vision of Hechilspet speaking to him.
 That night, Kaelith disappears, his bed covered in black ichor. His screams echo through the corridors, but no one finds him. They are being watched.
 The cultists speak to Vorlin, and bribe him.
 The group tracks down the last ritual.
-The group attempts to sabotage the ritual early, but Vorlin betrays them and brings the cultists to them. He claims Xalvor was the only infiltrant, and kills Xalvor. Saria tries to bring down the temple on everyone with a powerful fire spell, but Xalvor counterspells. They are captured. Dren lies and says he has nothing to do with it, and defends Xalvor's actions to Saria in whispers. 
-Dren and Xalvor talk. Xalvor, further up in the cult now, reveals that he has discovered they have a patron, an unknown figure who has provided them with resources, magic, and knowledge lost to time. Dren attempts to discover who it is.
-Saria manages to use a poison she smuggled to poison her own cup, and demands to speak to Xalvor. She drinks from it and has him drink as well, and they both die.
+The group attempts to sabotage the ritual early, but Vorlin betrays them and brings the cultists to them. He claims Xalvor was the only infiltrant, and kills Xalvor. Saria tries to bring down the temple on everyone with a powerful fire spell, but Vorlin counterspells. They are captured. Dren lies and says he has nothing to do with it, and defends Vorlin's actions to Saria in whispers. 
+Dren and Vorlin talk. Vorlin, further up in the cult now, reveals that he has discovered they have a patron, an unknown figure who has provided them with resources, magic, and knowledge lost to time. Dren attempts to discover who it is.
+Saria manages to use a poison she smuggled to poison her own cup, and demands to speak to Vorlin. She drinks from it and has him drink as well, and they both die.
 Dren watches as the cultists commit the final ritual. He attempts to sabotage it at the last moment, but is stopped by Kaeleth, who emerges from the shadows. Kaeleth is magically charmed and has been seduced by the promises of power from Hechilspet, and fights Dren. Dren manages to undo Hechilspet's deception on Kaeleth and dispell the charms, and they turn on the cultists a moment to late. Hechilspet is returned. They fight him and he easily kills them both.
 **Status:**
 Finished
@@ -235,17 +235,17 @@ Two characters wake up without memories in a strange forest. One gets arrested a
 Indefinite Hiatus
 DM: Hassan
 Duration: 1 Session
-#### UNNAMED
+#### The Solenthir Gambit
 5421-current AS
 **Pitch**: 
-Members of the adventurer's guild travel North to rescue a Solenthiri princess kidnapped by the Cult of the Dreamers in Bharam. 
+Members of the adventurer's guild travel North to rescue a Solenthiri princess kidnapped by the Cult of the Dreamers in Bharam. One is leveled higher than the other, going for a Sandor Clegane-Arya Stark vibe.
 **Story:** 
 Tarold is an experienced member of the Rymfelli adventurer's guild who recently had to transfer to the Nerosi one. Aemma is a dropout from university who managed to get a lesser adventuring license. In order to adventure legally, Tarold must travel with someone with a Neroshi license, and Aemma needs to be someone's squire. The obvious solution is for Aemma to be Tarold's squire.
 They take on a bounty to rescue the captive Solenthiri princess in the North, encountering the trail of destruction left by events in _The Path of Honor_, fighting frost-forms and wolves, and making their way to Khar.
 **Status:**
 Ongoing
 DM: Austin
-Duration: 2 Sessions
+Duration: 3 Sessions
 
 ---
 

@@ -21,7 +21,7 @@
 > 
 > The weaving of almost space and time is not perfect. Almost time exists in some places where almost space doesn't, and the other is also true.
 
-_\*\[Ghalen here goes on a tangent, explaining how almost time forms a cotangent bundle\]_ 
+_\*\[Ghalen here goes on a tangent, explaining the literal mathematical structure that describes almost-time\]_ 
 
 > **From the writings of Rondar**
 > Time and Space are bound by that with Hast named the _Aether_. It is as threads, woven throughout. Vibrating and pulling at each other. We see a small portion of that. And they hate to move. Theories conflict, but I personally measure twenty-three dimensions of freedom. Where they intersect with the three dimensional slice which is our plane of existence, it forms the barest particles of existence.
