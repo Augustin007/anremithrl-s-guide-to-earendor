@@ -1,13 +1,13 @@
 {
-  "collapse-filter": true,
-  "search": "path:Timeline  ",
+  "collapse-filter": false,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +17,6 @@
   "repelStrength": 19.6875,
   "linkStrength": 1,
   "linkDistance": 405,
-  "scale": 0.026013219101145183,
+  "scale": 0.02699826138258282,
   "close": true
 }

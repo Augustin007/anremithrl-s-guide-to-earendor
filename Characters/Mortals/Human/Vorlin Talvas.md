@@ -1,3 +1,12 @@
+---
+class: |-
+  Sorcerer (Storm): 6
+  Fighter (Champion): 4
+Lineage: Human
+Birth Year: 5387 AS
+Death Year: 5420 AS
+---
+
 Vorlin Talvas
 Human
 Sorcerer (Storm) 6

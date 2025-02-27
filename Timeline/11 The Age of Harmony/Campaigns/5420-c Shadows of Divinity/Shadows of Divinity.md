@@ -2,7 +2,102 @@
 DM: Austin
 status: Ongoing
 ---
-#unfinished
+[[Shadows of Divinity - 1|Campaign]]
+#### Player Characters
+[[Colossus Methunroa]]
+[[William Treaty]]
+[[Jessica Black]]
+[[Galio Thunukalathi]]
+[[Krag]]
+[[Faust]]
+
+#### Other Characters In the Story
+[[Tahlia Tormund]]†
+[[Kas]]
+[[Aeofie]]
+[[Scathatch]]†
+[[Niamh Moonwatcher]]†
+[[Halt O'clommel]]†
+[[Tal'berius Tarrilion]]
+[[Bechel]]
+[[Draco Valthor Remshi]]†
+[[Tormac]]†
+[[Lucy Iwaelfhem]]
+[[Baeor Dechaius]]
+[[Morgana]]
+[[Alantothi]]†
+[[Aukan Kalagiano]]†
+[[Lord Klaethor]]†
+[[Noab]]†
+[[Dareth]]†
+[[Ranor]]†
+[[Xandred Valerius]]
+[[Eleutheros]]
+[[Marethyu]]
+[[Tyr]]
+[[Araushnee]]
+[[The Lady of Pain]]
+[[Nanold]]†
+[[Belg]]†
+[[Crug]]†
+[[Dug]]†
+[[The Darkness That Is]]
+[[Isphet]]
+[[Hekate]]
+[[Voren]]
+[[Kenet]]†
+[[Bloodwine]]†
+[[Nerath Ogolakanu]]†
+[[Ardaruth]]†
+[[Branold]]
+[[Munnin]]
+[[Tarathi Valami]]†
+[[Bressus Stormborn Stonefist]]†
+[[Gomezier]]
+[[Thorus Sandstrider]]
+[[Lei'kyri Rashauri]]
+[[Ar'ge Rashauri]]†
+[[Siegmond II]]†
+[[Thatyu]]
+[[Thadurak]]
+[[Aberion]]
+[[Ardor]]
+[[Elu]]
+[[Valden]]†
+[[Isidera Stonefist]]†
+[[Elwe]]
+[[Glorfindel]]
+[[Elian]]
+[[Hechilspet]]†
+[[Valus]]†
+[[Varook]]†
+[[Feanor (Sigil)]]
+[[Thalai Elanthino]]†
+[[Almec]]
+[[Theriad]]
+[[Firngar]]
+That one elven general from Arithmorei, where is his name? 
+[[Gothmog]]†
+[[Lirien Vael]]†
+[[Aric Vael]]
+[[Hatreth]]
+[[Falledric]]
+[[Naema]]†
+[[Eolande]]†
+[[Lysaria]]†
+[[Marcuth Gathos]]†
+[[Baron Daron]]
+[[Eiric]]
+[[Shar]]
+[[Tartarus]]
+[[Tharizdun]]
+[[Thalorin]]
+[[intern]]
+[[Isendra]]
+[[Jean]]
+
+I need my notes! I am missing so many.
+
 
 Three years after _Echoes_. Colossus, William, Lady Black, Gallio, Krag, and Faust are caught in the whirlwind of politics, war, and magic as they attempt to stave off the end of the world.
 After leading an alliance of armies in the defence of Aldarkeep Pass, General Gallio Thunukalathi is forced to retreat when his force is detailed and routed by the Dragon Ardor and by the knowledge of Bechel of Bharam. Auril's forces slip through into the south as Colossus and William fail to stop Azmodeus from taking over the international council of the continent of Foedus.
@@ -14,3 +109,6 @@ Lady Black travels the nine hells to gain allies, giving amnesty to any gods tha
 Faust takes control of the power vaccum of the lightwood.
 Faust trains Morgana, but Morgana eventually joins the Archfey Lucy and sets a dragon on Gallio.
 Gallio kills the dragon, a feat which he finds surprisingly easy. He worries the archfey travelling with him set the dragon on him to distract him from something.
+
+#### Additional Notes
+Missing session notes for all of act 2 and some of act 3. Missing clean, revised, session notes (Marking days of the year, etc, for pre loss). Notes post loss also unrevised.

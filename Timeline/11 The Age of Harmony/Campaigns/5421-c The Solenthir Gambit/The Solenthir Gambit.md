@@ -2,9 +2,10 @@
 DM: Austin
 status: Ongoing
 ---
+[[Session 1 - The Solenthir Gambit|Campaign]]
 #### Player Characters
-[[Tarold]]
-[[Aemma]]
+[[Tarold Velgain]]
+[[Aemma Dechaius]]
 
 #### Crossover Characters
 [[Torquil Leogan]]†

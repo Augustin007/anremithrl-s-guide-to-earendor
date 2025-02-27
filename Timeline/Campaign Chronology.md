@@ -111,6 +111,7 @@ Finished
 DM: Austin
 Duration: 25 Sessions
 #### Echoes of Divinity
+[[Echoes of Divinity]]
 5415-5417 AS
 **Pitch**: 
 A ragtag group of unlikely companions—King Colossus Methunroa, the exiled dragonborn prince Nil’ge’tar "Nugget" Remshi, the enigmatic construct PINE-APL, the ex-military bounty hunter William Treaty, and the cunning rogue and bard Lady Jessica Black—are drawn together by fate and divine manipulation. Bound by oaths, vengeance, and ambition, they traverse a world on the brink of destruction, caught in the machinations of gods, betrayers, and primordial forces. As their paths intertwine, they shape the fate of Eärendor, for better or worse. Some will embrace their divine callings, while others will be consumed by them.
@@ -134,6 +135,7 @@ Finished
 DM: John (Session 1), Haines (Session 1 ending), Stroman (Sessions 2-4)
 Duration: 4 Sessions
 #### Shadows of Divinity
+[[Shadows of Divinity]]
 5420-current AS
 **Pitch**: 
 Three years after _Echoes_. Colossus, William, Lady Black, Gallio, Krag, and Faust are caught in the whirlwind of politics, war, and magic as they attempt to stave off the end of the world.
@@ -150,8 +152,9 @@ Gallio kills the dragon, a feat which he finds surprisingly easy. He worries the
 **Status:**
 Ongoing
 DM: Austin
-Duration: unknown amount of sessions (Not sure how many were on old laptop), 30 sessions have notes and still exist.
+Duration: unknown amount of sessions (Not sure how many were lost on old laptop), 20 sessions have notes and still exist.
 #### Conspiracy of Darkness
+[[Conspiracy of Darkness]]
 5420 AS
 **Pitch**: 
 Five sorcerers infiltrate the Coven of Hechilspet to attempt to stop the Exiled God's return. They fail and all die. The Exiled God, Hechilspet, escapes his prison.
@@ -201,6 +204,7 @@ Ongoing
 DM: Austin
 Duration: 6 sessions
 #### The Path of Honor
+[[The Path of Honor]]
 5421-current AS
 **Pitch**: 
 Fallen Prince, soldier, and escaped slave Naras, Lowlife charlatan and liar Torquil, and the solitary hermit and former soldier Talor find themselves working together when trapped together during a storm. After the storm, they stay together to right some of Torquil's wrongs against Torquil's will. To escape a necromancer. To deal with Naras's older sister, and with Talor's mysterious past.
@@ -236,6 +240,7 @@ Indefinite Hiatus
 DM: Hassan
 Duration: 1 Session
 #### The Solenthir Gambit
+[[The Solenthir Gambit]]
 5421-current AS
 **Pitch**: 
 Members of the adventurer's guild travel North to rescue a Solenthiri princess kidnapped by the Cult of the Dreamers in Bharam. One is leveled higher than the other, going for a Sandor Clegane-Arya Stark vibe.

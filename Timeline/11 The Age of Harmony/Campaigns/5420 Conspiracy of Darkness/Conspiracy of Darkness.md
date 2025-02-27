@@ -2,6 +2,7 @@
 DM: Austin
 status: Finished
 ---
+[[Session 1 - Conspiracy of Darkness|Campaign]]
 #### Player Characters
 [[Xalvor Asheil]]†
 [[Dren Malakir]]†

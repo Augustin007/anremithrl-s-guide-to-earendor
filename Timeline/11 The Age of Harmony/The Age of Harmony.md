@@ -18,6 +18,8 @@ Tal'berius creates the Astral Leywrite as the Architect Arcane
 
 Halvar helped unify engineering and artifice into one field. He wrote twelve books on the subject, notably "The Structural Convergence" and "Unified Engineering"
 
+Institution of the Neroshi Paros as international coin. 
+
 "Resonance and Harmony", "Harmonic Principles", "Listening to Magic", and "Prophesies and Probabilities" were all published by The Bard, whose real name was Geschichte.
 
 "The Ley Line Atlas" and "Planar Pathways" published by Orin has recently revolutionised understanding of these things.

@@ -4,93 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "53db5e563b0e5e86",
-        "type": "split",
+        "id": "c1393ad9adbdc3cb",
+        "type": "tabs",
         "children": [
           {
-            "id": "c1393ad9adbdc3cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7d49dd4e8818f5df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unfinished/The Sol'karis.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Sol'karis"
-                }
-              }
-            ]
+            "id": "5bdea903cb55a978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 6 - Ancient Whispers/Act 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Act 6"
+            }
           },
           {
-            "id": "3c51ed772ff85344",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a91350816438ccc6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Timeline/8 The Age of Wandering/Campaigns/1600 Shattering of Shadows/Shattering of Shadows.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Shattering of Shadows"
-                }
+            "id": "da209d1623842eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+1 Shadows of Divinity.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "5ab918c165373c49",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Timeline/11 The Age of Harmony/Campaigns/5421-c The Solenthir Gambit/The Solenthir Gambit.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Solenthir Gambit"
-                }
+              "icon": "lucide-file",
+              "title": "Session n+1 Shadows of Divinity"
+            }
+          },
+          {
+            "id": "0b571421ea062161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/9 The Age of Shadows/Campaigns/1800 Shadows of Lysandra/Shadows of Lysandra.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "083c3a7a613aeb5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/The Path of Honor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Path of Honor"
-                }
+              "icon": "lucide-file",
+              "title": "Shadows of Lysandra"
+            }
+          },
+          {
+            "id": "4bf3d2d6925ac4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Immortals/Elves/Lesalog.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "0023b605f402751b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Timeline/Campaign Chronology.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Campaign Chronology"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Lesalog"
+            }
+          },
+          {
+            "id": "7bf7fe29c390e58c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Immortals/Elves/Anremithrl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anremithrl"
+            }
+          },
+          {
+            "id": "336c491cde0e7a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echoes of Divinity"
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +125,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -230,44 +232,45 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "df9849e3c7202114",
+  "active": "0b571421ea062161",
   "lastOpenFiles": [
-    "Timeline/10 The Age of Heroes/Campaigns/3600 Tides of Veloria/Campaign/Session 1 - Tides of Veloria.md",
-    "Timeline/8 The Age of Wandering/Campaigns/1600 Shattering of Shadows/Shattering of Shadows.md",
-    "Timeline/8 The Age of Wandering/Campaigns/1600 Shattering of Shadows/Campaign/Session 2 - Shattering of Shadows.md",
-    "Timeline/8 The Age of Wandering/Campaigns/1600 Shattering of Shadows/Campaign/Session 1 - Shattering of Shadows.md",
-    "Characters/Mortals/Duren Vorasthar.md",
     "Timeline/9 The Age of Shadows/Campaigns/1800 Shadows of Lysandra/Campaign/Session 1 - Shadows of Lysandra.md",
-    "Characters/Mortals/Eamon.md",
-    "Timeline/9 The Age of Shadows/Campaigns/1800 Shadows of Lysandra/Shadows of Lysandra.md",
     "Timeline/9 The Age of Shadows/Campaigns/2300 Twins of Fate/Twins of Fate.md",
-    "Characters/Immortals/Anremithrl.md",
-    "Timeline/9 The Age of Shadows/Campaigns/2500 Isle of Abbey/Isle of Abbey.md",
-    "Timeline/9 The Age of Shadows/Campaigns/2500 Isle of Abbey/Campaign/Session 1 - Isle of Abbey.md",
-    "Timeline/10 The Age of Heroes/Campaigns/3450-3550 WM of Destishire/West Marches of Destishire.md",
-    "Timeline/10 The Age of Heroes/Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
-    "Characters/Mortals/Duthrim Ilirn.md",
-    "Timeline/10 The Age of Heroes/Campaigns/3510 Tale of Lorekeep/Tale of Lorekeep.md",
-    "Timeline/10 The Age of Heroes/Campaigns/3510 Tale of Lorekeep/Campaign/Session 1 - Tale of Lorekeep.md",
+    "Characters/Immortals/Elves/Lesalog.md",
+    "Characters/Immortals/Elves/Anremithrl.md",
+    "Timeline/9 The Age of Shadows/Campaigns/2300 Twins of Fate/Campaign/Session 3 - Twins of Fate.md",
+    "Timeline/9 The Age of Shadows/Campaigns/2300 Twins of Fate/Campaign/Session 2 - Twins of Fate.md",
+    "Timeline/9 The Age of Shadows/Campaigns/2300 Twins of Fate/Campaign/Session 1 - Twins of Fate.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+2 Shadows of Divinity.md",
+    "Characters/Immortals/Elves",
+    "Unfinished/Timeline.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+10 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+9 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+8 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+7 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+6 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+5 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+4 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+3 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss/Session n+1 Shadows of Divinity.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes In Backup/Act 2/Shadows of Divinity - 10.md",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes In Backup/Act 2/Shadows of Divinity - 9.md",
+    "Timeline/10 The Age of Heroes/Campaigns/3600 Tides of Veloria/Campaign/Session 1 - Tides of Veloria.md",
     "Timeline/10 The Age of Heroes/Campaigns/3600 Tides of Veloria/Tides of Veloria.md",
+    "Timeline/10 The Age of Heroes/Campaigns/3600 Tides of Veloria/Campaign/Session 2 - Tides of Veloria.md",
     "Timeline/10 The Age of Heroes/Campaigns/3600 Tides of Veloria/Campaign/Session 3 - Tides of Veloria.md",
     "Timeline/10 The Age of Heroes/Campaigns/4280-4339 Origins of the Greenclad/Origins of the Greenclad.md",
-    "Characters/Mortals/Aranyaka.md",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 26 - The Path of Honor.md",
-    "Characters/Mortals/Helena Naema.md",
-    "Timeline/11 The Age of Harmony/Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
-    "Timeline/Campaign Chronology.md",
-    "Timeline/11 The Age of Harmony/Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign/Act 2/2 Book of Talor",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign/Act 1/1 Book of Torquil",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign/Act 2",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign/Act 1",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Solenthir Gambit/Campaign/Untitled",
-    "Locations",
-    "Characters/Immortals",
-    "Characters/Mortals",
-    "Characters",
-    "Timeline/11 The Age of Harmony/Campaigns/5421-c The Path of Honor/Campaign",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Shadows of Divinity/Shield Guardian.png",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes Post Loss",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes In Backup/Act 2",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes In Backup/Act 1",
+    "Timeline/11 The Age of Harmony/Campaigns/5420-c Shadows of Divinity/Campaign/Session Notes In Backup",
+    "Characters/Mortals/Genasi/Air",
+    "Characters/Mortals/Genasi",
+    "Characters/Mortals/Fae/Changeling",
+    "Characters/Mortals/Fae",
+    "Characters/Mortals/Tabaxi",
     "Unfinished/Untitled.canvas",
     "Timeline/11 The Age of Harmony/Untitled.canvas",
     "Timeline/11 The Age of Harmony/5415-5417 Echoes of Divinity/Untitled.canvas",

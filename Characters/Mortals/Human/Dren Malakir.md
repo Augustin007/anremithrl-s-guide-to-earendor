@@ -1,9 +1,11 @@
-Dren Malakir
-Human
-Sorcerer (Wild Magic): 5
-Blood Hunter: 2
-5465-5420 AS
-
+---
+class: |-
+  Sorcerer (Wild Magic): 5
+  Blood Hunter: 2
+Lineage: Human
+Birth Year: 5465 AS
+Death Year: 5420 AS
+---
 Dren Malakir was born into the gutters of Kethras. His mother, a healer, practiced illegal blood magic in the slums, hired by different gangs to perform healings, curses, or poisons.
 
 The streets raised Dren just as much as his mother did. He learned how to steal before he could read, how to run before he could fight, and how to lie before he could trust. His mother did her best to shield him from the brutality of the underworld, but she could not hide the truth: power was the only currency that mattered.

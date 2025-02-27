@@ -2,6 +2,7 @@
 DM: Austin
 status: Ongoing
 ---
+[[Session 1 - The Path of Honor|Campaign]]
 #### Player Characters
 [[Thalai Elanthino]]†
 [[Huldan]]†

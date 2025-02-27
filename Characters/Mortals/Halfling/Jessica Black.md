@@ -1,0 +1,10 @@
+Jess Val grew up a poor halfling. She loved music, and would often dance in the square with the players, who offered her a free apprenticeship, but shortly after there was an attack by the orcs, and her family, and much of her village was slaughtered. She turned to thievery to survive. Eventually she tried to break into the house of Lord Amos Black, Baron of Blackton at Rymfel. Now the lord was corrupt, and secretly ran his own criminal empire. When she tried to break into his house she was caught, but he was impressed by her ability, and thought he could use her for his own gain.
+
+He adopted her, publicly, to bolster his own reputation, and treated her well, but he taught her the trade, and she became his most skilled assassin and thief. She is a very skilled liar. Eventually she left him to seek a fortune of her own. 
+
+She was caught by the bounty hunter Sir William Treaty. She had been offered a pardon in exchange for helping to stop Auril. She accepts, and thus joins the party. Along the way, she meets a musician, reawakening her love of music. She obtains a lyre from a fallen pirate and has recently started to take up music and performance, further distancing herself from her past. She has met the Traveler, an archfey and demigod of theatre, illusion, and performance who left her a mysterious trinket (his symbol) which she carries around. She is torn between being raised in a life of crime and her love for arts and laughter.
+
+When she killed her friend Nugget to save the world, she was conflicted, and she realised she did not wish to continue down this road of danger and fear, and she left to travel with the Traveler, and became his first disciple.
+
+During their travels, the Traveler begins to call himself Dionysus. He is searching for followers and hoping to ascend to godhood. At some point she is approached by William about her extensive knowledge of Alchemy from developing drugs and poisons, and she helps establish Black Pharmaceuticals. 
+Over the years, she accrues some fame because of her connection with Dionysus, as the Traveler

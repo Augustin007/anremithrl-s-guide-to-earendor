@@ -1,7 +1,7 @@
 
 Thalai Elanthino and Naras Vorasthar are prisoners of war-turned-slaves bought by a necromancer. They are the only two left. 
 
-[[Talor]] is a hermit living in the woods.
+Talor is a hermit living in the woods.
 
 Auril's storms are sweeping the land.
 

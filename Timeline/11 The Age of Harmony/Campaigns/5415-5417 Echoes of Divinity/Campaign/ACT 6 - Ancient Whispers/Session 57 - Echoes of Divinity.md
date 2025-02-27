@@ -21,4 +21,4 @@ Session LVII: The tree
 - Eleutheros takes Lady Black as his Champion in his planned ascension to Godhood under the name Dionysus. Lady Black agrees.
 - William leaves to Veloria to create the company DragonArrow.
 - Colossus goes north to find the peoples that remain of Idros and Westhaven. Idros is dead. He recovers too as many gnomes as possible and manages to legally obtain the land of Gnomes'helm and begins to make reparations and found his country.
-[[Session 58 - Echoes of Divinity|next->]]
+[[Shadows of Divinity - 1|next->]]

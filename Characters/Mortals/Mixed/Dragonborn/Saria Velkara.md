@@ -1,9 +1,11 @@
-Saria Velkara
-Dragonborn
-Wizard (Evokation, fire): 2
-Sorcerer (Custom: Pyromancer): 6
-5389-5420 AS
-
+---
+class: |-
+  Wizard (Evokation: fire): 2
+  Sorcerer (Custom: Pyromancer): 6
+Lineage: Dragonborn (Red chromatic)
+Birth Year: 5389 AS
+Death Year: 5420 AS
+---
 Saria was the daughter of a minor gang leader in the criminal underworld of Rymfel.
 
 Her mother died when Saria was a child, assassinated by a rival gang, and her father raised her with little affection or patience.

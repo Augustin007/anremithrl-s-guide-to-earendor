@@ -1,3 +1,12 @@
+---
+class: |-
+  Wizard (Invention): 9
+  Warlock (Hexblade): 1
+Lineage: Peredhel
+Birth Year: 5376 AS
+Death Year: 5420 AS
+---
+
 Kaelith Musaed
 Half-elf
 Wizard (Invention): 9
