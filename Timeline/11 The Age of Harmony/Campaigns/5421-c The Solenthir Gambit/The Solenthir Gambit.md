@@ -8,11 +8,11 @@ status: Ongoing
 [[Aemma Dechaius]]
 
 #### Crossover Characters
-[[Torquil Leogan]]†
+[[Torquil Leogan]]
 
 #### Other Characters
-[[Dri'ros Na'ak-Dan'ul]]†
-[[Kerran Thorol]]†
+[[Dri'ros Na'ak-Dan'ul]]
+[[Kerran Thorol]]
 **Gods**
 [[Auril]]
 

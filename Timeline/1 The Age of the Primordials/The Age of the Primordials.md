@@ -16,8 +16,6 @@
 > 
 > Time as it was then is difficult to measure or to count. But it is thought to be at least on the order of a few hundred thousand years ago while others say millions or even trillions of years ago. 
 
----
-
 
 > **From the accounting of Methunroa**
 > 

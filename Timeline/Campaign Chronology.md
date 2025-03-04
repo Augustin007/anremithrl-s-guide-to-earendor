@@ -1,38 +1,41 @@
+
+† - Character is dead at the current point in campaign. If campaign is finished, then: Character is dead by furthest point in timeline.
 # AGE OF WANDERING
 
 #### Shattering of Shadows
+[[Shattering of Shadows]]
 ~1600 AS
 **Pitch**: 
 In the valley of Echoriath in the Shattered Region, different tribes settle their differences and unite to form the Kesnan Kingdom and deal with the threats of the early age of Shadows.
 **Story:**
 Thalen Nokkaran, Eledan Lodis, and Duren Vorasthar are members from different tribes who act as representatives for their respective tribes at a yearly inter-tribe trade meeting. They begin travelling and meet on the way to this meeting, and have loose beginnings of friendship. 
-**Status:** 
-Ongoing
-DM: Austin
-Duration: 2 Sessions, 
+**Status:** Ongoing
+**DM:** Austin
+**Duration:** 2 Sessions, 
 # AGE OF SHADOWS
 
 #### Shadows of Lysandra
+[[Shadows of Lysandra]]
 ~1800 AS
 **Pitch**: 
 In the islands of Lysandra in the early age of Shadows, a young man named Eamon rises in the ranks of the Aka'lit.
 **Story:**
 Eamon is a member of the Aka'lit, an order of knights dedicated to protecting pilgrims in the archipelago from the various monsters of Shar. They are respected by the people, though held in strange mysticism and even a bit of fear. One of the members is assasinated, and Eamon is sent to investigate. His investigations are interrupted by attacks from various of Shar's monsters. Eamon eventually uncovers some information about the assasination and tracks a possible lead to Crantaa, one of the northern islands, and begins his journey there.
-**Status:**
-Hiatus
-DM: Austin
-Duration: 6 sessions
+**Status:** Hiatus
+**DM:** Austin
+**Duration:** 6 sessions
 #### Twins of Fate
+[[Twins of Fate]]
 ~2300 AS
 **Pitch**: 
 Two very different twin brothers guard a vital outpost in the middle of nowhere, but are pulled into an adventure to save their land.
 **Story:** 
 Anremithrl and Lesalog fight a group of attackers and try to communicate back that the place was attacked. They find out other nearby outposts have been attacked and use a riskier form of communication to warn the country. They question their captives and begin uncovering a plot by a dark wizard named Malachar to conquer the country of Avmorei. As the only remaining military forces this far out, they're sent to uncover more.
-**Status:** 
-Hiatus
-DM: Chatgpt
-Duration: 3 Sessions, 
+**Status:** Hiatus
+**DM:** Chatgpt
+**Duration:** 3 Sessions
 #### Isle of Abbey
+[[Isle of Abbey]]
 ~2500 AS
 **Pitch**: 
 Captain Toren, Thordin Ironfist, Lira, Niles, Mags, and Bosun Gruff deal with evil cultists on a mysterious island to get the Azure Eye for a mysterious contractor.
@@ -45,10 +48,12 @@ Duration: 18 sessions
 Adapted from prewritten campaign
 # AGE OF HEROES
 #### West Marches of Destishire
+[[West Marches of Destishire]]
 ~3450-3550 AS
 A large group of people find themselves going down a mysterious path to a village in the middle of nowhere. Only nomadic adventurers find themselves in this part of the world. This tales the tale of their many comings and goings. 
 West Marches style campaign, lasted 9 months. 
 #### Adventures in Arthulion
+[[Adventures in Arthulion]]
 ~3500 AS
 **Pitch**: 
 Duthrim, Jason, and Theriad travel around the region of Arthulion. Eventually ending up in Destishire.
@@ -70,6 +75,7 @@ Finished,
 DM: Austin
 Duration: 53 Sessions
 #### Tale of Lorekeep
+[[Tale of Lorekeep]]
 ~3510 AS
 **Pitch**: 
 After fleeing Destishire, and meeting Bechel of Baram, Theriad works on achieving his dream of constructing the lorekeep.
@@ -80,6 +86,7 @@ Finished
 DM: Austin
 Duration: 16 Sessions
 #### Tides of Veloria
+[[Tides of Veloria]]
 ~3600 AS
 **Pitch**: 
 Jorin Neuman, Aranyaka, and Orion deal with the strange going-ons in Veloria.
@@ -90,6 +97,7 @@ Abandoned
 DM: Austin
 Duration: 3 sessions
 #### Origins of the Greenclad
+[[Origins of the Greenclad]]
 4280-4339 AS
 **Pitch**: 
 Starting with five sorcerers in Strixhaven, a shifting cast of characters, led by Pyromancer Richard, protect the kingdom of Neros from enemies afar and within, fighting against a shadowy order of assassins clad in green robes.
@@ -101,6 +109,7 @@ DM: Austin
 Duration: unknown amount of sessions... easily over 100.
 # AGE OF HARMONY
 #### Rise of the Greenclad
+[[Rise of the Greenclad]]
 4980 AS
 **Pitch**: 
 Zahel-ben-minos, Sebastian Valerius, and Helena Naema all fight against the rising order of the Greenclad and navigate the complex politics of Neros.
@@ -125,6 +134,7 @@ Finished
 DM: Austin Garcia
 Duration: 57 Sessions
 #### Crew of the Tyr
+[[Crew of the Tyr]]
 5417 AS
 **Pitch**: 
 The Tyr was the ship bought the heroes of Echoes of Divinity around the continent for their adventures, but when the heroes obtained a new ship, they hired men to crew this ship on a side mission. This is the story of that crew.
@@ -176,8 +186,10 @@ Finished
 DM: Austin
 Duration: 5 sessions
 #### Shadows of the Fallen
+[[Shadows of the Fallen]]
 5420 AS
 **Pitch**: 
+The general idea was to run a zombie-horror one-shot for halloween, set in this world.
 Captured soldiers from the army of Galio fight for their lives against the resurrected necromancer-lich Korvos.
 **Story:** 
 Captured soldiers wake to find themselves in the ruins of 
@@ -186,6 +198,7 @@ Finished
 DM: Austin
 Duration: one-shot
 #### Traces of Divinity
+[[Traces of Divinity]]
 5421 AS
 **Pitch**: 
 Norvias and Zal'kesh'ar go on a quest for vengence against Neithen. Along the way they meet Ophiriel and Thurin, who have the same enemy and the same quest.  
@@ -195,6 +208,7 @@ Indefinite Hiatus
 DM: Austin
 Duration: 3 sessions
 #### Shadows of Calamity
+[[Shadows of Calamity]]
 5421-current AS
 **Pitch**: 
 Brother Commander Alric, Brother Captain Thorne, Sister Seraphina, and Brother Kael are members of the Order of Names, and they rush to protect the Tree of Names from the forces of Auril.
@@ -220,6 +234,7 @@ Ongoing
 DM: Austin
 Duration: 25 Sessions
 #### Bonds of Fate
+[[Bonds of Fate]]
 5421-current AS
 **Pitch**: 
 Servants of the nine hells team up with anarchists in Xyrdakul.
@@ -230,6 +245,7 @@ Ongoing
 DM: Austin
 Duration: 3 Sessions
 #### UNNAMED
+[[UNNAMED]]
 5421-current AS
 **Pitch**: 
 Two characters wake up without memories in a strange forest.

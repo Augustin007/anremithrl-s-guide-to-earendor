@@ -2,6 +2,14 @@
 DM: Austin
 status: Ongoing
 ---
-Servants of the nine hells team up with anarchists in Xyrdakul.
-Evenon and Ekenon + politics and stuff. (TO DO: finish this.)
-#unfinished
+[[Session 1 - Bonds of Fate|Campaign]]
+
+#### Player Characters
+[[Evenon]]
+[[Ekenon]]
+
+#### Other Major Characters
+[[Beelzebub]]
+[[Kalquend (familiar)]]
+
+#### Summary

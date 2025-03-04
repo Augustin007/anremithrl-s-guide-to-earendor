@@ -19,21 +19,23 @@ In the North of Foedus, a priest of Thalorin, Malthos studied the Sundered War a
 
 ---
 
-Varian was long gone, and the library of Eldorath was no more. Those who remained were scattered far and wide across the region. And it was impassable and difficult to survive there. It became filled with deep ravines, jagged mountains, and winding rivers. Few places had fertile land and many animals had died. Storms of pure chaos were common and dangerous. The survivors faced an impassable and inhospitable environment. The place became known as the shattered teeth.
-
-With cities no longer tenable, people grouped together into nomadic tribes, each striving for survival in a harsh and unpredictable world. The remnants of the once-great civilizations now wandered, scavenging for resources and moving frequently to find sustenance.
-
-In the centuries following the Sundering, the tribes of the Shattered Teeth adapted to their environment. They developed new ways of living, relying on their knowledge of the land and the remnants of ancient magic. Fertile land was scarce, so agriculture was limited. Instead, they turned to hunting, gathering, and scavenging.
-
-Despite the chaos, the tribes managed to preserve aspects of their cultural heritage. Oral traditions and storytelling became vital in maintaining their history and identity. Artisans continued to create, and warriors passed down their skills to new generations. The spirit of the old civilizations lived on through these efforts.
-
-Among these tribes, a tribe formed of some of the remnants of the Anami, were led by a man named Sorian. Sorian remembered the great universities and libraries that once existed. He remembered the library of Eldorath and the great works of magic. They came to the ruins of Mycenae and rebuilt what they could, and they were lucky, for the land there was still somewhat fertile, and they were the first to build again cities.
-
-Sorian then founded an order devoted to recovering of pre-sundering magic and knowledge. He traded many goods, tools, and food in exchange for scavenged items. Deep in the mines he constructed a great vault, and insulated it against what magic he could. After his death, Eledor headed the order after Sorian's death, and they became known as the Cobalt order, for the vast mines of Cobalt.
-
-Now, the tribes fought often among each other over their many resources. Vorrak was the leader of a tribe consisting of seventy-two men, soldiers who had fought in the Sundered War. They hoarded weapons and aided tribes in exchange for resources. They took captives, and married into other tribes to form alliances. They became known as the Vorokai.
-
-Thalen was the leader of the Rassac, who were also remnants of the Amani. They allied themselves with the Vorokai, but they dealt in poisons and stealth tactics. 
+> **From "The Writ of Kesna", by Tar-Valsaris II**
+> 
+> Varian was long gone, and the library of Eldorath was no more. Those who remained were scattered far and wide across the region. And it was impassable and difficult to survive there. It became filled with deep ravines, jagged mountains, and winding rivers. Few places had fertile land and many animals had died. Storms of pure chaos were common and dangerous. The survivors faced an impassable and inhospitable environment. The place became known as the shattered teeth.
+> 
+> With cities no longer tenable, people grouped together into nomadic tribes, each striving for survival in a harsh and unpredictable world. The remnants of the once-great civilizations now wandered, scavenging for resources and moving frequently to find sustenance.
+> 
+> In the centuries following the Sundering, the tribes of the Shattered Teeth adapted to their environment. They developed new ways of living, relying on their knowledge of the land and the remnants of ancient magic. Fertile land was scarce, so agriculture was limited. Instead, they turned to hunting, gathering, and scavenging.
+> 
+> Despite the chaos, the tribes managed to preserve aspects of their cultural heritage. Oral traditions and storytelling became vital in maintaining their history and identity. Artisans continued to create, and warriors passed down their skills to new generations. The spirit of the old civilizations lived on through these efforts.
+> 
+> Among these tribes, a tribe formed of some of the remnants of the Anami, were led by a man named Sorian. Sorian remembered the great universities and libraries that once existed. He remembered the library of Eldorath and the great works of magic. They came to the ruins of Mycenae and rebuilt what they could, and they were lucky, for the land there was still somewhat fertile, and they were the first to build again cities.
+> 
+> Sorian then founded an order devoted to recovering of pre-sundering magic and knowledge. He traded many goods, tools, and food in exchange for scavenged items. Deep in the mines he constructed a great vault, and insulated it against what magic he could. After his death, Eledor headed the order after Sorian's death, and they became known as the Cobalt order, for the vast mines of Cobalt.
+> 
+> Now, the tribes fought often among each other over their many resources. Vorrak was the leader of a tribe consisting of seventy-two men, soldiers who had fought in the Sundered War. They hoarded weapons and aided tribes in exchange for resources. They took captives, and married into other tribes to form alliances. They became known as the Vorokai.
+> 
+> Thalen was the leader of the Rassac, who were also remnants of the Amani. They allied themselves with the Vorokai, but they dealt in poisons and stealth tactics. 
 
 ---
 The Age of Wandering was a time of profound dislocation and uncertainty, a direct consequence of the celestial cataclysm known as the Sundered Wars. The very fabric of the world had been torn asunder, leaving behind a landscape of shattered kingdoms and broken dreams.

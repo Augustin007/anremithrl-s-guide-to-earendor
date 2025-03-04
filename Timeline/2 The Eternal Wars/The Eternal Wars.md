@@ -59,7 +59,11 @@
 > 
 > And Asgorath saw now that Ubtao had betrayed them, for they had no warning of what had occurred, and that he had lied to them first, and he named him the Deceiver, and with Grumbar slew him in Root Hold, and his essence was scattered. And Akadi was angered at Asgorath and Grumbar her brothers, for she had loved Ubtao.
 > 
-> The war continued. And again Atropus and Dur-baagal rose against the Dawn. And Atropus spoke to the Dawn from afar, fleeing from their wrath, but sowing strife between them. And the Dawn did not remain unified, for Istishia first turned against Kossuth, and Akadi sided with her brother. And Grumbar took no side, and both Kossuth and Istishia scorned him. 
+> At this moment, it is said they sensed a presense with them, who beheld the end of Ubtao. The first end that ever was. It seemed older and more ancient and terrible than them. We have known this presense by many names, and we call it death.
+> 
+> And the Arambar and Grumbar were upset, and they grieved. And they wished for no more strife.
+> 
+> But again Atropus and Dur-baagal rose against the Dawn. Atropus spoke to the Dawn from afar, fleeing from their wrath, but sowing strife between them. And the Dawn did not remain unified, for Istishia first turned against Kossuth, and Akadi, still grieving, sided with her brother. And Grumbar took no side, and both Kossuth and Istishia scorned him. 
 > 
 > The Elemental siblings fought each other in cataclysmic battles that reshaped the Planes, and soon their alliance was no more, and it was not Kossuth who stood by the Cosmic Twins, but Grumbar. And Istishia stood by Atropus. 
 > 
@@ -109,9 +113,9 @@
 > 
 > But then they were nearly finished, but they were almost discovered. And Arambar, the Titan, saw that the time for flight had come to an end. Though Asgorath protested, Arambar insisted that he remain hidden, safeguarding their clandestine works. For Arambar knew that these works were the last hope for the Dawn to reclaim their ancient dominion.
 > 
-> And so, Arambar led Atropus and his Celestials on a final chase, drawing them away from his brother and their secret endeavors. He was soon captured and faced his end at the hands of the Celestials. But as his essence scattered into the cosmic winds, he unleashed a powerful work, his final act of defiance.
+> And so, Arambar led Atropus and his Celestials on a final chase, drawing them away from his brother and their secret endeavors. He was soon captured and faced his end at the hands of the Celestials. But as his essence scattered into the cosmic winds, he unleashed a powerful work, he spoke to the presense of death. And from this conversation was born his final act of defiance.
 > 
-> In that moment, every god—be they Elessar, Elohim, or Celestial—was freed from the control of their creators. This was not a gift to the gods, but a calculated act of vengeance to the other primordials. For the gods, now unshackled, rebelled against their creators.
+> In that moment, every god—be they Elessar, Elohim, or Celestial—was freed from the control of their creators. For the gods, now unshackled, rebelled against their creators.
 > 
 > Now, all twenty of the Celestials still lived, and twenty-six of the Elohim stood beside them, and of the Elessar only eight remained.
 > 

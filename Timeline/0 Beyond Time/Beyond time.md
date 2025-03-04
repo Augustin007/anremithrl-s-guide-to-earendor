@@ -10,7 +10,6 @@
 > 
 > Four others emerged, in this order: Grumbar, Istishia, Kossuth, and Akida, and these are the Primordials of the Dawn. They children of Ao and Isfet, before they retreated from the almost.
 
-
 > **From _The Chronology_ by Ghalen**
 > 
 > Beyond time and space there is only a sense of causation, not of beginning or end. Everything is all at once in a stable manner, collapsed into a fixed point.
@@ -21,11 +20,10 @@
 > 
 > The weaving of almost space and time is not perfect. Almost time exists in some places where almost space doesn't, and the other is also true.
 
-_\*\[Ghalen here goes on a tangent, explaining the literal mathematical structure that describes almost-time\]_ 
+_\*\[Ghalen here goes on a tangent, explaining the literal mathematical structure that describes almost-time in his theories\]_ 
 
 > **From the writings of Rondar**
 > Time and Space are bound by that with Hast named the _Aether_. It is as threads, woven throughout. Vibrating and pulling at each other. We see a small portion of that. And they hate to move. Theories conflict, but I personally measure twenty-three dimensions of freedom. Where they intersect with the three dimensional slice which is our plane of existence, it forms the barest particles of existence.
-> 
 
 
 > **From the accounting of Methunroa**

@@ -19,7 +19,6 @@ status: Ongoing
 [[Giggle Jiggles]]
 [[Qorneth Nashol]]
 [[Uldren Nashol]]
-
 #### Crossover Player Characters
 [[Krag]]
 [[Faust]]
@@ -50,7 +49,7 @@ status: Ongoing
 [[Lord Amos Black]]
 [[Aeofie]]
 [[Dri'ros Na'ak-Dan'ul]]†
-[[Duthrim Ilirn]]†
+[[Duthrim Ilirn]]††
 [[Bathar]]
 [[Gozog]]†
 Strange Twins (Psionic Fae Verdan)

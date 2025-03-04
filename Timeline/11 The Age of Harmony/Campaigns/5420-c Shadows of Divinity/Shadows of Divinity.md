@@ -52,7 +52,7 @@ status: Ongoing
 [[Branold]]
 [[Munnin]]
 [[Tarathi Valami]]†
-[[Bressus Stormborn Stonefist]]†
+[[Bressus Stormborn Stonefist]] ††
 [[Gomezier]]
 [[Thorus Sandstrider]]
 [[Lei'kyri Rashauri]]
@@ -74,9 +74,11 @@ status: Ongoing
 [[Feanor (Sigil)]]
 [[Thalai Elanthino]]†
 [[Almec]]
-[[Theriad]]
+[[Theriad Keladri]]
 [[Firngar]]
-That one elven general from Arithmorei, where is his name? 
+[[Huckle Sjforn Thunukalathi]]†
+[[Nil'ge'tar Remshi]]†
+That one elven general who was leading the evacuations in Fonteriano for the two sessions. The general from Arithmorei, where is his name? †
 [[Gothmog]]†
 [[Lirien Vael]]†
 [[Aric Vael]]
@@ -96,7 +98,7 @@ That one elven general from Arithmorei, where is his name?
 [[Isendra]]
 [[Jean]]
 
-I need my notes! I am missing so many.
+I need my notes! I am missing so many characters!
 
 
 Three years after _Echoes_. Colossus, William, Lady Black, Gallio, Krag, and Faust are caught in the whirlwind of politics, war, and magic as they attempt to stave off the end of the world.

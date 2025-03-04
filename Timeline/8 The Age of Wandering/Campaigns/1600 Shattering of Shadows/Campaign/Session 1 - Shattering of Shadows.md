@@ -4,7 +4,4 @@ Because of geography, he meets Duren, a leader among the Vorokai, who travels th
 
 They encounter various small obstacles in their journey.
 
-
-
-
 [[Session 2 - Shattering of Shadows|next->]]
