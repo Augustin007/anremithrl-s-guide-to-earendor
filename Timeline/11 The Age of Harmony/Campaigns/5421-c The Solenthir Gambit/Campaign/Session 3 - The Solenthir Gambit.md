@@ -15,10 +15,10 @@ Aemma and Tarold break away from the frost-forms and flee. Aemma's horse is left
 
 Tarold starts a flight spell, but he's a few moments too slow and is interrupted by the wolves and brought down. After some struggling Aemma comes in and saves him.
 
-He orders Aemma to run as he holds them off, stating he has a plan. She disobeys and he uses his position as proctor over her to compel her to obey.
+He orders Aemma to run as he holds them off, stating he has a plan. She disobeys and dashes in, preventing him from using fireball for fear of killing her, he is forced to dash in and help her, and he uses his position as proctor over her to compel her to obey, which uses up his concentration and doesn't let him cast a spell. 
 
 Tarold fights at these frost forms, accruing injuries. He charms one into fighting the others to get a moment of reprieve. Once she gets out, he drops a fireball on them and himself, tanking the damage himself. 
 
-He passes out. Aemma goes back and uses his ring to summon the light-steed, and the two ride back across the southern border of Drakenthorne into the warmth of Neros. Armor is severely damaged.
+He passes out. Aemma goes back and uses his ring to summon the light-steed, she loads him onto the horse and the rides back across the southern border of Drakenthorne into the warmth of Neros. Armor is severely damaged.
 
 [[Session 4 - The Solenthir Gambit|next->]]

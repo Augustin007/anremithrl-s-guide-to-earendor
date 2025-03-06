@@ -1,1 +1,6 @@
 Unfinished/
+bin/
+lib*
+pyvenv.cfg
+*.py
+share

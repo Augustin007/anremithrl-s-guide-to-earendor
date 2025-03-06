@@ -15,13 +15,15 @@ Theriad publishes "On Infinities", expanding set theory and creating foundationa
 
 Jorin Newman greatly advances number theory, physics. Spent most of his life further devolping mathematics and made most of his money by exploiting stock market inefficiencies.
 
-~4280-4330 - **Origins of the Greenclad**: Starting with five sorcerers in Strixhaven, a shifting cast of characters, led by Pyromancer Richard, protect the kingdom of Neros from enemies afar and within, fighting against a shadowy order of assassins clad in green robes.
+The Greenclad, an order of assasins, is founded.
+
+~4280-4330 - **Origins of the Greenclad**: Starting with five sorcerers in Strixhaven, a shifting cast of characters, led by Pyromancer Richard, protect the kingdom of Neros from enemies afar and within, fighting against a shadowy order of assassins called the Greenclad.
 
 Richard becomes a strong force in the field of Pyromancy and evocation.
 
 Daedroy studies biology and greatly advances healing magics. He invented much more powerful healing potions, expanding on Meril's work.
 
-Tormac creates the instant messaging system, or sending stones. A series of lodestones placed on the ground able to transport information magically from place to place within a plane and layers of contingency casts. Tormac uses this to establish an order known as the Greenclad and eventually gains dragonhood from Tiamat and starts the Great War. 
+Tormac, a prominent member of the greenclad and the main antagonist of Origins of the Greenclad, creates the instant messaging system, or sending stones. A series of lodestones placed on the ground able to transport information magically from place to place within a plane and layers of contingency casts. Tormac uses this to establish an order known as the Greenclad and eventually gains dragonhood from Tiamat and starts the Great War. 
 
 ~4300 - Wars of Foedus begin. 
 
