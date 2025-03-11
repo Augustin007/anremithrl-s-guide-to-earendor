@@ -1,5 +1,4 @@
 [[Session n+9 Shadows of Divinity|<- Prev]]
-[[Session n+11 Shadows of Divinity|Next ->]]
 
 William is rescued by Theriad and his attendents, and they set up antidetection zones at the new camp.
 
@@ -29,3 +28,5 @@ Gallio fights and kills Tormac.
 "Sacrifices, beautiful Sacrifices, to save the world." - Tartarus?
 Tartarus needs blood to be spilt on the tree in order to get in?
 Eirik
+
+[[Session n+11 Shadows of Divinity|Next ->]]

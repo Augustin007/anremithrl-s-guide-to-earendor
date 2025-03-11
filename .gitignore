@@ -4,3 +4,4 @@ lib*
 pyvenv.cfg
 *.py
 share
+.vim

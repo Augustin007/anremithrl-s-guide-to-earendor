@@ -10,6 +10,9 @@ status: Ongoing
 [[Galio Thunukalathi]]
 [[Krag]]
 [[Faust]]
+[[Nil'ge'tar Remshi]]
+[[Baron Daron]]
+[[Analyst|Analyst (Formerly Baron Daron's Intern)]]
 
 #### Other Characters In the Story
 [[Tahlia Tormund]]†
@@ -17,7 +20,7 @@ status: Ongoing
 [[Aeofie]]
 [[Scathatch]]†
 [[Niamh Moonwatcher]]†
-[[Halt O'clommel]]†
+[[Halt O'clommel]]
 [[Tal'berius Tarrilion]]
 [[Bechel]]
 [[Draco Valthor Remshi]]†
@@ -69,7 +72,7 @@ status: Ongoing
 [[Glorfindel]]
 [[Elian]]
 [[Hechilspet]]†
-[[Valus]]†
+[[Valus]]
 [[Varook]]†
 [[Feanor (Sigil)]]
 [[Thalai Elanthino]]†
@@ -77,7 +80,6 @@ status: Ongoing
 [[Theriad Keladri]]
 [[Firngar]]
 [[Huckle Sjforn Thunukalathi]]†
-[[Nil'ge'tar Remshi]]†
 That one elven general who was leading the evacuations in Fonteriano for the two sessions. The general from Arithmorei, where is his name? †
 [[Gothmog]]†
 [[Lirien Vael]]†
@@ -88,13 +90,11 @@ That one elven general who was leading the evacuations in Fonteriano for the two
 [[Eolande]]†
 [[Lysaria]]†
 [[Marcuth Gathos]]†
-[[Baron Daron]]
 [[Eiric]]
 [[Shar]]
 [[Tartarus]]
 [[Tharizdun]]
 [[Thalorin]]
-[[intern]]
 [[Isendra]]
 [[Jean]]
 
