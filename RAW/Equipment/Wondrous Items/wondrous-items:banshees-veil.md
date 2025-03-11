@@ -1,0 +1,3 @@
+Source: Legends of Runeterra - Dark Tides of Bilgewater
+*Wondrous item, uncommon (requires attunement by a spellcaster)*
+This amulet is shaped like a sword with a small ruby set in the crossguard. Once per day when you are the target of a spell you can use a reaction to cast [[spell:counterspell|counterspell]] (using your spellcasting ability). Casting [[spell:counterspell|counterspell]] in this way does not expend a spell slot.

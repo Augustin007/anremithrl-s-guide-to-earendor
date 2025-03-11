@@ -1,0 +1,7 @@
+Source: Fizban's Treasury of Dragons
+*Wondrous Item, Rarity Varies (Requires Attunement)*
+This vessel can be a potion bottle, drinking horn, or other container meant to hold a liquid.
+**Slumbering (Uncommon).** As a bonus action, if the vessel is empty, you can speak the command word to fill the vessel with one of the following (your choice): Ale, Olive Oil, a [[wondrous-items:potion-of-healing|potion of healing]], or a [[wondrous-items:potion-of-climbing|potion of climbing]]. Once this property is used, it can’t be used until the next dawn. A potion you create in this way loses its magical properties if it isn’t imbibed within 24 hours.
+**Stirring (Rare).** In addition to the options for a Slumbering vessel, you can fill a Stirring vessel with Mead, a [[wondrous-items:potion-of-fire-breath|potion of fire breath]], or a [[wondrous-items:potion-of-healing|greater potion of healing]].
+**Wakened (Very Rare).** In addition to the options for a Slumbering or Stirring vessel, you can fill a Wakened vessel with Wine, a [[wondrous-items:potion-of-flying|potion of flying]], or a [[wondrous-items:potion-of-healing|superior potion of healing]].
+**Ascendant (Legendary).** In addition to the options for other states, you can fill an Ascendant vessel with Whiskey, a [[wondrous-items:potion-of-healing|supreme potion of healing]], or a [[wondrous-items:potion-of-dragons-majesty|potion of dragon’s majesty]].
