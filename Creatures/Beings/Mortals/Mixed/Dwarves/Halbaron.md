@@ -1,0 +1,7 @@
+Halbaron is the name given to an influential dwarf engineer who lived in pre-sundering. He was known for his mastery of geometry and mathematics, which he used to create remarkable mechanical devices that were ahead of their time. 
+
+Born into a family of engineers, Halbaron showed an early interest in mechanics. His father, a respected inventor himself, taught him the basics of engineering and machining before passing on his trade to Halbaron. With years of practice under his belt, Halbaron began experimenting with new materials and technologies.
+
+Halbaron's mastery of geometry and mathematics also led him to create intricate machines that utilized principles such as levers, pulleys, and gears. His most famous invention was a clockwork dragon, which he designed with the help of other engineers. The dragon was so lifelike that it could breathe fire and even roar like a real dragon, thanks to ingenious mechanisms that Halbaron had incorporated into its design.
+
+Despite his successes as an engineer, Halbaron never sought out fame or recognition for his work. He was content to pursue his passion and share his knowledge with other engineers. His legacy endures today in the form of mechanical inventions that continue to amaze and inspire engineers throughout [[Eärendor]].

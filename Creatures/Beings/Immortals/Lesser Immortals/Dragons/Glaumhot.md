@@ -1,0 +1,1 @@
+Was a dragon created by Tiamat during the Sundered War. He was much bigger than any other dragon before or after, save the Epic Dragons. He was killed by [[Singollo]] and [[Glorfindel]] through a combination of planning, luck, and ambush.

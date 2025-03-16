@@ -1,0 +1,1 @@
+Katniss helped [[Richard Iwaelfhem]] defeat the black dragon [[Nordoth]] in [[Iryondallyn]].

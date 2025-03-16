@@ -1,0 +1,2 @@
+Voros Kaul was a powerful necromancer who made a pact with Tharizdun to raise an army of undead during the Aetate Foedus War. He was known for his ability to control vast numbers of undead, and he used this power to launch a surprise attack on the Nerosean encampment in the battle of the Aetate Foedus. After the battle, he was exiled to a deserted island. He was eventually killed by Tal'berius and Nugget after Ashdilkir teleported nugget to the island.
+Ashdilkir eventually resurrected him.

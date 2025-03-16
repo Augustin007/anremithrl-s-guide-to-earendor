@@ -1,0 +1,1 @@
+[[Fangrim]] specialised in enchanted weaponry and advanced the idea of contigency spells and spell triggers, again citing the work of Tal'berius and Artorius as a great inspiration. After Artorius's death, [[Fangrim]] and Tal'berius create the first constructs.

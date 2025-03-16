@@ -1,0 +1,2 @@
+Davros was a prominent figure in the Age of Heroes and worked closely with [[Tal'berius]] to design the [[Taxblades]]. He also invented Fourier transforms. His work eventually led to his downfall as he became obsessed with preserving himself eternally in a construct and went insane. His work inspired [[Varook]]'s work.
+Davros successfully became immortal at the cost of his sanity. 

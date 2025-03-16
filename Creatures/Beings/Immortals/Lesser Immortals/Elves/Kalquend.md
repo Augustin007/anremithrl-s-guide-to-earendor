@@ -1,0 +1,5 @@
+Kalquend was an elven sorcerer and wizard of great power. He moved to [[Termalaine]] under the [[Ordus Texerum]].
+He discovered a large trade of slaves going on in the region, and many nobles engaging in it, taking children from their families to pay off debts, killing families that dissented. He tried to speak out but was captured. 
+He escaped when he was brought before the nobles who wanted to make sure he hadn't told anyone. They provoked him, as he was captured, doing things to their slaves in front of him, until in a burst of uncontrolled rage magic, he summoned a meteor that killed them all, but left the slaves and himself unharmed. He freed them and helped them flee the city.
+A bounty was placed on his head, and he was killed by the crew of [[Echoes of Divinity]], by an arrow from [[William Treaty]]. In a great battle. [[Colossus]], one of the crew, tried to stop his crew from killing Kalquend, and keep the peace, Kalquend, appreciating this, went out of his way to prevent harm from reaching Colossus during the battle. 
+There was a secret passage in his tower.

@@ -1,0 +1,1 @@
+Tyko was a friend of [[Miyatol Dodonus]] who fought alongside him several times, and died fighting the [[Dracolich of Karr]]. She had the Sight.
