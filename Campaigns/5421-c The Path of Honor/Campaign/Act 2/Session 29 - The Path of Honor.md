@@ -15,3 +15,7 @@ As they are being driven away, Ivvan pretends to be deadly sick and they abandon
 Liriel gets herself captured too.
 
 They reach a mining encampment where they are all sold. 
+
+---
+
+9 soldiers remain.

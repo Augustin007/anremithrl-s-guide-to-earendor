@@ -61,7 +61,7 @@ Strange Twins (Psionic Fae Verdan)
 [[Volthor]]†
 [[Abraham the Mage]]†
 **Gods**
-[[Azmodeus]]
+[[Asmodeus]]
 [[Tartarus]]
 [[The Lady of Pain]]
 [[Eleutheros]]

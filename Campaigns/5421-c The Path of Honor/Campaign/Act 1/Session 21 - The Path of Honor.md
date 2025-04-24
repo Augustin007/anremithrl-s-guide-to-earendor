@@ -6,7 +6,7 @@ In the nearby city, once known as Hreghalk, and since the conquest by Remshi, kn
 
 His scouts hear of some people matching the description of a report of terrorists from the Underdark, and he orders them captured and brought to him.
 
-There is a creature that calls itself 'Giggles' in these woods. Giggles is being guided by someone he calls 'The Voice'. This voice told him weeks ago that he would find the fate his former circus friend Uncim. Lirien stumbles into Giggles and Giggles threatens him for information on Uncim. Aric, hearing the shriek that his brother made of terror, rushes there and attacks the clown. Talor arrives next and stops Aric from killing the clown, and begins to interrogate him.
+There is a creature that calls itself 'Giggles' in these woods. Giggles is being guided by someone he calls 'The Voice'. This voice told him weeks ago that he would find the fate of his former circus friend Uncim. Lirien stumbles into Giggles and Giggles threatens him for information on Uncim. Aric, hearing the shriek that his brother made of terror, rushes there and attacks the clown. Talor arrives next and stops Aric from killing the clown, and begins to interrogate him.
 
 At this point, the Dragonborn soldiers arrive to arrest them. They all choose to go peacefully except Giggles, who attacks the guards and is easily restrained.
 

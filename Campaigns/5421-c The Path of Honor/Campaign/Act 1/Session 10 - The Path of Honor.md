@@ -2,7 +2,7 @@
 
 Talor's Dragon
 
-Talor] sees a vision of his homeland. The Lightwood, as it was then called. He sees the battle he fled. He sees the remains of where he lived, his home. He sees some of the bugbears still live.
+Talor sees a vision of his homeland. The Lightwood, as it was then called. He sees the battle he fled. He sees the remains of where he lived, his home. He sees some of the bugbears still live.
 He sees the lake. His place. He sits, seeing the forest reflected in the lake.
 He's been talking with the dragon. The conversation ends like this:
 "Did your home deserve to be abandoned?"
