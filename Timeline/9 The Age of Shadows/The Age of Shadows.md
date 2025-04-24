@@ -36,7 +36,7 @@ Strixhaven school was founded by Methunroa.
 Humans become the dominant species, filling in the vacuum left by the elves. 
 
 ---
-#### The Age of Shadows (790 years)
+#### The Age of Shadows
 
 The Age of Shadows was a grim epoch, a stark contrast to the hopeful rebuilding that had characterized the end of the Age of Wandering. This was a time when the veil between the mortal realm and the darker planes of existence seemed perilously thin.
 
