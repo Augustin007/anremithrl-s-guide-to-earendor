@@ -1,11 +1,16 @@
-[[Session n+9 Shadows of Divinity|<- Prev]]
-
+[[Shadows of Divinity - 22|<- Prev]]
+%%
+26th Hammer
+%%
 William is rescued by Theriad and his attendents, and they set up antidetection zones at the new camp.
 
 William, Baron Daron, Theriad, and an intern meet and discuss the plan of action. Take the tree and fortify it. Baron Daron produces a vial of Ichor from Azmodeus.
 
 ---
 
+%%
+15th Hammer
+%%
 Krag fights and loses against the greenclad, who carve out Aric's eye. They take him to the Pit of the Darkness that Is, who believes Krag is Talos. As they are being threatened, Krag threatens to toss a wonderous item to the Darkness, but they decide he is bluffing. He breaks the item, and the darkness swallows it, killing the other greenclad and taking the items. Three goats come and take the children away.
 
 Krag leaves, and he hears the Darkness awaken, and sees it.
@@ -19,6 +24,10 @@ She sees snapshots of other things. Hints of something more ancient than Tartaru
 
 ---
 
+%%
+18th Hammer
+%%
+
 Gallio fights and kills Tormac.
 
 ---
@@ -29,4 +38,4 @@ Gallio fights and kills Tormac.
 Tartarus needs blood to be spilt on the tree in order to get in?
 Eirik
 
-[[Session n+11 Shadows of Divinity|Next ->]]
+[[Shadows of Divinity - 24|Next ->]]

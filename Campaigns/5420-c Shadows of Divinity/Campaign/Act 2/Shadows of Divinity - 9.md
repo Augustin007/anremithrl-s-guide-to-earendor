@@ -12,6 +12,8 @@ Suicide squad list
 
 ---
 
+Can you flesh out this prep a little more?
+
 
 For Crag.
 
@@ -36,8 +38,28 @@ Krag,
 
 Dug, Crug with Krag
 
-Singollo
+Dug carries one person back.
+
+Singollo and Colossus converse with Asmodeus, who offers an  alliance to help them. They refuse.
+
+Galio heads back, dealing with giant bats.
 
 Thalai Elanithino
+
+Azmodeus hijacks the meeting.
+
+Crug and Krag fight several fire-breathing giant boars.
+
+Singollo, Colossus, and William agree to make an alliance and assemble a team for a last ditch effort on the first day of Alturiak.
+
+
+21st Nightal, 5420 Age Arcanum
+22, 23, 24, 25, 26, 27, 28, 29, 30
+Month Hammer
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+Midwinter
+Alturiak
+1st
+
 
 [[Shadows of Divinity - 10|Next ->]]

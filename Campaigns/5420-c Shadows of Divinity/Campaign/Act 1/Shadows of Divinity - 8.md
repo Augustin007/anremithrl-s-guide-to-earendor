@@ -28,7 +28,7 @@ William and Colossus talk to Singollo. William is thinking of obtaining a privat
 
 Bechel betrayes the forces in secret. NAF forces get detailed and destroyed.  
 
-Galio saved companion: a. 
+Galio saved companion: Thalai Elantino
 
 Special forces hiding in caves.
 

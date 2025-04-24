@@ -1,4 +1,8 @@
-[[Session n+10 Shadows of Divinity|<-Prev]]
+[[Shadows of Divinity - 23|<-Prev]]
+
+%%
+27th Hammer
+%%
 
 William contacts Gallio, and the two begin hashing out a plan of attack. Gallio sends special forces to transport the vial of Ichor behind enemy lines.
 
@@ -76,6 +80,14 @@ Colossus prepares the defense. Two around raven queen, fall back points at curta
 
 Meets Nugget in Shadowfell as Vampire. The Two talk.
 
+%%
+21st Hammer
+%%
 Krag climbes the tallest peak and can see above him Auril's fortress.
 
-[[Session n+12 Shadows of Divinity|Next ->]]
+
+%% 
+28th Hammer
+%%
+
+[[Shadows of Divinity - 25|Next ->]]
