@@ -1,3 +1,9 @@
+---
+Lineage: Living Vampire (Human)
+Birth Year: 3386 AS
+Death Year: 5421 AS
+---
+
 Scathatch was the twin sister of [[Aeoife]], and they were the daughters of the first vampires, and dangerous creatures. They devoted their lives to studying combat.
 
 They inherited some vampiric traits.
@@ -32,4 +38,5 @@ Joanna would go on to marry a man named Gilmore. Scathatch warned her against fa
 
 Thereafter, Scathatch heard Aeoife was looking for her and sent her then-apprentice, a man named Prichard, to look for Aeoife and send her a message to turn her away. After some correspondence, Scathatch discovered that Aeoife was in a similar situation that Joanna was some centuries ago, and feeling pity, Scathatch agreed to meet her sister, but when she went to meet her, Aeoife was gone.
 
-Scathatch now roams the countryside of Swanward with group of students, hunting monsters and bandits and righting wrongs.
+Scathatch would roam the countryside for the next eighty years with a group of students, hunting monsters and righting wrongs. She left the students with Joanna when [[William Treaty]] asked for her help. She would go on to requisition the help of [[Xandred Valerius]] and die at his hands.
+

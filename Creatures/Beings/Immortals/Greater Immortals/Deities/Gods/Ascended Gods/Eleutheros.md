@@ -1,3 +1,10 @@
+---
+Lineage: Ascended (Fae)
+Birth Year: 612 BS
+Ascension: 3343 AS
+Death Year:
+---
+
 The Traveller.
 
 During [[Hechilspet]]'s reign, Eleutheros created the [[Feywild]] to help protect his kin, transporting many of the elves and fairies there to the reign of his sister [[Lady Elmenore]]. Eventually, Eleutheros became the first Arch-fey.

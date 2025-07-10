@@ -4,4 +4,4 @@ He also sought out powerful artifacts, which would aid him in his quest. One suc
 
 However, his thirst for power soon brought him into conflict with Shyvana herself. She had come to reclaim the artifact, and he refused to give it back. This led to a bloody battle between the two, but in the end, he was able to drive her away.
 
-She returned, having sought the alliance of [[Tal'berius]], and the two were able to disperse his armies and kill him.
+She returned, having sought the alliance of [[Tal'berius Tarrilion]], and the two were able to disperse his armies and kill him.

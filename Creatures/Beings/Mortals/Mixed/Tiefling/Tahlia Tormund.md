@@ -1,3 +1,9 @@
+---
+Lineage: Demigod (Tiefling)
+Birth Year: 4618 AS
+Death Year: 5421 AS
+---
+
 Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal who was seduced by Azmodeus during [[The Sundered War]].
 
 Tahlia was born in the year 4618 AA. 
@@ -16,4 +22,4 @@ Karr had long been gone, except pockets that remained in the north, but she reco
 
 She allied again with her grandfather when he slipped through the Tree of Names, eager for a new chance to prove herself.
 
-In the year 5421 AS, she stole the eye of [[Vecna]] from [[Tal'berius Tarrilion]]. She attempted to use it to defeat Bechel. When this failed, and she again attempted to enlist the help of [[William Treaty]], he killed her with a distancer.
+In the year 5421 AS, she stole the eye of [[Vecna]] from [[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion]]. She attempted to use it to defeat Bechel. When this failed, and she again attempted to enlist the help of [[William Treaty]], he killed her with his distancer.

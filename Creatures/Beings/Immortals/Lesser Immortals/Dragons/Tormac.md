@@ -1,3 +1,9 @@
+---
+Lineage: Green Chromatic Dragon (Human)
+Birth Year: 4224 AS
+Death Year: 5421 AS
+---
+
 Tormac was an ambitious and cunning individual who rose through the ranks of the Ordus Texerum early in Neros's history. He was one of the founders of the Greenclad, a group of spies and assassins who he hired out to political allies, that way getting rid of enemies without doing anything himself, and getting paid by the nobles for the sourcing of an assassin, and by the assassins for the sourcing of a job.
 
 Eventually he was discovered by [[Narnor Azerim]]. Though he had Narnor killed, he was too late.  When this information reached a member of the Order named [[Richard Iwaelfhem]], Tormac tried and failed to kill Richard and his friends. 

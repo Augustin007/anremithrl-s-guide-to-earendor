@@ -1,3 +1,9 @@
+---
+Lineage: Gnome (Forest)
+Birth Year: 
+Death Year:
+---
+
 King Colossus of Gnomes'hell, a gnome who had been turned to stone and awakened alongside many other gnomes with no memories. He became the king of these gnomes for some time. He was a wizard with a formidable mind and photographic memory. During this time, he heard a voice in his head, this was the voice of the The Raven Queen, advising him. He was a weak king, and did not want to take the lead, instead allowing his advisor, Alphie, to do as he wished. When she warned him his advisor, Alphie, was evil. He did not listen to this voice, not trusting its source. But Alphie gave himself up to Auril in exchange for power to shatter his kingdom and take power, and now his people are currently scattered and many no longer see him as king, seeing instead Alphie as their lord. 
 
 He devotes himself to restoring unity in his kingdom and recovering the lost memories of the gnomes, but he cannot inspire his people to unite. He is approached by Nugget, who wants help tearing down Auril, and the voice tells him to accept. This time he listens. When Auril tore down Westhaven, he saw a repeat of what occurred to his own kingdom and demanded the help of the voice. The Raven Queen channeled her divinity through him, and he used her power to save as many people as he could with the help of Nugget, including King Idros of Westhaven. 

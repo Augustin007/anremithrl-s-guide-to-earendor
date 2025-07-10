@@ -1,3 +1,9 @@
+---
+Lineage: 
+Birth Year: 
+Death Year:
+---
+
 No one can truly say where Bechel is from. 
 
 She is half-elven.
@@ -23,5 +29,3 @@ She fought against [[Marethyu]], [[Lucy Iwaelfhem]], [[Richard Iwaelfhem]], and 
 When the NAF reached out, she joined. Secretly, she was on the other side.
 
 In the great meeting of the NAF, [[Bechel]] spoke to Aric, turning him against his allies, seeing them as enemies, and Aric swore himself to [[Tartarus]] and killed [[Bressus Stonefist]]. 
-
-Bechel's treachery decimates the Northern Alliance's forces, a bitter blow that serves only to steel their resolve

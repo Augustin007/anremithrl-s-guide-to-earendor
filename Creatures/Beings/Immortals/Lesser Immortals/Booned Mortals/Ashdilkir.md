@@ -4,7 +4,7 @@ Lineage: Human
 Birth Year: 18 BS
 Death Year:
 ---
-Born eighteen years before the end of the Sundering War, to the Devaali people, she grew up knowing a land fraught with strife and destruction. She was raised to hate the gods, on all sides of this war, for causing the great cataclysms and desolations. Magic was seen as a bad thing, and children who exhibited any signs of magic and psionics were stoned. Ashdilkir showed signs of magic when she was little, but her parents forced her to hide it, beating her when she couldn't, hoping to save her life. She spent most of her time away from the village, in the woods. 
+Born eighteen years before the end of the Sundering War, to the Devaali people, she grew up knowing a land fraught with strife and destruction. She was raised to hate the gods, on all sides of this war, for causing the great cataclysms and desolations. Magic was seen as a bad thing, and children who exhibited any signs of magic and psionics were stoned. Ashdilkir showed signs of magic when she was little, but her parents forced her to hide it, beating her when she couldn't, hoping to save her life. She spent most of her time away from the village, in the woods.
 
 When she was nine, there was a great battle that occurred nearby, and a bright light shone in the woods. She followed it and she met the Lady of Pain in a crater, shortly after the Lady's battle with Tartarus, at the height of her Pain. Tartarus had cursed her as he was trapped, siphoning off all light and happiness from the Lady, forcing onto her pain and insanity, fragmenting her mind. If Tartarus's spell had finished taking hold it would have killed the goddess.
 
@@ -14,7 +14,7 @@ When she was eleven, a group of raiders struck at her village, and she was captu
 
 Her father began talking to the necklace, the only thing left of her, as he hoped for her return. The necklace, with Tartarus inside, spoke back.
 
-She was abused and harmed until the repressed magic spilled out in the form of an Obscurus, killing everyone around her. She returned to her people without an explanation. Many of them wanted to kill her, claiming she had to be a witch for surviving. She saw it as if she had done something very bad, by using magic, and hated herself for killing the raiders. 
+She was abused and harmed until the repressed magic spilled out in the form of an Obscurus, killing everyone around her. She returned to her people without an explanation. Many of them wanted to kill her, claiming she had to be a witch for surviving. She saw it as if she had done something very bad, by using magic, and hated herself for killing the raiders.
 
 Three years later, as the last of the betrayer gods were being sealed away, one of them, Auril, created a great storm to ravage the lands as a final act of destruction. It passed over Ashdilkir's village, and she spent her life force and magic to save her people, and died.
 

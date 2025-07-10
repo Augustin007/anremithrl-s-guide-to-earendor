@@ -1,3 +1,9 @@
+---
+Lineage: Dark Fae (Nyad)
+Birth Year: 4260 AS
+Death Year: 5421 AS
+---
+
 Lucy was a dark faery and a Nyad, who lost her powers because of great crimes committed in the [[Feywild]], and was exiled to the [[Ephemeral Lands]]. Lucy was devoid of emotion to her mortal companions, but slowly warmed up to them, particularly [[Richard Iwaelfhem]], whom she would go on to marry. 
 
 Lucy was a arch-fae allied with [[Sarnor]]

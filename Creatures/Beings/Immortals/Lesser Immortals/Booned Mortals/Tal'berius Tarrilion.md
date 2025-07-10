@@ -1,14 +1,20 @@
-Tal'berius was born of Tar'Daroth'ul Magnar'illion, thiry years before the dundering war, and is known as Tar'illion. He was the son of [[Magnar]]. His brother, [[Artorius]] and he were both geniuses and powerful sorcerers, and were sent to study under [[Rondar]], and quickly outpaced Rondar's existing apprentice, [[Garrett]] until he quit. Twelve years before the Sundering War, he and his brother published the [[Codex Arcanum]].
+---
+Lineage: Dragonborn (Pure)
+Birth Year: 1243 BS
+Death Year:
+---
+
+Tal'berius was born of Tar'Daroth'ul Magnar'illion, thiry years before the sundering war, and is known as Tar'illion. He was the son of [[Magnar]]. His brother, [[Artorius]] and he were both geniuses and powerful sorcerers, and were sent to study under [[Rondar]], and quickly outpaced Rondar's existing apprentice, [[Garrett]] until he quit. Twelve years before the Sundering War, he and his brother published the [[Codex Arcanum]].
 
 The pair allied themselves with Singollo and fought on behalf of the mortals. 
 
 The god [[Vecna]] was split into pieces by Tal'berius, Singollo, Glorfindiel, Elian, The Raven Queen, Vistani, Artorius, and Vecna's own leuitennant Kas.  Each hid their piece in a different dungeon of their own creation, promising never to unify them. Vistani died in this battle.
 
-Artorius died fighting [[Tharizdun]], and Tal'berius in his anger, caused a cataclysmic rip in the weave that nearly destroyed the universe, which he was able to use to cut out the heart of the god and chain it down. This rip allowed pure Chaos through, which Tal'berius contained in the [[Orb of Annihilation]]. It also caused the destruction of the entire region, which would soon be called the Shattered Teeth.
+~200 BS Artorius died fighting [[Tharizdun]], and Tal'berius in his anger, caused a cataclysmic rip in the weave that nearly destroyed the universe, which he was able to use to cut out the heart of the god and chain it down. This rip allowed pure Chaos through, which Tal'berius contained in the [[Orb of Annihilation]]. It also caused the destruction of the entire region, which would soon be called the Shattered Teeth. This would also be one of the major turning points in the war.
 
 Tal'berius and [[Dallion]] became loose friends during this time.
 
- After Artorius's death, [[Fangrim]] and Tal'berius create the first constructs.
+After Artorius's death, [[Fangrim]] and Tal'berius create the first constructs.
 
 Tal'berius fought and drove away [[Korvus]] with the aid of [[Shyvana]], stealing from Shyvana certain artifacts which he would study, earning her anger. When she came, demanding them back, he gave them back, having understood everything there was to them, and created his own. She tried to kill him, afterwards, but he killed her instead.
 

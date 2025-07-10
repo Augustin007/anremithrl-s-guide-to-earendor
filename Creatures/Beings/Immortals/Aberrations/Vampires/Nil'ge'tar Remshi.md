@@ -1,3 +1,10 @@
+---
+Lineage: Vampire, Black Chromatic Dragonborn Human
+Birth Year: 5370 AS
+Death Year: 5417 AS
+Turning: 5421 AS
+---
+
 Drakmor-Prince Nugget Remshi, son of the Dragon King Draco-Remshi the Avenger of Deathwood Drakmor of Darkenthorne Warlock (Hexblade) 12/Paladin (Oath of Vengeance) 3: 
 
 The dragonborn and the dwarves have long blamed each-other for the release of Auril, for much longer than the Prince has been alive they have been locked in an eternal war. He long developed an intense hatred for dwarves after his human mother was killed during a dwarven raid, and he and his soldiers were temporarily exiled from his kingdom when he refused to respect the truce during a lull in the Dwarven-Dragonborn war. 

@@ -1,4 +1,12 @@
-Baeor was a half-Goliath half-dwarf from a family that traveled from [[Bremen]] to [[Neros]] before the [[844 Aetate Foedus]]. 
+---
+Lineage: Telos Construct (Formerly Goliath-Dwarf)
+Birth Year: 4265 AS
+Death Year: 4320 AS
+Telos Binding: 4980 AS
+Telos Unbinding: 5421 AS
+---
+
+Baeor was a half-Goliath half-dwarf from a family that traveled from [[Bremen]] to [[Neros]] before the [[Aetate Foedus]]. 
 
 During his travels, he met [[Richard Iwaelfhem]] and the two became great friends after fighting [[Claron]].
 

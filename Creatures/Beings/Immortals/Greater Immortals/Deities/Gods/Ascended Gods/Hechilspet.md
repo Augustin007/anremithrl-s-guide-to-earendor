@@ -1,3 +1,10 @@
+---
+class: "Wizard (Evocation): 54, Fighter (Champion): 12"
+Lineage: Ascended (Human)
+Birth Year: 3052 AS
+Ascension: 3090 AS
+Death Year: 5421 AS
+---
 Hechilspet was a king who ruled the Chish empire for some time. He was born of [[Iskandar|King Iskandar the Wise]] and [[Isa|Queen Isa]]. 
 
 Izell died at childbirth, and his father, a noble man, helped unite the people of the region, and sacrified himself to save his realm, leaving the prince Hechilspet an orphan at twelve years old.
@@ -24,4 +31,4 @@ His acts of evil, though, did not decrease as time pass. He became more violent,
 
 [[Eleutheros]], an arch-fey of considerable prowess, managed to escape Hechilspet's great armies. 
 
-Eventually Hechilspet decided to track him down personally, as he in his pride did not believe he could be defeated. It is not known how, but Eleutheros managed to lock him away in a [[Hechilspet's Prison|prison]] fit for a god, modeled after the nine hells.
+Eventually Hechilspet decided to track him down personally, as he in his pride did not believe he could be defeated. It is not known how, but Eleutheros managed to lock him away in a [[Hechilspet's Prison|prison]] fit for a god, modeled after the nine hells. This was the year 3343.

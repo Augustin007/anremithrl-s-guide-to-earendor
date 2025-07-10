@@ -1,3 +1,9 @@
+---
+Lineage: Living Vampire (Human)
+Birth Year: 3386 AS
+Death Year:
+---
+
 Aeoife was the twin sister of Scathatch, and they were the daughters of the first vampires, and dangerous creatures. They devoted their lives to studying combat.
 
 They inherited some vampiric traits.

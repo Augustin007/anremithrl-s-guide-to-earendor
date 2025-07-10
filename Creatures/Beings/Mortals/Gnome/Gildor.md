@@ -1,4 +1,4 @@
-Gildor was an illusionist who lived during the time of the Sundering War. He is known to have created illusory rituals for cryptography using number theory and mathematics, basing his work on [[Tal'berius]] and [[Artorius]]'s [[Codex Arcanum]]. His skills in magic were so great that he was able to deceive even the most powerful beings in [[Eärendor]].
+Gildor was an illusionist who lived during the time of the Sundering War. He is known to have created illusory rituals for cryptography using number theory and mathematics, basing his work on [[Tal'berius Tarrilion]] and [[Artorius]]'s [[Codex Arcanum]]. His skills in magic were so great that he was able to deceive even the most powerful beings in [[Eärendor]].
 
 Gildor's knowledge of mathematics and number theory enabled him to create intricate codes and ciphers that were unbreakable by any mortal means. He used these codes to protect valuable information and secrets, ensuring that they remained safe from prying eyes. His illusions were so convincing that even dragons fell for them.
 

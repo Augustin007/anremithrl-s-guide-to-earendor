@@ -1,10 +1,16 @@
+---
+class: "Wizard (Evocation): 24"
+Lineage: Human
+Birth Year: 2999 AS
+Death Year: 3064 AS
+---
 Iskandar, also known as King Iskandar the Wise or simply "The Wise", is a legendary figure who ruled the [[Chiss Empire]] who has been immortalized for his wisdom and magical abilities. 
 
-He was born to a noble family and became a powerful wizard at an early age. He gained notoriety by defeating many powerful enemies, including the dragon Kragloth.
+He was born to a noble family and became a powerful wizard at an early age. He gained notoriety by defeating many powerful enemies, including the dragon [[Kragloth]].
 
 In addition to his magical abilities, Iskandar was also known for his wisdom. He had a deep understanding of the world around him and often used his knowledge to guide others. His advice and counsel were sought after by many, including kings and queens, as he possessed a unique perspective on the political situation in Earendor.
 
-Iskandar's most notable achievement was the compilation of the Tome of Silence, which contained the secrets of all known spells. The tome could be seen by all.
+Iskandar's most notable achievement was the compilation of the [[Tome of Silence]], which contained the secrets of all known spells.
 
 When [[Shar]]'s disciples attempted to destroy his kingdom, he took upon a curse in order to stop them. This curse began killing him slowly and painfully.
 

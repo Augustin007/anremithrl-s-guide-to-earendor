@@ -1,3 +1,10 @@
+---
+class: 
+Lineage: Halfling
+Birth Year: 5400 AS
+Death Year:
+---
+
 Jess Val grew up a poor halfling. She loved music, and would often dance in the square with the players, who offered her a free apprenticeship, but shortly after there was an attack by the orcs, and her family, and much of her village was slaughtered. She turned to thievery to survive. Eventually she tried to break into the house of Lord Amos Black, Baron of Blackton at Rymfel. Now the lord was corrupt, and secretly ran his own criminal empire. When she tried to break into his house she was caught, but he was impressed by her ability, and thought he could use her for his own gain.
 
 He adopted her, publicly, to bolster his own reputation, and treated her well, but he taught her the trade, and she became his most skilled assassin and thief. She is a very skilled liar. Eventually she left him to seek a fortune of her own. 

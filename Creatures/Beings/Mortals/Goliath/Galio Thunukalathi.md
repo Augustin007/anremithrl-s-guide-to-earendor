@@ -1,3 +1,10 @@
+---
+class: 
+Lineage: Goliath
+Birth Year: 5392 AS
+Death Year:
+---
+
 Galio Thunukalathi the Relentless
 Rank: Knightbreaker (Leader position of the most elite Calvalry, 99th Cavalry Division: Codename Siegebreakers, Enemies call them the Avalanch division)
 
