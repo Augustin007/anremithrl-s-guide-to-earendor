@@ -15,21 +15,21 @@ Theriad publishes "On Infinities", expanding set theory and creating foundationa
 
 Jorin Newman greatly advances number theory, physics. Spent most of his life further devolping mathematics and made most of his money by exploiting stock market inefficiencies.
 
-The Greenclad, an order of assasins, is founded.
+3788 - The Great War Begins. A series of conflicts which would last for 800 years in an interplanar conflict between nations.
 
-~4280-4330 - **Origins of the Greenclad**: Starting with five sorcerers in Strixhaven, a shifting cast of characters, led by Pyromancer Richard, protect the kingdom of Neros from enemies afar and within, fighting against a shadowy order of assassins called the Greenclad.
+The Greenclad, an order of assasins, is founded during the Great War.
+
+~4280-4330 - **Origins of the Greenclad**: Starting with five sorcerers in Strixhaven, a shifting cast of characters, led by Pyromancer Richard, protect the kingdom of Neros from enemies afar and within in the backdrop of the great war, fighting against a shadowy order of assassins called the Greenclad as it attempts to influence the Great War.
 
 Richard becomes a strong force in the field of Pyromancy and evocation.
 
 Daedroy studies biology and greatly advances healing magics. He invented much more powerful healing potions, expanding on Meril's work.
 
-Tormac, a prominent member of the greenclad and the main antagonist of Origins of the Greenclad, creates the instant messaging system, or sending stones. A series of lodestones placed on the ground able to transport information magically from place to place within a plane and layers of contingency casts. Tormac uses this to establish an order known as the Greenclad and eventually gains dragonhood from Tiamat and starts the Great War. 
-
-~4300 - Wars of Foedus begin. 
+Tormac, a prominent member of the greenclad and the main antagonist of Origins of the Greenclad, creates the instant messaging system, or sending stones. A series of lodestones placed on the ground able to transport information magically from place to place within a plane and layers of contingency casts. Tormac eventually gains dragonhood from Tiamat.
 
 ~4500 - Bloodbath, Razing of Kar
 
-The Great War of Foedus ends, marking the beginning of the age of harmony
+4607 - The Great War ends, marking the beginning of the age of harmony
 
 
 The Age of Heroes was a renaissance of sorts, a period of resurgence that followed the grim and tumultuous Age of Shadows. It was a time when the virtues of courage, wisdom, and unity were not just ideals but necessities for survival and progress.

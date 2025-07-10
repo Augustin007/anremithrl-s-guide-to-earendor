@@ -15,9 +15,9 @@ status: Finished
 [[Alphie]]†
 [[Idros Aka-ilion]]†
 [[Kalquend]]†
-[[Draco Valthor Remshi]]
+[[Valthor Remshi]]
 [[Loquail]]†
-[[Tal'berius Tarrilion]]
+[[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion]]
 [[Ashdilkir]]
 **Gods**
 [[Araushnee]]
