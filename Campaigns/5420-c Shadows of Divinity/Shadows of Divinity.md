@@ -17,13 +17,13 @@ status: Ongoing
 #### Other Characters In the Story
 [[Tahlia Tormund]]†
 [[Kas]]
-[[Aeofie]]
+[[Aeoife]]
 [[Scathatch]]†
 [[Niamh Moonwatcher]]†
 [[Halt O'clommel]]
 [[Tal'berius Tarrilion]]
-[[Bechel]]
-[[Draco Valthor Remshi]]†
+[[Bechel of Bharam]]
+[[Valthor Remshi]]†
 [[Tormac]]†
 [[Lucy Iwaelfhem]]
 [[Baeor Dechaius]]
