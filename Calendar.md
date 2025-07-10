@@ -76,7 +76,6 @@ Meanwhile, in Gnomes'helm, Colossus is busy trying to muster food and supplies t
 ## 3rd of Uktar
 When William returns from his dealings with Golin a month later, Colossus gladly signs the exclusivity deals, and agrees also to let William purchase land on which to build a warehouse and a general base for shipping, giving jobs to the population of gnomshelm.
 Galio invites Colossus into the NAF, and Colossus joins. Colossus sorrowfully leaves his people as he joins this new quest, leaving in his place the circle of advisors. As they head to the north, William tries to get a deal with the Nerosean consulate, which allow it. The Nerosean consulate had refused to join the NAF.
-
 ## 10th of Uktar [New Moon]
 ## 24th of Uktar
 With a small force of 2000 and surprise, Galio is able to swiftly take Chokepoint Zeta (Aldarkeep Pass), Galio himself singlehandedly defeats the three dangerous spellcasters, members of the order known as the Sons of Auril. (These three casters had, in the previous campaign, caused much grief to the party, and killed Padfoot when the party tried to take them out.) Colossus is gravely injured in this battle.
@@ -358,21 +357,23 @@ Ressummoning Syl, Naras lets through Aeoife.
 Naras, Ivvan, Serin, and Aric leave the rest of the Bag Blowers and begin heading West. The others head North with Tarnil, hoping to reach Riulva, but Talor is killed along the way. 
 Tarold and Aemma camp away from any cities an begin heading East. They are attacked and forced to head back South for supplies.
 Evenon and Ekenon attend a Drakzhal party in Xyrdakul, beginning Beelzebub's ploy.
-## 22nd Hammer
+## 22nd of Hammer
 William treaty dispels Aeoife from the ship and succesfully contacts Baron Daron.
 Naras, Ivvan, etc. Reach the lonelywood, and enter a small town named Gildenbrook. 
 Tarnil speaks to Akavral.
-## 23th Hammer
+## 23th of Hammer
 Gallio fights and kills Tormac with the aid of Lucy, he turns on her, but she kills herself first. Baeor remains.
 Aric and Naras are captured by slavers when they try to help defend the town from slaver-raids.
 Akavral Tarnil and a small contingent of forces launch a rescue mission towards Lei'ca, but are attacked by Liriel, weilding the codex, who nearly kills them all trying to find the Dagger of Vengeance, but Ivvan stole it from Tarnil, so it is with Ivvan.
-## 25th Hammer
+## 24th of Hammer
+Early 24th. Ivvan captured. Ransom. Naras , etc. (see 30, 31 PoH)
+## 25th of Hammer
 William is rescued by Theriad and his attendents. They set up antidivination wards at the camp.
 William, Baron Daron, Theriad, and an intern meet to discuss the plan of action. The plan is to take the tree and fortify it. Baron Daron produces a vial of Azmodian Ichor.
 Colossus is freed, talks to the Raven Queen and to Falledric. Colossus travels through Arvandor and onto the material plane, talking to William Treaty shortly after landing. He then continues onto the Shadowfell, discovering the plane invaded by the darkness of Shar. He and the Raven Queen formulate a plan and get ready to attack.
-## 26th Hammer
+## 26th of Hammer
 Krag reaches the peaks of the impassable mountains, arriving at the foot of Auril's palace.
-## 27th Hammer
+## 27th of Hammer
 William Treaty contacts Galio Thunukalathi, reconnecting and redrawing the plan after William's delay. 
 Aeoife strikes at Baron Daron and Analyst. Theriad Keladri and William Treaty get there just in time to stop her from stealing the ichor.
 The Attendents of knowledge manage to bring Halt O'clommel and Valus out of the Dagger of Souls, but cannot succeed in ressurecting Nil'ge'tar "Nugget" Remshi, the former prince who died three years earlier in defense of the tree. Nugget manages to curse his own soul, allowing them to make a desperate attempt to bind his soul and body by shifting him to the Dark Regions, and transforming him into a vampire. 
@@ -393,7 +394,7 @@ She sings and dances and tells them the story of a little boy who becomes a tyra
 She gives a speech, and chanting "Kill the Boy", the crowd marches onto the Archduke's land. She runs and hides, as she hadn't meant this to happen, but the Archduke comes out and kills them all, a few escape, a few stand a little longer, but none for long and it begins to rain blood heavily. She nearly drowns in the blood, but escapes into the next level.
 Lady Black bargains with Isendra, and convinces her to turn on the other heads with the help of the Traveller. In return Lady Black gets a vision of a possible future. 
 She sees snapshots of other things. Hints of something more ancient than Tartarus.
-COLOSUS
+COLOSSUS
 ---
 Colossus has visions as he travels to the City of Doors, sees his former master Methunroa.
 Colossus - met Feanor and the Iliithid in Sigil. He saw more of sigil. Met with Marethyu and saw a hint about Naema. Is being offered a proposition by Marethyu along with Araushnee and Tyr.  
@@ -404,7 +405,7 @@ Hatreth of Tyr. Hatreth speaks with Collossus, blaming him for what happened to 
 Singollo is saddened by the loss of Lysiria his daughter and Eolande. 
 Colossus speaks to Falledric as well, hoping to find out more about his condition after being used up as a conduit for Thalorin.
 In his sleep, Colossus speaks to the Dealmaker/Storyteller, in his dream he sees the formation of the feywild by Eleutherous. The dream is interrupted by the Lady of Pain, who holds him in a spell, and he wakes up still Held.
-William Treaty
+WILLIAM TREATY
 ---
 3rd of Hammer to 9th of Hammer
 William wakes up in the Fountains of Creation. He travels towards the Plane of Fire before he finds out how to get the plane of air. 
