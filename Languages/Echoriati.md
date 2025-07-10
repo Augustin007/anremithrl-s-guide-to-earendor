@@ -148,201 +148,103 @@ Language: Echoriati
         Back: /u, o, ɔ/
 
 2. Phonotactics:
-
     Syllable structure: (C)(C)V(C)
-
     Consonant clusters allowed initially: /pr, tr, kr, pl, kl, bl, gl/
-
     Consonant clusters allowed finally: /st, sk, nd, nt, mp/
 
 3. Grammar:
-
     Word Order: SVO (Subject-Verb-Object)
-
     Nouns:
-
         Singular and plural marked by suffixes: -a (singular), -an (plural)
-
         Cases: Nominative (unmarked), Accusative (-ak), Genitive (-en)
-
     Verbs:
-
         Present tense: unmarked
-
         Past tense: -ed
-
         Future tense: -il
-
     Adjectives:
-
         Precede nouns
-
         Agree in number with the noun: singular (unmarked), plural (-an)
-
 4. Sample Vocabulary:
-
     Greetings:
-
         Hello: "Sarak"
-
         Goodbye: "Nial"
-
     Common Nouns:
-
         Land: "Teran"
-
         Tribe: "Rokan"
-
         Mountain: "Vorak"
-
         Magic: "Thal"
-
     Verbs:
-
         To be: "Es"
-
         To conquer: "Vor"
-
         To study: "Len"
-
     Adjectives:
-
         Powerful: "Gor"
-
         Ancient: "Thur"
-
         Rich: "Vel"
-
 5. Cultural Expressions:
-
     Proverbs:
-
         "Thur vel teran, es gor voran." (In ancient rich lands, power conquers.)
-
     Idioms:
-
         "Rokan len thal." (The tribe studies magic; implying a deep focus or dedication to a task.)
-
 6. Sample Sentences:
-
     The powerful tribe conquered the land.
-
         "Gor rokan vor teran."
-
     The ancient mountain is rich in magic.
-
         "Thur vorak es vel thal."
-
 Linguistic Notes:
-
-1. Influence from Tribes:
-
+7. Influence from Tribes:
     The Irdan, Vorokai, and Kesnan have influenced the language's development. For example, the word for "craftsmen" is "Irda," reflecting the Irdan's reputation.
-
-2. Geographical Influence:
-
+8. Geographical Influence:
     The rugged terrain and nomadic lifestyle post-sundering have contributed to the language's descriptive richness in terms related to the landscape and survival.
-
-3. Historical Context:
-
+9. Historical Context:
     The language includes terms for old and new magic, reflecting the historical divide pre- and post-sundering. "Thal" (magic) has variants like "Thalir" (old magic) and "Thalin" (new magic).
-
-
-1. General Term:
-
+10. General Term:
     Polearm: "Tharikan" (Derived from "Thar" meaning pole/staff and "Kan" meaning weapon)
-
-2. Specific Types of Polearms:
-
+11. Specific Types of Polearms:
     Spear: "Voras"
-
     Javelin: "Vorasen" (Derived from "Voras" and "Sen" meaning throw)
-
     Halberd: "Gorathar" (Derived from "Gor" meaning powerful and "Thar" meaning pole)
-
     Pike: "Lenvoras" (Derived from "Len" meaning long and "Voras" meaning spear)
-
     Trident: "Thalvoras" (Derived from "Thal" meaning magic and "Voras" meaning spear, reflecting its ceremonial use)
-
     Glaive: "Vorakel" (Derived from "Voras" and "Kel" meaning blade)
-
-3. Components of Polearms:
-
+12. Components of Polearms:
     Shaft: "Thar"
-
     Blade: "Kel"
-
     Tip: "Vor" (Same root as "Voras," meaning pointed end)
-
     Guard: "Narak"
-
 Sample Sentences
-
     The warrior wields a spear.
-
         "Rokan es voras."
-
     They trained with long pikes.
-
         "Anan lenvorasan es gorned."
-
     The ceremonial trident is adorned with runes.
-
         "Thalvoras es thurned narak thali."
-
-
 Swords in Echoriati
-
-1. General Term:
-
+13. General Term:
     Sword: "Sarik"
-
-2. Specific Types of Swords:
-
+14. Specific Types of Swords:
     Longsword: "Lensarik" (Derived from "Len" meaning long and "Sarik" meaning sword)
-
     Short Sword: "Narsarik" (Derived from "Nar" meaning short and "Sarik" meaning sword)
-
     Broad Sword: "Valsarik" (Derived from "Val" meaning wide and "Sarik" meaning sword)
-
     Scimitar: "Curvsarik" (Derived from "Curv" meaning curved and "Sarik" meaning sword)
-
     Rapier: "Finsarik" (Derived from "Fin" meaning fine or thin and "Sarik" meaning sword)
-
     Claymore: "Gorsarik" (Derived from "Gor" meaning powerful or large and "Sarik" meaning sword)
-
     Katana-style sword: "Voksarik" (Derived from "Vok" meaning edge or sharp and "Sarik" meaning sword)
-
-3. Components of Swords:
-
+15. Components of Swords:
     Blade: "Kel"
-
     Hilt: "Handar" (From "Hand" meaning handle and "Dar" meaning hold)
-
     Pommel: "Endar"
-
     Guard: "Narak"
-
 Sample Sentences
-
     The knight drew his longsword.
-
         "Echoriat lensarik es zanar."
-
     She practices with a curved scimitar.
-
         "Si curvsarik es prened."
-
     They forged a broad sword for the champion.
-
         "Anan valsarik es nithed vorak."
-
 High Royal Last Names in Echoriati
-
     Vorasthar (Meaning: "Spear of the Ancients")
-
         Derived from "Voras" (spear) and "Thar" (pole/staff), implying a lineage of warriors or protectors.
-
     Thalridan (Meaning: "Guardians of Magic")
 
         Derived from "Thal" (magic) and "Ridan" (guardians), suggesting a family with a deep connection to the arcane.

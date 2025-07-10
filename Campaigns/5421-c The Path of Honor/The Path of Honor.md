@@ -42,7 +42,7 @@ status: Ongoing
 [[Serin Rathir]]
 [[Kerran Thorrol]]†
 #### Other Minor Characters In the Story
-[[Tal'berius Tarrilion]]
+[[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion]]
 [[Vildara Sable]]
 [[Mardor]]†
 [[Nanold]]†

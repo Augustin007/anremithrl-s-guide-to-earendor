@@ -1,3 +1,15 @@
+[[Session 28 - The Path of Honor|<- Prev]]
+
+
+Dream sequence
+
+Aka'vral gets contract.
+
+Azmodeus meets Tarnil in dream. Offers help. Tarnil dream.
+
+Qorneth talks to Marethyu
+
+---
 
 29 - Naras
 Jory
@@ -19,3 +31,5 @@ They reach a mining encampment where they are all sold.
 ---
 
 9 soldiers remain.
+
+[[Session 30 - The Path of Honor|Next ->]]
