@@ -6,8 +6,9 @@ The Eastern landmass is called Varethis, and the western one Velmyria. A smaller
 Continents: Veloria, Hatreth, Zarethys
 #### Continent: Veloria
 **Veloria**
-- Veloria: In the continent of Veloria. Culture based on mostly on USA and somewhat on britain, founded in the north of the eastern. Called the United Kingdom of Veloria UKV, it's mostly rules by the Senate, and the 'king' is elected every few years. Lorekeep was established in Veloria. The language and currency used there is the Neroshi Paros. The Attendants of Knowledge are a primary religious order there, devoted to knowledge. The capital of Veloria, Veloria, is fantasy New York, and a major trade center.
-**Fractured Coast**
+- [[United Kingdom of Veloria]]: In the continent of Veloria. Culture based on mostly on USA and somewhat on britain, founded in the north of the eastern. Called the United Kingdom of Veloria UKV, it's mostly rules by the Senate, and the 'king' is elected every few years. Lorekeep was established in Veloria. The language and currency used there is the Neroshi Paros. The Attendants of Knowledge are a primary religious order there, devoted to knowledge. The capital of Veloria, Veloria, is fantasy New York, and a major trade center.
+**The Stormbelt**
+
 Originally part of a wartime alliance, these states fractured into independent nations after the war, yet maintain strong trade ties. This was after the UKV becan expanding into various territories, they were forced to cede the land by international treaties to avoid it becoming to powerful, or risk war. This formed the independent country of Coastal Veloria. Twenty years after it's founding, the country had a civil war, and soon fractured. Many engage in piracy, trade, and espionage against each other.
 - Capjus: The largest one of these breakaways from the Civil War. Often called Coastal Veloria, though it has officially changed it's name.
 - Skeruk: Right at the edge of the region of Hatreth. Borders Ma'ker and Capjus. Forming a buffer between Hatreth and the Fractured Coast. Known for its fortified cities and strong mercenary guilds.

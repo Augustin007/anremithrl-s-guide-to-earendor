@@ -25,7 +25,7 @@ Military Standardization began in 3470 AS. The independent militias of the colon
 
 By 3490, the majority of the laws were codified.
 
-In the year 3510, Theriad Keladri established the Lorekeep a week's ride following the Sylthor river from Veloria.
+In the year 3510, Theriad Keladri established the Lorekeep, a week's ride south following the Sylthor river from Veloria.
 
 This period saw rapid urbanization, with cities like Marencia, Goldmedow, and Whiteport flourishing into centers of commerce, politics, and knowledge. However, tensions with native Myrian tribes escalated, leading to conflicts known as the Myrian Wars (3525-3580 AS). Despite fierce resistance, the Myrians were gradually pushed further inland or assimilated into Velorian society.
 
@@ -41,15 +41,16 @@ By 3900 AS, as expansion reach the opposite coast, Veloria had firmly establishe
 
 The turn of the 4th millennium AS was fraught with conflict. While Veloria had built a powerful economy and military, its growing influence sparked tensions with neighboring powers.
 
-The War of Two Thrones(3925-3980 AS)
+**The War of Two Thrones (3925-3980 AS)**
 
 A diplomatic crisis erupted when two claimants to the Velorian throne emerged, from two different interpretations of the constitution, leading to a prolonged civil war. This conflict ended with the Second Senate Reform (3980 AS), which reduced the power of the monarchy even further. From this point onward, the "King" of Veloria was purely symbolic, while the Senate held full authority.
 
-The Trade Wars (4050-4125 AS)
+**The Trade Wars (4050-4125 AS)**
 
 As Veloria’s merchant fleet grew, conflicts with the Garakhese Empire and Destrog led to naval skirmishes and economic sabotage. These "wars" were largely fought through blockades, tariffs, and strategic alliances rather than outright battles. Veloria emerged victorious, securing new trade agreements that cemented its role as a global economic powerhouse.
 
-The "Great War" an eight-hundred year long series of wars, involving most countries ended in 4600. The Treaty of Boscombe and the Lurytes Convention created alliances based on certain laws, including limiting how much land near a coast a country can control. After international negotiating, the UKV ceded much of it's Southeastern Coast, which formed the country of Coastal Veloria, rules by it's own seperate senate and council.
+**The Great War**
+The "Great War" an eight-hundred year long series of wars, involving most countries ended in 4600. The Treaty of Boscombe and the Lurytes Convention created alliances based on certain laws, including limiting how much land near a coast a country can control. After international negotiating, the UKV ceded much of it's Southeastern Coast, which formed the country of Coastal Veloria, ruled by it's own separate senate and council.
 
 Beginning with the foundation of the International Trade Commision in 4612 AS, an effort spearheaded by the Velorian Senate, Veloria became a key player in establishing the framework for international trade law, ensuring that major trading routes remained open and piracy was contained.
 
