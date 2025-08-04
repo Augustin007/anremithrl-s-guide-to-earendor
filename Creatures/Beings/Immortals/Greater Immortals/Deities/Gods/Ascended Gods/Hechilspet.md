@@ -5,7 +5,7 @@ Birth Year: 3052 AS
 Ascension: 3090 AS
 Death Year: 5421 AS
 ---
-Hechilspet was a king who ruled the Chish empire for some time. He was born of [[Iskandar|King Iskandar the Wise]] and [[Isa|Queen Isa]]. 
+Hechilspet was a king who ruled the C hish empire for some time. He was born of [[Iskandar|King Iskandar the Wise]] and [[Isa|Queen Isa]]. 
 
 Izell died at childbirth, and his father, a noble man, helped unite the people of the region, and sacrified himself to save his realm, leaving the prince Hechilspet an orphan at twelve years old.
 

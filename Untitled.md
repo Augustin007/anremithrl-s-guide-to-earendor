@@ -1,0 +1,2 @@
+Beelzebub makes it through, took the ichor, will give it to Azmodeus.
+Ashildir succeeds in making herself a god, but future version of Ashildir is with Ghalen, fighting on their side, Kas becomes Ghalen. 
