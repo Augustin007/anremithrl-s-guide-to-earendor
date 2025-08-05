@@ -5,5 +5,5 @@ pyvenv.cfg
 *.py
 share
 .vim
-.obsidian
+#.obsidian
 spell data.csv
