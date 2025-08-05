@@ -1,0 +1,11 @@
+{
+  "fancy-a-story@@theme-variant-dark": "fas-mystic",
+  "fancy-a-story@@fas-opposite-bg": false,
+  "fancy-a-story@@fas-bg-textures": true,
+  "fancy-a-story@@icon-opacity-inactive": 1,
+  "fancy-a-story@@fas-skin-select": "fas-skin-medieval",
+  "fancy-a-story@@status-bar-position": "none",
+  "fancy-a-story@@fas-floating-mode-button": "disable",
+  "fancy-a-story@@fas-rainbow-folders": "disable",
+  "fancy-a-story@@fas-rainbow-lists": "disable"
+}

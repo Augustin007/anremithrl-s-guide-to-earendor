@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "35aa609f636378d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f903656fce42bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b744e49e156f9150",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4486f8302a6e8d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/Campaign Chronology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign Chronology"
+            }
+          },
+          {
+            "id": "6ac89837721ed8f1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f13370e2da4b4f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Theme.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Theme"
+            }
+          },
+          {
+            "id": "f59e60a13bbcb705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "b76b4fdd2aa0eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Material Plane/Countries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Countries"
+            }
+          },
+          {
+            "id": "88df4783db437fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Material Plane/Velmyria/Veloria/United Kingdom of Veloria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "United Kingdom of Veloria"
+            }
+          },
+          {
+            "id": "942e3080ee5122dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Cherhai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cherhai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad196071d6cc2c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f13c52cf6f6ee984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec10ee5dff78b99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1def03c888b3de2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#unfinished",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "761f281f04a69acc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbb166d7a23c9775",
+    "type": "split",
+    "children": [
+      {
+        "id": "67512cf53e117e6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de35aaeffee92eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b2d4cdf45255b931",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Crew of the Tyr"
+            }
+          },
+          {
+            "id": "73bd4dabc38aee66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "22891998ba35bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "b744e49e156f9150",
+  "lastOpenFiles": [
+    "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
+    "Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
+    "Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion.md",
+    "Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
+    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 2 - Rise of the Greenclad.md",
+    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 1 - Rise of the Greenclad.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 0 - Origins of the Greenclad.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 1 - Origins of the Greenclad.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 2 - Origins of the Greenclad.md",
+    "Unfinished/Session 3 - Origins of the Greenclad.md",
+    "Unfinished/Session 4 - Origins of the Greenclad.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Origins of the Greenclad.md",
+    "Campaigns/3600 Tides of Veloria/Tides of Veloria.md",
+    "Campaigns/3510 Tale of Lorekeep/Tale of Lorekeep.md",
+    "Campaigns/3510 Tale of Lorekeep/Campaign/Session 16 - Tale of Lorekeep.md",
+    "Campaigns/3510 Tale of Lorekeep/Campaign/Session 1 - Tale of Lorekeep.md",
+    "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
+    "Campaigns/3450-3550 WM of Destishire/West Marches of Destishire.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 18 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 1 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 2 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 15 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 17 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 12 - Isle of Abbey.md",
+    "Campaigns/2500 Isle of Abbey/Campaign/Session 8 - Isle of Abbey.md",
+    "Family"
+  ]
+}

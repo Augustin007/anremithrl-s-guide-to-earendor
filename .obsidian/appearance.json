@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Fancy-a-Story",
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "family-tree",
+    "sidebar-layout",
+    "link"
+  ]
+}
