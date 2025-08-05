@@ -11,10 +11,14 @@
             "id": "b744e49e156f9150",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5421-c Bonds of Fate/Bonds of Fate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bonds of Fate"
             }
           },
           {
@@ -184,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaigns/5421-c Bonds of Fate/Bonds of Fate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Bonds of Fate"
             }
           },
           {

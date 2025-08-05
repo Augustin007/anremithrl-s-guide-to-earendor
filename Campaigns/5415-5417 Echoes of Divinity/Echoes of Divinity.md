@@ -17,7 +17,7 @@ status: Finished
 [[Kalquend]]†
 [[Valthor Remshi]]
 [[Loquail]]†
-[[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion]]
+[[Tal'berius Tarrilion]]
 [[Ashdilkir]]
 **Gods**
 [[Araushnee]]

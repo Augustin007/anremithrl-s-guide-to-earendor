@@ -15,7 +15,7 @@ status: Ongoing
 [[Drithen Vorath]]†
 [[Uncim Bolok]]†
 [[Ivvan Maeror]]
-[[Tar'id'lion'il Remshi'ul]]
+[[Tar'id'lion'il Remshi]]
 [[Giggle Jiggles]]
 [[Qorneth Nashol]]
 [[Uldren Nashol]]
