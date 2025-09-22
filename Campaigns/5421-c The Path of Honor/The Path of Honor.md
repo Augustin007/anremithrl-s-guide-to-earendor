@@ -15,7 +15,7 @@ status: Ongoing
 [[Drithen Vorath]]†
 [[Uncim Bolok]]†
 [[Ivvan Maeror]]
-[[Tar'id'lion'il Remshi]]
+[[Tar'id'lion'il Remshi'ul]]
 [[Giggle Jiggles]]
 [[Qorneth Nashol]]
 [[Uldren Nashol]]
@@ -40,14 +40,14 @@ status: Ongoing
 [[Liriel Danstal]]
 [[Lirien Vael]]†
 [[Serin Rathir]]
-[[Kerran Thorrol]]†
+[[Kerran Thorol]]†
 #### Other Minor Characters In the Story
-[[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion]]
+[[Tal'berius Tarrilion]]
 [[Vildara Sable]]
 [[Mardor]]†
 [[Nanold]]†
 [[Lord Amos Black]]
-[[Aeofie]]
+[[Aeoife]]
 [[Dri'ros Na'ak-Dan'ul]]†
 [[Duthrim Ilirn]]††
 [[Bathar]]
@@ -73,7 +73,6 @@ They meet Krag and his party, delivering news from Gnomes'helm.
 They wind up in the Underdark after talking with Bahamut, who Torquil makes a deal with, and the Greenclad, who Torquil also makes a deal with, and where they meet Caxius, an assasin who joins them, but she is executed by the lords of Carabran when they are captured. Instigating a prison break with new allies Drithen, Uncim, Ivvan, and Duthrim. Kerran dies to his illness and Aric loses an eye in the chaos.
 After they escape the underdark, they meet Giggles the Clown and Tar'id'lion'il Remshi'ul, Nugget's brother. They are attacked by Auril and flee, but Liriel and Torquil are captured. Liriel kills Torquil at his orders.
 They meet twin escaped slaves Qorneth and Uldren, and trying to undo their tracking spells, Naras causes a chain reaction which kills Lirien, turning Aric against him. The party subdues both of them.
-
 
 #### Backup Characters
 [[Feidhris Fômar]]

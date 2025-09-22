@@ -1,0 +1,1 @@
+Lord Szinvorn is the son of the late Ivan Dyrrith II, making him Ivan Maeor's half-brother. (Caxius's half-brother's half-brother). He is a drow, and a worshiper of Lolth. 

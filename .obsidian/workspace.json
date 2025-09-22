@@ -4,68 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "0f903656fce42bf9",
+        "id": "5185cc213320ae34",
         "type": "tabs",
         "children": [
           {
-            "id": "b744e49e156f9150",
+            "id": "67b4cb6635c27214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/5421-c Bonds of Fate/Bonds of Fate.md",
+                "file": "Campaigns/5421-c The Path of Honor/The Path of Honor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bonds of Fate"
+              "title": "The Path of Honor"
             }
           },
           {
-            "id": "4486f8302a6e8d38",
+            "id": "1207df734434ed40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Campaign Chronology.md",
+                "file": "Creatures/Beings/Mortals/Goliath/Thalai Elanthino.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Chronology"
+              "title": "Thalai Elanthino"
             }
           },
           {
-            "id": "6ac89837721ed8f1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f13370e2da4b4f24",
+            "id": "7da8a0f4c7fdfd36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Theme.md",
-                "mode": "preview",
+                "file": "Creatures/Beings/Mortals/Bugbear/Talor.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Theme"
+              "title": "Talor"
             }
           },
           {
-            "id": "f59e60a13bbcb705",
+            "id": "1f3c06cfb779232b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar.md",
+                "file": "Campaigns/5421-c Shadows of Memory/Shadows of Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadows of Memory"
+            }
+          },
+          {
+            "id": "491d0f98082b6ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/Calendar.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,48 +78,35 @@
             }
           },
           {
-            "id": "b76b4fdd2aa0eb1e",
+            "id": "37cac0d92997f83d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Material Plane/Countries.md",
+                "file": "Ivvan Maeror.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Ivvan Maeror"
             }
           },
           {
-            "id": "88df4783db437fae",
+            "id": "fdd230f38dc4965b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Material Plane/Velmyria/Veloria/United Kingdom of Veloria.md",
+                "file": "Calendar TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "United Kingdom of Veloria"
-            }
-          },
-          {
-            "id": "942e3080ee5122dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/Cherhai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cherhai"
+              "title": "Calendar TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -147,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#unfinished",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/5421-c Bonds of Fate/Bonds of Fate.md",
+                "file": "Timeline/Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bonds of Fate"
+              "title": "Backlinks for Calendar"
             }
           },
           {
@@ -207,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
+                "file": "Spells & Surge Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Crew of the Tyr"
+              "title": "Outgoing links from Spells & Surge Abilities"
             }
           },
           {
@@ -236,60 +227,254 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Spells & Surge Abilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Spells & Surge Abilities"
+            }
+          },
+          {
+            "id": "73dafb0641d55af5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "75427adae70ad150",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "9684ccf3615102db",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 12,
+                    "month": 1,
+                    "year": 5421
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 16,
+                    "month": 0,
+                    "year": 5420
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_69386a3adbfa",
+                "child": "ID_8aba895a29aa"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "b0bb066a0dd1796c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c47231356d59ded6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "id": "ID_8aba895a29aa",
+                "parent": "ID_69386a3adbfa"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "eec10ee5dff78b99",
+  "floating": {
+    "id": "8bd63bbabaa51030",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b6af5ba5d7d10251",
+        "type": "window",
+        "children": [
+          {
+            "id": "3b3f547877c582fb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c8a5623f28b21d81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 24.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shadows of Divinity - 24"
+                }
+              },
+              {
+                "id": "53b9f40854738244",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timeline/Calendar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "9459ff4154f44521",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 32b - The Path of Honor"
+                }
+              },
+              {
+                "id": "57d74b8c65dac02c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 35a - The Path of Honor"
+                }
+              },
+              {
+                "id": "c1e1260431e80d54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Campaigns/5421-c The Solenthir Gambit/Campaign/Session 1 - The Solenthir Gambit.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 1 - The Solenthir Gambit"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1080,
+        "height": 1920,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "491d0f98082b6ddf",
   "lastOpenFiles": [
-    "Aetate Foedus.md",
-    "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
-    "Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
-    "Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion.md",
-    "Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
-    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 2 - Rise of the Greenclad.md",
-    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 1 - Rise of the Greenclad.md",
-    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 0 - Origins of the Greenclad.md",
-    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 1 - Origins of the Greenclad.md",
-    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 2 - Origins of the Greenclad.md",
-    "Unfinished/Session 3 - Origins of the Greenclad.md",
-    "Unfinished/Session 4 - Origins of the Greenclad.md",
-    "Campaigns/4280-4339 Origins of the Greenclad/Origins of the Greenclad.md",
-    "Campaigns/3600 Tides of Veloria/Tides of Veloria.md",
-    "Campaigns/3510 Tale of Lorekeep/Tale of Lorekeep.md",
-    "Campaigns/3510 Tale of Lorekeep/Campaign/Session 16 - Tale of Lorekeep.md",
-    "Campaigns/3510 Tale of Lorekeep/Campaign/Session 1 - Tale of Lorekeep.md",
-    "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
-    "Campaigns/3450-3550 WM of Destishire/West Marches of Destishire.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 18 - Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 1 - Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 2 - Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 15 - Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 17 - Isle of Abbey.md",
-    "Campaigns/2500 Isle of Abbey/Campaign/Session 12 - Isle of Abbey.md",
-    "Family"
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
+    "Timeline/Calendar.md",
+    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Gravity Sphere.md",
+    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Notes.md",
+    "Campaigns/5421-c Shadows of Memory/Shadows of Memory.md",
+    "Unfinished/Old/Session Notes by Campaigns/Traces of Divinity/Traces of Divinity - Session 3.md",
+    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Starting Underdark Notes.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29a - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28a - The Path of Honor.md",
+    "Campaigns/5421-c The Solenthir Gambit/Campaign/Session 1 - The Solenthir Gambit.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31b - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30b - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29b - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28b - The Path of Honor.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 27 - The Path of Honor.md",
+    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 24.md",
+    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 23.md",
+    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 22.md",
+    "Creatures/Beings/Mortals/Goliath/Thalai Elanthino.md",
+    "Campaigns/5421-c The Path of Honor/The Path of Honor.md",
+    "Untitled.canvas",
+    "Images/The Children/Aric Vael.png",
+    "Images/The Children/Serin Rathir.png",
+    "Images/Pasted image 20250228124746.png",
+    "Unfinished/Old/Planes/Within Planes/Geographical Features",
+    "Unfinished/Old/Planes/Within Planes/Countries",
+    "Unfinished/Old/Planes/Within Planes/Cities",
+    "Unfinished/Old/Planes/Within Planes/Buildings",
+    "Unfinished/Old/Planes/Within Planes/Areas",
+    "Unfinished/Old/Planes/True Planes/Elemental Planes",
+    "Unfinished/Old/Planes/Quasi-Planes/Positive Quasi-Planes",
+    "Unfinished/Old/Planes/Quasi-Planes/Ordered Quasi-Planes",
+    "Unfinished/Old/Planes/Quasi-Planes/Negative Quasi-Planes",
+    "Unfinished/Old/Planes/Quasi-Planes/Chaotic Quasi-Planes",
+    "Unfinished/Untitled.canvas",
+    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-24 at 00-18-37 • Discord #character-art The Path of Honor.png",
+    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 18-29-43 • Discord #character-art The Path of Honor.png",
+    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 14-21-35 obscurus - Google Search.png",
+    "Images/The Children/Kerran Thorol.png",
+    "Decks/Tarot/21-TheWorld.png",
+    "Decks/Tarot/20-Judgement.png",
+    "Decks/Tarot/19-TheSun.png"
   ]
 }

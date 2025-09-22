@@ -1,1 +1,0 @@
-The Mountainside Tavern is an outpost of the guild one thousand miles Southwest of Oracus. It's carved into the Mountain of Tears. 

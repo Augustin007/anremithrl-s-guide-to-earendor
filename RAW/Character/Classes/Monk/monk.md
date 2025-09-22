@@ -1,5 +1,3 @@
-***Monks are united in their ability to magically harness the energy that flows in their bodies. Whether channeled as a striking display of combat prowess or a subtler focus of defensive ability and speed, this energy infuses all that a monk does.***
-*You must have a Dexterity score and a Wisdom score of 13 or higher in order to multiclass in or out of this class.*
 | The Monk |
 | Level | Proficiency Bonus | Martial Arts | Ki Points | Unarmored Movement | Features |
 | 1st | +2 | 1d4 | – | –  | Unarmored Defense, Martial Arts |

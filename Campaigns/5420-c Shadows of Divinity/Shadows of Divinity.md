@@ -10,7 +10,7 @@ status: Ongoing
 [[Galio Thunukalathi]]
 [[Krag]]
 [[Faust]]
-[[Nil'ge'tar Remshi]]
+[[Nil'ge'tar Remshi'ul]]
 [[Baron Daron]]
 [[Analyst|Analyst (Formerly Baron Daron's Intern)]]
 
@@ -65,7 +65,7 @@ status: Ongoing
 [[Thadurak]]
 [[Aberion]]
 [[Ardor]]
-[[Elu]]
+[[Elu Singollo]]
 [[Valden]]†
 [[Isidera Stonefist]]†
 [[Elwe]]

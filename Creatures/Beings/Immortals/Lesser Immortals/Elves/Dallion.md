@@ -1,4 +1,4 @@
-Dallion was the son of [[Singollo]] and [[Elian]], and the elder brother of [[Lysiria]]. While he was very smart, he was never able to connect with the weave, and remains one of the few non-magical elves.
+Dallion was the son of [[Elu Singollo]] and [[Elian]], and the elder brother of [[Lysiria]]. While he was very smart, he was never able to connect with the weave, and remains one of the few non-magical elves.
 
 He is an excellent swordsman and a great shot with the bow.
 

@@ -173,3 +173,4 @@ Pronounce the guttural _q_ and _kh_ distinctly. Extend the penultimate syllable 
 - **Slavery & Status:** Different words for bondsmen and property can underscore the horrifying normalcy of lifelong slavery in Cherhal. NPCs might refer to their slaves as _mordash_ or _narkheth,_ depending on whether they see them purely as objects or (more ironically) “people who serve.”
 - **Military Jargon:** You can accent key phrases in the party’s encounters with Cherhali soldiers—cries of “**Rath orn!**” or “**Krātash!**” to emphasize the unstoppable war machine of Cherhal’s legions.
 - **Roleplaying Accents:** Pronounce the guttural _q_ and _kh_ distinctly. Extend the penultimate syllable in important, weighty words (like _Krá-tash_).
+

@@ -5,7 +5,7 @@ status: Finished
 ---
 [[Session 1 - Echoes of Divinity|Campaign]]
 #### Player Characters
-[[Nil'ge'tar Remshi]] †
+[[Nil'ge'tar Remshi'ul]] †
 [[PINE-APL]]†
 [[Jessica Black]]
 [[Colossus Methunroa]]

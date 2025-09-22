@@ -6,4 +6,4 @@ When [[Lucy Iwaelfhem]] was brought to her, for crimes, she was a bit jealous, b
 
 She was assasinated by Tormac.
 
-Her younger sister was Liriath, who married the Duke of [[Vasterra]].
+Her younger sister was Liriath, who married the Duke of [[Locations/Material Plane/Vasterra]].

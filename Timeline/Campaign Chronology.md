@@ -162,7 +162,7 @@ Gallio kills the dragon, a feat which he finds surprisingly easy. He worries the
 **Status:**
 Ongoing
 DM: Austin
-Duration: unknown amount of sessions (Not sure how many were lost on old laptop), 20 sessions have notes and still exist.
+Duration: 24 Sessions
 #### Conspiracy of Darkness
 [[Conspiracy of Darkness]]
 5420 AS
@@ -232,7 +232,7 @@ They meet twin escaped slaves Qorneth and Uldren, and trying to undo their track
 **Status:**
 Ongoing
 DM: Austin
-Duration: 25 Sessions
+Duration: 33 Sessions
 #### Bonds of Fate
 [[Bonds of Fate]]
 5421-current AS
@@ -245,7 +245,7 @@ Ongoing
 DM: Austin
 Duration: 3 Sessions
 #### UNNAMED
-[[UNNAMED]]
+[[Shadows of Memory]]
 5421-current AS
 **Pitch**: 
 Two characters wake up without memories in a strange forest.
@@ -274,40 +274,12 @@ Duration: 3 Sessions
 **Pitch:**
 A young mermaid of the tideborn tribe found a strange magical artifact whilst playing in the sands of the sea as a child near the ruins of Othyris. 
 
-
-Here’s a name for the campaign and a formatted entry to match the structure of your past campaigns:
-
----
-
-#### **Depths of Memory**  
-~5421 AS  
-
-**Pitch:**  
-A young mermaid, lost and alone, washes up on an unfamiliar shore with only her magic bracelet and fractured memories. As she searches for her missing tribe, she uncovers secrets buried in the depths—secrets that powerful forces would rather keep forgotten.  
-
-**Story:**  
-Separated from her nomadic oceanic tribe, the Tideborn, a young mermaid finds herself stranded in unfamiliar waters. The only clue to her past is the bracelet she has always worn—an heirloom she never questioned, now pulsing with mysterious energy. As she explores the currents of this new world, she discovers that her people were not merely lost, but *taken*.  
-
-Following whispers through the leyline-infused **Wells of the Lost Tides**, she pieces together fragments of a buried history—one that suggests her tribe carried a secret **the Abyssal Lords would kill to erase**. These rulers of the deep, shadowy and enigmatic, are masters of knowledge-hoarding and silent war. If they are hunting her, it is not for who she is, but **what she carries**—the final key to unlocking a long-sealed ruin, a place said to hold a song that no one must ever sing again.  
-
-Navigating treacherous waters—both literal and political—she must decide whom to trust, whom to deceive, and what to risk to reclaim her past. But as she begins to understand the bracelet’s true nature, one terrifying question remains:  
-
-Did her people vanish because they were taken—or because they tried to *hide from her*?  
-
 **Status:**  
 Planned  
-
-**DM:** Austin  
-
-**Duration:** TBD  
+DM: Austin  
+Duration: TBD  
 
 ---
-
-Let me know if you want to tweak anything or add a specific element!
-
----
-
-
 
 
 Campaigns not yet run

@@ -43,14 +43,26 @@ In the end, she went mad in her own library. Eternally reading her own diaries. 
 
 ---
 
+She met and fell in love with Kas, having with him a pair of twins. When Kas eventually began ruling Bremen, he built for her a great library for her to keep her memories, and brought her many gifts. Among these was a shard of The Forgotten One's divinity, which she used to try to ascend, but was unable to complete the ascension.
+
+They created the [[Den]], a sect of their followers who helped enforce their will on the city of Bremen.
+
+Kas and Ashdilkir slowly grew apart as Ashdilkir's sanity slowly decayed. Kas kept his distance, seeking for a cure for his love.
+
+The [[Den]] was eventually destroyed by [[Tal'berius Tarrilion]] and [[Miyatol Dodonus]]. Kas rescued Ashdilkir from them, and she was shortly able to kill Miyatol. 
+
+---
+
 Asmodeus eventually approached her, offering to restore her memory in exchange for a favour. Stealing Colossus's spellbook, and delivering them seperately to the Tree. 
 
 She hates Asmodeus, but retains loyalty to him, for her own ends. She has her own plans and schemes. Even if her memory is fixed, she now remembers everything, including the things she tried to forget. She is bitter with loss, burdened with her own evil and all the beauty and good torn away from her. 
 
 She knows Asmodeus cannot kill her, nor can anyone. She knows pain never ends. She is not afraid. She knows no goodness ever lasts forever (nothing does), so she has decided it doesn't matter. She cannot escape torture, pain, and suffering. She only wants to wreak vengeance upon the world for this, to inflict this pain onto everyone else too. Gods, who she hates for causing the pain, and mortals, who she hates for being able to escape it. Only the lesser immortals would she spare, for she has no anger with them. They are like her in one regard. Powerless against the gods, but unable to escape. But she holds little more than apathy for them. She cares only for herself. She wants the power to turn against the gods.
 
-In service of this, she asked in secret something of Korvos, the Necromancer. She demanded he turn her into a quasi deity, to bind to her the powers to destroy the gods. When he refused her (For in general he thought it unwise to make someone more powerful than he, and because he doubted his ability to do this safely, without great harm to himself, or he would have done it to himself long ago), she orchestrated his death at the hands of Nugget and Tal'berius and trapped his soul the Labyrinth-stone.
+In service of this, she asked in secret something of Korvos, the Necromancer. She demanded he turn her into a quasi-deity, to bind to her the powers to destroy the gods. When he refused her (For in general he thought it unwise to make someone more powerful than he, and because he doubted his ability to do this safely, without great harm to himself, or he would have done it to himself long ago), she orchestrated his death at the hands of Nugget and Tal'berius and trapped his soul the Labyrinth-stone.
 
 Tartarus at this point slipped out of her grasp, Tartarus hoping for a new owner that might release him, who might aid his plans, and forcing himself into the grasp of Nil'ge'tar Remshi. In this way, her plan was delayed, as Korvos, in the stone, was out of her reach.
 
 Three years later, Tahlia Tormund was able to touch the Labyrinth stone when she came across William Treaty at the NAF alliance meeting. She was able to take the soul and traded it back to Ashdilkir in exchange for the location of the Oathbreaker Sword. Ashildir resurected Korvos as a Lich, keeping his phylanctary. He bent to her will. Grateful, she traded captives, gold, and equipment to him for his experiments in return for her favour.
+
+Right before the longest night, Korvos, combined with her vast library of knowledge and wealth, was able to complete her ascension into Ashariel. Korvos built in a weakness, a way to kill her, and secretly informed Kas of her plans. Kas was troubled. When Ashariel killed one of their children during the events of the Shattering, Kas attempted to kill Ashariel. Ghalen the Chronomancer entered time to stop Kas, Kas recognises his own face in Ghalen, and when the Conduit was formed, and Kas gained the knowledge of chronomancy, forcibly ejected from time and space, becoming Ghalen, Ashariel chases after him.

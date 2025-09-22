@@ -1,0 +1,3878 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Modern International Calendar",
+      "description": "",
+      "id": "ID_0bc878cbdb68",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Firstday",
+            "id": "ID_18b93b4b6a19"
+          },
+          {
+            "type": "day",
+            "name": "Seconday",
+            "id": "ID_a8c91b1a18a8"
+          },
+          {
+            "type": "day",
+            "name": "Thirday",
+            "id": "ID_c9b8e8bb0bca"
+          },
+          {
+            "type": "day",
+            "name": "Fourthday",
+            "id": "ID_7b993b387a18"
+          },
+          {
+            "type": "day",
+            "name": "Fifthday",
+            "id": "ID_a8d9cb8979a8"
+          },
+          {
+            "type": "day",
+            "name": "Sixthday",
+            "id": "ID_cba85838db68"
+          },
+          {
+            "type": "day",
+            "name": "Seventhday",
+            "id": "ID_891989cbbbaa"
+          },
+          {
+            "type": "day",
+            "name": "Eightday",
+            "id": "ID_cadb58687a6a"
+          },
+          {
+            "type": "day",
+            "name": "Ninethday",
+            "id": "ID_186adbd909a9"
+          },
+          {
+            "type": "day",
+            "name": "Tenthday",
+            "id": "ID_68fa89baba18"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Hammer",
+            "length": 30,
+            "id": "ID_db89fae8a9db",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Alturiak",
+            "length": 31,
+            "id": "ID_cb69ba498a58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ches",
+            "length": 31,
+            "id": "ID_fa58c8c94bf8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tarsakh",
+            "length": 31,
+            "id": "ID_fb386a2a9b99",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mirtul",
+            "length": 31,
+            "id": "ID_db1a0beb5a39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Kythorn",
+            "length": 31,
+            "id": "ID_4bb8fafaebc9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flamerule",
+            "length": 31,
+            "id": "ID_dbe84ab8ca8b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleasis",
+            "length": 31,
+            "id": "ID_ebaa4b8a6b38",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Eleint",
+            "length": 30,
+            "id": "ID_b8b809288938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marpenoth",
+            "length": 30,
+            "id": "ID_693a4afaa83b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Uktar",
+            "length": 30,
+            "id": "ID_eabb1899a9fa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nightal",
+            "length": 30,
+            "id": "ID_99c808b91b9a",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Lysandra",
+            "cycle": 28.16,
+            "offset": 4,
+            "faceColor": "#3d003b",
+            "shadowColor": "#000",
+            "id": "ID_69abfa794a88"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_99593a298ac8",
+            "name": "Menzoberranzan",
+            "interval": [
+              {
+                "interval": 5,
+                "exclusive": false,
+                "ignore": false
+              }
+            ],
+            "intercalary": false,
+            "timespan": 0,
+            "offset": 0,
+            "type": "leapday",
+            "after": "0"
+          }
+        ],
+        "eras": [
+          {
+            "id": "ID_b8eb7b9a6889",
+            "type": "era",
+            "name": "Age of Awakening",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -10000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -5001,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_8b4b2bcae9ea",
+            "type": "era",
+            "name": "Age of Building",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -5000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -3001,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_5ba8a918a9d8",
+            "type": "era",
+            "name": "Age of Rising",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -3000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -1201,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_aaf86b685bd9",
+            "type": "era",
+            "name": "Sundering War",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -1200,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -1,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_f9389a5b0a7a",
+            "type": "era",
+            "name": "Age of Wandering",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 0,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 1799,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_0b79f9684a2a",
+            "type": "era",
+            "name": "Age of Shadows",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1800,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 3449,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_8aa9facbfa4b",
+            "type": "era",
+            "name": "Age of Heroes",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 3450,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 4599,
+              "month": 11,
+              "day": 30
+            }
+          },
+          {
+            "id": "ID_88798a4b391b",
+            "type": "era",
+            "name": "Age of Harmony",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 4600,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": 5421,
+              "month": 1,
+              "day": 1
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1811516507,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "day": 12,
+        "month": 1,
+        "year": 5421
+      },
+      "events": [
+        {
+          "name": "New Year's",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_693acaa91b58",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Tide Festival",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 2,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_89ab2afb1b38",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Arming",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 4,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_1899fbc9697a",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Spring Equinox",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 30,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_0ba8880bb8ba",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "The Plowing",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 6,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_3a9a293a7b78",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Festival of Handras",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 19,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_391858f9f8f8",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Open Feast (Cormyr)",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 26,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_584859aa1b1b",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Trolltide",
+          "description": "",
+          "date": {
+            "month": 5,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_1a18baaa0b58",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Festival of Remembering",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 8,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_ab385bb8ab8a",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Lliira's Night",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 7,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_18a89baaea28",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Midsummer",
+          "description": null,
+          "date": {
+            "month": 7,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_a91a4b79e969",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Ormpetarr",
+          "description": null,
+          "date": {
+            "month": 7,
+            "day": 9,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_ba8b6b083b2a",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "High Harvestide",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_cb9b8b2af80b",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Besstide",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 15,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_db79582b5a48",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 2,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_69fae9bbb968",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Drahkzal",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": [
+              21,
+              30
+            ],
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_885948d8bae8",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Longest Night (midwinter)",
+          "description": null,
+          "date": {
+            "month": 1,
+            "day": 1,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_db6b393afa39",
+          "note": null,
+          "category": "ID_4afaa90bf828",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Snowfall on Gnomes'helm",
+          "description": "[[Shadows of Divinity - 1]]\n\nIn what ought to be the hottest day of the year, the first summer snowfall occurs in Dallon. King Colossus sees the snow, and knows what is to come. He fought the frostmaiden himself three years ago. With the guidance of the Raven Queen, he organises silos of food, and gathers his people in the city of Gnomeshelm, and prepares for what is to come. He sends envoys to nearby countries imploring them to take similar measures, and to stand in solidarity.\n\nThe Raven Queen whispers that he knows what he must do.",
+          "date": {
+            "day": 1,
+            "month": 7,
+            "year": 5420
+          },
+          "id": "ID_da8a2b3b092a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Snowfall",
+          "description": "Auril's spells defeat others, extending her frozen dominion",
+          "date": {
+            "day": 1,
+            "month": 7,
+            "year": 5420
+          },
+          "id": "ID_4949fbc8ba9b",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "DragonArrow investor pullout",
+          "description": "[[Shadows of Divinity - 1]]\n\nIn the city of Veloria, a magic steampunk New-York style metropolis, William speaks to his investors, who threaten to pull out after he insists on continuing ventures to the continent of Foedus, even though most ships that way are lost. \n\nHe gets frustrated and several of his investors' pullout. He sees it as an opportunity. No other shipping company is dealing with Foedus, much less the north of Foedus. He can gain a monopoly in that region. He doesn't doubt many countries are in need of imports and exports since Remshi shipping co. stopped shipping to the north, and the Dragonborn territories all locked themselves up. \n\nHe decides to go to Foedus personally after a message from Noab, king of Golin. He takes his bow and boards his personal flying ship.",
+          "date": {
+            "day": 14,
+            "month": 8,
+            "year": 5420
+          },
+          "id": "ID_699b5a9abb38",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Landing at Foedus",
+          "description": "[[Shadows of Divinity - 1]]\n\nWilliam lands his ship first in Gnomeshelm to visit Colossus, and Colossus and he draft a deal about trade and obtaining supplies through DragonsArrow Co. William then meets with the king Noab, and is introduced to Galio shortly thereafter.",
+          "date": {
+            "day": 8,
+            "month": 9,
+            "year": 5420
+          },
+          "id": "ID_db79b9a8086b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Induction talks at Gol",
+          "description": "[[Shadows of Divinity - 2]]\n\nDiscussions between William, Galio, and Noab. Noab asks about whether William intends to continue to ship goods to Golin, and William says that he is willing to if he can secure an exclusivity deal. Shipments that are not his have to be taxed more heavily when going through Golin. He speaks to Galio about a similar deal with Solenthir, but Galio cannot make such a deal on his King Aukun's behalf, and besides, nothing _can get_ to Solenthir, at the moment. It is too far north, and the open Deathwood pass is in the dragonborn territories, and the Aldarkeep pass has long been held by Auril.\n\nWilliam lets slip that he knows more about Auril than others, because he was at the Tree of Names three years before, and curiosity piqued, he tells them that Colossus was there too, and that they were on a mission for King Idros, whose kingdom fell to Auril and who is no more. They confirm he is telling the truth with a Zone of Truth cast by Noab's Sorcerer Airon Boodwine of Azerim.",
+          "date": {
+            "day": 16,
+            "month": 9,
+            "year": 5420
+          },
+          "id": "ID_b92a68eae8ca",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shadows of Divinity: Session 2: Colossus",
+          "description": "[[Shadows of Divinity - 2]]\n\nIn Gnomes'helm, Colossus is busy trying to muster food and supplies together, but there is nor much left of either. He realises they will be out of food within months, despite all their preparation. ",
+          "date": {
+            "day": 16,
+            "month": 9,
+            "year": 5420
+          },
+          "id": "ID_7afacbcbe92a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Abandonment of Katholaga",
+          "description": "[[Shadows of Divinity - 1]]\n\nGallio is told to abandon the fortress of Katholaga which he had originally been ordered to reinforce, and instead to go south and try to open up Aldarkeep pass, and to see if he could find some shipping company or provider willing to trade with the north.\n\nHe is also told to find out what happened at the Sanctuary Tree three years ago, since no one really knows what happened even now, only that whatever happened was part of the late King Idros of Thundrak's plan to defeat Auril, and that the king of the Dragonborn countries, King Valthor Draco-Remshi's son and heir the Prince Nil'ge'tar \"Nugget\" Remshi died at that battle, because days later his brother Tar'id'lion'nil \"Tarnil\" Remshi was named heir.\n\nKing Aukun explains that they cannot hope to defend against Auril forever, so they must eventually strike an offensive. Since Gallio is already going south, he should act as an ambassador for Aukun, establishing the NAF - Northern Alliance of Foédus, an initiative spearheaded by King Bressus Stonefist, king of Durinul, a bordering country to Solenthir, where Aukun rules. \n\nThey codename Aldarkeep pass as Chokepoint Zeta, and Galio leaves.",
+          "date": {
+            "day": 7,
+            "month": 6,
+            "year": 5420
+          },
+          "id": "ID_29b9183979cb",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm NAF Induction",
+          "description": "[[Shadows of Divinity - 2]]\n\nWhen William returns from his dealings with Golin a month later, Colossus gladly signs the exclusivity deals, and agrees also to let William purchase land on which to build a warehouse and a general base for shipping, giving jobs to the population of gnomshelm.\n\nGalio invites Colossus into the NAF, and Colossus joins. Colossus sorrowfully leaves his people as he joins this new quest, leaving in his place the circle of advisors. As they head to the north, William tries to get a deal with the Nerosean consulate, which allow it. The Nerosean consulate had refused to join the NAF.",
+          "date": {
+            "day": 3,
+            "month": 10,
+            "year": 5420
+          },
+          "id": "ID_bab88988b8ba",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Taking of Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 2]]\n\nWith a small force of 2000 and surprise, Galio is able to swiftly take Chokepoint Zeta (Aldarkeep Pass), Galio himself singlehandedly defeats the three dangerous spellcasters, members of the order known as the Sons of Auril. (These three casters had, in the previous campaign, caused much grief to the party, and killed Padfoot when the party tried to take them out.) Colossus is gravely injured in this battle.",
+          "date": {
+            "day": 24,
+            "month": 10,
+            "year": 5420
+          },
+          "id": "ID_7b3bcaeaf92a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Holding of Chokepoint Zeta",
+          "description": null,
+          "date": {
+            "day": [
+              24,
+              19
+            ],
+            "month": [
+              10,
+              11
+            ],
+            "year": 5420
+          },
+          "id": "ID_18784aead96b",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Holding of Chokepoint Zeta",
+          "description": null,
+          "date": {
+            "day": [
+              24,
+              19
+            ],
+            "month": [
+              10,
+              11
+            ],
+            "year": 5420
+          },
+          "id": "ID_8828b83b889a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Holding of Chokepoint Zeta",
+          "description": null,
+          "date": {
+            "day": 24,
+            "month": 10,
+            "year": 5420
+          },
+          "id": "ID_2b4ba8ea7a39",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 19,
+            "month": 11,
+            "year": 5420
+          }
+        },
+        {
+          "name": "Shipments arrive at Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 2]]\n\nWilliam arrives at Chokepoint Zeta (Aldarkeep Pass). ",
+          "date": {
+            "day": 26,
+            "month": 10,
+            "year": 5420
+          },
+          "id": "ID_f92a8a5908c8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashkara Expidition Leaves",
+          "description": "[[Session 1 - Conspiracy of Darkness]]\n\nA team of members of the Sol'karis is sent to Ashkara Thul to investigate odd activities.",
+          "date": {
+            "day": 28,
+            "month": 10,
+            "year": 5420
+          },
+          "id": "ID_aad88919682a",
+          "note": null,
+          "category": "ID_ea8a184aabcb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "First NAF Defense",
+          "description": "[[Shadows of Divinity - 3]]\n\nAttack begins. William does a lot of advance reconnaisance. Sabotages operations.",
+          "date": {
+            "day": 2,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_a9c8387a4be8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "First NAF Defense",
+          "description": "Main battle. Colossus hurls spells from fortifications. The battle goes well for them until a few Gelugons arrive. There's a skirmish, and one breaks through, killing twelve people and stabbing Gallio before it falls.",
+          "date": {
+            "day": 3,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_2bba789a79f8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shadows of Divinity: Session 4",
+          "description": "[[Shadows of Divinity - 4]]\n\nWilliam experimented and worked on Gelegoon for several hours, eventually getting them to put it into the Scorpion weapons.\nGallio is nearly dead. Stabbed and poisoned from the Gelugon attack.\nColossus is worried about Gnomes'helm. Gomezier arrives.\nRaven named Munnin.\nGomezier arrives, bringing news of collapsing homes in Gnomes'helm. \nWilliam investigated caves, saw Drakes.\nBegin heading to ball, along with Alantothi.",
+          "date": {
+            "day": 4,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_aaa97939a9f9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "First Marker of the Ashkara Expidition",
+          "description": "[[Session 1 - Conspiracy of Darkness]]\n\nThe team from the Sol'karis fights a mummy and finds a marker leading to Ahkara Thul.",
+          "date": {
+            "day": 5,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_c9dba99bda4a",
+          "note": null,
+          "category": "ID_ea8a184aabcb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashkara Expidition",
+          "description": "\n[[Session 2 - Conspiracy of Darkness]]\n[[Session 3 - Conspiracy of Darkness]]\n\nThe team from Sol'karis reaches Ashkara Thul, and violate mission parameters to begin an infiltration.",
+          "date": {
+            "day": 6,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_8958fb8819a8",
+          "note": null,
+          "category": "ID_ea8a184aabcb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashkara Expidition",
+          "description": "\n[[Session 4 - Conspiracy of Darkness]]\n\nKaelith disappears. Vorlin betrays the rest of the group.",
+          "date": {
+            "day": 7,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_9bf85bbae8c9",
+          "note": null,
+          "category": "ID_ea8a184aabcb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hechilspet Rises",
+          "description": "\n[[Session 5 - Conspiracy of Darkness]]\n\nHechilspet rises.",
+          "date": {
+            "day": 8,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_b97a8aabaa09",
+          "note": null,
+          "category": "ID_ea8a184aabcb",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Guerilla Assults on NAF forces",
+          "description": "[[Shadows of Divinity - 5]]\n\nSmall group of assaults go for the food stores on Gallio's camp. Gallio increases the amount of soldiers sent out as scouts, and the range of these scouting missions. ",
+          "date": {
+            "day": 12,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_29ab7a48b86a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Missing Scouts",
+          "description": "\n[[Shadows of Divinity - 5]]\n\nScouts sent in the direction of the ruins of Westhaven go missing.",
+          "date": {
+            "day": 14,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_d89a2858ba5b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "King Bressus's Assasination and Resurrection",
+          "description": "",
+          "date": {
+            "day": 17,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_7ab958da4bf9",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Grand Meeting",
+          "description": "[[Shadows of Divinity - 5]]\nThey reach the ball in Clockwork Citadel in Thilcerth in Durinul\nColossus buys armour for Gomezier and struggles to be taken seriously. \nBressus dies.\n\n[[Shadows of Divinity - 6]]\nThey resurrect Bressus.\nColossus talks with various suspects of Bressus's murder.\n\n[[Shadows of Divinity - 7]]\nTalks with Bechel, Bechel accuses Niamh. Bechel also grants Colossus his spellbook back, which he denies.\nElu Singollo kills Valden.\nWilliam obtains amulet against detection for saving the king.",
+          "date": {
+            "day": 17,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_6808fafb38e8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 5]]\nGalio meets Talberius\n\n[[Shadows of Divinity - 6]]\nThadurak, Blue who has been asleep for a century, awakes and flies towards the tree. \n\n[[Shadows of Divinity - 7]]\nArdor attacks Galio's forces, destroying nearly a quarter of his forces before they wound him and he flees.",
+          "date": {
+            "day": 17,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_a97ac98999a9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 7]]\n\nGalio and his troops can't sleep, because of constant small attacks on the nearly-routed forces starts cycling his troops.\nGalio talks with his (great, great) grandfather. Officially, now, the thing binding his grandfather's ghost is the heirloom dagger.\nHe decides to employ guerrilla tactics, forgetting he doesn't know the level of intelligence the enemy has and they could just detail against it.",
+          "date": {
+            "day": 18,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_49dba9b9ab59",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Grand Meeting",
+          "description": "[[Shadows of Divinity - 7]]\nAt the citadel. A council is called. They go to the council room.\nColossus gets lost. His room is cursed. He can't get to it.\nTahlia tells William she will be at his room.\n\n[[Shadows of Divinity - 8]]\nColossus escapes the curse on his room.\nWilliam buys a ring of language comprehension before going to go get Tahlia. \nWilliam talks with Tahlia and gets her story while Colossus tries to get to his door. Tahlia here touches the Labyrinth-stone, in a maneuver planned by Asmodeus, and shifted Korvos's soul from the Artefact into the Dagger of Souls.\nThey find out about stuff with Tartarus and Tahlia hints at having a Silanderi.\nThey try to meet with Bressus, but he is asleep.\nWilliam finds out Bechel doesn't reside _in_ the palace.",
+          "date": {
+            "day": 18,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_49a8084858d9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Grand Meeting",
+          "description": "[[Shadows of Divinity - 8]]\nColossus starts rewriting his spellbook.\nTahlia harrases William. \nThey report their findings to Bressus and go to the Dais where the council is. Note Tahlia isn't there.",
+          "date": {
+            "day": 19,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_19daab0bf9f8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 8]]\nGallio sends his hospital away and orders a bunch of animals to help disguise his presence.\nWilliam and Colossus talk to Singollo. William is thinking of obtaining a private defence force.\nBechel betrayes the forces in secret. NAF forces get detailed and destroyed.  \nGalio saved companion: Thalai Elantino\nSpecial forces hiding in caves.",
+          "date": {
+            "day": 19,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_eaa9985bba1a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 8]]\nKrag hungry, cold, in the dying Gnomehelm.",
+          "date": {
+            "day": 19,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_e93b3bf96bab",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 12]]\nAs the Sanctuary Tree weakens. Faust, an Aasimar and a warlock of Isfet, Chaos Incarnate, with the sole mission to cause as much Chaos as possible, slips through into the mortal plane. Arriving, he walks into town naked, without knowing the language, and manages to kill a merchant, steal his clothes, morphs into him, and enters his house, pretending to have been attacked and therefore not be talking. He falls asleep with the merchant's wife next to him.",
+          "date": {
+            "day": 19,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_d8d979ab7bfb",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 9]]\nDug, Crug with Krag, searching for survivors. Dug carries one person back. Crug and Krag fight several fire-breathing giant boars.",
+          "date": {
+            "day": 20,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_aa68b8ab0999",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 9]]\nGalio heads back, dealing with giant bats.",
+          "date": {
+            "day": 20,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_d8e829ba7ab8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Grand Meeting",
+          "description": "[[Shadows of Divinity - 9]]\nSingollo and Colossus converse with Asmodeus, who offers an  alliance to help them. They refuse. Azmodeus hijacks the meeting.\nSingollo, Colossus, and William agree to make an alliance and assemble a team for a last ditch effort on the first day of Alturiak.",
+          "date": {
+            "day": 20,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_b95988b928ba",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 13]]\nFaust wakes up still pretending to be the merchant he killed. Ransacks the room. Takes what he needs. (Change of clothes, money, red book) He ends up killing the wife when she wakes up.\nHe travels around the town, detecting the portals. He meets Nerach, an attendant of knowledge. Reads on the language and history. He talks to Theriad.\nBuys clothes. Enters hotel. Kills girl, pretends to be her, takes a bath, flashes hotel employee, a young boy. Escapes, returns to his body, intimidates boy. Enters again, talks to hotel owner and tries to charm him, but fails. Talks to family whose room he stole, tries to pickpocket, when caught, he kisses the man and escapes while everyone is surprised. He breaks back into the room he stole, but it's been broken, he enters the next room over and sleeps next to a couple in a family.",
+          "date": {
+            "day": 20,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_09f8480bf859",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "\n[[Shadows of Divinity - 10]]\nKrag returns to Gnomes'helm with a wounded Crug. \nAfter a discussion with Belg he decided to abandon the two remaining missing men, as they were probably dead.",
+          "date": {
+            "day": 21,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_48d94849cbc9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 14]]\nFaust wakes up and gets attacked by the man he slept next to. He nearly gets killed but manages to escape, injuring the man in the process. He has a concussion, but he heals himself magically shortly thereafter. He runs to a park where he can rest.\nTahlia is able to bring Korvus's soul to Ashdilkir, trading the knowledge of the location of the Oathbreaker Sword.",
+          "date": {
+            "day": 21,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_8b29fb387b39",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nIn Gnomes'helm Voren begins talking of joining Auril.",
+          "date": {
+            "day": 22,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_590b88ba8bda",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "NAF Grand Meeting",
+          "description": "[[Shadows of Divinity - 10]]\nColossus meets with Singollo",
+          "date": {
+            "day": 22,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_394939791bca",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 14]]\nTrixail is in some amount of dissarray.\nFaust burns some houses and causes some chaos before trying to sneak into the manor, but is stopped by a sentinel-construct. He escapes it with Morgana's help and gives her an impromptu lesson, accidentally discovering the ley lines and the tree when she accidentally summons Hekate instead. ",
+          "date": {
+            "day": 22,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_7989a9e99b4b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Session 1 - The Path of Honor]]\nThalai and Naras attempt to escape the necromancer's lair, taking some of his stuff. Triggering the necromancer's magical defences. Talor, lost in the storms finds an escaping Thalai and Naras and helps them in their escape. Thalai gets killed by an animated statue but Talor and Naras get away. The two have no languages in common.",
+          "date": {
+            "day": 22,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_5aa8b88a1a58",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashdilkir begins raising Korvus as a Lich",
+          "description": "",
+          "date": {
+            "day": 22,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_a8c878d9c958",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 10]]\nGalio re-establishes communications with 327 men on the other side of the collapsed pass. Begins rescue preparations.",
+          "date": {
+            "day": 23,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_bbf9095a883b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nOne food silo collapses in Gnomes'helm\nDerek, a popular Gnome of Wander, speaks his support of Voren.",
+          "date": {
+            "day": 23,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_2b7adb3ab96a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 14]]\nMorgana makes a deal with Isfet and kills one of the bullies, Kenet, scaring the other one. Making an oath to Faust.",
+          "date": {
+            "day": 23,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_29a9cbca3aa9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Session 1 - The Path of Honor]]\nTalor and Naras make it to Talor's hut, near which they find the unconscious gnome Ahktos Nestore, lost in the storm. Ahktos acts as a translator between the two, but often lies or misleads in his translations, they realise what he is up to and tie him up and force him to swear an unbreakable oath to not act with intent to deceive with them. ",
+          "date": {
+            "day": 23,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_a85bb98ba8e8",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 10]]\nGallio studies other planes and plane shifting techniques, as well as Divination magic. Trying to grasp the enemies' plans.\nArgues with his grandfather. Does not get much sleep. Continues to recover from his wounds.",
+          "date": {
+            "day": 24,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_4a5a9b9a6ae9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nKrag hears about Voren. \nKrag marches onto the Capital of Gnomes'helm with his militia and meets Eldon, who exits with a sword and ready to fight, loyal to Colossus, and seeing that Krag is not against the king, still disapproves of marching onto the capital over Voren.",
+          "date": {
+            "day": 24,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_781b1b68e9fb",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 15]]\nFaust uses silver wire as a magical fuse to delay triggering of summoning miniature rifts into pure chaos. He uses this to destroy the house of one bully.",
+          "date": {
+            "day": 24,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_8bcbf90b192b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Session 1 - The Path of Honor]]\nNaras discovers the tampering of the letters and insists on informing the recipient and sender as soon as the storm dies down.",
+          "date": {
+            "day": 24,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_79ea59ba7aea",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 10]]\nGalio considers different rescue plans.\nGalio recieves contact from William Treaty.",
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_b83a0ae8594a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "\n[[Shadows of Divinity - 10]]\nKrag continues stakeout.",
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_2bebbbca6839",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 27,
+            "month": 11,
+            "year": 5420
+          }
+        },
+        {
+          "name": "Trixail",
+          "description": "\n[[Shadows of Divinity - 15]]\nFaust - Blew up more things, including the homes of the Morgana's other bullies.",
+          "date": {
+            "day": 25,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_9bf98ba978a8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 10]]\nNAF forces produce Flight spells under Gallio's direction",
+          "date": {
+            "day": 26,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_da4a5bd99898",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 28,
+            "month": 11,
+            "year": 5420
+          }
+        },
+        {
+          "name": "Trixail",
+          "description": "\n[[Shadows of Divinity - 15]]\nFaust the school. Killed receptionist, poisoned the pool, vandalised, scared teacher, and blew up chemistry lab.",
+          "date": {
+            "day": 26,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_3a2adaca5a5b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Traces",
+          "description": "[[Session 1 - Traces of Divinity]]\nZalkeshar makes a deal with Unther after his wife dies. He calls on an old debt with Norvias. \nNorvias buys gear. Studies up on Neithen. To get information on Neithen, signed magical contract to do one job without pay for the Hidden Order.\nNorvias bribes a barkeep for more concentrated alchohol than legally allowed. He decides to steal the bribe back and followed him to his family. Failed to seak in. When spotted, killed the father in front of his children. Threatened the two children until the mother gave valueables.\nThurin requisitions the help of Ophiriel. Lies several times. Injures himself. Travels with her to the border. Lies to the guards. Climbs up a tree. Ophiriel convinces them he is mentally insane, which is super easy because he _is_. Ophiriel confiscates his weapons.",
+          "date": {
+            "day": 26,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_098ac8aa4a59",
+          "note": null,
+          "category": "ID_8bca5aca1a58",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 15]]\nFaust fled Trixail alongside Morgana. ",
+          "date": {
+            "day": 27,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_69997a192b8a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Traces",
+          "description": "[[Session 2 - Traces of Divinity]]\nOphiriel knocks Thurin out and drags him through the swamps of Rymfel to Blackton.\nIt is a day before the full moon. Norvias and Zal'kesh'ar are travelling along the south and get attacked by bandits, when they intimidate the bandits, and the bandits run away, they kill them anyways.",
+          "date": {
+            "day": 27,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_ca7a8b7bfafb",
+          "note": null,
+          "category": "ID_8bca5aca1a58",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Traces",
+          "description": "[[Session 2 - Traces of Divinity]]\nNorvias and Zal'keshar reach Trixail catching wind of Faust and some news of Neithen. Norvias murders someone.",
+          "date": {
+            "day": 28,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_1ad849da3a0a",
+          "note": null,
+          "category": "ID_8bca5aca1a58",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "\nKrag orders his men to leave and continues his stakeout hidden.\nVoren talks and Eldon is slain. Chaos.",
+          "date": {
+            "day": 28,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_e8d96b79280a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Mirmaeth",
+          "description": "[[Shadows of Divinity - 15]]\nMorgana and Faust made their way following the Ley line, meeting with an attendent of knowledge along the way. ",
+          "date": {
+            "day": 29,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_79ab18caeb09",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Chokepoint Zeta",
+          "description": "[[Shadows of Divinity - 10]]\nRescue goes according to plan. A random location is chosen at the last moment, and 327 men are extracted without a single casualty.",
+          "date": {
+            "day": 29,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_6b691adaeb8a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nDerek tries to get elected.",
+          "date": {
+            "day": 29,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_88a96bdb5b9b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Endelwinham",
+          "description": "[[Shadows of Divinity - 15]]\nMorgana learned to rip people's spines out while Faust accidentally cursed himself. They continue travelling, hoping to get the curse undone at Oracus.",
+          "date": {
+            "day": 30,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_8bb829b8e9cb",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nAnother food store collapses. There is evidence of sabotage.\nDerek gets elected after Voren's men guard the gates. Technically legal. Mira speaks out and is assassinated in secret.",
+          "date": {
+            "day": 30,
+            "month": 11,
+            "year": 5420
+          },
+          "id": "ID_a8785b0a3968",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Earthquake",
+          "description": "The great dragon-king Valthor Remshi is slain. His last spell drives away Auril's forces from the Tree. Aftereffects of this spell cause an earthquake. There is an enormous earthquake.  Buildings collapse.",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_fb1a588a9938",
+          "note": "The Earthquake.md",
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 10]]\nKrag reaches out to Silvercloak Haron Trueforge. \nKrag finds council member Belnor and two of the wings dead. He also finds the body of Mira, but assumes it was from the earthquake. The wings are working overtime and are passing out from exhaustion. A fire breaks out. Many people are without shelter.\n[[Shadows of Divinity - 11]]\nKrag realised Mira is not bleeding from new wounds. Krag realised Mira was murdered, and even finds the remnant of the arrow.\nHe draws attention to the sabotage of the stores by a hooded gnome.\nHe helps one of the Raven's wings who has passed out.",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_9818e87a296b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Caradhas",
+          "description": "[[Session 1 - The Path of Honor]]\nThe cabin collapses over Naras, Talor, and Ahktos\n[[Session 2 - The Path of Honor]]\nSearching for some haven from the storm after the Earthquake, Syl, Talor, Naras, and Ahktos stumble too near to the Necromancer and Syl gets captured by his wards. They fight an undead Thalai, resurrected as a wailing revenant, finally working together, and free Syl, unknowingly leaving a trace on themselves.\nThey flee the necromancer and wind up in the village of Caradhas, which was crushed by the snow from the hills around it. ",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_e9ea99a89b08",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Nine Hells",
+          "description": "[[Shadows of Divinity - 11]]\nThe traveller sends Lady Black on a mission to the Nine Hells.",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_48ba6beb59a9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Korvus's Phylactary is Completed",
+          "description": "Ashdilkir completes the construction of Korvus's phylactary and begins brewing the potion.",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_c9985b998878",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shadows of Divinity",
+          "description": "[[Shadows of Divinity - 10]]\nWilliam, Singollo, and Galio each investigate the Earthquake independently and come to the conclusion that it originated from the Tree of Names.",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ba38ab4938ca",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 11]]\nKrag is shadowed by one of the rangers from Golin. \nHe helps rebuild houses before he begins to fear for the safety of the gnome and the ranger with the gnome, as they are his witnesses, and he doesn't know how many people are involved.\nHe makes a scene in front of Voren and Derek trying to be subtle.\nAn assassin takes out the gnome and the ranger shadowing Krag before the other ranger takes out the assassin. Krag and the remaining ranger hide out in a cave.",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_6928ba6a2b08",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 11]]\nGallio finds out that there are animal rights activists angry about the captured animals. Morale is fairly low.",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_aa0b7a69aabb",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Caradhas",
+          "description": "[[Session 3 - The Path of Honor]]\nAs Talor leaves to hunt, Naras and Ahktos dislike each other even more. Syl catches an intellect devourer coming towards them, and advises them to flee. \nStrange divination magic seems to permeate things they are doing. Naras suspects his sister.\nAhktos gets ahead and arrives at a small village that's been affected by the blizzard and earthquake. He starts trying to steal from it.\nNaras flees the devourer and runs into an owlbear. He stays very still and it leaves him alone. Naras uses up some of his remaining magic to fly to the next village.",
+          "date": {
+            "day": 2,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_49dbf8695b49",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "[[Shadows of Divinity - 11]]\nKrag finds out the ranger's name is Daroth. The two hear the host of elves running through the snow.\nA bit later, the Taur-en-Faroth comes into view. They are perplexed at never having noticed it before. They decide to hunt quickly, and manage to get a lot of food Krag and Daroth decide to start heading north to find Colossus. ",
+          "date": {
+            "day": 3,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5b89f8eb8908",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 11]]\nSingollo, William, and Colossus arrive at Westhaven and Talberius shows them his network of knowledge communicated over the Ley Lines, and speaks with Singollo. Talberius has Vecna's hand replacing the hand that was missing, and has used it to curb the Orb of Annihilation.\nSingollo's ship goes into the Faewild and comes out on the other end of the pass. Colossus is a bit angry, but nothing happens to him. William, carrying raw material from the plane of fire, is yanked in that direction, and does not arrive.\nSingollo and his wife help protect the allied forces from intelligence by casting their Cloister spell.\nThe elven forces arrive and are ushered in. Gallio recieves word from Alantothi, who tells him the alliance is compromised before he dies. A bit later, Aukan calls Gallio. clearly under an enchantment, and gives him orders to march openly before the dragons. \nColossus searches for William as he starts to worry. \nGallio meets up with two of his comandors, Branold of Golin and Carnoth of Othron Ibrith, who had been given orders from Asmodeus-controlled NAF leadership to stage a coup if Gallio didn't follow orders. They explain that every other officer was _probably_ given the same order, so the ones that didn't come up to him might well be plotting against him. Branold wants to wait a bit to regroup. They discuss plans. Carnoth and Branold agree that the tree is the highest priority. Carnoth says that even above their countries, to which Gallio reluctantly agrees, though Branold says nothing. ",
+          "date": {
+            "day": 3,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_dac949499a4b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Nilen",
+          "description": "\n[[Session 4 - The Path of Honor]]\nThey meet Binch, who semi-befriends Ahktos. Naras dislikes him at first, but Binch purchases horses for them to reach Gnomes'helm. ",
+          "date": {
+            "day": 3,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_7b3969893a8b",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The NAF Falls to Asmodeus",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_18ea890aea28",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Caradhas",
+          "description": "\n[[Shadows of Divinity - 12]]\nKrag and Daroth head north. As they pass through the first town, Krag sees the destruction in Golin as well. Daroth talks to the King and is greatly saddened to see his king under the control of Asmodeus.",
+          "date": {
+            "day": 4,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_2a5a49190889",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 12]]\nColossus continues to look for William and talks to Singollo about it. They figure he might be in another plane and try to contact him. \nGalio marches up to and intimidates one of the generals who he suspects of planning to betray him. He finds out sections of his force are missing. His two main casters, the two clerics, try to divine what happened. One of these is a cleric of Tyr, who no longer has power, and the other is a cleric of Thalorin, who has since woken up, and tapping into Thalorin's power nearly kills the cleric.\nColossus helps the clerics and talks to Galio.",
+          "date": {
+            "day": 4,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ab4b187a481a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "\n[[Shadows of Divinity - 12]]\nGalio and Colossus search for the source of Necrotic power that has made people vanish.\nGalio shuts down streets and stuff to help this.",
+          "date": {
+            "day": 5,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_9b698b1b2819",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gnomes'helm",
+          "description": "\n[[Session 4 - The Path of Honor]]\nAhktos seperates himself from the group to meet with the Greenclad. He sees The Hidden Order has killed the Greenclad leader but he is captured before he can do anything. He hides his money and talks to Voren, agreeing to lure the remnants of the Greenclad to death. Ahktos's friend Bathar senses the trap and tries to help Ahktos escape, but they are both caught.\nNaras, Syl, and Talor try to track down Krag but find he left three days ago. They encounter Voren but realise they don't have the power to stop him.\nThey talk to the authorities in Gnomes'helm and garner the help of the Silvercloaks and the Kinais, this leads to an attack on Voren's party and Voren barely gets away with Ahktos and his best friend. He convinces Ahktos to swear himself to Auril and gives him a secret mission. To prove his loyalty he makes Ahktos kill his best friend Bathar, which Ahktos does.\n[[Session 5 - The Path of Honor]]\nSyl returns to look for Ahktos and manages to find him. Naras, Talor, and four rangers follow Syl and attempt to ambush Voren. Voren talks to the others and has Ahktos under a mind-control spell so that they don't suspect he switched sides. He channels through Ahktos as he teleports away. Talor and Naras are confused into fighting each other through illusion and mist, the rangers are also fighting amongst themselves. Syl posesses Ahktos to drive out Voren, and Ahktos manages to keep his secret.\nThe four rangers died during the battle.\nTo escape his oath, he changes his name to Torquil, supposedly out of shame for what he did under mind control (killing his friend, and killing the rangers.) \nThey return to Gnomes'helm.",
+          "date": {
+            "day": 5,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_a9a87b289ad8",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Korvus's Potion Complete",
+          "description": "Potion complete, Ashdilkir ressurects Korvus and forces him to drink the completed potion, locking his soul in the phylactary (her old neclace), as his body begins the transformation. Ashdilkir knows when the transformation will end, and leaves to collect other old allies in service of her goals, making sure to take precautions against Bechel's scrying. ",
+          "date": {
+            "day": 5,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_eb08a8fb8a9a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Shadows of Divinity - 12]]\nGalio and Colossus search for the source of Necrotic power that has made people vanish.\nColossus and Singollo look for William",
+          "date": {
+            "day": 6,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_2bfa189abbe8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Naewin",
+          "description": "\n[[Session 5 - The Path of Honor]]\nAt Gnomes'helm, they purchase some goods and get some potions ready. Naras talks to Nanold about the slave trade in Golin and about the politics in the Shattered Region. Talor trades rations for a huge sword.\nSyl reports the Intellect Devourer having consumed the small town and getting closer. The group lead it away and Torquil calls on Auril to freeze it at the bottom of a river. \nHe blesses some water for Naras to use to recharge his Spell Spheres.",
+          "date": {
+            "day": 6,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_fb98b8ba8a8a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Mountainside Tavern",
+          "description": "\n[[Session 1 - The Solenthir Gambit]]\nTalor and Aemma set off to rescue the Solenthiri Princess.",
+          "date": {
+            "day": 6,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5859191b9b6b",
+          "note": null,
+          "category": "ID_c93a6909c909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "\n[[Shadows of Divinity - 12]]\nGalio and Colossus search for the source of Necrotic power that has made people vanish. Another disappearance occurs.\nGalio talks to Asenath while Colossus detects his thoughts. Knowing Asenath plans to betray him, he places him under arrest. Realising his plot failed, Asenath attacks Galio and is instantly killed by the high guard.",
+          "date": {
+            "day": 7,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_8928db7ac8f9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oracus",
+          "description": "[[Shadows of Divinity - 19]]\nFaust and Morgana eventually made a deal with Lucy to undo his curse.\nFaust speaks with Morgana overlooking the soldiers as they steal food to eat after getting uncursed by the fairy. \nFaust tries to convince her to cause chaos, but she is scared to cause harm to the soldiers, innocent. He notices her attachment to the carved horse that Lucy gave her. He tries to take her horse, and Morgana gets quite angry, so much so she agrees to cause chaos on the soldiers, but her mood and look are affected, and her sanity seems on edge, Faust is enchanted by the horse and lets her off the hook about it. He stops her from causing chaos with the soldiers, having lost his taste for the chaos because of how deeply unnerved he is. They eventually leave, going north towards the tree.",
+          "date": {
+            "day": 8,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_68a9c86a9a3a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Aldarkeep",
+          "description": "\n[[Shadows of Divinity - 13]]\nKrag and Daroth are attacked and brutalised by an Owlbear, they barely survive.",
+          "date": {
+            "day": 8,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_d8bb9ac91a18",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Upperdark",
+          "description": "[[Shadows of Divinity - 14]]\nKrag follows Dareth into the cave and is captured by the Drow and brought into the underdark. He bonds some more with Dareth during the escape. Later the drow check on him and see that Dareth is gone and interrogate him, and Krag kills them all except the interpreter, who he captures. ",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_79b9cb794a2a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Trixail",
+          "description": "[[Shadows of Divinity - 14]]\nGalio evacuates a city and waits for Hechilspet.",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_e908796bf8e8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Niamh's Suicide",
+          "description": "Lady Niahm Moonwatcher commits Suicide",
+          "date": {
+            "day": 7,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_2a8988a8ba08",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azerim",
+          "description": "[[Session 6 - The Path of Honor]]\nThe party reaches Azerim. Talor goes to enquire about Krag to the Army. Naras and Torquil head to the underground slave trade ring and find Lord Amos Black, one of Naras's former masters, bidding on a young half-elven maiden. Syl searches for the source of a huge burst of Chaos energy.\n[[Session 7 - The Path of Honor]]\nTalor attempts to ask at the city hall about Krag, but also recieves no answer.\nA flighty Torquil gets spooked by the antimagic and runs away, causing him to get arrested and foiling Naras's revenge against his former master. Naras instead grudgingly causes mass confusion and saves Torquil. \nTorquil secretly gives a message to someone, given to him by Voren. His mind is then wiped.\nSyl meets dragonborn wizard Tal'berius Tar'rillion in his Architect's Sanctum, where the cracked orb of annhilation is releasing Chaos and he attempts to contain it. \nThey are trying to regroup when the dragon Tormac, leader of the Greenclad, comes in and attacks the city. Naras manages to teleport himself, Talor, Torquil, and five children. \nSyl follows Tal'berius and watches the Eye of Vecna be stolen from his vault by Kas and Tahlia.\nTorquil begins to fly to Bremen using a spell, not knowing Naras and Syl are preparing a teleport. The other seven teleport to just outside the city.",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_c819496ba858",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Zephyr's End",
+          "description": "Akadi is killed. The plane of air is destroyed. All who live there are destroyed. William is forced to evacuate this and returns to the material plane.",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_f888bad818a8",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Architect's Abandonment",
+          "description": "Tal'berius leaves the Architect's Sanctum after continuous attacks by Kas, and catching wind of the Cult of the Whispered One's movements, decides to check on the other pieces. ",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_2b9aba88bad9",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Collection of Thorne",
+          "description": "Ashdilkir speaks and gathers the alliance of Thorne, angry at the gods for failing their oaths.",
+          "date": {
+            "day": 9,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_28b9db69e84a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Redmont",
+          "description": "\n[[Shadows of Divinity - 11]]\nWilliam wakes up in his old home in his home country of Swanward. He has not been here in twenty years, since his ten-year exile. \nHe looks at pictures of his late wife, and some of his old friends, and some medals from his time in the war, and laughs at the fact that he'd _prefer_ that war. A war between mortals and mortals, over this, a war between mortals and gods. \nHe goes to town to see if he can be healed. The town has changed much in twenty years, and in the end he has to ask for help. He finds old Freddy's area has closed up and finds out he died a few months ago. He finds also that his friend Edward has been promoted to captain of the guard. The town has gotten even richer over the years, but some areas remain unchanged.\nHe tries to remain inconspicuous, but when he enters the apothecary shop, he is greeted by Old Frederic Duncans grandson, William's childhood friend, Brian Duncan.\n[[Shadows of Divinity - 12]]\nWilliam spends his day obtaining clothes, spending a small fortune. He also helps his friend Brian out. He gets someone fired. He realises he will have to go from Redmont to Dragonvale. He also realises one of the twins is somewhere in Swanward.",
+          "date": {
+            "day": 10,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_4a596af99bfa",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Sanctuary",
+          "description": "[[Shadows of Divinity - 19]]\nFaust and Morgana reach the edge of the Lake of Sanctuary, approaching from the around the South-South-East, so that they come upon Tormac, the dragon. They camp three miles away from him, unsure of how to approach.",
+          "date": {
+            "day": 10,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ebba485a0aba",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fonteriano",
+          "description": "[[Shadows of Divinity - 15]]\nHechilspet's attack on Fonteriano, Gallio uses metal bows to strike at his wizards and evacuates the place beforehand. It goes well for Gallio.",
+          "date": {
+            "day": 10,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_69790b58898b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Bremen",
+          "description": "\n[[Session 8 - The Path of Honor]]\nNaras and co reach the city. Because the dwarves hate outsiders, they can't leave the kids in the city. They obtain supplies and hotel.",
+          "date": {
+            "day": 10,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_4b990adb8948",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Perch",
+          "description": "[[Shadows of Divinity - 20]]\nFaust's mind clears from the enchantment of the horse, and he confronts Morgana. She easily overpowers him using the archfey's horse. Using the horse, Lucy commands her, she wakes the dragon, and enchants him to come to the city. \nFaust breaks his deal with her, and as she leaves she uses his reflected dissonant whispers to tell him that oathbreakers always pay a price. \nFaust is confronted by the Order of Names. He travels and takes the lightwood capital.",
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_1929984a6b0b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Upperdark",
+          "description": "[[Shadows of Divinity - 16]]\nKrag - befriended \"Rag\", his captive, who escaped after casting friend. Rag pretends to return and befriend him again, to have been \"recaptured.\" Until Dareth (Dag) comes and saves them, and the pair manage to head down. Krag confused Rag with Belg for a bit.\n[[Shadows of Divinity - 17]]\nKrag - poisoned, faced with Mind Flayer an hour and a half later.  ",
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_2b7a880b3828",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Redmont",
+          "description": "[[Shadows of Divinity - 13]]\nWilliam preps to leave Redmont when he encounters his mentor, Halt O'clommel. He drinks coffee with Halt and they talk about the end of the world. Halt sends to Prichard to get more information on the twin that lives around here, directing William to the Boleyn mountains and the Boleyn cave system. As well as to Dragonvale for his ship.",
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5ab96beafaab",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Bremen",
+          "description": "[[Session 9 - The Path of Honor]]\nCanaries follow Torquil, Naras, Talor, and the kids. They are each seperated as Bahamut speaks to each of them in turn through his followers.  The group enters the Underdark after they each are tested. Liriel discovers Torquil's betrayal. Bahamut gives Liriel one of the three lost copies of the Codex of Abraham the Mage.",
+          "date": {
+            "day": 11,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_3a0afb2b8968",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Madium",
+          "description": "[[Shadows of Divinity - 18]]\nDag, Rag, and Krag invade druegar outpost of the cult of the whispered one trying to find a cure for the poison.",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_c9aba9e879ab",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Skarro",
+          "description": "[[Shadows of Divinity - 17]]\nGallio - tries to confront him when he faces Varook, but is stopped by blindness spells",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_49aa789b4b3a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lorekeep",
+          "description": "[[Shadows of Divinity - 14]]\nWilliam talks to Theriad alongside Halt. \nThen returns to send messages to the two on the list in Veloria, dealing with the bounty hunter's guild.",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_38aaeb9b0819",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Upperdark",
+          "description": "[[Session 10 - The Path of Honor]]\nThey take the book from Liriel. Naras goes to destroy it. Naras is overcome by the book and is convinced to not destroy it, instead wanting to read and study it. They are attacked by a grey ooze.\nTorquil attends the greenclad meeting, where he enters a zone of truth and speaks with Vildara Sable, a primogen of the Greenclad, loyal only to Tormac. Vildara quickly tricks Torquil into giving up the officer robes for the region of Gnomes'helm, and then strips him of Greenclad status, claiming she should kill him for not being loyal to Tormac, and for his false ascension. To be forgiven, he has to kill one man named Mardor. \nTorquil wants to go kill the man, but Naras talks him into at least meeting the man first. \nTorquil finds that it is a young man, who cares for his grandfather, and is moral and righteous. Naras helps Torquil choose the right thing. They cannot then use the aid of the Greenclad.\nThey warned the man and helped give him resources to go into hiding and stuff.\n[[Session 11 - The Path of Honor]]\nThey fight and nearly lose a battle against ropers.\n",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_6ad9ab7beaa9",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Korvus's Return",
+          "description": "Korvus's Transformation ends. Ashdilkir returns and uses her control over his phylactary to blackmail him into providing her with a favour, using unbreakable oaths to attempt to prevent any betrayal. Greatful for his help, she provides him gold, captives, and equipment, and aids him in taking the Architect's Sanctum as Tal'berius is away.",
+          "date": {
+            "day": 12,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5b18e969a959",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Veloria",
+          "description": "\n[[Shadows of Divinity - 16]]\nWilliam talked with Halt until it was the hour he met Valus. Valus agreed to work for free. Aeoife sided with her father and fought William.\n[[Shadows of Divinity - 17]]\nWilliam - Went to hospital. Recovered. Studied Vendetta Blades. ",
+          "date": {
+            "day": 13,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_48198a08ca58",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Carabran",
+          "description": "[[Session 12 - The Path of Honor]]\nCaxius, tracking Ivvan, attacks Torquil but is stopped by Aric. \nAt this time, Krag, Ranor, and Dareth arrive at the cave. Caxius is ready to attack them instantly but Aric tackles her again. Liriel makes a play for the book but is stopped by Naras. \nKrag is informed about the letter, but passes out from the poison, and is locked into The Mirror of Life Trapping to save his life.\n[[Session 13 - The Path of Honor]]\n[[Session 14 - The Path of Honor]]\n[[Session 15 - The Path of Honor]]\n[[Session 16 - The Path of Honor]]\nKrag, Naras, and the rest enter the Underdark city of Carabran. Things go wrong very quickly and they become labelled as the Bag Blowers. Caxius dies likely only hours away from finding her brother Ivvan.",
+          "date": {
+            "day": 13,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ca581a782bba",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Carabran",
+          "description": "[[Shadows of Divinity - 21]]\nKrag meets Aric, Lirien, and Kerran with Ranor, who is spooked and unsure about what to do. Ranor ends up running off onto the city on his own. He ends up entering the city, convincing Aric he can read. He is eventually stopped by the greenclad, led by the orc Gothmog, over Torquil Leogan.\n\n\n[[Session 15 - The Path of Honor]][[Session 17 - The Path of Honor]][[Session 18 - The Path of Honor]]\nAs they escape the prison, and the city, they meet and gather five new companions, Vraelis, Duthrim, Drithen, Uncim, and Ivvan.  Dareth and Ranor (Dag and Rag) die in the chaos.\nRessummoning Syl, Naras lets through some of Naras's Darkness.",
+          "date": {
+            "day": 14,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_38890b599afb",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lorekeep",
+          "description": "\n[[Shadows of Divinity - 17]]\nWilliam bought distancer, (Fancy new weapon, evolution of hand canons, a gun, called distancer in this world, protypes, expensive), killed Tarrasque, and then worked on preparing the ships until morning.",
+          "date": {
+            "day": 14,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_9adbd9ba7b7b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Carabran",
+          "description": "\n[[Shadows of Divinity - 23]]\nKrag fights and loses against the greenclad, who carve out Aric's eye. They take him to the Pit of the Darkness that Is, who believes Krag is Talos. As they are being threatened, Krag threatens to toss a wonderous item to the Darkness, but they decide he is bluffing. He breaks the item, and the darkness swallows it, killing the other greenclad and taking the items. Three goats come and take the children away. The Darkness That Is has awakened.\n[[Session 19 - The Path of Honor]][[Session 20 - The Path of Honor]]\nVraelis, Duthrim, and Uncim die as the party escapes the Underdark. Duthrim is left behind.",
+          "date": {
+            "day": 15,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_68a80a091b29",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Veloria",
+          "description": "[[Shadows of Divinity - 17]]\nThalia approaches William Treaty explaining her plan for the eye but he kills her. He identifies her gear.  ",
+          "date": {
+            "day": 15,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_78bbdbbb593b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oracus",
+          "description": "\n[[Shadows of Divinity - 17]]\nAt Oracus, Gallio has final confrontation with Hechilspet's forces. He sweeps them aside into victory and kills Hechilspet, though Ardarul dies to a meteor swarm. Gallio earns the title godkiller, and uses Hechilspet's demiplane amulet for his army. He honours Ardarul and is granted Mithril armour by the dwarves. New dwarven general is Firngar, and Gallio Godkiller is named Zirvin, mighty-friend, by the Dwarves.  ",
+          "date": {
+            "day": 15,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_bb89996ab939",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hechilspet's Death",
+          "description": null,
+          "date": {
+            "day": 15,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5a4a09b879f9",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Tal'berius's Return",
+          "description": "Tal'berius returns to his sanctum to find it invaded. Thorne and Ashdilkir manage to keep him out.",
+          "date": {
+            "day": 15,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_3b9bdaba483a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Veloria",
+          "description": "[[Shadows of Divinity - 16]]\nWilliam passes out as Halt scolds him for letting the Eye get away, not sleeping, and his sloppiness in killing Tahlia. He sleeps on board the ships on his way to the Tree of Names, talking with Valus and Halt about what will need to be done, and spends the day attempting to identify the weapons.",
+          "date": {
+            "day": 16,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_9ab86a7949ea",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca",
+          "description": "\n[[Session 21 - The Path of Honor]]\nThe Bag Blowers are captured, along with circus-clown Giggle, by Tar'id'lion'nil Remshi's forces, which fled from the capital after Faust conquered it. After some questioning, he agrees not to turn them over to the government of Lolth in the Underdark. The young boy, Kerran, dies of cold and illness.",
+          "date": {
+            "day": 16,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_f8184a690b58",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Larnic Ocean",
+          "description": "[[Shadows of Divinity - 20]]\nWilliam awakens bruised, battered, and confused. The ship is damaged and falling behind the fleet. Everyone else on board is equally confused. More and more gaps in there memory surface. People are missing. Halt and Valus are missing. ",
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_58ead9582b28",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca",
+          "description": "[[Session 22 - The Path of Honor]]\nAuril attacks and destroys the city of Lei'ca. Torquil kills himself to prevent her from gaining the knowledge he was meant to deliver to her. Liriel is captured along with the book of Abraham the Mage.\n[[Session 23 - The Path of Honor]][[Session 24 - The Path of Honor]]\n",
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_fa09fbcac849",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Sur'ta",
+          "description": "[[Session 2 - The Solenthir Gambit]]\nTarold and Aemma are attacked by a strange shadow-monster.",
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_eb280898dac8",
+          "note": null,
+          "category": "ID_c93a6909c909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arthur begins regrouping people.",
+          "description": "",
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_486ae9682959",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca's Fall",
+          "description": null,
+          "date": {
+            "day": 19,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_480b585a1a88",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Larnic Ocean",
+          "description": "[[Shadows of Divinity - 20]]\nWilliam fights a strange creature. All of his memories of it are conflicting. He can't recall what the creature is or what it looked like. Everyone who fought alongside him doesn't recall it at all. As suddenly as it began, it ends, and there are new gaps in his memory. More people are missing.",
+          "date": {
+            "day": 20,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_f92bb88a3b38",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca",
+          "description": "\n[[Session 25 - The Path of Honor]]\nThe Bag Blowers flee Lei'ca along with the king, they are accompanied by two runaway slaves. The party squabbles amongst themselves. Naras attempts to remove the tracking spell on Uldren, but it fails and the backlash of the spell kills Lirien, angering Aric. Some of them go and attempt to loot an abandoned town but are driven away by a strange darkness.\n[[Session 2 - The Solenthir Gambit]]\nTarold and Aemma reach Lei'ca, seeing the destruction, and begin heading other way.",
+          "date": {
+            "day": 20,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_985909aa6b6a",
+          "note": null,
+          "category": "ID_c93a6909c909",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shadows of the Fallen",
+          "description": "[[Shadows of the Fallen]]\nAshdlikir checks on Korvus's progress. She watched him toy with a group of three captives.",
+          "date": {
+            "day": 20,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_7acb2b3b4b2a",
+          "note": "Campaigns/5420 Shadows of the Fallen/Shadows of the Fallen.md",
+          "category": "ID_8a9acafae998",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arthur forms a new grand camp a few miles from Lei'ros.",
+          "description": "",
+          "date": {
+            "day": 20,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_8ada08fada2a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Xyrdakul",
+          "description": "[[Session 1 - Bonds of Fate]][[Session 2 - Bonds of Fate]][[Session 3 - Bonds of Fate]]\nEvenon and Ekenon attend a Drakzhal party in Xyrdakul, beginning Beelzebub's ploy.",
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_db5849da38bb",
+          "note": null,
+          "category": "ID_db685bb99929",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kharazien Moves To The Perch",
+          "description": "Kharazien begins moving his troops towards the Perch, worrying Lei'ros and his forces, as they try to regroup.",
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_4a28f8982949",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Path of Honor",
+          "description": "[[Session 26 - The Path of Honor]]\n[[Session 27 - The Path of Honor]]\nNaras, Ivvan, Serin, and Aric leave the rest of the Bag Blowers and begin heading West. The others head North with Tarnil, hoping to reach Riulva, but Talor is killed along the way. ",
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_dbdbdb1b085b",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oracus",
+          "description": "\n[[Shadows of Divinity - 20]]\nGallio is dealing with paperwork when he hears of the incoming dragon. He makes a diplomatic visit to Lucy Iwaelf and Baeor Dechaius. Lucy accepts his proposal atop Othron Ibrith, and they eat to their new, temporary, alliance.\n[[Shadows of Divinity - 22]]\nGalio prepares for the arrival of Tormac, and for his eventual betrayal of Lucy and Baeor. ",
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_b85b0ada8a49",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Larnic Ocean",
+          "description": "[[Shadows of Divinity - 22]]\nWilliam Treaty continues to try to locate Halt. He works with his crew, slowly figuring out what is going on. ",
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_0ba8b9587989",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Larnic Ocean",
+          "description": "[[Shadows of Divinity - 22]]\nWilliam treaty dispels Aeoife from the ship and succesfully contacts Baron Daron.",
+          "date": {
+            "day": 22,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_190a982a6aa8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gildenbrook",
+          "description": "[[Session 28a - The Path of Honor]]\nNaras, Ivvan, etc. Reach the lonelywood, and enter a small town named Gildenbrook. ",
+          "date": {
+            "day": 22,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_b998683b2869",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ruilva",
+          "description": "[[Session 28b - The Path of Honor]]\nTarnil speaks to Akavral.",
+          "date": {
+            "day": 22,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_7bca2868f8d9",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hreghalk",
+          "description": "Dri'ros's forces, after Dri'ros's death now commanded to protect Lei'ros, son of Tar'nil, begin escorting Lei'ros to Arthur's encampment.",
+          "date": {
+            "day": 22,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_c948faa89a98",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oracus",
+          "description": "[[Shadows of Divinity - 23]]\nGallio fights and kills Tormac with the aid of Lucy, he turns on her, but she kills herself first. Baeor remains.",
+          "date": {
+            "day": 23,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_191a988acaab",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gildenbrook",
+          "description": "[[Session 29a - The Path of Honor]]\nRessummoning Syl, Naras lets through Aeoife.\nAric and Naras are captured by slavers when they try to help defend the town from slaver-raids.",
+          "date": {
+            "day": 23,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_fb3abb6808f8",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca",
+          "description": "[[Session 28b - The Path of Honor]]\nAkavral Tarnil and a small contingent of forces launch a rescue mission towards Lei'ca, but are attacked by Liriel, weilding the codex, who nearly kills them all trying to find the Dagger of Vengeance, but Ivvan stole it from Tarnil, so it is with Ivvan.",
+          "date": {
+            "day": 23,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_b8aa796bbac8",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Pits of Xandred",
+          "description": "\n[[Session 30a - The Path of Honor]]\nEarly 24th. Ivvan captured. Ransom sent. Naras begins with the tunnel crews.",
+          "date": {
+            "day": 24,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_da98e8aba8fb",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ca",
+          "description": "[[Session 29b - The Path of Honor]]\nTarnil dies chasing a magical horse into a divine forest fire. Qorneth follows. Aka'vral tosses in Uldren. ",
+          "date": {
+            "day": 24,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ea4b1a58dbbb",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "New Council (Drakenthorne, Lei'ros)",
+          "description": "Lei'ros and Arthur reunite.  They begin forming a new council.",
+          "date": {
+            "day": 24,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_1b9b1babfb3a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vasterra",
+          "description": "\n[[Shadows of Divinity - 23]]\nWilliam is rescued by Theriad and his attendents. They set up antidivination wards at the camp.\nWilliam, Baron Daron, Theriad, and an intern meet to discuss the plan of action. The plan is to take the tree and fortify it. Baron Daron produces a vial of Azmodian Ichor.",
+          "date": {
+            "day": 25,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_39d8985b3869",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Shadowfell",
+          "description": "[[Shadows of Divinity - 23]]\nColossus is freed, talks to the Raven Queen and to Falledric. Colossus travels through Arvandor and onto the material plane, talking to William Treaty shortly after landing. He then continues onto the Shadowfell, discovering the plane invaded by the darkness of Shar. He and the Raven Queen formulate a plan and get ready to attack.",
+          "date": {
+            "day": 25,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_998909d9c959",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Pits of Xandred",
+          "description": "\n[[Session 31a - The Path of Honor]]\nIvvan's failed escape attempt.",
+          "date": {
+            "day": 25,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_ea0bb838aad9",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hreghalk",
+          "description": "[[Session 30b - The Path of Honor]]\nAka'vral shows up and gives the news of Tar'nil's death. Camp politics occur.\nA new sport, Basketball, is created by Aka'vral, as a way to improve morale. They begin opening supply lines.",
+          "date": {
+            "day": 25,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_7bf879894b59",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vasterra",
+          "description": "[[Shadows of Divinity - 24]]\nWilliam Treaty contacts Galio Thunukalathi, reconnecting and redrawing the plan after William's delay. \nAeoife strikes at Baron Daron and Analyst. Theriad Keladri and William Treaty get there just in time to stop her from stealing the ichor.\nThe Attendents of knowledge manage to bring Halt O'clommel and Valus out of the Dagger of Souls, but cannot succeed in ressurecting Nil'ge'tar \"Nugget\" Remshi, the former prince who died three years earlier in defense of the tree. Nugget manages to curse his own soul, allowing them to make a desperate attempt to bind his soul and body by shifting him to the Dark Regions, and transforming him into a vampire. ",
+          "date": {
+            "day": 27,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_1a2a397bfac8",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fortress of Memory",
+          "description": "[[Shadows of Divinity - 24]]\nHeld by his old oath, Nugget finds and meets Colossus Methunroa, and they prepare the defense of the Palace of Memory. ",
+          "date": {
+            "day": 27,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_3bcae8ebc928",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Coriadin",
+          "description": "[[Shadows of Divinity - 25]]\nJessica Black returns to the land of mortals.",
+          "date": {
+            "day": 27,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_8acb4afa3bea",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Pits of Xandred",
+          "description": "[[Session 34a - The Path of Honor]]\nNaras meets Leren and is attacked by one of the tunnel-Rasques. \nMost of tunnel-crew 7b dies. Naras resummons syl to get back to the main tunnels, and begins thinking of escape.\n[[Session 33a - The Path of Honor]]\nIvvan stays at the slave encampment. Serin is freed. Ivvan talks to the Sons of Xandred.",
+          "date": {
+            "day": 27,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_caa8c83a894a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Riulva",
+          "description": "[[Session 31b - The Path of Honor]]\nThe troops begin moving from the Deathwood to Riulva to prepare their campaign for the throne.",
+          "date": {
+            "day": 27,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_680b2a59387a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Sanctuary",
+          "description": "\n[[Shadows of Divinity - 25]]\nWilliam Treaty and Gallio finish preparations for their assault.\nThey arrive onto the great lake, unnopposed.\nA small contingent arrives after they've begun to set up.\nGalio goes to help the crew at Miral.",
+          "date": {
+            "day": 28,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_792a19eb7bc9",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Frostmourne",
+          "description": "\n[[Shadows of Divinity - 24]]\nKrag reaches the peaks of the impassable mountains, arriving at the foot of Auril's palace.\nProjected\nKrag fights and loses against Auril, Liriel takes the Silver Ravens",
+          "date": {
+            "day": 26,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5b4a0a58e80b",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Pits of Xandred",
+          "description": "[[Session 32a - The Path of Honor]]\nIvvan kills Szinvorn and takes his place.\nNaras inspects the pits and tries to speak with Dundarion.",
+          "date": {
+            "day": 26,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_fa581a88ca6b",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hreghalk",
+          "description": "[[Session 31b - The Path of Honor]]\nLei'ros is coronated.\nArthur is named Hand of the King.",
+          "date": {
+            "day": 26,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_e9ea1a5a6829",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Pits of Xandred",
+          "description": "[[Session 35a - The Path of Honor]]\nTepozo arrives at the Stellatite Mines and is put with Tunnel-crew 7b, his unflappable good-naturedness earns him a friendship with Leren and Naras. ",
+          "date": {
+            "day": 28,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_398be829f82a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Carabran",
+          "description": "[[Session 33a - The Path of Honor]]\nIvvan goes to Carabran. Does what he does at Carabran.",
+          "date": {
+            "day": 28,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_5acb3aa9bb2a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fortress of Memory",
+          "description": "\nPROJECTED\nColossus and Nugget Remshi kill Vecna and restore the Shadowfell. ",
+          "date": {
+            "day": 29,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_187a38fafb7a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Sanctuary",
+          "description": "PROJECTED\nAuril and Liriel attack the encampment at the Tree. Liriel is UnCharmed by Colossus, but continues to work with Auril to defeat them, but is forced to retreat. Liriel leaves behind the silver ravens.",
+          "date": {
+            "day": 29,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_cbf89bd89b7a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Pits of Xandred",
+          "description": "[[Session 35a - The Path of Honor]]\nTepozo, Leren, and Naras continue to work in the Caves of Karr. Syl tries to find a way out for them. They meet Nirhak.",
+          "date": {
+            "day": 29,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_a84819f8992a",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Liriel frees Aric",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_687aaa792a69",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fortress of Memory",
+          "description": "PROJECTED\nColossus restores the Divinity of Tyr and The Raven Queen.",
+          "date": {
+            "day": 30,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_9879dbc9dada",
+          "note": null,
+          "category": "ID_6b48a87a1b5b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashariel's Ascension",
+          "description": "Korvus finishes his experiments and Ashdilkir is able to ascend. She becomes Ashariel. Retribution.",
+          "date": {
+            "day": 30,
+            "month": 0,
+            "year": 5421
+          },
+          "id": "ID_1a484b2998ea",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Shattering",
+          "description": "\n\nA great ley line shifting, which occurs every few hundred years, and the longest night (winter solstice), coincide to make the border between realms thinnest, allowing creatures to pass through the Tree more easily.\nAt the longest night, in a great battle at the tree, Tartarus is able to get his forces there, killing Isendra on the other end. Many things occur. See Longest Night. Baron Daron, the Analyst, and Galio die in the fighting.\nAzmodeus returns to his godhood as Be'elzebub gives him the Ichor. He successfully severs Tartarus's bond, restoring Nil'ge'tar's sanity.\n\n[[Session 31b - The Path of Honor]]\nAka'vral's forces arrive at Riulva and see evidence of this fighting, a few miles away. They rush to investigate, arriving moments before the Shattering.\n\nAuril is killed by Liriel using the Codex, since she attempts to use Aric's possesion, to restore her divinity, just as the Shattering happens.\nRealising Tartarus's true plan to awaken Azgorath, and in order to prevent the immediate destruction of the world, Colossus uses the Divine Unbinding spell to steal Auril's divinity, but is unable to kill her, revealing the spell to everyone there. Colossus causes the Shattering, destroying the Tree and allowing the protectorate to swoop in. Colossus and Gallio are killed by the ensuing blast. Tal'berius Absorbs the Tree. \nWithin stopped time. The fully awakened Thalorin draws Tartarus away to a great battle. Great earthquakes occur. Sections of the atmosphere ignite as the Divine Ley lines collapse. Azgorath and the Epic Dragons stir in their slumber. Ghalen prevents Kas from killing Ashariel when she arrives, by shoving him into the growing threads from the Conduit. Lady Black dies in the chaos. Other things occur. Maegard kills Valus. Tal'berius Auril's divinity to form The Conduit, stabalising the Planes, undoing Dur'bagaal's and Atropus's first act of destruction at the beginning of the Eternal Wars, and thus allowing the Arcane Leywrite to allow Tal'berius to comprehend and channel the power of the Trees. Grumbar is awakened as time flows properly again. The Shadow is freed. Tal'berius kills Hekate, scattering her essense across the Material Plane.\nThe conduit ends the Time Stop, and any other time-fluctuating effects, expelling Kas from Time and Space, converting him into the Chronomancer Ghalen. \nNil'ge'tar and William Treaty retreat with the combined armies of the NAF and DragonArrow.\nAs everyone flees and retreats, the Aboleth dead, the lake evaporated, tree destroyed, Aka'vral and Arthur's forces scout the area. Arthur sees the conduit laying on the ground and wonders what it is, nearly touching it and expelling himself to Ghalen. Talberius stands where the tree once was, slowly ascending beyond his previous locations, the orb of anhilation is cracking in his arm. \nCordast Tresant observes this, planning.\n[[Session 31b - The Path of Honor]]\nAka'vral and Arthur's forces are met by Ashariel. \n[[Session 32b - The Path of Honor]]\nAka'vral and Arthur rescue Taelardan.",
+          "date": {
+            "day": 1,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_4828f9fb7929",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Riul'va",
+          "description": "[[Session 32b - The Path of Honor]]\nThe Incineration begins, the Ley Lines light the sky and cause the Ashfalls. Day and night are dominated by the lighted sky, making it difficult to distinguish. A massive earthquake and its aftershocks topple buildings as the planet returns to its previous angle (pre-Auril), pushing back the winter. Ash falls at all times, starting to destroy crops.\nAn assasination attempt fails on Arthur. ",
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_4bfb3a5b9839",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Beelzebub conquers Xyrdakul, killing the council and king. ",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_2bd9cbfbf8b8",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Faust leaves the plane. ",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_d8d85a3b3999",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Azmodeus begins gathering northern Foedus forces as his divinity slowly seeps back. ",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_9a8bba281b6a",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Interfiend Coorp begins its plans.",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_d838c82a69db",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ashariel lays siege to Arvandor with the Den.",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_db7aa83b59d9",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Ruil'va",
+          "description": "\n[[Session 32b - The Path of Honor]]\nArthur takes Aka'vral, a scribe, and thiry men to go north, deciding to ally themselves with Xyrdakyl and Beel'zebub to retake their country, spurning Grel'zia's ambasadors. Taelarden replaces one of their thirty men in secret. They begin heading up the Riulvic road.",
+          "date": {
+            "day": 3,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_18fa6afbca5a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Suptyu",
+          "description": "[[Session 33b - The Path of Honor]]\nArthur, Aka'vral, the scribe, and the thirty men camp at Suptyu, gathering supplies and weapons, as the ashfall has made obtaining food difficult.",
+          "date": {
+            "day": 10,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_29886a88ba6a",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gral'thar",
+          "description": "\n[[Session 33b - The Path of Honor]]\nArthur, Aka'vral, the scribe, and the thirty men are attacked by Alana, sent by Grel'zia. The only survivors are Arthur, Aka'vral, and Taelarden.\n\n[[Session 34b - The Path of Honor]]\nArthur and Aka'vral send Taelarden to kill Grel'zia while they continue north. Taelarden takes the form of Alana and starts tracing her steps back.",
+          "date": {
+            "day": 11,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_69ea3b496bc9",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Xyrdakul",
+          "description": "\n[[Session 34b - The Path of Honor]]\nArthur and Aka'vral speak with the Ekenites and with Beelzebub, and are offered a deal.",
+          "date": {
+            "day": 12,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_795a7889c9e8",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Gral'thar",
+          "description": "[[Session 34b - The Path of Honor]]\nTaelarden arrives at the caves where Grel'zia's forces are hidden and sneaks in.",
+          "date": {
+            "day": 12,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_f8d84b899908",
+          "note": null,
+          "category": "ID_e83b1b095b49",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_abc80b3be958",
+          "color": "#43b1c1",
+          "name": "Festivals"
+        },
+        {
+          "id": "ID_4afaa90bf828",
+          "color": "#ff00ea",
+          "name": "Celestial Events"
+        },
+        {
+          "id": "ID_6b48a87a1b5b",
+          "color": "#3a0061",
+          "name": "Shadows of Divinity"
+        },
+        {
+          "id": "ID_d83b9b09caf9",
+          "color": "#c2003a",
+          "name": "Current Events"
+        },
+        {
+          "id": "ID_ea8a184aabcb",
+          "color": "#2e0000",
+          "name": "Conspiracy of Darkness"
+        },
+        {
+          "id": "ID_e83b1b095b49",
+          "color": "#89017e",
+          "name": "The Path of Honor"
+        },
+        {
+          "id": "ID_8bca5aca1a58",
+          "color": "#008533",
+          "name": "Traces of Divinity"
+        },
+        {
+          "id": "ID_c93a6909c909",
+          "color": "#5b2553",
+          "name": "The Solenthir Gambit"
+        },
+        {
+          "id": "ID_8a9acafae998",
+          "color": "#d23df7",
+          "name": "One Shots"
+        },
+        {
+          "id": "ID_db685bb99929",
+          "color": "#770080",
+          "name": "Bonds of Fate"
+        },
+        {
+          "id": "ID_b8a94ac999c8",
+          "color": "#91b0b1",
+          "name": "Shadows of Calamity"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_0bc878cbdb68",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

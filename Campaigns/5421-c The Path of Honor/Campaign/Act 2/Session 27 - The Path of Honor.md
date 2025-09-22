@@ -18,4 +18,5 @@ The four head north where they are ambushed by five Dragonborn warriors, which a
 
 Naras and Ivvan seek for Serin. Ivvan attempts to use the needle to sow her back together when she fails to coalesce again. Ivvan opens the case he stole from Tarnil and finds maps. They decide to head to Lonelywood on their way West. They end up in the town of Gildenbrook. They can see no children in the town. It's a small village, around a dozen and a half dozen buildings. Fifty people, give or take. An elder dragonborn in the town speaks to them, demanding to know why they were bringing a captive child in. They explain why Aric is tied up. After talking with Ivvan, the elder speaks demands to speak with Aric. Aric covers for them, and they're allowed to stay one night at the village. As they head in, they notice the elder wave off a younger dragonborn who was standing in the shadows with a crossbow raised.
 
-[[Session 28 - The Path of Honor|Next ->]]
+[[Session 28a - The Path of Honor|(A) Next ->]]
+[[Session 28b - The Path of Honor|(B) Next ->]]
