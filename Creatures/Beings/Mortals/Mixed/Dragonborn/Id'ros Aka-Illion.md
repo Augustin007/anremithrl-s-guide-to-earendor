@@ -1,3 +1,0 @@
-The King of Thundrak, Idros, was known for his bravery and leadership. He led the kingdom to greatness during his reign, but Auril's influence eventually took over and destroyed his kingdom. After losing everything he had worked so hard for, Idros vowed to defeat Auril and reclaim what he lost.
-Idros began to search for a way to do this, and attempted twice to retake the city, only to be driven away by Auril's forces. He refused the help of his [[Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion|Architect Arcane]], Tal'berius, because Tal'berius demanded in return the amulet that was his family heirloom. 
-Idros was eventually killed by [[Auril]].

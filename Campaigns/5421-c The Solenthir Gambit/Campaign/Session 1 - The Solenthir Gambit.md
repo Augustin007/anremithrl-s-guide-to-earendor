@@ -23,4 +23,5 @@ When they're ready, they set out.
 Tarold uses a magical ring to summon a steed of light.
 
 Away they go.
+
 [[Session 2 - The Solenthir Gambit|next->]]

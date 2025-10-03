@@ -27,7 +27,7 @@ Spells:
 - Lesser spheres
 	- [[spell:feather-fall]], [[spell:levitate]], [[spell:magnify-gravity]]
 - Greater spheres 
-	- [[Character/Extra_Abilities/Spells/spell:Fly|spell:Fly]], [[spell:gravity-sinkhole]]
+	- [[Meta/RAW/Character/Extra_Abilities/Spells/spell:Fly|spell:Fly]], [[spell:gravity-sinkhole]]
 - Grand spheres
 	- [[wizard:graviturgy]] [[control-gravity]], [[spell:reverse-gravity]], [[spell:gravity-fissure]]
 
@@ -68,7 +68,7 @@ Spells:
 Surge ability: Reshape Matter—You can reshape a non-magical object no larger than 5 feet in any dimension. This transformation is permanent unless dispelled by powerful magic. For one minute, you can also transform willing creatures as per Polymorph.
 Spells:
 - Lesser sphere spells
-	- [[spell:alter-self]], [[Character/Extra_Abilities/Spells/spell:Polymorph|spell:Polymorph]]
+	- [[spell:alter-self]], [[Meta/RAW/Character/Extra_Abilities/Spells/spell:Polymorph|spell:Polymorph]]
 - Greater sphere spells
 	- [[spell:shapechange]]
 - Grand sphere spells
@@ -82,7 +82,7 @@ Sphere spells:
 - Greater sphere spells
 	- [[spell:teleport]], [[spell:plane-shift]]
 - Grand sphere dpells
-	- [[Character/Extra_Abilities/Spells/spell:gate|spell:gate]], [[spell:plane-shift]]
+	- [[Meta/RAW/Character/Extra_Abilities/Spells/spell:Gate|spell:Gate]], [[spell:plane-shift]]
 
 ### Cohesion(Negative magic)
 Surge ability: Structural Collapse—You can touch a wall or similar structure and weaken its cohesion. This causes a DC 15, 20, or 25 saving throw, on a fail, after one round, the structure collapses, dealing 4d10 damage to creatures within a 10-foot radius.

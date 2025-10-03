@@ -22,54 +22,12 @@
             }
           },
           {
-            "id": "1207df734434ed40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Beings/Mortals/Goliath/Thalai Elanthino.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thalai Elanthino"
-            }
-          },
-          {
-            "id": "7da8a0f4c7fdfd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creatures/Beings/Mortals/Bugbear/Talor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Talor"
-            }
-          },
-          {
-            "id": "1f3c06cfb779232b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/5421-c Shadows of Memory/Shadows of Memory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shadows of Memory"
-            }
-          },
-          {
             "id": "491d0f98082b6ddf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Calendar.md",
+                "file": "World/Timeline/Calendar.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,35 +36,203 @@
             }
           },
           {
-            "id": "37cac0d92997f83d",
+            "id": "60087056be80b1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ivvan Maeror.md",
+                "file": "Campaigns/5421-c Shadows of Calamity/Shadows of Calamity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ivvan Maeror"
+              "title": "Shadows of Calamity"
             }
           },
           {
-            "id": "fdd230f38dc4965b",
+            "id": "db717ca9719fb9df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar TODO.md",
+                "file": "Campaigns/5421-c Shadows of Calamity/Campaign/Session 3 - Shadows of Calamity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calendar TODO"
+              "title": "Session 3 - Shadows of Calamity"
+            }
+          },
+          {
+            "id": "4cb711a66ba6dbe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Old/Session Notes by Campaigns/Shadow of Calamity/Aric Notes - Shadow of Calamity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aric Notes - Shadow of Calamity"
+            }
+          },
+          {
+            "id": "565c971dd0e30a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/RAW/Character/Classes/Paladin/paladin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "paladin"
+            }
+          },
+          {
+            "id": "85a4481b3c06e333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Old/Session Notes by Campaigns/Shadow of Calamity/Old - Session 1 - Shadow of Calamity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old - Session 1 - Shadow of Calamity"
+            }
+          },
+          {
+            "id": "6c27527ef9ec33e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "fd1ab83bf7d7cc9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Languages/Talmelsorelamiel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Talmelsorelamiel"
+            }
+          },
+          {
+            "id": "713f04bd620cb1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Languages/Rivamorul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rivamorul"
+            }
+          },
+          {
+            "id": "15870c98e8ee24f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Timeline/10 The Age of Heroes/The Age of Heroes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Age of Heroes"
+            }
+          },
+          {
+            "id": "8c72f8a0bc13e23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Timeline/10 The Age of Heroes/The Age of Heroes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Age of Heroes"
+            }
+          },
+          {
+            "id": "fb55f57ec090763a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5420-c Shadows of Divinity/Shadows of Divinity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadows of Divinity"
+            }
+          },
+          {
+            "id": "a8bbccbf0314f8ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Test Theme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test Theme"
+            }
+          },
+          {
+            "id": "a3f9084f14397e36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Locations/Map of Earendor.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Map of Earendor"
+            }
+          },
+          {
+            "id": "9a77f6782f6a67b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Locations/Map of Earendor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Map of Earendor"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -138,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lysandra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
     "id": "cbb166d7a23c9775",
@@ -172,6 +298,7 @@
       {
         "id": "67512cf53e117e6b",
         "type": "tabs",
+        "dimension": 41.37596899224806,
         "children": [
           {
             "id": "de35aaeffee92eb3",
@@ -179,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Calendar.md",
+                "file": "Campaigns/5421-c The Path of Honor/The Path of Honor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calendar"
+              "title": "Backlinks for The Path of Honor"
             }
           },
           {
@@ -198,12 +325,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spells & Surge Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spells & Surge Abilities"
+              "title": "Outgoing links"
             }
           },
           {
@@ -227,13 +353,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spells & Surge Abilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spells & Surge Abilities"
+              "title": "Outline"
             }
           },
           {
@@ -265,15 +390,15 @@
                 "calendar": "ID_0bc878cbdb68",
                 "ephemeral": {
                   "viewing": {
-                    "day": 12,
-                    "month": 1,
+                    "day": 19,
+                    "month": 0,
                     "year": 5421
                   },
-                  "viewState": 0,
+                  "viewState": 1,
                   "displaying": {
-                    "day": 16,
+                    "day": 12,
                     "month": 0,
-                    "year": 5420
+                    "year": 5421
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -283,7 +408,7 @@
                   "displayWeather": true
                 },
                 "id": "ID_69386a3adbfa",
-                "child": "ID_8aba895a29aa"
+                "child": "ID_f848cb8b5978"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -295,6 +420,7 @@
       {
         "id": "b0bb066a0dd1796c",
         "type": "tabs",
+        "dimension": 39.24418604651162,
         "children": [
           {
             "id": "c47231356d59ded6",
@@ -304,6 +430,27 @@
               "state": {
                 "calendar": "ID_0bc878cbdb68",
                 "id": "ID_8aba895a29aa",
+                "parent": "ID_69386a3adbfa"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e27ae2d096338aff",
+        "type": "tabs",
+        "dimension": 19.379844961240313,
+        "children": [
+          {
+            "id": "ca013ba3f50b20fc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "id": "ID_f848cb8b5978",
                 "parent": "ID_69386a3adbfa"
               },
               "icon": "CALENDARIUM_AGENDA",
@@ -330,149 +477,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "floating": {
-    "id": "8bd63bbabaa51030",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b6af5ba5d7d10251",
-        "type": "window",
-        "children": [
-          {
-            "id": "3b3f547877c582fb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8a5623f28b21d81",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 24.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Shadows of Divinity - 24"
-                }
-              },
-              {
-                "id": "53b9f40854738244",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Timeline/Calendar.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "9459ff4154f44521",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 32b - The Path of Honor"
-                }
-              },
-              {
-                "id": "57d74b8c65dac02c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 35a - The Path of Honor"
-                }
-              },
-              {
-                "id": "c1e1260431e80d54",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaigns/5421-c The Solenthir Gambit/Campaign/Session 1 - The Solenthir Gambit.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 1 - The Solenthir Gambit"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1080,
-        "height": 1920,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "491d0f98082b6ddf",
+  "active": "9a77f6782f6a67b0",
   "lastOpenFiles": [
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
-    "Timeline/Calendar.md",
-    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Gravity Sphere.md",
-    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Notes.md",
-    "Campaigns/5421-c Shadows of Memory/Shadows of Memory.md",
-    "Unfinished/Old/Session Notes by Campaigns/Traces of Divinity/Traces of Divinity - Session 3.md",
-    "Unfinished/Old/Session Notes by Campaigns/The Path of Honor/Starting Underdark Notes.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28a - The Path of Honor.md",
-    "Campaigns/5421-c The Solenthir Gambit/Campaign/Session 1 - The Solenthir Gambit.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 27 - The Path of Honor.md",
-    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 24.md",
-    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 23.md",
-    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 3/Shadows of Divinity - 22.md",
-    "Creatures/Beings/Mortals/Goliath/Thalai Elanthino.md",
-    "Campaigns/5421-c The Path of Honor/The Path of Honor.md",
+    "Campaigns/5420-c Shadows of Divinity/Shadows of Divinity.md",
+    "World/Creatures/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion.md",
+    "World/Creatures/Beings/Mortals/Human/Niamh Moonwatcher.md",
+    "World/Creatures/Beings/Immortals/Aberrations/Vampires/Scathatch.md",
+    "World/Creatures/Beings/Mortals/Halfling/Jessica Black.md",
+    "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
+    "Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
+    "Campaigns/1800 Shadows of Lysandra/Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 6 - Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 5 - Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 4 - Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 3 - Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 2 - Shadows of Lysandra.md",
+    "Campaigns/1800 Shadows of Lysandra/Campaign/Session 1 - Shadows of Lysandra.md",
+    "Campaigns/2300 Twins of Fate/Twins of Fate.md",
+    "Campaigns/3510 Tale of Lorekeep/Tale of Lorekeep.md",
+    "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
+    "Campaigns/3450-3550 WM of Destishire/West Marches of Destishire.md",
+    "Campaigns/2500 Isle of Abbey/Isle of Abbey.md",
+    "Campaigns/3600 Tides of Veloria/Tides of Veloria.md",
+    "Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Origins of the Greenclad.md",
+    "World/Creatures/Beings/Mortals/Mixed/Peredhel/Richard Iwaelfhem.md",
+    "Campaigns/4280-4339 Origins of the Greenclad/Campaign/Act 1 - Curriculum of Chaos/Session 2 - Origins of the Greenclad.md",
+    "Campaigns/5420 Conspiracy of Darkness/Campaign/Session 5 - Conspiracy of Darkness.md",
+    "Campaigns/5420 Conspiracy of Darkness/Campaign/Session 4 - Conspiracy of Darkness.md",
+    "Meta/Unfinished/Untitled.canvas",
+    "Meta/Images/Pasted image 20250228124746.png",
+    "Meta/Images/The Children/Aric Vael.png",
+    "World/Calendar",
+    "World",
+    "Meta",
     "Untitled.canvas",
-    "Images/The Children/Aric Vael.png",
-    "Images/The Children/Serin Rathir.png",
-    "Images/Pasted image 20250228124746.png",
-    "Unfinished/Old/Planes/Within Planes/Geographical Features",
-    "Unfinished/Old/Planes/Within Planes/Countries",
-    "Unfinished/Old/Planes/Within Planes/Cities",
-    "Unfinished/Old/Planes/Within Planes/Buildings",
-    "Unfinished/Old/Planes/Within Planes/Areas",
-    "Unfinished/Old/Planes/True Planes/Elemental Planes",
-    "Unfinished/Old/Planes/Quasi-Planes/Positive Quasi-Planes",
-    "Unfinished/Old/Planes/Quasi-Planes/Ordered Quasi-Planes",
-    "Unfinished/Old/Planes/Quasi-Planes/Negative Quasi-Planes",
-    "Unfinished/Old/Planes/Quasi-Planes/Chaotic Quasi-Planes",
-    "Unfinished/Untitled.canvas",
-    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-24 at 00-18-37 • Discord #character-art The Path of Honor.png",
-    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 18-29-43 • Discord #character-art The Path of Honor.png",
-    "Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 14-21-35 obscurus - Google Search.png",
-    "Images/The Children/Kerran Thorol.png",
+    "Meta/Images/The Children/Serin Rathir.png",
+    "Meta/Unfinished/Old/Planes/Within Planes/Geographical Features",
+    "Meta/Unfinished/Old/Planes/Within Planes/Countries",
+    "Meta/Unfinished/Old/Planes/Within Planes/Cities",
+    "Meta/Unfinished/Old/Planes/Within Planes/Buildings",
+    "Meta/Unfinished/Old/Planes/Within Planes/Areas",
+    "Meta/Unfinished/Old/Planes/True Planes/Elemental Planes",
+    "Meta/Unfinished/Old/Planes/Quasi-Planes/Positive Quasi-Planes",
+    "Meta/Unfinished/Old/Tokens/Art/Screenshot 2025-01-24 at 00-18-37 • Discord #character-art The Path of Honor.png",
+    "Meta/Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 18-29-43 • Discord #character-art The Path of Honor.png",
+    "Meta/Unfinished/Old/Tokens/Art/Screenshot 2025-01-22 at 14-21-35 obscurus - Google Search.png",
+    "Meta/Images/The Children/Kerran Thorol.png",
     "Decks/Tarot/21-TheWorld.png",
     "Decks/Tarot/20-Judgement.png",
     "Decks/Tarot/19-TheSun.png"

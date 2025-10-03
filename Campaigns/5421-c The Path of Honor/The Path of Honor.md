@@ -15,13 +15,18 @@ status: Ongoing
 [[Drithen Vorath]]†
 [[Uncim Bolok]]†
 [[Ivvan Maeror]]
-[[Tar'id'lion'il Remshi'ul]]
-[[Giggle Jiggles]]
-[[Qorneth Nashol]]
-[[Uldren Nashol]]
+[[Tar'id'lion'il Remshi'ul]]†
+[[Giggle Jiggles]]†
+[[Qorneth Nashol]]†
+[[Uldren Nashol]]†
+[[Aka'vral Tar'at'kyr]]
+[[Tepozo Cuaro]]
+[[Taelarden]]
+[[Arthur Thomas]]
 #### Crossover Player Characters
 [[Krag]]
 [[Faust]]
+[[Ekenon]]
 #### Other Major Characters In the Story
 [[Szinvorn Dyrrith]]
 [[Kaul Voros]]
@@ -29,12 +34,23 @@ status: Ongoing
 [[Queen Iselda III]]
 [[Dareth]]†
 [[Ranor]]†
+Nirhak
+Dri'ros
+Kharazhien
+Calren
+Thauric
+Grel'zia
+Lei'ros
+Tar'nil's younger son
+
 **Gods**
-[[Auril]]
+[[Auril]]†
 [[Bahamut]]
-[[Vecna]]
-[[The Darkness That Is]]
+[[Vecna]]†
+[[Gorthaur]] (The Darkness that Is)
 [[Marethyu]]
+[[Beelzebub]]
+[[Ashdilkir]]
 **The Children**
 [[Aric Vael]]
 [[Liriel Danstal]]
@@ -50,10 +66,15 @@ status: Ongoing
 [[Aeoife]]
 [[Dri'ros Na'ak-Dan'ul]]†
 [[Duthrim Ilirn]]††
-[[Bathar]]
+[[Bathar]]†
 [[Gozog]]†
 Strange Twins (Psionic Fae Verdan)
 [[Vraelis]]†
+Zrel'gak
+Alana
+Dri'ros's wife
+Dri'ros's son
+Dundarion
 #### Other Characters Seen or Referenced
 [[Tahlia Tormund]]†
 [[Kas]]

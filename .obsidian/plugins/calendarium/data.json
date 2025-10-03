@@ -13,52 +13,52 @@
         "weekdays": [
           {
             "type": "day",
-            "name": "Firstday",
+            "name": "Freeday",
             "id": "ID_18b93b4b6a19"
           },
           {
             "type": "day",
-            "name": "Seconday",
+            "name": "Solday",
             "id": "ID_a8c91b1a18a8"
           },
           {
             "type": "day",
-            "name": "Thirday",
+            "name": "Lysday",
             "id": "ID_c9b8e8bb0bca"
           },
           {
             "type": "day",
-            "name": "Fourthday",
+            "name": "Wyrday",
             "id": "ID_7b993b387a18"
           },
           {
             "type": "day",
-            "name": "Fifthday",
+            "name": "Celday",
             "id": "ID_a8d9cb8979a8"
           },
           {
             "type": "day",
-            "name": "Sixthday",
+            "name": "Earday",
             "id": "ID_cba85838db68"
           },
           {
             "type": "day",
-            "name": "Seventhday",
+            "name": "Elessday",
             "id": "ID_891989cbbbaa"
           },
           {
             "type": "day",
-            "name": "Eightday",
+            "name": "Marday",
             "id": "ID_cadb58687a6a"
           },
           {
             "type": "day",
-            "name": "Ninethday",
+            "name": "Taisday",
             "id": "ID_186adbd909a9"
           },
           {
             "type": "day",
-            "name": "Tenthday",
+            "name": "Primday",
             "id": "ID_68fa89baba18"
           }
         ],
@@ -163,11 +163,19 @@
         "moons": [
           {
             "name": "Lysandra",
-            "cycle": 28.16,
-            "offset": 4,
+            "cycle": 31.9,
+            "offset": 29,
             "faceColor": "#3d003b",
             "shadowColor": "#000",
             "id": "ID_69abfa794a88"
+          },
+          {
+            "name": "Ley Line",
+            "cycle": 183455,
+            "offset": 156582,
+            "faceColor": "#7a7600",
+            "shadowColor": "#4f4f4f",
+            "id": "ID_f82bdbcadb78"
           }
         ],
         "displayMoons": true,
@@ -357,6 +365,22 @@
               "year": 5421,
               "month": 1,
               "day": 1
+            }
+          },
+          {
+            "id": "ID_baa8ea397aba",
+            "type": "era",
+            "name": "Age of Ash",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 1,
+              "year": 5421
             }
           }
         ],
@@ -3580,14 +3604,14 @@
         },
         {
           "name": "The Shattering",
-          "description": "\n\nA great ley line shifting, which occurs every few hundred years, and the longest night (winter solstice), coincide to make the border between realms thinnest, allowing creatures to pass through the Tree more easily.\nAt the longest night, in a great battle at the tree, Tartarus is able to get his forces there, killing Isendra on the other end. Many things occur. See Longest Night. Baron Daron, the Analyst, and Galio die in the fighting.\nAzmodeus returns to his godhood as Be'elzebub gives him the Ichor. He successfully severs Tartarus's bond, restoring Nil'ge'tar's sanity.\n\n[[Session 31b - The Path of Honor]]\nAka'vral's forces arrive at Riulva and see evidence of this fighting, a few miles away. They rush to investigate, arriving moments before the Shattering.\n\nAuril is killed by Liriel using the Codex, since she attempts to use Aric's possesion, to restore her divinity, just as the Shattering happens.\nRealising Tartarus's true plan to awaken Azgorath, and in order to prevent the immediate destruction of the world, Colossus uses the Divine Unbinding spell to steal Auril's divinity, but is unable to kill her, revealing the spell to everyone there. Colossus causes the Shattering, destroying the Tree and allowing the protectorate to swoop in. Colossus and Gallio are killed by the ensuing blast. Tal'berius Absorbs the Tree. \nWithin stopped time. The fully awakened Thalorin draws Tartarus away to a great battle. Great earthquakes occur. Sections of the atmosphere ignite as the Divine Ley lines collapse. Azgorath and the Epic Dragons stir in their slumber. Ghalen prevents Kas from killing Ashariel when she arrives, by shoving him into the growing threads from the Conduit. Lady Black dies in the chaos. Other things occur. Maegard kills Valus. Tal'berius Auril's divinity to form The Conduit, stabalising the Planes, undoing Dur'bagaal's and Atropus's first act of destruction at the beginning of the Eternal Wars, and thus allowing the Arcane Leywrite to allow Tal'berius to comprehend and channel the power of the Trees. Grumbar is awakened as time flows properly again. The Shadow is freed. Tal'berius kills Hekate, scattering her essense across the Material Plane.\nThe conduit ends the Time Stop, and any other time-fluctuating effects, expelling Kas from Time and Space, converting him into the Chronomancer Ghalen. \nNil'ge'tar and William Treaty retreat with the combined armies of the NAF and DragonArrow.\nAs everyone flees and retreats, the Aboleth dead, the lake evaporated, tree destroyed, Aka'vral and Arthur's forces scout the area. Arthur sees the conduit laying on the ground and wonders what it is, nearly touching it and expelling himself to Ghalen. Talberius stands where the tree once was, slowly ascending beyond his previous locations, the orb of anhilation is cracking in his arm. \nCordast Tresant observes this, planning.\n[[Session 31b - The Path of Honor]]\nAka'vral and Arthur's forces are met by Ashariel. \n[[Session 32b - The Path of Honor]]\nAka'vral and Arthur rescue Taelardan.",
+          "description": "",
           "date": {
             "day": 1,
             "month": 1,
             "year": 5421
           },
           "id": "ID_4828f9fb7929",
-          "note": null,
+          "note": "The Shattering.md",
           "category": "ID_d83b9b09caf9",
           "sort": {
             "timestamp": 5e-324,
@@ -3781,13 +3805,87 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Elevensies",
+          "description": "Eleventhday",
+          "date": {
+            "day": 31,
+            "month": [
+              1,
+              8
+            ],
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_0ad88818e91a",
+          "note": null,
+          "category": "ID_abc80b3be958",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Calendarium",
+          "description": "The day the Modern International Calendar was formed.",
+          "date": {
+            "day": 1,
+            "month": 0,
+            "year": 4600
+          },
+          "id": "ID_78c84b7a4a88",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lei'ros's death",
+          "description": "Lei'ros commits suicide",
+          "date": {
+            "day": 6,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_08a9eafa08c8",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Lord Calren Disbands his Forces",
+          "description": "Following Lei'ros's suicide, Lord Calren takes his forces and leaves.",
+          "date": {
+            "day": 9,
+            "month": 1,
+            "year": 5421
+          },
+          "id": "ID_08fb394a6b6b",
+          "note": null,
+          "category": "ID_d83b9b09caf9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [
         {
           "id": "ID_abc80b3be958",
           "color": "#43b1c1",
-          "name": "Festivals"
+          "name": "Festivals & Observances"
         },
         {
           "id": "ID_4afaa90bf828",
@@ -3802,7 +3900,7 @@
         {
           "id": "ID_d83b9b09caf9",
           "color": "#c2003a",
-          "name": "Current Events"
+          "name": "Current & Historical Events"
         },
         {
           "id": "ID_ea8a184aabcb",
@@ -3838,6 +3936,11 @@
           "id": "ID_b8a94ac999c8",
           "color": "#91b0b1",
           "name": "Shadows of Calamity"
+        },
+        {
+          "id": "ID_982899fae87b",
+          "color": "#31bcd8",
+          "name": "Echoes of Divinity"
         }
       ],
       "path": [],

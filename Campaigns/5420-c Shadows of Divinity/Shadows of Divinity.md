@@ -4,16 +4,18 @@ status: Ongoing
 ---
 [[Shadows of Divinity - 1|Campaign]]
 #### Player Characters
-[[Colossus Methunroa]]
+[[Colossus Methunroa]]†
 [[William Treaty]]
 [[Jessica Black]]
-[[Galio Thunukalathi]]
-[[Krag]]
+[[Galio Thunukalathi]]†
+[[Krag]]†
 [[Faust]]
 [[Nil'ge'tar Remshi'ul]]
-[[Baron Daron]]
-[[Analyst|Analyst (Formerly Baron Daron's Intern)]]
-
+[[Baron Daron]]†
+[[Analyst|Analyst (Formerly Baron Daron's Intern)]]†
+#### Crossover Player Characters
+[[Lucy Iwaelfhem]]
+[[Baeor Dechaius]]
 #### Other Characters In the Story
 [[Tahlia Tormund]]†
 [[Kas]]
@@ -25,8 +27,6 @@ status: Ongoing
 [[Bechel of Bharam]]
 [[Valthor Remshi]]†
 [[Tormac]]†
-[[Lucy Iwaelfhem]]
-[[Baeor Dechaius]]
 [[Morgana]]
 [[Alantothi]]†
 [[Aukan Kalagiano]]†

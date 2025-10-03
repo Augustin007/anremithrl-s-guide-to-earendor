@@ -5,10 +5,10 @@ status: Finished
 ---
 [[Session 1 - Echoes of Divinity|Campaign]]
 #### Player Characters
-[[Nil'ge'tar Remshi'ul]] †
+[[Nil'ge'tar Remshi'ul]]
 [[PINE-APL]]†
 [[Jessica Black]]
-[[Colossus Methunroa]]
+[[Colossus Methunroa]]†
 [[William Treaty]]
 #### Other Major Characters In the Story
 [[Lord Klaethor]]†
