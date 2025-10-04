@@ -1,1 +1,0 @@
-The soul collector. A paladin of justice. Once borrowed the Labyrinth-stone from Ashdilkir to make his own. Lawful to the point of obsession and insanity. He devoted his life to capturing the souls people who broke their oaths. He devoted himself so fully that even death could not stop him. 

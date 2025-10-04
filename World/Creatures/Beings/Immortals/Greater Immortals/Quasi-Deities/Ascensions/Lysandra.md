@@ -1,2 +1,0 @@
-Lysandra was a priestess of Selune, the primordial of light. In a moment of desperation to save her people from a terrible plague, she offered her life to Selune. Touched by her devotion, Selune transformed her into a celestial being, forever to serve as a guardian of the night sky. Lysandra became the spirit of the Moon, granting her a form of cosmic immortality.  Lycanthropy is related to her?
-Year 12

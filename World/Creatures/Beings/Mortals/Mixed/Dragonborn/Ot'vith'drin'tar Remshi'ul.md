@@ -1,1 +1,0 @@
-Like all Remshi sons, was expected to join the military. Became a general, but died within a few years during the Siege of No'a'lor.

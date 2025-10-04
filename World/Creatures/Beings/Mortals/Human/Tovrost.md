@@ -1,5 +1,0 @@
-Tovrost was born without magic, but he was determined to learn magic. He spent years studying various texts and practicing his craft until he finally mastered some rudimentary magics. His efforts earned him the title of "the first wizard" and his work is detailed in the book *Student of Magic*.
-
-Tovrost's story serves as a cornerstone for magical academia, as it demystified magic for those not born with an inherent affinity for it. His methodologies emphasized meticulous study of magical principles and allowed practitioners to  build up the 'muscle' required to cast spells even if they were born without it. This shift in magical practice forever changed the landscape of magical practice in Eärendor, making it accessible to a broader spectrum of individuals regardless of birthright.
-
-Tovrost's work has inspired many others to pursue their own journeys towards magic, and his legacy continues to be celebrated throughout Earendor today.

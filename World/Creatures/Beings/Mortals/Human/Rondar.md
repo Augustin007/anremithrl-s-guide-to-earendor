@@ -1,1 +1,0 @@
-Rondar was a mathematical prodigy who studied under [[Dallion]] and soon surpassed him. He spent his life developing number theory much further, developing concepts of sets, classes, and categories. He lived through the Sundered War and was [[Tal'berius Tarrilion]]'s , [[Garrett]], and [[Artorius]]'s teacher. Rondar was of the sort who did not much trust in magic.

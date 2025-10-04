@@ -1,1 +1,0 @@
-Fildor was a cleric of [[Shar]] who had caused abberations to grow in the woods. He was killed by [[Lucy Iwaelfhem]] and [[Richard Iwaelfhem]].

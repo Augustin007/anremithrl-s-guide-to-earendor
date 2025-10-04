@@ -1,1 +1,0 @@
-Fendrel used mathematics to predict an eclipse, chart planets more accurately, monitor the movement of ley lines, and other such events. He worked with [[Liriel the Stargazer]] for some time.

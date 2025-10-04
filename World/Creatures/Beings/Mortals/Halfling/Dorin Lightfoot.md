@@ -1,3 +1,0 @@
-Dorin Lightfoot was a legendary Halfling mathematician pre-sundering. He had a passion for mathematics and probability, and he applied these concepts to games of chance to make himself a fortune. Dorin's knowledge of probability allowed him to win at various gambling games with ease.
-However, his success attracted unwanted attention from rival gamblers who wanted to steal his secrets. On one fateful night, Dorin was assassinated by a group of hired killers who were paid to eliminate him.
-Despite his untimely death, Dorin's legacy lives on through the mathematics he developed and applied to games of chance. His work is still studied by mathematicians today and has been used in various applications such as insurance and investment strategies.

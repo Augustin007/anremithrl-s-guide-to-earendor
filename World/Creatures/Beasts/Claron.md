@@ -1,1 +1,0 @@
-Claron was a [[Dragons#Lesser Dragons and Their Divine Origins|lesser]] [[Dragons#Beast Dragons|beast dragon]] which burgeoned of a wild boar as a punishment to the people of the town of [[Hatreth]] for killing the Druid and Warlock of [[Ferus]], [[Yvana]]. He was eventually slain by travelers [[Richard Iwaelfhem]] and [[Baeor Dechaius]].

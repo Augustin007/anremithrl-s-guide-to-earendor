@@ -1,1 +1,0 @@
-Married Lord Protector Nashos of Golin, and fought in the battle of Aldarkeep. She had twelve children

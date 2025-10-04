@@ -1,5 +1,0 @@
-Shyvana, also known as the Soulrender, is a powerful being who delved into the dark arts of soul manipulation and crafted amulets and talismans that could siphon life force from others. She was a formidable warrior and skilled in magic, but her main focus was on developing artifacts that she could use to manipulate souls.
-
-During the Sundered War, Tal'berius, a powerful mage and warlord, fought against Korvus, one of Eärendor's most powerful beings. With Shyvana's aid, he drove away Korvus, but in doing so, he stole certain artifacts from her. When she came to demand their return, Tal'berius gave them back, having understood everything there was to them, and created his own. Angered by this, Shyvana tried to kill him, but he killed her instead.
-
-Despite her death, her legacy lives on in the artifacts she created. Many of these artifacts are still sought after by those who practice dark magic or wish to gain power over others.

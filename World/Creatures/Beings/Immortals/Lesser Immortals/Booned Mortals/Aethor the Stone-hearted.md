@@ -1,1 +1,0 @@
-Converted his heart to stone for immortality.

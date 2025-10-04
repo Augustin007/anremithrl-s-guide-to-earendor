@@ -1,3 +1,0 @@
-Was the first person to compile a list of units of measurement and tables of conversions. Vindel also created the ideas of fractions and decimals. Vindel was the first to consider '0' a number.
-
-Vindel personally knew [[Aelfwin]], though he did not like her, as he disliked the ideas of philosphy and thought them inferior to pure logic an mathematics, asserting that "Any reasonable person should look at philosphy and realise it is a waste of time, and quietly switch to mathematics."

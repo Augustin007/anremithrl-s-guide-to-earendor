@@ -1,1 +1,0 @@
-Elric was a sorcerer during the Sundered War who specialized in creating magical weapons and shields. He was the first enchanter. He focused his efforts on mass-producing these items, infusing them with spells for increased lethality and protection. 

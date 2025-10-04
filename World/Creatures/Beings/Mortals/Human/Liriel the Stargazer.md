@@ -1,3 +1,0 @@
-Liriel was born in a small town where her family ran a small inn. She grew up fascinated by the night sky and spent many hours observing it from the rooftop of her home. As she got older, Liriel began to notice patterns in the stars that she could not explain through traditional means. This led her on a journey to learn more about astronomy, eventually leading her to [[Fendrel]].
-
-Fendrel was impressed by Liriel's intelligence and curiosity, and he took her under his wing as an apprentice. Together, they studied the stars, charted their movements over time, and attempted to predict future events such as eclipses based on the patterns they saw. They also worked together to monitor the movement of ley lines.

@@ -1,1 +1,0 @@
-Married off to Duke Halloran Ogolakanu of Solenthir when she was fifteen, died during her first pregnancy shortly thereafter.

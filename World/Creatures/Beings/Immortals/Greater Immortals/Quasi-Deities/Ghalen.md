@@ -1,3 +1,0 @@
-Ghalen was a scholar obsessed with the mysteries of time. After decades of research, he discovered a way to step outside the normal flow of time, effectively becoming ageless. However, the ritual required a rare celestial alignment that occurred only once every thousand years. Seizing the opportunity, Ghalen performed the ritual and vanished from the material plane. He now exists in a pocket dimension, where he continues his studies, occasionally stepping back into the world.
-
-Year 2413
