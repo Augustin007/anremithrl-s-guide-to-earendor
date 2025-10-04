@@ -1,0 +1,1 @@
+Gond was the twin brother of [[Nebelum]]. Both were known for venturing far and wide, collecting much knowledge. Gond was a Celestial of curiosity and exploration, always eager to discover new realms and possibilities. He fell during the battle against the [[Epic Dragons]], his essence scattered across the cosmos he loved to explore.

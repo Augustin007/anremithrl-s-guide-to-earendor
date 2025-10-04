@@ -1,0 +1,1 @@
+Selina was a mathematician and philosopher. She is best known for her book titled "Proofs", which summarised all known geometry and algebra at the time into a series of proofs. Selina discounted trigonometry as being 'unprovable'.

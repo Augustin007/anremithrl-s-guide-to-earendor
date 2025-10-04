@@ -26,3 +26,5 @@ Session IX: Slavery and the Spear
 - Find traces of the Alphites again.
 - Nugget secretly sells their captive into slavery and uses the proceeds to buy a spear.
 - Colossus researches the gnomes and prostitutes himself.
+
+[[Act 2]]

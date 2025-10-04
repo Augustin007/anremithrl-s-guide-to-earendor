@@ -1,0 +1,1 @@
+Lux was a Celestial who had sided with [[Vhel]] in advocating for retreat during the battle against the [[Epic Dragons]]. Known for his brilliance and clarity of thought, Lux was a beacon of wisdom among the Celestials. He fell during the battle, his light extinguished but not forgotten.

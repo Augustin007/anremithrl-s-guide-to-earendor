@@ -3,7 +3,7 @@ DM:
   - Austin
 status: Finished
 ---
-[[Session 1 - Adventures in Arthulion|Campaign]]
+[[Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Odd Jobs/Session 1 - Adventures in Arthulion|Campaign]]
 #### Player Characters
 [[Duthrim Ilirn]]
 [[Jason Naiyar]]

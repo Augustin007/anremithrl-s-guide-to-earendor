@@ -1,0 +1,3 @@
+Tarnis was a renowned scientist who made significant contributions to the study of physics and mathematics during the Early Age. He wrote several books on these subjects, including "True Planes and Stuff," which compiled many scientific ideas that had been formed at this time. Tarnis also pioneered the idea of magical energy and its interaction with other planar entities, providing valuable insights into how magic worked in [[Eärendor]].
+
+Through his research and writings, Tarnis established a solid foundation for further studies in physics, mathematics, and science, paving the way for future generations to build upon his work and expand on it even further. 

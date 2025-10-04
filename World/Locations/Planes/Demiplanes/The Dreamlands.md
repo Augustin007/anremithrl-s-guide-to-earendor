@@ -1,0 +1,1 @@
+The Dreamlands is a magical plane filled with surreal landscapes, bizarre creatures, and otherworldly beings. It is one of the most mysterious and dangerous places in the [[Eärendor]]. Little of it is known.

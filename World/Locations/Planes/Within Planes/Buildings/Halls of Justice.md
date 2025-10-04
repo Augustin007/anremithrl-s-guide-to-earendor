@@ -1,0 +1,1 @@
+The Halls of Justice were in [[Arvandor]]. It is the place where the [[Celestial Council]] met.

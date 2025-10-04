@@ -1,3 +1,4 @@
+[[Act 4]]
 Session XLIII - Luring Loquail
 - Loqail meets the party. They verbally spar with him, and he manages to secure the magical permission to use them as passage back to his homeland after tricking them with illusionary coins. Once he obtained this, just as the party realised the coins were an illusion, he dissolved into mist.
 - Colossus returns. 
@@ -35,3 +36,4 @@ Session XLVII - Lavore's Laughs and Traveler's Tricks
 - PINE-APL finishes development of his brand-new weapon.
 Session XLVIII - Facing the Unforgiving Lady
 - The party speaks with the Unforgiving Lady. Loquail is at her side. She seems unstable. She ends up leaving. The moment Loquail steps out of her protection, William and PINE-APL attack and kill him with PINE-APL's new weapon, the distancer (gun) and bowshot. 
+[[Act 6]]

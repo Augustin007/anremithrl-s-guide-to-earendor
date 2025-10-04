@@ -1,0 +1,1 @@
+Vhel was a Celestial known for her caution and prudence. She had advocated for retreat during the battle against the [[Epic Dragons]], but her counsel was not heeded. Vhel fell in the battle, her cautionary words becoming a haunting reminder for the remaining Celestials.

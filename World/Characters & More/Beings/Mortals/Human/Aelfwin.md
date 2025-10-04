@@ -1,0 +1,1 @@
+Human who layed down the foundational principles of first-order logic, integrating logical reasoning into philosophical discourse.

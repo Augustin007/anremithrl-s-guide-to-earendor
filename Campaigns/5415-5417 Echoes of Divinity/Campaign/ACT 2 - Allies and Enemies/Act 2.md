@@ -1,3 +1,4 @@
+[[Act 1]]
 Session X: Battling the Elements
 - They begin heading North. Colossus steals the jacket off of someone and uses Gift of Gab to get away with it.
 - They struggle with the wind. They fight white-dragonborn bounty hunters, camouflaged in the snow, going after the Klaethor bounty on them.
@@ -22,3 +23,5 @@ Session XV: A Divine Vow
 Session XVI: Confronting the Cold Threat
 - They fight off the monsters and genasi and elementals. In their group only 156 people escape, including the King Idros, and Lady Jessica Black
 - Brief mention by the guards that the Architect Arcane, Tal'berius Tarrilion, does not leave, he is very ancient and powerful, and insists on staying. (Earlies mention of Tal'berius)
+
+[[Act 3]]

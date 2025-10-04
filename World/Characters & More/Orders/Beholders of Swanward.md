@@ -1,0 +1,6 @@
+The Beholders of Swanward were a group of beholders summoned by the Illithid warlock of [[Shar]], [[Nadek]], when [[King Hrothgar Arden]] named himself the first king of Swanward after he united the tribes of the area, and began to drive away the aberrations that plagued the land. 
+The Hive of beholders was based in the [[Boleyn cave system]], ruled by the Hive Queen [[Dacre]].
+They plagued the land for several centuries, enslaving many people to their will.
+During the war against the [[Lek'qer]], [[Lord Theodore Nott]] and [[Lord Edward Dragonvale]] managed to draw out [[Farnor|one of these beholders]] and capture it, which they used to great effect in the war.
+The effects of the beholders continued to expand until they had several towns enslaved to their will.
+When [[Miyatol Dodonus]] traveled to this land, he helped a town fight off one of these beholders, he enlisted the help of the [[Richard Iwaelfhem|High Sorcerer Richard]] and his wife, the [[Lucy Iwaelfhem|arch-fey Lucy]] and returned to drive away these beholders. In a great battle, Miyatol was able to strike the finishing blow on Queen Dacre, and the beholders scattered across the land.

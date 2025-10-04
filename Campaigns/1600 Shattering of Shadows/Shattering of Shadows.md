@@ -1,7 +1,8 @@
 ---
+file: Campaign
 DM:
   - Austin
-status: Ongoing
+status: Hiatus
 ---
 [[Session 1 - Shattering of Shadows|Campaign]]
 #### Player Characters

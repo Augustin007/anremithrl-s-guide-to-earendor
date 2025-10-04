@@ -1,0 +1,3 @@
+Termalaine is an ancient city located in the country of Darkenthorne. It has a rich history and culture, with many notable landmarks and monuments that are well-preserved to this day. The city was founded by dragonborn who settled on the banks of the River Termalaine, which runs through its center, though it has since frozen over.
+
+There is a large slave trade in the region. Though people like [[Kalquend]] have tried to stop it, the vast wealth of the lords has made it impossible for anyone to speak out and live, as they hire bounty hunters to take out any dissenters.

@@ -1,0 +1,1 @@
+Gwendolyn was an extraordinary woman who dedicated her life to studying botanicals and their healing properties. She advanced the study of botany with her comprehensive classifications of flora and their medicinal properties. Her work paved the way for future generations of healers, as she pioneered new techniques in the field of herbal medicine.

@@ -1,0 +1,1 @@
+This area corresponds to the eddies of aether which drift off the very edges of [[Eärendor]] directly into [[Pandemonium]] and [[Mechanus]]. In these eddies, creatures of pure Chaos and Order form. They are in eternal war with each other.

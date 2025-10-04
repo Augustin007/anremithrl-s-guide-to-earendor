@@ -1,0 +1,3 @@
+The Silven Crown, or Sons of Auril are a powerful organization of magic users who worship the goddess [[Auril]]. They have been around for centuries, and their influence can be felt across most of the north. The order is known for its strict discipline and training, as well as its dedication to the goddess Auril. The Sons of Auril are led by a council of high ranking members who oversee all aspects of the organization. 
+
+The Sons of Auril have a strong presence in the frozen regions of Earendor, particularly in the northeast region where they have set up their main headquarters. They also have outposts and encampments throughout the rest of the world, where they act to slowly help expand Auril's rule.

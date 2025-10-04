@@ -49,7 +49,7 @@ Tar'nil's younger son
 [[Vecna]]†
 [[Gorthaur]] (The Darkness that Is)
 [[Marethyu]]
-[[Beelzebub]]
+[[Baalzebub]]
 [[Ashdilkir]]
 **The Children**
 [[Aric Vael]]
@@ -84,7 +84,7 @@ Dundarion
 **Gods**
 [[Asmodeus]]
 [[Tartarus]]
-[[The Lady of Pain]]
+[[Lady of Pain]]
 [[Eleutheros]]
 
 
@@ -96,7 +96,7 @@ After they escape the underdark, they meet Giggles the Clown and Tar'id'lion'il 
 They meet twin escaped slaves Qorneth and Uldren, and trying to undo their tracking spells, Naras causes a chain reaction which kills Lirien, turning Aric against him. The party subdues both of them.
 
 #### Backup Characters
-[[Feidhris Fômar]]
-[[[Name] Pa'at Kyr-Riulva]]
-[[unnamed Solkaris cleric]]
-[[unnamed elf]]
+Feidhris Fômar
+Name Pa'at Kyr-Riulva
+unnamed Solkaris cleric
+unnamed elf

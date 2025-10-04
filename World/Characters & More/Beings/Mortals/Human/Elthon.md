@@ -1,0 +1,1 @@
+Elthon was the first to outline very specific rules for logic, and was the first to tie logic and mathematics together, demanding proof of mathematical statements. He tried to tie together all of mathematics at the time, but died of illness before he could. He was greatly encouraged by [[Dallion]]

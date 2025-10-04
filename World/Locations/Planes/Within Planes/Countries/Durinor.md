@@ -1,0 +1,6 @@
+Durinor is one of the largest and most important countries in [[Eärendor]]. It is known for its mineral wealth, which has been used to build some of the greatest structures in the world. The capital city of Eagledale stands on in the northern reaches of Durinor, protected on one side by a vast chasm.
+
+Major cities
+- [[Bremen]] was founded before Auril escaped the nine hells. It was built onto the side of a cliff overlooking a large lake and is home to many important buildings, including the Great Skyport and the Bremer Market. The city has a long history of trade and commerce and is known for its bustling markets. [[Kas]] secretly rules much of the city.
+- [[Goodmead]] is located in the center of Durinor and was once known for its lush greenery and fertile soil, though that has changed since Auril escaped the nine hells. It is home to many farms and orchards, as well as the city of Goodmead itself. The people of Goodmead are known for their hospitality and love of music.
+- [[Eagledale]] is located in the northernmost region of Durinor and is known for its rugged beauty and harsh climate. Here is the royal palace.

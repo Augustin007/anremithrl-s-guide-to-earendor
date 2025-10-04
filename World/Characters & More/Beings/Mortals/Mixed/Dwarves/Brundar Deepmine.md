@@ -1,0 +1,3 @@
+Brundar Deepmine was a renowned Dwarven geologist. He was born pre-sundering in the city of [[Torin]]'s Gate, located in the heart of the Iron Hills. As a young boy, he showed a keen interest in mining and exploring underground tunnels. At the age of 24, he set out on a journey to study the geology of the Iron Mountains, hoping to discover new veins of ore and minerals.
+
+During his expedition, he encountered a series of caves that had not been previously mapped by other Dwarves. He studied these caves carefully and discovered something remarkable - layers of rock strata and mineral deposits, which he realized were created over time as a result of geological events. 

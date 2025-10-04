@@ -1,0 +1,3 @@
+[[Bechel of Bharam|Bechel]] is the leader of the Dreamers of Bharam, a cult that worships her. They took over the government of the kingdom of Crof and renamed it [[Bharam]]. 
+
+They are brutal and inhumane. They enslave, rape, and kill those who are not of the cult. The cult of Bharam think of themselves as being peacekeepers and protectors of mortals, but it is clear that they are not benevolent beings as they have been responsible for many atrocities throughout history. They are dangerous, powerful, and have existed for centuries under the leadership of the soothsayer Bechel. They have a great amount of foreknowledge of the future and have allied themselves with [[Tartarus]] and the [[Betrayer Gods]].

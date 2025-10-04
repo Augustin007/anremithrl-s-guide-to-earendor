@@ -1,0 +1,3 @@
+In the annals of the Celestial Council, few figures are as enigmatic and yet as influential as [[Thalassa]]. Like all Celestials she was born from the collective will of [[Atropus]], [[Istishia]], [[Kossuth]], and [[Akadi]]. Thalassa was a being of immense power, her essence intertwined with the very fabric of the elemental waters. She was the favorite of [[Istishia]], the Elemental Sibling of Water, and her dominion extended to the depths of the oceans and the vastness of the seas.
+
+She was one of the eight Celestials who fell before the indomitable might of the Dragons. 

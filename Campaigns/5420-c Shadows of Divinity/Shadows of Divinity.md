@@ -39,7 +39,7 @@ status: Ongoing
 [[Marethyu]]
 [[Tyr]]
 [[Araushnee]]
-[[The Lady of Pain]]
+[[Lady of Pain]]
 [[Nanold]]†
 [[Belg]]†
 [[Crug]]†
@@ -68,7 +68,6 @@ status: Ongoing
 [[Elu Singollo]]
 [[Valden]]†
 [[Isidera Stonefist]]†
-[[Elwe]]
 [[Glorfindel]]
 [[Elian]]
 [[Hechilspet]]†
@@ -84,7 +83,7 @@ That one elven general who was leading the evacuations in Fonteriano for the two
 [[Gothmog]]†
 [[Lirien Vael]]†
 [[Aric Vael]]
-[[Hatreth]]
+[[Hatreth (Cleric)]]
 [[Falledric]]
 [[Naema]]†
 [[Eolande]]†

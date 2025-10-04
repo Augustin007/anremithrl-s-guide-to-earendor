@@ -1,0 +1,1 @@
+Poisoned when she was a child.

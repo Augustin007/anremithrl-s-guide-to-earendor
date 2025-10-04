@@ -1,0 +1,3 @@
+Amora was a Celestial known for her deep emotional connections with other beings. She was loved deeply and loved others in return. Her essence was one of compassion and empathy, making her a beacon of emotional support among the Celestials. She fell during the battle against the [[Epic Dragons]], her love proving to be both her strength and vulnerability.
+
+She was one of the eight Celestials who fell before the indomitable might of the Dragons. 

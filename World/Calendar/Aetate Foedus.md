@@ -1,0 +1,7 @@
+The battle of the Aetate Foedus was the final engagement in the Foedus war. It was between the Karr, the Admaldari, the Kuildel, Trixail, and Neros. The battle occurred near what would become Rymfel. It lasted for two weeks, and when all was done there were many casualties on every side. 
+
+The battle would have been short, but Thorondor [[Selliso]], of Neros, who had been working with the people of Karr and dealing in child trafficking, realising that the ending of this war would likely expose him, led the forces he was leading away from the battle, to burn down the city of Karr into nothingness, and then betrayed his own forces to the enemy so that they were all slaughtered save him, and thus they could not speak of the razing of Karr. To preserve his life he then informed about the surprise attack he was going to be part of, and this allowed them to counter the first onslaught from Neros, and kill General [[Baeor Dechaius]] Dechaius.
+
+On the fifth day of the battle of the Aetate Foedus, a Kuildel general named [[Voros Kaul]] made a warlock bargain with [[Tharizdun]] and used it to raise an undead army and launched an attack against the Nerosean encampment, sacking the medical tents.
+
+(844)

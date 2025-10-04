@@ -9,7 +9,7 @@ status: Ongoing
 [[Ekenon]]
 
 #### Other Major Characters
-[[Beelzebub]]
+[[Baalzebub]]
 [[Kalquend (familiar)]]
 
 #### Summary

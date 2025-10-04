@@ -1,0 +1,3 @@
+Hatreth is a small town in Neros. It is surrounded by forests, and founded by the group of farmers who settled in the area to cultivate crops and raise livestock.
+
+The people of Hatreth slew [[Yvana]], a druid and a warlock of [[Ferus]], the god of the wild. As punishment for this, Ferus turned a wild boar into a lesser beast dragon, who became known in the region as [[Claron]]. He was eventually slain by travelers [[Richard Iwaelfhem]] and [[Baeor Dechaius]].
