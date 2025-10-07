@@ -1,0 +1,6 @@
+They included an introduction to logic in the text.
+as well as one-hundred and twenty pages introducing alchemy and artifice, 
+four-hundred and forty-five mathematical proofs, 
+eighteen pages on categorisation of different magics, sources of magics, types of magic, and natures of it, arguing (correctly) psionic talents were not of the same nature as magic, 
+a compilation of "Three hundred spells of usefulness for sorcerers learning to reign in their powers", which were descriptions of how each spell worked, how it felt to cast it, and recommendations on imprinting and moving the spell around, including early rune theory, and mathematics related to the spell. They created early calculation and mathematics spells with divination and introduced the concept of a limit. 
+They also added a section on his new idea, "Constructs", and wrote another hundred pages outlining early algorithmic theory and how you could create spells that could follow logically well-defined instructions to automate more vast processes.

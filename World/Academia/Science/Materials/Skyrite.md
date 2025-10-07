@@ -1,0 +1,1 @@
+Skyrite is a mineral that comes from the [[Caverns of Stillness]] and the [[Floating Mountains]], while it has weight, and it takes strength to move it, it does not obey gravity as other things do, thus increasing the mass of the thing it is attached to, but not the pull of gravity. 

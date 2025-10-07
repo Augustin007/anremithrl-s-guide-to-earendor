@@ -1,0 +1,1 @@
+The Tome of Silence was the largest spellbook of the time, compiled by [[Iskandar]]. He would go on to hide it in the Caverns of Stillness before his death.

@@ -1,0 +1,1 @@
+Firestones are small gems of fire that exist in the [[Undying Pyre]] and act as a focus for pyromancy and evocation.

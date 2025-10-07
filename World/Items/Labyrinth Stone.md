@@ -1,0 +1,2 @@
+A powerful stone that binds a creature inside of it. A trapped creature slowly goes insane. If powerful enough, the creature can channel power through someone holding the stone as long as the person is willing. 
+[[Tartarus]] was trapped there by The [[Lady of Pain]], and he siphoned off the sanity of his wielders as he granted them wishes. He was eventually able to channel enough power to escape through [[Nil'ge'tar Remshi'ul]].

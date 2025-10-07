@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c442d9e9bff6d47",
+            "id": "cd32532fcfc1aef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Obsidian Tools/Shortest Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shortest Files"
+            }
+          },
+          {
+            "id": "109a886b2e273d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +36,105 @@
             }
           },
           {
-            "id": "04b73cf3aa108df1",
+            "id": "54690860f0f8b55f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Unfinished/Alchemy.md",
+                "file": "Meta/Obsidian Tools/Longest Unmodified.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemy"
+              "title": "Longest Unmodified"
             }
           },
           {
-            "id": "9dd4a40825b97ea3",
+            "id": "a2562e37f7e67501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Standard/language.md",
+                "file": "World/Academia/Magic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "language"
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "831a780281159272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Old.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic Old"
+            }
+          },
+          {
+            "id": "a61938f9e9dc0186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material draft"
+            }
+          },
+          {
+            "id": "69a23ca7724b48ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Material Draft"
+            }
+          },
+          {
+            "id": "f1201245b088fbc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Materials and Axons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materials and Axons"
+            }
+          },
+          {
+            "id": "aeee0c3e4faa8b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Materials/Magic Old.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic Old"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -348,37 +432,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "04b73cf3aa108df1",
+  "active": "eec10ee5dff78b99",
   "lastOpenFiles": [
-    "Meta/Unfinished/Den.md",
-    "Meta/Unfinished/Dialogue.md",
-    "Meta/Unfinished/Headmaster's speech.md",
-    "Meta/Unfinished/Lieutenant of Vecna.md",
-    "Meta/Unfinished/Prep.md",
-    "Meta/Unfinished/Session 3 - Origins of the Greenclad.md",
-    "Meta/Unfinished/Session 4 - Origins of the Greenclad.md",
-    "Meta/Unfinished/Spells & Surge Abilities.md",
-    "Meta/Unfinished/Test Theme.md",
-    "Meta/Unfinished/Untitled.canvas",
-    "World/Characters & More/Orders/Sons of Xandred.md",
-    "World/Characters & More/Orders/Silven Crown.md",
-    "World/Characters & More/Orders/Righteous Council.md",
-    "World/Characters & More/Orders/Celestial Council.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Astraeus.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/The Celestials.md",
-    "World/Characters & More/Orders/Attendants of Knowledge.md",
-    "World/Characters & More/Orders/The Sol'karis.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Peredhel/Dr Ailin Iwaelfhem, pHD.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Peredhel/Richard Iwaelfhem (Younger).md",
-    "World/Characters & More/Beings/Immortals/Created/Marethyu.md",
-    "Campaigns/5421-c The Path of Honor/Assets/Contract.md",
-    "Campaigns/5421-c The Path of Honor/Assets",
+    "Meta/Unfinished/Materials/Material Draft.md",
+    "Meta/Unfinished/Materials/Magic Old.md",
+    "Meta/Unfinished/Materials",
+    "Meta/Unfinished/Materials/Old Conversations Magic.md",
+    "World/Academia/Magic.md",
+    "Meta/Unfinished/Materials/Material draft 1.md",
+    "Meta/Unfinished/Materials and Axons.md",
+    "Meta/Obsidian Tools/Longest Unmodified.md",
+    "Meta/Obsidian Tools/Shortest Files.md",
+    "World/Locations/Planes/True Planes/Material Plane.md",
+    "Meta/Unfinished/Materials/Neros.md",
+    "Untitled 1.md",
+    "Meta/Obsidian Tools/Unresolved Links.md",
+    "World/Characters & More/Beings/Mortals/Human/Iskandar.md",
+    "Meta/Standard/language.md",
+    "World/Items/Tome of Silence.md",
+    "World/Items/Labyrinth Stone.md",
+    "World/Items/Dagger of Tiamat.md",
+    "World/Academia/Telos Construct.md",
+    "World/Items/Sword of Eons.md",
+    "World/Academia/Science/Materials/Skyrite.md",
+    "World/Items/Hearthstone.md",
+    "World/Items/Flameheart.md",
+    "World/Academia/Science/Materials/Firestones.md",
+    "World/Items/Codex Arcanum.md",
+    "World/Academia/Science/Materials",
     "Meta/Unfinished/Alchemy.md",
-    "Meta/Unfinished/Notes/Notes.md",
-    "Meta/Unfinished/Calendar - old save.md",
+    "Meta/Unfinished/Untitled.canvas",
+    "Campaigns/5421-c The Path of Honor/Assets",
     "Meta/Unfinished/Notes",
-    "Meta/Unfinished/Timeline.md",
-    "Neros.md",
     "World/Academia/Science",
     "World/Academia",
     "Meta/Homebrew",
@@ -386,8 +471,6 @@
     "World/Characters & More/Orders",
     "World/Characters & More",
     "Decks/Standard/Cups01.png",
-    "Meta/Standard",
-    "Meta/Obsidian Tools/Neat",
     "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-18-37 • Discord #character-art The Path of Honor.png",
     "Meta/Images/Tokens/Art/Screenshot 2025-01-22 at 18-29-43 • Discord #character-art The Path of Honor.png",
     "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-22-35 Sylphrena art - Google Search.png",

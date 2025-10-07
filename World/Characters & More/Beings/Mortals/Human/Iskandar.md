@@ -4,7 +4,7 @@ Lineage: Human
 Birth Year: 2999 AS
 Death Year: 3064 AS
 ---
-Iskandar, also known as King Iskandar the Wise or simply "The Wise", is a legendary figure who ruled the [[Chiss Empire]] who has been immortalized for his wisdom and magical abilities. 
+Iskandar, also known as King Iskandar the Wise or simply "The Wise",  was a ruler of the [[Chiss Empire]] known for his wisdom and magical abilities. 
 
 He was born to a noble family and became a powerful wizard at an early age. He gained notoriety by defeating many powerful enemies, including the dragon [[Kragloth]].
 
