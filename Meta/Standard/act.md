@@ -1,7 +1,8 @@
 ---
-file: session
+file: act
 campaign: Adventures in Arthulion
 ---
+
 |               Previous                |         Campaign          |                  Next                  |
 | :-----------------------------------: | :-----------------------: | :------------------------------------: |
 | [Session 9 - Adventures in Arthulion] | [Adventures in Arthulion] | [Session 11 - Adventures in Arthulion] |
