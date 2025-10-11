@@ -1,3 +1,4 @@
+
 > **A Categorization of Beings, by Anonymous**
 > 
 > The Eternal Wars began. In this time, primordials were unmade, scattered, and wounded. 
@@ -170,3 +171,45 @@
 > And Asgorath realized he was outmatched, but he still fought all the same. And he slew two before he was captured: Alea, who had been one of the Elessar, and when she died many memories of the creations of Nehusta and Telos were lost, as it was with any of the Elessar that had fallen; and Ferum of the Elohim, who was a master duelist, and even as he fell he greatly wounded Asgorath.
 > 
 > They did not slay him, for though many wished to do so, Thalorin did not wish to see more death, and he swayed the council. So instead they imprisoned him. They tore apart a small part of the Ethereal Plane for material, and they wove together in its place, even as Asgorath and Arambar had, the threads of Time and Aether. They wove into it the elements, for they knew that time and space alone would not contain their creator. This new realm was the Material Plane. And the gods channeled their divine energy into it, creating Ley Lines as bars to the prison, an eternal prison to keep Asgorath asleep.
+
+> **The Tale of Dragons, by Magnar**
+> 
+> Deep inquiries on my last visit to Arvandor have allowed me to compile this tale, though most of the gods who lived through that time breathe hardly a word, my friend Asmodeus has proven most talkative, no doubt in part due to his belief in truth, and no doubt because he does not wish his daughter to believe her nature is shameful, but I think these latest issues with Araushnee have stirred old thoughts among the gods, and they may again take arms as we humans do. 
+> 
+> There was at first but one dragon. Formed, not of Chaos and Order as is said, but of the same nature that I now wear, a power reactive to the divine. Arambar and Asgorath toiled long in secret to perfect the nature of its power, and when the Celestials struck they were taken by surprise, and the battle turned sour. The dragon fell, and Asgorath and Arambar barely escaped, his knowledge of the formation of the planes turned towards his advantage, and they tracked down only Arambar. But eight of the celestials fell in that initial onslought, not knowing of the danger of draconic nature.
+>   
+> They named it the Eater of Dawn, or something alike it in their language, and the remnants of the soul were locked away into the planes, scattered in Seron's Scar [Modern Day: Crimson Nebula of the Astral Sea]. 
+> 
+> And they hoped there would not be another, and made preparations. But blinded by vengeance, and emboldened by the success, now understanding its power, Asgorath made four more of these Dragons, and the Celestials fled to their warrior caste, the Elohim. 
+> 
+> And they set to prepare to defeat them.
+> 
+> Now amongst the four there was one dragon of greater malevolence, and this one was named by the gods the Broodmaker. 
+> 
+> And when the Celestials fled, the Broodmaker turned to its siblings and established himself as the leader, and ordered the dragons to bleed themselves on the battlefield. So it was that they conquered the Elemental Siblings, and stopped their infighting and bickering, and brought them to heel. 
+> 
+> And he took the spoils of this conquest, and took their strength. He took a great liking for Istishia, and for this reason Istishia is weakest of he siblings still.
+> 
+> And so bled and experienced, they struck again at the Celestials, and killed many Elohim before they could retreat.
+> 
+> Three other dragons lived. The Unmaker, The Silent One, and The Final Coil. 
+> 
+> Now one of the dragons, The Silent One, had grown in wisdom and kindness, and this alone spared the Divine, for he sped ahead to warn them, and attempted to mediate a peace. When that failed, he bought them time for the escape.
+> 
+> And he attempted to protect some of the divine during the battle, and when the Broodmaker discovered what he had done, The Silent One claimed he was taking spoils for himself. 
+> 
+> The Broodmaker thought it a great idea, and praised his ambition, and took some for his own self. Among these was Rhea, Asmodeus's wife, and he forced her to bear Tiamat before he slew her.
+> 
+> Now, among those that The Silent One took captive to fool the Broodmaker was Iris. And the two fell in love. And from that union came Bahamut. And the Broodmaker bid The Silent One kill Iris after this, and when he refused his nature was laid bare, and the Broodmaker killed them both, and their souls are tortured eternally in the borders of Chaos.
+> 
+> The Unmaker saw then that The Broodmaker bore them no loyalty, and Tartarus spoke in his mind, whispering of things, and the Unmaker betrayed his brethren, and gave secrets he should not have, and thus Tartarus brought him out under false pretenses, and trapped him in the Abyss with the aid of the gods.
+> 
+> The Broodmaker took Bahamut, and he liked Bahamut more than his own daughter, for Bahamut was more akin to him in expression, and he taught Bahamut of the crueler and eviler things of the world, and Bahamut in his youth did of the worst sort of things.
+> 
+> Tiamat became neglected and abused, and more and more conflicted, that her mind diverged, and thus she is as she is now.
+> 
+> And the gods took Bahamut, while he was out torturing the subjects of Asgorath for fun, for he was weaker than the Broodmaker, and laid him as bate. And when in a fury The Broodmaker attacked, he was met with a trap, and defeated.
+> 
+> The Final Coil dwelt near to Asgorath in those final years, many times longer than the rest were alive, as Asgorath ruled the planes, in an ever-tighter iron fist. The gods and their rebellion went to each of the Elemental Siblings one at a time. The Final Coil grew in cunning, wisdom, and skill, avoiding their traps, slaying beasts.
+> 
+> Their final onslaught killed the final dragon, and Asgorath. The gods, using the knowledge of the elemental siblings, were able to reshape the threads and capture them, and now they plot ever in their slumber, beneath the surface of our planet.

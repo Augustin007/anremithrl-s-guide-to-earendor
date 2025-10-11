@@ -4,21 +4,19 @@
 > The gods tore the fifth plane, that the home of Azgorath and Arambar, and created out of it a sixth true plane, a prison to hold the epic dragons and Azgorath trapped in it's bindings. They did this with the help of the four elemental primordials. A plane filled with matter. A plane most closely tied to time and space. In it, galaxies and stars and things began to form.
 
 
-
-
 > **From the accounting of Methunroa**
 > 
 > ***The Ranks of the Gods*** 
 > 
 > In the aftermath of the Eternal Wars, the gods found themselves in a new era. The Celestial Council, now reduced to twelve, stood as the highest echelon of divine authority. And they formed a larger council, known as the Greater Council, and it was forged of the Celestials, the Elessar, the Elohim, and those of the Later-Born who came before the end of the Eternal Wars. These were the gods who had been born before the cataclysmic conflicts that had reshaped the Universe, and they were known as the greater gods. Their wisdom was sought, their judgments revered, and their power unmatched.
 > 
-> Beneath them, in a tier of their own, were the gods of the Senate. These were the deities who had come into existence after the Eternal Wars. Though not as potent as the Celestials, they were numerous and held considerable sway over various aspects of the Universe. Their voices filled the senate chambers with debates and discussions, shaping the cosmic laws that governed all existence.
+> Into the greater council, too, were accepted Bahamut and Tiamat, against the will of Auril, who hated them. Bahamut did not at first accept, and hated them all. In this time his only friend was Tiamat. But Thalorin wished for no discord or resentment (and had indeed spoken against his kidnapping), and valued Bahamut's knowledge, imprinted into him from Asgorath through the Broodmaker. And Tiamat, Bahamut's cousin, prevailed upon Bahamut to deign to join the council, and he and Thalorin developed a loose friendship. Through Tiamat and Thalorin, he would learn of compassion and trust, and be no longer the hardened being he had been before.
+> 
+> Beneath the greater council, in a tier of their own, were the gods of the Senate. These were the deities who had come into existence after the Eternal Wars. Though not as potent as the Celestials, they were numerous and held considerable sway over various aspects of the Universe. Their voices filled the senate chambers with debates and discussions, shaping the laws that govern all beings.
 > 
 > The third generation of gods, and all those who came after, were known as the lesser gods. They were the caretakers of specific realms, guardians of particular elements, and patrons of various mortal endeavors. Their influence was more localized, but in their domains, they were absolute.
 > 
-> This triad of divine hierarchy—the Celestial Council, The Greater Council, The Senate of greater gods, and the lesser gods—formed the backbone of the new divine order.
-> 
-> Led by Hekate, the Mistress of Magic, and Nebelum, the Keeper of Secrets, the gods convened to bring their vision to life. Hekate, with her unparalleled mastery over the arcane, was the architect, weaving the very fabric of this new realm. Nebelum, whose wisdom was as vast as the secrets he kept, served as the planner, laying out the intricate details that would make Arvandor not just a sanctuary, but a fortress of divine power.
+> Led by Hekate, whose essense was unlike the others, and Nebelum, the Keeper of Secrets, the gods convened to bring their vision to life. They formed Arvandor, the home of the gods, where their councils met and where many had their homes. 
 > 
 > The Celestial Council lent their immense energies to the endeavor, each contributing a facet of their essence to imbue Arvandor with a myriad of divine attributes. The greater gods of the senate, too, offered their powers, infusing the realm with their specialized dominions, be it love, war, wisdom, or the elements. The lesser gods, though not as potent, provided the finishing touches, crafting the nooks and crannies, the hidden groves and secret chambers that gave Arvandor its complexity.
 > 

@@ -29,16 +29,13 @@ William uses a spellshot to planeshift him into the gem, but it fails, blocked b
 
 Tal'berius time-stops, assisted by Eleutheros, earning them a bit of time. Marethyu speaks in Colossus's mind, giving him the idea to destroy the tree.  They make a new plan. They end the time-stop. Colossus sacrifices himself to Blight the tree. Thalorin's complete awakening Consumes the Order of Names. Thalorin and Gallio grapple Tartarus and Gallio planeshifts them all into his realm. Tal'berius absorbs and redirects the siphoned divinity of the tree across all the planes, creating the Conduit, equalising the time across all the planes and using the temporal energy to stretch time in Gallio's dimension. While Tartarus will no doubt defeat them and plane-shift back. It will take him hundreds, if not thousands, of years. They use the Orb of Anhilation to power it.
 
-Reacting to the Shattering and causing the ashfalls. In the exact moment of this spell, Ashariel touches the remnants of the Tree, and Kas, attempting to stop her, is stopped by Ghalen, who pushes him into the Conduit at the moment of its formation. Kas is expelled beyond the reaches of time and space, aging in an instant. Kas *becomes* Ghalen the Chronomancer. Ashariel tries to follow her husband Kas but is dragged away by Ghalen, who reveals himself as the future version of Kas. She sets Thorne on the rest, destroying those who had sworn to protect the Tree. Aeofie returns, still a sheep. Ashariel takes her and leaves. This was her goal, saving her daughter. 
+Reacting to the Shattering and causing the ashfalls. In the exact moment of this spell, Ashariel touches the  of the Tree, and Kas, attempting to stop her, is stopped by Ghalen, who pushes him into thremnantse Conduit at the moment of its formation. Kas is expelled beyond the reaches of time and space, aging in an instant, changing his nature. Kas *becomes* like Ghalen the Chronomancer. Ashariel tries to follow her husband Kas but is dragged away by Ghalen, who claims Kas will be back. She sets Thorne on the rest, destroying those who had sworn to protect the Tree. Aeofie returns, still a sheep. Ashariel takes her and leaves. This was her goal, saving her daughter. 
 
-Tyr, once a god of oaths and justice, who broke his oath to defend the tree, draws away Thorne, buying people time to flee.
+Tyr, once a god of oaths and justice, who broke his oath to defend the tree, draws away Thorne, buying people time to flee. Dying.
 
 Baeor arrives and fights off the remnants of Shar's forces who attack the conduit. 
 
 Nugget and William flee the scene.
-
-
----
 
 The Raven Queen prevents resurrection of any enemy troops the entire time.
 

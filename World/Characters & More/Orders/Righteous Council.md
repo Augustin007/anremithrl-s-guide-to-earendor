@@ -2,11 +2,11 @@ The Righteous Council is a group of gods who were exiled from Arvandor during th
 The Righteous Council is often seen as a group of good gods. They believe in the principles of justice, honor, and fairness.
 The original righteous council consisted of [[Thalorin]], it's head, and his siblings [[Varian]], and [[Elandra]]. They were the three who broke away from the Celestial council, and though they were weakened and eternally exiled from Arvandor, they fought to protect mortals from the [[Betrayer Gods]].
 
-By the end of the Sundering War, Vairan and Elandra had fallen. Thalorin did obtain the aid of [[Nebelum]] and [[Hekate]], as well as [[Tyr]] and [[The Raven Queen]].
+By the end of the Sundering War, Vairan and Elandra had fallen. Thalorin did obtain the aid of [[Nebelum]] and [[Hekate]], as well as [[Tyr]] and [[Araushnee]].
 
 Righteous Council:
 1. [[Thalorin]]
 2. [[Tyr]] (Technically not a celestial)
-3. [[The Raven Queen]] (Technically not a celestial)
+3. [[Araushnee]] (Technically not a celestial)
 4. [[Nebelum]]
 5. [[Hekate]]

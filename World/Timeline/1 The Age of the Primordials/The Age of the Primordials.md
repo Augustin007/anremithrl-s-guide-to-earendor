@@ -1,3 +1,4 @@
+
 > **From the Codex of Abraham the Mage**
 > 
 > Selune and Shar settled on the ends of the almost and that which was. Selune had proper space, but only almost time. Her light was eternal and undying. Everpresent. Shar had time, but only almost space, and her land was called the Abyss, for her darkness and evil filled it all.

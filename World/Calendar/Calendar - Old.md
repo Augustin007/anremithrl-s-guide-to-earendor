@@ -650,6 +650,7 @@ Colossus restores the Divinity of Tyr and The Raven Queen.
 Korvus finishes his experiments and Ashdilkir is able to ascend. She becomes Ashariel. Retribution.
  
 ## 1st of Alturiak [Longest Night]
+[[The Shattering]]
 A great ley line shifting, which occurs every few hundred years, and the longest night (winter solstice), coincide to make the border between realms thinnest, allowing creatures to pass through the Tree more easily.
 At the longest night, in a great battle at the tree, Tartarus is able to get his forces there, killing Isendra on the other end. Many things occur. See Longest Night. Baron Daron, the Analyst, and Galio die in the fighting.
 Azmodeus returns to his godhood as Be'elzebub gives him the Ichor. He successfully severs Tartarus's bond, restoring Nil'ge'tar's sanity.

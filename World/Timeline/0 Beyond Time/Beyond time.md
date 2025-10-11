@@ -1,3 +1,5 @@
+These represent writings in the world, and are not completely accurate to true lore.
+
 > **An Excerpt from _The Annals of Time_ by Liriel the Stargazer**
 > 
 > There is the first cause. From this cause all else is. There is the first cause, and from this, Ao and Isfet are. They are the King of Order and the Queen of Chaos. And they were, are, and will be caused at all times, or no times, everywhere and nowhere. They are beyond time and beyond space. Beyond the notion of beginnings and endings. All there is, there, is a notion of _causation_, and they were not the first cause.
@@ -16,17 +18,16 @@
 > 
 > Within it all, there is the first cause, and from there, Ao and Isfet are _caused_. 
 > 
-> They, in turn, created the almost time. ...\* In almost time, there is no sense of continuous time and space, but there is a sense of _next_, and of nearness. Things that enter or exit will be present at all points of it, and join again at any point 'after' to leaving, but only be one continuous presence outside of it. While beyond time and space order is supreme, in this almost time and space, chaos is more powerful.
+> They, in turn, created the almost time. ... In almost time, there is no sense of continuous time and space, but there is a sense of _next_, and of nearness. Things that enter or exit will be present at all points of it, and join again at any point 'after' to leaving, but only be one continuous presence outside of it. While beyond time and space order is supreme, in this almost time and space, chaos is more powerful.
 > 
 > The weaving of almost space and time is not perfect. Almost time exists in some places where almost space doesn't, and the other is also true.
 
-_\*\[Ghalen here goes on a tangent, explaining the literal mathematical structure that describes almost-time in his theories\]_
 
-> **From the writings of Rondar**
+> **From the letters of Rondar and Garret**
 > Time and Space are bound by that with Hast named the _Aether_. It is as threads, woven throughout. Vibrating and pulling at each other. We see a small portion of that. And they hate to move. Theories conflict, but I personally measure twenty-three dimensions of freedom. Where they intersect with the three dimensional slice which is our plane of existence, it forms the barest particles of existence.
 
 
-> **From the accounting of Methunroa**
+> **From *The Accounting* by Methunroa**
 > 
 > At first there were only the Queen of Chaos and the King of Order. They were older than the Universe. From where they came nothing is known. It is said only that they simply *are*.
 > 

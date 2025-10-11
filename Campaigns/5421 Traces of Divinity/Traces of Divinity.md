@@ -16,7 +16,7 @@ status: Indefinite Hiatus
 #### Other Major Characters In the Story
 [[Neithen]]
 **Gods**
-[[Unther]]
+[[Acheron]]
 
 #### Summary
 Norvias and Zal'kesh'ar go on a quest for vengence against Neithen. Along the way they meet Ophiriel and Thurin, who have the same enemy and the same quest.

@@ -217,17 +217,17 @@ The protector gods create the Trees of Sanctuary. This marks the official end of
 > 
 > Now, when the betrayer gods first struck at mortals, they struck Thalassos, for Varian had spoken against the unmaking of mortals, and Azmodeus wished for revenge, and not a mortal in there had time to react or call for help. No alarm was raised. Few of the Anami lived past that day. And the regent, named Anamos, the fourth regent of that name, lay dead on the battlements of Mycenae.
 > 
-> And Varian, came down and saw his people killed and he was incensed, and would have fought Tharizdun on the spot, but his brother Thalorin advised him to go first to the council, or else they may lose any hope of alliance and peace between the gods.
+> And Varian, came down and saw his people killed and he was incensed, and would have fought Tharizdun on the spot, but his brother Thalorin prevailed upon him to first go to the council, else they lose any hope of alliance and peace between the gods.
 > 
-> But the Sundering War began.
+> But his efforts were in vain, and the Sundering War began all the same.
 > 
-> And Eldorath fell soon thereafter, and Nebelum, who had until then argued for a peaceful end to the war, was angered then, and left Arvandor and fought alongside Thalorin against the betrayers.
+> Eldorath fell soon thereafter, and Nebelum, who had until then argued for a peaceful end to the war, was then incensed, and left Arvandor and fought alongside Thalorin against the betrayers.
 > 
-> But the borders of the Dravaran were protected at first by the great magics of their king.
+> The war lasted long, and at first Dravaran stood strong, its borders protected by the great magics of Tar-Rillion.
 > 
-> They harbored survivors for some time, and their people fought against the betrayers, and Tal'berius and Artorius fought bravely in the war, becoming known as an unstoppable duo of forces. 
+> They harbored survivors for some time, and their people fought against the betrayers, and Tal'berius and Artorius fought bravely in the war, becoming known as an unstoppable pair. 
 > 
-> Tharizdun railed against the wards of Tar-Rilion, and though he could not pass them, his creations could, and a great plague swept the land, and young Nanor, still but a child, fell ill and died. Rillion, consumed by anger and grief, then flew to meet Tharizdun in battle and was slain, and the wards fell. 
+> In the ninth year of the war, Tharizdun turned his eyes towards Dravaran, and he railed against the wards of Tar-Rilion. Though he could not pass them, his creations could, and a great plague swept the land. And to this plague, young Nanor, still but a child, fell ill and died. Rillion, consumed by anger and grief, then flew to meet Tharizdun in battle and was slain, and the wards fell. 
 > 
 > His two sons rushed back to protect their kingdom and avenge their father and sister. They challenged Tharizdun in the valley of Echoriath, and they held him back. For eight hours they fought, and in the eighth hour Artorius sacrificed himself to save his brother, and as Tharizdun gloated, Tal'berius struck deep into Tharizdun's heart, imbuing his grief over the deaths of his brother and his sister and his father into a work of magic so powerful it undid the bindings that kept Azgorath chained and opened a rift into Pandemonium itself, the realm outside of time and space where the Queen of Chaos dwells.
 > 

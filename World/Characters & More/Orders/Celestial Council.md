@@ -30,7 +30,7 @@ These are the original Celestials of the council
 16. [[Corellon]]
 17. [[Hekate]]
 18. [[Orcus]]
-19. [[Unther]]  
+19. [[Acheron]]  
 20. [[Marduk]]
 
 During the Eternal War, eight of them died, leaving:
@@ -46,14 +46,14 @@ Post Eternal War
 9. [[Corellon]]
 10. [[Hekate]]
 11. [[Orcus]]
-12. [[Unther]]
+12. [[Acheron]]
 
 When the Sundering war began, the gods had a great schism, and split into three councils, which are known by these names:
 Betrayer gods:
 1. [[Asmodeus]]
 2. [[Tharizdun]]
 3. [[Orcus]]
-4. [[Unther]]
+4. [[Acheron]]
 
 Righteous Council:
 1. [[Thalorin]]
@@ -66,18 +66,18 @@ Celestial Council:
 3. [[Corellon]]
 4. [[Astraeus]]
 
-By the end of the sundering war, two of the righteous council had fallen, [[Varian]] and [[Elandra]], but Thalorin managed to sway [[Hekate]] and [[Nebelum]], and accepted also the alliances of [[Tyr]] and [[The Raven Queen]].
+By the end of the sundering war, two of the righteous council had fallen, [[Varian]] and [[Elandra]], but Thalorin managed to sway [[Hekate]] and [[Nebelum]], and accepted also the alliances of [[Tyr]] and [[Araushnee]].
 Betrayer gods:
 1. [[Asmodeus]]
 2. [[Tharizdun]]
 3. [[Orcus]]
-4. [[Unther]]
+4. [[Acheron]]
 5. [[Orthax]] (Technically not a celestial)
 
 Righteous Council:
 1. [[Thalorin]]
 2. [[Tyr]] (Technically not a celestial)
-3. [[The Raven Queen]] (Technically not a celestial)
+3. [[Araushnee]] (Technically not a celestial)
 4. [[Nebelum]]
 5. [[Hekate]]
 

@@ -13,7 +13,7 @@ Beyond this, the gods mate with the humans, and from there come the first Tiefli
 goblins, orcs, trolls, hobgoblin, verdan are created by gods who want to be entertained by raids and wars. First Orcus(Goblins and trolls), and then perfected by Ares (Hobgoblins, orcs, and verdan).
 Some species go deep underground to avoid the notice of the gods. Some gods still notice them all the same. This begins the formation of the underdark.
 
-This was a time of unparalleled creativity for the gods. Each took turns adding their unique essence to these new realms, crafting flora and fauna, celestial bodies, and even natural laws that governed the physics of each sub-plane. The gods reveled in their acts of creation, each new life form, each mountain or star, serving to strengthen the Ley Lines and, by extension, the prison that held Asgorath.
+Each took turns adding their unique essence to these new realms, crafting flora and fauna, celestial bodies, and even natural laws that governed the physics of each sub-plane. The gods reveled in their acts of creation, each new life form, each mountain or star, serving to strengthen the Ley Lines and, by extension, the prison that held Asgorath.
 
 > **From the writings of Methunroa**
 > **The Advent of Sentience**
