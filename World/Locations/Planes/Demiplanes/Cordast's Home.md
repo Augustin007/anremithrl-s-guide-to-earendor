@@ -8,4 +8,4 @@ One of these, is a helicopter-hat-like creature.
 
 A great castle floats in this plane. A group of the [[The Hidden Thieves]], led by [[Quandale Black]], ran a heist to steal something.
 
-[[Jessica Black|Lady Black]] was caught here for some time by [[Ashdilkir]].
+[[Jess Val|Lady Black]] was caught here for some time by [[Ashdilkir]].

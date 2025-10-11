@@ -12,7 +12,7 @@ The house [[Decaius]] of [[Neros]] have ancestors from Bremen.
 
 Ashdilkir slowly lost her memory and her sanity, she wrote down everything she remembered, and over thirty-thousand years of her memories are in her personal library hidden in the caves of the underdark, deep beneath Bremen. 
 
-[[Jessica Black|Lady Black]], and [[Nil'ge'tar Remshi'ul|Prince Nil'ge'tar (Nugget)]] left behind a bomb in a fountain when they passed by the city, which killed a family of four. This was blamed on the outcast Goliath [[Dirk]], who was executed for their crime. This also increased the tension between the Goliaths and Dwarves of the town. 
+[[Jess Val|Lady Black]], and [[Nil'ge'tar Remshi'ul|Prince Nil'ge'tar (Nugget)]] left behind a bomb in a fountain when they passed by the city, which killed a family of four. This was blamed on the outcast Goliath [[Dirk]], who was executed for their crime. This also increased the tension between the Goliaths and Dwarves of the town. 
 
 Tal'berius used the [[Echoes of Divinity]] crew to get to Bremen to conceal himself from [[Kas]] of Torin, who secretly rules the city. 
 
