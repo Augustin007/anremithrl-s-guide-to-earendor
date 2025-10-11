@@ -1,4 +1,11 @@
-[[Session 28a - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 28a - The Path of Honor]]|[[The Path of Honor]]|[[Session 30a - The Path of Honor]]|
+
 29 - Naras
 Jory
 Slaver 1
@@ -14,6 +21,8 @@ As they are being driven away, Ivvan pretends to be deadly sick and they abandon
 
 Liriel gets herself captured too.
 
-They reach a mining encampment where they are all sold. 
+They reach a mining encampment where they are all sold.
 
-[[Session 30a - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 28a - The Path of Honor]]|[[The Path of Honor]]|[[Session 30a - The Path of Honor]]|

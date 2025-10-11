@@ -1,13 +1,15 @@
 ---
+file: campaign
 DM:
   - Austin
-status: Ongoing
+status: ongoing
 ---
 [[Session 1 - Shadows of Lysandra|Campaign]]
 #### Player Characters
 [[Sir Eamon Cardvas]]
 [[Orris Haldwin]]†
-[[Sir Levar]]†
+[[Sir Levar Calder]]†
+#### Crossover Player Characters
 
 #### Other Major Characters In the Story
 [[Sir Andros Velmir]]†
@@ -21,6 +23,10 @@ status: Ongoing
 [[Sir Tymon]]
 [[Sir Varek]]
 [[Lord Markov]]
+
+#### Other Characters Seen or Referenced
+**Gods**
+[[Shar]]
 
 #### Summary
 In the islands of Lysandra in the early age of Shadows, a young man named Eamon rises in the ranks of the Aka'lit.

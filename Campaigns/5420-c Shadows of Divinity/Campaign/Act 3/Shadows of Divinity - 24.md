@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 23|<-Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 23]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 25]]|
 
 %%
 27th Hammer
@@ -90,4 +96,6 @@ Krag climbes the tallest peak and can see above him Auril's fortress.
 28th Hammer
 %%
 
-[[Shadows of Divinity - 25|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 23]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 25]]|

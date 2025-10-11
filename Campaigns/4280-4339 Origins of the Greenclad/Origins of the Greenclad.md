@@ -1,16 +1,24 @@
 ---
+file: campaign
 DM:
   - Austin
-status: Finished
+status: finished
 ---
-
-[[Richard Iwaelfhem]]
-[[Narnor Azerim]]
-[[Daedroy Belkar]]
-[[Stoic Vanem]]
-[[Miyatol Dodonus]]
-[[Lucy Iwaelfhem]]
+#### Player Characters
+[[Richard Iwaelfhem]]†
+[[Narnor Azerim]]†
+[[Daedroy Belkar]]†
+[[Stoic Vanem]]†
+[[Miyatol Dodonus]]†
+[[Lucy Iwaelfhem]]†
 [[Baeor Dechaius]]
+
+#### Crossover Player Characters
+
+#### Other Major Characters In the Story
+[[Tyko]]
+#### Other Minor Characters In the Story
+#### Other Characters Seen or Referenced
 
 
 

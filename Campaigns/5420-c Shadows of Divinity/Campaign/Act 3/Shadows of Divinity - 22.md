@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 21|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 21]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 23]]|
 
 11th Hammer
 Faust is confronted by the Order of Names. He travels and takes the lightwood capital.
@@ -17,4 +23,6 @@ Man aboard the ship: Marcuth Gathos
 (Timeless, some point after 10 Hammer)
 Colossus is freed, talks to the Raven Queen and to Falledric. Colossus travels through Arvandor and onto the material plane, talking to William Treaty shortly after landing. He then continues onto the Shadowfell, discovering the plane invaded by the darkness of Shar. He and the Raven Queen formulate a plan and get ready to attack.
 
-[[Shadows of Divinity - 23|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 21]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 23]]|

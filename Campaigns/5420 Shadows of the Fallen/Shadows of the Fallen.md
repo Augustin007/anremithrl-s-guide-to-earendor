@@ -1,3 +1,11 @@
+---
+file: campaign
+DM:
+  - Austin
+status: finished
+---
+
+
 [[Fendril]] (a Human Scout from Golin), [[Eglath]] (a Goliath Cavalryman from Solenthir), and [[Harnvol]] (a Dwarven Artificer from Othron Ibrith.
 
 After the massacre at chokepoint Zeta, they had banded together, days later, the necromancer [[Korvos]] found them and dragged them to his lair. 

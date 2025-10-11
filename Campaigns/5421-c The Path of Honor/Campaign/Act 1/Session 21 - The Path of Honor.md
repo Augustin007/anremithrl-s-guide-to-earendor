@@ -1,4 +1,10 @@
-[[Session 20 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 20 - The Path of Honor]]|[[The Path of Honor]]|[[Session 22 - The Path of Honor]]|
 
 The party decides not to back to the Underdark to look for the dwarf Duthrim. Aric has an open wound on his face, and has lost an eye, Liriel is trying to help him bandage the eye. The child, Kerran, is now very pale and barely breathing. Lirien is carrying him, asking the party for help, but they can do nothing about it.  *The only person with a healing potion is Naras, who doesn't want to give it up*. Aric seems shaken, and no longer seems to idolise Naras. Naras checks the gear he stole from Dareth's body, finding a sword of life stealing. Naras makes a grave for Uncim in the snow. Aric insists that the group look for something to help Kerran. Tearing off with his brother, while Ivvan and Talor go to help.
 
@@ -16,4 +22,6 @@ While possessed, Giggles's consiousness was in another plane, in which he spoke 
 
 When Giggles regains control and is apprehended, the king plans to execute giggles, and seeing that the party helped defend against Giggles, and protected his guards and him, he intends to let them free after questioning, but during the questioning Torquil argues in defense of Giggles, explaining that he saw that Giggles was possessed by a spirit with his Divine Sight. And that it would not be fair to execute Giggles for a crime he didn't commit. Tar'id'lion'nil continues his questioning and figures out who Naras Vorasthar and guesses Ivvan's heritage. When the questioning is finished, Giggles is brought before him. Giggles begs for mercy, and is exiled until he finds a cure.
 
-[[Session 22 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 20 - The Path of Honor]]|[[The Path of Honor]]|[[Session 22 - The Path of Honor]]|

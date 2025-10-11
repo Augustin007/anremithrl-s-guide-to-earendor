@@ -1,4 +1,10 @@
-[[Session 14 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 14 - The Path of Honor]]|[[The Path of Honor]]|[[Session 16 - The Path of Honor]]|
 
 Caxius's picture of her kidnapped brother who she's been looking for for the last year, which fell off the necklace last session, is in pocket of her clothes, which are in her bag. Which was taken from her.
 
@@ -10,4 +16,6 @@ Naras decides to take Dareth's equipment, and rests a bit before re-summoning Sy
 
 Naras decides to rest some more before seeking out the kids. As he falls asleep he hears one last thing, the sound of a hummingbird, the words "Sckeeo teners ou pethleen thlon".
 
-[[Session 16 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 14 - The Path of Honor]]|[[The Path of Honor]]|[[Session 16 - The Path of Honor]]|

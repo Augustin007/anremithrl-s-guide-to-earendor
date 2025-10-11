@@ -1,4 +1,10 @@
-[[Session 1 - Shattering of Shadows |<-prev]]
+---
+file: session
+campaign: Shattering of Shadows
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Shattering of Shadows ]]|[[Shattering of Shadows]]|[[Session 3 - Shattering of Shadows]]|
 
 They reach the meeting point.
 
@@ -8,4 +14,6 @@ Thalen sells to the Sorian order.
 
 Frustrated at the little effort really put into peace, Thalen Nokkaran decides to take things into his own hands.
 
-[[Session 3 - Shattering of Shadows|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Shattering of Shadows ]]|[[Shattering of Shadows]]|[[Session 3 - Shattering of Shadows]]|

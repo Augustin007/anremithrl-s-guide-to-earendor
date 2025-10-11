@@ -1,3 +1,11 @@
+---
+file: Campaign
+DM:
+  - West Marches
+status: finished
+---
+
+
 In the eastern forests, there is a path that leads most to nowhere. But to some, it leads to a strange town. Travellers who go find it are welcome to stay, but few can find it. Those who do often find they cannot find their way back out.
 
 Is it in this plane at all?

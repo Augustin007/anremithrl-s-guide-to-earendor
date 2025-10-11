@@ -1,4 +1,11 @@
-[[Session 1 - Bonds of Fate |<-prev]]
+---
+file: session
+campaign: Bonds of Fate
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Bonds of Fate ]]|[[Bonds of Fate]]|[[Session 3 - Bonds of Fate]]|
+
 The Festival of Drakzhal, leading up to midwinter, is one of the most important festivals, lasting nine days. 
 
 Meeting with his host, Val'thu'nax 
@@ -16,4 +23,6 @@ He has failed to make a good impression on the Master of War, Lord Ny'shar Vur't
 
 Evenon has seperated from Ekenon and is making a fool of himself while drinking in the party bellow.
 
-[[Session 3 - Bonds of Fate|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Bonds of Fate ]]|[[Bonds of Fate]]|[[Session 3 - Bonds of Fate]]|

@@ -1,4 +1,10 @@
-[[Session 8 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 8 - The Path of Honor]]|[[The Path of Honor]]|[[Session 10 - The Path of Honor]]|
 
 And they keep on seeing a canary or two following them as they buy supplies and stuff.
 Then three.
@@ -27,4 +33,6 @@ Naras finds Aric, who apologises and seems rather shaky, but more confident. The
 The rest of the group reunite in the Underdark, now, somewhat lost, with the exception of Serin and Talor, which are nowhere to be found.
 Liriel did not snitch on Torquil, but she is refusing to look at him.
 
-[[Session 10 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 8 - The Path of Honor]]|[[The Path of Honor]]|[[Session 10 - The Path of Honor]]|

@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 6|<- Prev]] 
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 6]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 8]]|
 
 Talks with Bechel, Bechel accuses Niamh. 
 Colossus does not accept the book.
@@ -47,4 +53,6 @@ Galio and his troops can't sleep, starts cycling his troops.
 
 Tahlia tells William she will be at his room.
 
-[[Shadows of Divinity - 8|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 6]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 8]]|

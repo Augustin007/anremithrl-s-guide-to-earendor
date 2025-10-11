@@ -1,3 +1,11 @@
+---
+file: session
+campaign: Origins of the Greenclad
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Origins of the Greenclad]]|[[Session 1 - Origins of the Greenclad]]|
+
 Session 0
 
 This session we established our characters, and as part of it, I asked them how move-in went. Here is a compilation of notes:
@@ -45,4 +53,7 @@ Miyatol is in awe. His family had barely managed to get him into college, betwee
 Stoic's move-in date is as late as it can get. He arrives two hours later than that, much to Daedroy's consternation. His bags—half-unzipped, filled with loose books and alchemy vials clinking together dangerously—was slung over one shoulder. He unpacks chaotically. Clothes? Thrown into drawers, no folding necessary. Books? Dropped in a pile on the desk. Alchemy vials? Scattered haphazardly on the shelf. He has more things than he likely ought to, and it takes him several trips. Daedroy takes an initial disliking to him. Stoic doesn't notice, and talks friendly to Daedroy. Daedroy decides to get over his dislikes, and decides to be friendly to Stoic.
 
 ---
-[[Session 1 - Origins of the Greenclad|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Origins of the Greenclad]]|[[Session 1 - Origins of the Greenclad]]|

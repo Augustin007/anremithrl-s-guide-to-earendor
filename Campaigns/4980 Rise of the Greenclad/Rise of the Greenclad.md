@@ -1,11 +1,12 @@
 ---
+file: campaign
 DM:
   - Austin
-status: Finished
+status: finished
 ---
 #unfinished
 [[Zahel-ben-minos]]
-[[Sebastian Valerius]]
+[[Sebastian De Clairmont]]
 [[Helena Naema]]
 
 Zahel-ben-minos, Sebastian Valerius, and Helena Naema all fight against the rising order of the Greenclad and navigate the complex politics of Neros.

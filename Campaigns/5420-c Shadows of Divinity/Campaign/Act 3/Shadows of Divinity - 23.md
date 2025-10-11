@@ -1,4 +1,11 @@
-[[Shadows of Divinity - 22|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 22]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 24]]|
+
 %%
 26th Hammer
 %%
@@ -38,4 +45,6 @@ Gallio fights and kills Tormac.
 Tartarus needs blood to be spilt on the tree in order to get in?
 Eirik
 
-[[Shadows of Divinity - 24|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 22]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 24]]|

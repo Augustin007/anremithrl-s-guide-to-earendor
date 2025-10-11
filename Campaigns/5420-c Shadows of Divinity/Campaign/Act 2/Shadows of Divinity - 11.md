@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 10|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 10]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 12]]|
 
 ---
 1st of Hammer, 5421 AA
@@ -84,4 +90,6 @@ He goes to town to see if he can be healed. The town has changed much in twenty 
 
 He tries to remain inconspicuous, but when he enters the apothecary shop, he is greeted by Old Frederic Duncans grandson, William's childhood friend, Brian Duncan.
 
-[[Shadows of Divinity - 12|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 10]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 12]]|

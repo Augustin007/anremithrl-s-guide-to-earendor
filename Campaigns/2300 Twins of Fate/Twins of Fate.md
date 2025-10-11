@@ -1,14 +1,21 @@
 ---
+file: campaign
 DM:
   - ChatGPT
-status: Hiatus
+status: hiatus
 ---
 [[Session 1 - Twins of Fate|Campaign]]
 #### Player Characters
-[[Anremithrl]]
-[[Lesalog]]
+[[Anremithrl Kuildel]]
+[[Lesalog Kuildel]]
+#### Crossover Player Characters
+
 #### Other Major Characters In the Story
 [[Malach]]
+#### Other Minor Characters In the Story
+
+#### Other Characters Seen or Referenced
+[[Aulien Mithron]]
 
 #### Summary
 Two very different twin brothers guard a vital outpost in the middle of nowhere, but are pulled into an adventure to save their land.

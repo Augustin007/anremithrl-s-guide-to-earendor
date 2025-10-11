@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 8|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 8]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 10]]|
 
 Prep Crag.
 
@@ -61,5 +67,6 @@ Midwinter
 Alturiak
 1st
 
-
-[[Shadows of Divinity - 10|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 8]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 10]]|

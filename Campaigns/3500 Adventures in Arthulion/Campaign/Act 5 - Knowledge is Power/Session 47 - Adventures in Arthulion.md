@@ -1,2 +1,13 @@
-[[Session 46 - Adventures in Arthulion |<-prev]]
-[[Session 48 - Adventures in Arthulion|next->]]
+---
+file: session
+campaign: Adventures in Arthulion
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 46 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 48 - Adventures in Arthulion]]|
+
+
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 46 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 48 - Adventures in Arthulion]]|

@@ -1,4 +1,10 @@
-[[Session 1 - The Solenthir Gambit |<-prev]]
+---
+file: session
+campaign: The Solenthir Gambit
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - The Solenthir Gambit ]]|[[The Solenthir Gambit]]|[[Session 3 - The Solenthir Gambit]]|
 
 A few weeks later.
 
@@ -49,4 +55,6 @@ Tarold keeps watch that night. He can't sleep.
 
 "If the Frostmaiden is pillaging this far South. I doubt there's anyone left to warn."
 
-[[Session 3 - The Solenthir Gambit|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - The Solenthir Gambit ]]|[[The Solenthir Gambit]]|[[Session 3 - The Solenthir Gambit]]|

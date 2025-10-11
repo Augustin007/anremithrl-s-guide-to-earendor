@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 19|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 19]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 21]]|
 
 11th Hammer
 Faust's mind clears from the enchantment and he confronts Morgana. She easily overpowers him using the archfey's horse. Using the horse, Lucy commands her, she wakes the dragon, and enchants him to come to the city. 
@@ -21,6 +27,6 @@ William awakens bruised, battered, and confused. The ship is damaged and falling
 22nd Hammer
 William fights a strange creature. All of his memories of it are conflicting. He can't recall what the creature is or what it looked like. Everyone who fought alongside him doesn't recall it at all. As suddenly as it began, it ends, and there are new gaps in his memory. More people are missing.
 
-
-
-[[Shadows of Divinity - 21|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 19]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 21]]|

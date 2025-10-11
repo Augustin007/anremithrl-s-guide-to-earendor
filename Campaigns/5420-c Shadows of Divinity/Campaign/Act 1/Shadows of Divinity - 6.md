@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 5|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 5]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 7]]|
 
 They resurrect Bressus.
 
@@ -19,4 +25,6 @@ King Siegmond.
 
 Thatyu
 
-[[Shadows of Divinity - 7|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 5]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 7]]|

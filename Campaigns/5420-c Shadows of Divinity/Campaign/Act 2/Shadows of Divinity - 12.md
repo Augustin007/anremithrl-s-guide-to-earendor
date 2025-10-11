@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 11|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 11]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 13]]|
 
 ---
 19th of Nightall
@@ -66,5 +72,6 @@ Galio talks to Asenath while Colossus detects his thoughts. Knowing Asenath plan
 10th of Hammer
 William spends his day obtaining clothes, spending a small fortune. He also helps his friend Brian out. He gets someone fired. He realises he will have to go from Redmont to Dragonvale. He also realises one of the twins is somewhere in Swanward.
 
-
-[[Shadows of Divinity - 13|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 11]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 13]]|

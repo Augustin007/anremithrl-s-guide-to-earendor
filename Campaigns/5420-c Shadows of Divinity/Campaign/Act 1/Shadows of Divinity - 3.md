@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 2|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 2]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 4]]|
 
 34,000 Carvers of Iriondallyn
 20,000 Ironshield Phalanx
@@ -37,4 +43,6 @@ Initiative:
 20 - Galio
 16 - Wolves
 
-[[Shadows of Divinity - 4|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 2]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 4]]|

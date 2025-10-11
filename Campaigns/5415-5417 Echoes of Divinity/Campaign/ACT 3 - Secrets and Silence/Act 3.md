@@ -1,4 +1,11 @@
-[[Act 2]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous  |        Campaign        |   Next    |
+| :-------: | :--------------------: | :-------: |
+| [[Act 2]] | [[Echoes of Divinity]] | [[Act 4]] |
+
 Session XVII: Dark Tunnels and Darker Dangers
 - Nugget, Pineapple, and Colossus (Naming themselves the NPCs) travel deep into the tunnels, helping obtain food and supplies for the survivors. 
 - Jessica black joins the survivors.
@@ -73,4 +80,8 @@ Session XXX: Departure and Determination
 - The main party discovers the truth about Kalquend. Kalquend discovered a child slave ring run by lords of Termaline, who attempted to have him killed. In the confusion, he killed one of the lords. His attempts to denounce the lords have been branded as slander. They set the bounty to silence him. Children are captured from lonelywood.
 - The party decides to do nothing about it.
 - Nugget's oath starts to tear him apart, and they collect the bounty and try to find Colossus.
-[[Act 4]]
+
+
+| Previous  |        Campaign        |   Next    |
+| :-------: | :--------------------: | :-------: |
+| [[Act 2]] | [[Echoes of Divinity]] | [[Act 4]] |

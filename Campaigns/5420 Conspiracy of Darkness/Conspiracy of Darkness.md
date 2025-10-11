@@ -1,6 +1,8 @@
 ---
-DM: Austin
-status: Finished
+file: campaign
+DM: 
+  - Austin
+status: finished
 ---
 [[Session 1 - Conspiracy of Darkness|Campaign]]
 #### Player Characters

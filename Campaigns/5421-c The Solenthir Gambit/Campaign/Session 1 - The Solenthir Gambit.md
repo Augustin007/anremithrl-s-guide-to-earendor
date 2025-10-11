@@ -1,3 +1,11 @@
+---
+file: session
+campaign: The Solenthir Gambit
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[The Solenthir Gambit]]|[[Session 2 - The Solenthir Gambit]]|
+
 Aemma sits next to a man at the [[Mountainside Tavern]]. After striking up a conversation with the stranger, she finds out his name is Tarold.
 
 She discovers he joined the [[Neroshi Adventuring Guild]] in an attempt to gain visa to enter Neros, as Tarold is Rymfelli. Ideally, of course, he would like citizenship. Aemma jokingly offers to marry him, and they laugh at the joke.
@@ -24,4 +32,6 @@ Tarold uses a magical ring to summon a steed of light.
 
 Away they go.
 
-[[Session 2 - The Solenthir Gambit|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[The Solenthir Gambit]]|[[Session 2 - The Solenthir Gambit]]|

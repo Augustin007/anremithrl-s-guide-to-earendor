@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 20|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 20]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 22]]|
 
 Hatreth and Falledric.
 (Timeless, Some point after 10th)
@@ -17,5 +23,6 @@ Krag meets Aric, Lirien, and Kerran with Ranor, who is spooked and unsure about 
 12 - Greenclad
 11 - Lirien
 
-
-[[Shadows of Divinity - 22|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 20]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 22]]|

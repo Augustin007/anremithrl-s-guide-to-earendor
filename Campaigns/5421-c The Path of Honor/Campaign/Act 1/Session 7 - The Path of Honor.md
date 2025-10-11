@@ -1,4 +1,10 @@
-[[Session 6 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 6 - The Path of Honor]]|[[The Path of Honor]]|[[Session 8 - The Path of Honor]]|
 
 Talor attempts to ask at the city hall about Krag, but also recieves no answer.
 A flighty Torquil gets spooked by the antimagic and runs away, causing him to get arrested and foiling Naras's revenge against his former master. Naras instead grudgingly causes mass confusion and saves Torquil. 
@@ -11,4 +17,6 @@ Naras trades his last drops of pure order to Tal'berius, helping him contain the
 Torquil casts a spell and the eight are immediately thrown out of the Architect's Sanctum.
 Torquil begins to fly to Bremen using a spell, not knowing Naras and Syl are preparing a teleport. The other seven teleport to just outside the city.
 
-[[Session 8 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 6 - The Path of Honor]]|[[The Path of Honor]]|[[Session 8 - The Path of Honor]]|

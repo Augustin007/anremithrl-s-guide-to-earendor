@@ -1,4 +1,11 @@
-[[Session 4 - Conspiracy of Darkness |<-prev]]
+---
+file: session
+campaign: Conspiracy of Darkness
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[]]|
+
 As they are being marched back, Dren defends Vorlin's actions to Saria in whispers. Saria blows him off, but respects that he had the werewithal to lie, saying that though Xalvor would be displeased, it was very much necessary.
 
 Dren and Vorlin talk. Vorlin, further up in the cult now, reveals that he has discovered they have a patron, an unknown figure who has provided them with resources, magic, and knowledge lost to time. Dren attempts to discover who it is.
@@ -20,3 +27,7 @@ Dren ponders everything when he hears of the deaths of Saria and Vorlin. He is t
 Kaelith and Dren devolve into shouting at each other, over which Dren reveals Saria is dead. This shakes Kaelith, weakening the hold of the spell, and Dren is now able to dispel it. 
 
  They are too late, and Hechilspet emerges from the Sarcophagus. The two turn and kill the high-priests before turning on Hechilspet. Hechilspet fights them 'as a mortal should', without magic and using only his skill and his blade, killing them both after a short duel.
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[]]|

@@ -1,4 +1,11 @@
-[[Shadows of Divinity - 14|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 14]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 16]]|
+
 %%
 24 Nightal
 %%
@@ -42,4 +49,7 @@ they eventually made a deal with Lucy to undo his curse.
 %%10th Hammer%%
 Hechilspet's attack on Gallio, Galio metal bows. Successful evacuation.
 Colossus has visions as he travels to the City of Doors, sees his former master Methunroa.
-[[Shadows of Divinity - 16|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 14]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 16]]|

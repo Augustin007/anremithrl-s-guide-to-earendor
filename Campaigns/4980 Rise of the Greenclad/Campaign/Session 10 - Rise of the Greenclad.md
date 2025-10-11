@@ -1,2 +1,13 @@
-[[Session 9 - Rise of the Greenclad |<-prev]]
-[[Session 11 - Rise of the Greenclad|next->]]
+---
+file: session
+campaign: Rise of the Greenclad
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 9 - Rise of the Greenclad ]]|[[Rise of the Greenclad]]|[[Session 11 - Rise of the Greenclad]]|
+
+
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 9 - Rise of the Greenclad ]]|[[Rise of the Greenclad]]|[[Session 11 - Rise of the Greenclad]]|

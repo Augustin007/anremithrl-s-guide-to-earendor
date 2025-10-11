@@ -1,4 +1,11 @@
-[[Session 3 - Conspiracy of Darkness |<-prev]]
+---
+file: session
+campaign: Conspiracy of Darkness
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 3 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 5 - Conspiracy of Darkness]]|
+
 The party hears screams echoing through the corridors. They stay in their rooms.
 
 The next day, Kaelith is missing. His bed is covered in blood and ichor.
@@ -19,4 +26,6 @@ They reach the last ritual and are about to destroy it when the cultists arrive.
 
 Dren lies and says he has nothing to do with this, and was tricked.
 
-[[Session 5 - Conspiracy of Darkness|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 3 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 5 - Conspiracy of Darkness]]|

@@ -1,3 +1,10 @@
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Divinity]]|[[Shadows of Divinity - 2]]|
 
 The campaign opens on General Galio Thunukaladri entering the chambers of King Aukun Kalagiano.
 
@@ -23,4 +30,6 @@ William lands his ship first in Gnomeshelm to visit Colossus, and Colossus and h
 
 This session was meant to be a reintroduction back into the world after a half-year break in real life, and a three-year break in game. I wanted to get a feel for the characters and how they'd changed, as well as the new character. I wanted to give separation in time so the non-returning characters' gaps in the party's dynamics could be filled.
 
-[[Shadows of Divinity - 2|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Divinity]]|[[Shadows of Divinity - 2]]|

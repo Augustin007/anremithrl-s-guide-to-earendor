@@ -1,4 +1,10 @@
-[[Session 11 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 11 - The Path of Honor]]|[[The Path of Honor]]|[[Session 13 - The Path of Honor]]|
 
 27 - Naras
 26 - Serin
@@ -26,4 +32,6 @@ Crag is informed about the letter, but passes out from the poison, and is locked
 
 Ranor inspects the book and figures it is safe enough, but Dareth disagrees. Ranor notes the conveniently dead ropers and takes some shavings off their tentacles.
 
-[[Session 13 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 11 - The Path of Honor]]|[[The Path of Honor]]|[[Session 13 - The Path of Honor]]|

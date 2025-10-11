@@ -1,6 +1,10 @@
-
-[[Session 1 - Origins of the Greenclad|<- Prev]]
-
+---
+file: session
+campaign: Origins of the Greenclad
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Origins of the Greenclad]]|[[Origins of the Greenclad]]|[[Session 3 - Origins of the Greenclad]]|
 
 Richard Iwaelfhem and Stoic Vanem, meet each other on their first day of classes at Strixhaven. They quickly become good friends as they wait for the professor. Richard notices Narnor and some of her friends sitting across the lecture hall, also in the front row.
 
@@ -42,4 +46,6 @@ Miyatol skips a history lecture, wandering the campus alone. Sees Richard and Na
 
 Richard beats Narnor in wit before marching off angrily. Elira praises him for beating Narnor, making Narnor hate Richard more.
 
-[[Session 3 - Origins of the Greenclad|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Origins of the Greenclad]]|[[Origins of the Greenclad]]|[[Session 3 - Origins of the Greenclad]]|

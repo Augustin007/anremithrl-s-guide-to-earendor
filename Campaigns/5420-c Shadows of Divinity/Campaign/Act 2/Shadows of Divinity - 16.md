@@ -1,5 +1,10 @@
-[[Shadows of Divinity - 15|<- Prev]]
-
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 15]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 17]]|
 
 Creek Harbor - Magic pearl harbor
 [[spell:negative-energy-flood]]
@@ -17,4 +22,6 @@ Krag - befriended "Rag", his captive, who escaped after casting friend. Rag pret
 12th-13th Hammer
 William - worked all night and talked with Halt until it was the hour he met Valus. Valus agreed to work for free. Aeoife sided with her father and fought William.
 
-[[Shadows of Divinity - 17|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 15]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 17]]|

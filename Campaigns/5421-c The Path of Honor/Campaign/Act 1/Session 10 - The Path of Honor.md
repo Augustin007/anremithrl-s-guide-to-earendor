@@ -1,4 +1,10 @@
-[[Session 9 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 9 - The Path of Honor]]|[[The Path of Honor]]|[[Session 11 - The Path of Honor]]|
 
 Talor's Dragon
 
@@ -54,4 +60,6 @@ They find Liriel, who is now even more obviously influenced by the Codex. After 
 2 - Kerran
 -1 - Grey Ooze
 
-[[Session 11 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 9 - The Path of Honor]]|[[The Path of Honor]]|[[Session 11 - The Path of Honor]]|

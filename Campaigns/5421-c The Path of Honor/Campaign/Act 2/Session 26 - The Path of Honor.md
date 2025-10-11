@@ -1,4 +1,10 @@
-[[Session 25 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 25 - The Path of Honor]]|[[The Path of Honor]]|[[Session 27 - The Path of Honor]]|
 
 Ivvan frees Naras in the night, since the party planned to execute him and he disagreed. 
 
@@ -8,4 +14,6 @@ Aric tries to warn the camp and make as much noise as possible. Ivvan tries to s
 
 Ivvan steals stuff from Tarnil and keeps this secret from Naras.
 
-[[Session 27 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 25 - The Path of Honor]]|[[The Path of Honor]]|[[Session 27 - The Path of Honor]]|

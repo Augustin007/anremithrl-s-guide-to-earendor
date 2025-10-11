@@ -1,4 +1,11 @@
-[[Session 44 - Echoes of Divinity |<-prev]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 44 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 46 - Echoes of Divinity]]|
+
 Session XLV - Chasing Illusions
 - To buy time, Seelie leaves illusions behind. Lady Black is chased by imaginary wolves. William Treaty talks to squirrels who beg for his help.
 - Colossus sees an illusionary bowl of milk in the middle of the woods and drinks it.
@@ -11,4 +18,7 @@ Session XLV - Chasing Illusions
 - They get attacked by some form of illusion monster as they try to regroup the people.
 - From 12, five of the crewmates are not found when they regroup at the ship.
 - Lady Black is woken and questioned by an elf. After some harsh words, she is exiled from their court and rejoins the party.
-[[Session 46 - Echoes of Divinity|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 44 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 46 - Echoes of Divinity]]|

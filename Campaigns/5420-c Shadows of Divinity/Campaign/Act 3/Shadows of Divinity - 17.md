@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 16|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Ca[[Meta/Homebrew/RAW/Character/character]] |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 16]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 18]]|
 
 [[spell:lesser-restoration]]
 [[character]]
@@ -64,4 +70,6 @@ At Oracus, he has final confrontation with Hechilspet's forces. He sweeps them a
   
 Hatreth - Human
 
-[[Shadows of Divinity - 18|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 16]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 18]]|

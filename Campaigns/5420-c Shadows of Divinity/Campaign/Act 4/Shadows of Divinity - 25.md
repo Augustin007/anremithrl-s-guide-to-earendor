@@ -1,4 +1,11 @@
-[[Shadows of Divinity - 24|<-Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 24]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 26]]|
+
 16 drops of ichor.
 
 3 drops being sent.
@@ -38,5 +45,6 @@ Nugget rage-baits Vecna
 Tomb of levistus, survives meteor swarm
 [[spell:minor-illusion]]
 
-
-[[Shadows of Divinity - 26|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 24]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 26]]|

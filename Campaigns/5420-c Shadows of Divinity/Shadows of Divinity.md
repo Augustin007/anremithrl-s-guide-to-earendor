@@ -1,12 +1,14 @@
 ---
-DM: Austin
-status: Ongoing
+file: campaign
+DM: 
+  - Austin
+status: ongoing
 ---
 [[Shadows of Divinity - 1|Campaign]]
 #### Player Characters
 [[Colossus Methunroa]]†
 [[William Treaty]]
-[[Jessica Black]]
+[[Jess Val]]
 [[Galio Thunukalathi]]†
 [[Krag]]†
 [[Faust]]
@@ -30,7 +32,7 @@ status: Ongoing
 [[Morgana]]
 [[Alantothi]]†
 [[Aukan Kalagiano]]†
-[[Lord Klaethor]]†
+[[Duke Klaethor Vasterra]]†
 [[Noab]]†
 [[Dareth]]†
 [[Ranor]]†

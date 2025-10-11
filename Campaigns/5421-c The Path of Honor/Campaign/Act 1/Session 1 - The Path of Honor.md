@@ -1,3 +1,10 @@
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[The Path of Honor]]|[[Session 2 - The Path of Honor]]|
 
 Thalai Elanthino and Naras Vorasthar are prisoners of war-turned-slaves bought by a necromancer. They are the only two left. 
 
@@ -19,6 +26,8 @@ Naras re-summons Syl, a Spirit-genasi (Sometimes mistakenly referred to as a gho
 
 Naras discovers the tampering of the letters and insists on informing the recipient and sender as soon as the storm dies down.
 
-The Earthquake occurs and the cabin falls apart. 
+The Earthquake occurs and the cabin falls apart.
 
-[[Session 2 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[The Path of Honor]]|[[Session 2 - The Path of Honor]]|

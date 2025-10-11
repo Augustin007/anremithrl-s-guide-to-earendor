@@ -1,4 +1,10 @@
-[[Session 24 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+|              Previous              |       Campaign        |                Next                |
+| :--------------------------------: | :-------------------: | :--------------------------------: |
+| [[Session 24 - The Path of Honor]] | [[The Path of Honor]] | [[Session 26 - The Path of Honor]] |
 
 29 - Tarnil
 28 - Naras
@@ -33,4 +39,7 @@ They flee from the encroaching darkness with Ivvan as a giant bird.
 To add: tear drop, Aric's knives.
 
 Tarnil broke the tear drop.
-[[Session 26 - The Path of Honor|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 24 - The Path of Honor]]|[[The Path of Honor]]|[[Session 26 - The Path of Honor]]|

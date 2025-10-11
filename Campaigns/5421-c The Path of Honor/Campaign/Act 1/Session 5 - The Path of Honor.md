@@ -1,4 +1,10 @@
-[[Session 4 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - The Path of Honor]]|[[The Path of Honor]]|[[Session 6 - The Path of Honor]]|
 
 Syl returns to look for Ahktos and manages to find him. Naras, Talor, and four rangers follow Syl and attempt to ambush Voren. Voren talks to the others and has Ahktos under a mind-control spell so that they don't suspect he switched sides. He channels through Ahktos as he teleports away. Talor and Naras are confused into fighting each other through illusion and mist, the rangers are also fighting amongst themselves. Syl posesses Ahktos to drive out Voren, and Ahktos manages to keep his secret.
 The four rangers died during the battle.
@@ -12,4 +18,6 @@ Syl reports the Intellect Devourer having consumed the small town and getting cl
 He blesses some water for Naras to use to recharge his Spell Spheres.
 They reach Azerim.
 
-[[Session 6 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - The Path of Honor]]|[[The Path of Honor]]|[[Session 6 - The Path of Honor]]|

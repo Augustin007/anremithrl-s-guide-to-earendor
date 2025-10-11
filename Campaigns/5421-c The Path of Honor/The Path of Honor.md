@@ -1,6 +1,8 @@
 ---
-DM: Austin
-status: Ongoing
+file: campaign
+DM: 
+  - Austin
+status: ongoing
 ---
 [[Session 1 - The Path of Honor|Campaign]]
 #### Player Characters

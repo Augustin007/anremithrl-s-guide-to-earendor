@@ -1,4 +1,11 @@
-[[Act 5]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous  |        Campaign        | Next |
+| :-------: | :--------------------: | :--: |
+| [[Act 5]] | [[Echoes of Divinity]] | ———  |
+
 Session IL: The stuff at Westhaven and the bank and snow
 - Upon Seelie's death, the party is dispelled from the Feywild. 
 - They find themselves back at Westhaven. Seeing the ruins, they track looting to the big bank vault, once the lair of the dragon that fathered the dragonborn here, and sumarise that someone has taken the bank as an outpost and looted most the city. They try to break into the vault, quickly, large armoured machine constructs attack and subdue them. They are brought into the vault.
@@ -66,4 +73,6 @@ Session LVII: The tree
 - William leaves to Veloria to create the company DragonArrow.
 - Colossus goes north to find the peoples that remain of Idros and Westhaven. Idros is dead. He recovers too as many gnomes as possible and manages to legally obtain the land of Gnomes'helm and begins to make reparations and found his country.
 
-[[Shadows of Divinity]]
+| Previous  |        Campaign        | Next |
+| :-------: | :--------------------: | :--: |
+| [[Act 5]] | [[Echoes of Divinity]] | ———  |

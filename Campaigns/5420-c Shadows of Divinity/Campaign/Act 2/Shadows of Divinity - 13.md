@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 12|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 12]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 14]]|
 
 ---
 20th of Nightal
@@ -69,4 +75,6 @@ They make camp.
 
 William preps to leave Redmont when he encounters his mentor, Halt O'clommel. He drinks coffee with Halt and they talk about the end of the world. Halt sends to Prichard to get more information on the twin that lives around here, directing William to the Boleyn mountains and the [[Boleyn cave system]]. As well as to Dragonvale for his ship.
 
-[[Shadows of Divinity - 14|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 12]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 14]]|

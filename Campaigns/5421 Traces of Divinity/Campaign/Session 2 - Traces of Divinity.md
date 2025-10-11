@@ -1,4 +1,10 @@
-[[Session 1 - Traces of Divinity |<-prev]]
+---
+file: session
+campaign: Traces of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Traces of Divinity ]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|
 
 Ophiriel knocks Thurin out and drags him through the swamps of Rymfel to Blackton.
 
@@ -12,4 +18,6 @@ Horses: Horse, Vida
 
 Novias & Zal
 
-[[Session 3 - Traces of Divinity|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Traces of Divinity ]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|

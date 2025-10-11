@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 4|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 4]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 6]]|
 
 William investigated caves, saw Drakes.
 
@@ -14,4 +20,6 @@ Galio meets Talberius
 
 Colossus buys armour for Gomezier
 
-[[Shadows of Divinity - 6|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 4]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 6]]|

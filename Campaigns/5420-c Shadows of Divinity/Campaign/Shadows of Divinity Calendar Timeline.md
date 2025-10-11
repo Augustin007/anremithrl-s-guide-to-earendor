@@ -1,3 +1,11 @@
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Divinity]]|[[]]|
+
 ## 7th of Flamerule
 On Lliira's Night, Galio is told to abandon the fortress of Katholaga which he had originally been ordered to reinforce, and instead to go south and try to open up Aldarkeep pass, and to see if he could find some shipping company or provider willing to trade with the north.
 
@@ -388,3 +396,7 @@ He hears of these rifts of chaos that have been tearing into the world. He uses 
 Here he meets the boucaneer Abdul, who talks to him a bit about the floating mountains and whatnot. William tries to use smoke signals and stuff to get a response.
 
 He gives in to Tahlia, who needs him to look at a door. He uses her scroll to teleport him just past the edges of Westhaven (using Asmodeus to provide an exception to Auril's antiteleport, but not daring to mess with Tal'berius's). She shows him the door to a dungeon, but he refuses to open it for her, instead shooting an arrow of explosion at it. The door retaliates, and William is knocked out. The alarms start ringing. Tahlia draws blood from William and heals him. He tries to knock the vial out of his hand as she pushes him out of the area and teleports him to his 'home', as per the agreement.
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Divinity]]|[[]]|

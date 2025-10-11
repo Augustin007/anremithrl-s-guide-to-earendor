@@ -1,4 +1,10 @@
-[[Session 19 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 19 - The Path of Honor]]|[[The Path of Honor]]|[[Session 21 - The Path of Honor]]|
 
 30 - Naras
 29 - Duthrim
@@ -24,6 +30,6 @@ Talor dodges crossbows, deflecting cannon.
 
 [[wondrous-items:figurine-of-wondrous-power]]
 
-
-
-[[Session 21 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 19 - The Path of Honor]]|[[The Path of Honor]]|[[Session 21 - The Path of Honor]]|

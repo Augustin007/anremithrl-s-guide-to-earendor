@@ -1,3 +1,13 @@
+---
+file: session
+campaign: Shadows of Memory
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Memory]]|[[Session 2 - UNNAMED]]|
+
 TODO: Ask Hassan for session summary.
 
-[[Session 2 - UNNAMED|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Shadows of Memory]]|[[Session 2 - UNNAMED]]|

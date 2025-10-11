@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 1|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 1]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 3]]|
 
 William enters the hall of Noab
 
@@ -87,4 +93,6 @@ Galio
 ---
 Takes aldarkeep pass.
 
-[[Shadows of Divinity - 3|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 1]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 3]]|

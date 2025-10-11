@@ -1,4 +1,11 @@
-[[Session 31 - Echoes of Divinity |<-prev]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 31 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 33 - Echoes of Divinity]]|
+
 Session XXXII: Masks and Magic
 - They return to Oracus. They meet a ship engineer named Scotty who helps them with the ship. 
 - Since they didn't know if there was still a bounty, Nugget magically conceals himself while Colossus ends up going alone into a shop called Masks and More on Magic Street, Neros. 
@@ -10,4 +17,7 @@ PINE-APL spotted a man selling repair robots and thought it would be beneficial 
 - Colossus stumbles through the stores. Through the mask he sees the bonfires and gets too close.
 - The mask fuses to his face.
 - Jessica is nearly caught by authorities. The group prepares to flee.
-[[Session 33 - Echoes of Divinity|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 31 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 33 - Echoes of Divinity]]|

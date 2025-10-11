@@ -1,4 +1,11 @@
-[[Session 10 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 10 - The Path of Honor]]|[[The Path of Honor]]|[[Session 12 - The Path of Honor]]|
+
 They take the book from Liriel.
 
 They step into a cave of piercers and Ropers. After some combat, Torquil decides to drop the cave ceiling on the piercers and ropers, injuring nearly everyone.
@@ -52,4 +59,6 @@ Exhaustion: 3
 Aric - 
 Exhaustion: 2
 
-[[Session 12 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 10 - The Path of Honor]]|[[The Path of Honor]]|[[Session 12 - The Path of Honor]]|

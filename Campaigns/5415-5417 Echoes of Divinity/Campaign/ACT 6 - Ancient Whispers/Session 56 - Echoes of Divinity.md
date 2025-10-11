@@ -1,4 +1,11 @@
-[[Session 55 - Echoes of Divinity |<-prev]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 55 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 57 - Echoes of Divinity]]|
+
 Session LVI: The doors
 - They teleport back together and follow with Nugget down the hallway. They find doors and doors and doors. Each door leads somewhere else. As the doors open and close, and time passes, they quickly wind up in different places.
 - Nugget winds up on a beach, where he fights the necromancer Kaul. Tal'berius arrives and saves him, and tries to take the necklace. Ashildir arrives and seemingly kills Tal'berius.
@@ -8,4 +15,7 @@ Session LVI: The doors
 - PINE-APL reuinites with his creators. They try to disasemble him, but Tal'berius arrives and saves him, teleporting him to the tree.
 - Me tries to kill Nugget, but he is teleported away by Lady Black.
 - Lady Black teleports to Colossus and PINE-APL, sensing that they are near each other through the bracelets. They teleport everyone else to them.
-[[Session 57 - Echoes of Divinity|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 55 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 57 - Echoes of Divinity]]|

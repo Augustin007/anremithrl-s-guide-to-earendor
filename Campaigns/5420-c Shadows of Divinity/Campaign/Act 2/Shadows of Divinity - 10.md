@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 9|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 9]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 11]]|
 
 ---
 21st and 22nd of Nightal, 5420 AA
@@ -110,4 +116,6 @@ William, Singollo, and Galio each investigate independently and come to the  con
 
 Singollo, William, and Colossus arrive at Westhaven and Talberius shows them his network of knowledge communicated over the Ley Lines, and speaks with Singollo. Talberius has Vecna's hand replacing the hand that was missing, and has used it to curb the Orb of Annihilation.
 
-[[Shadows of Divinity - 11|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 9]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 11]]|

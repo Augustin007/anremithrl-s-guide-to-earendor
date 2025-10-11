@@ -1,4 +1,10 @@
-[[Session 31b - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 31b - The Path of Honor]]|[[The Path of Honor]]|[[Session 33b - The Path of Honor]]|
 
 After a brief conversation with Ashariel, they encounter and save a man disguised as Lord Edward IV of Dragonvale, and four men. "Edward" promises to kill five people for them for the five people they saved. "Edward" is forced to take a new body as several of his bones are broken and he takes on the form of a recently killed dragonborn he sees at the hospital, taking on the name Dan'ul.
 
@@ -8,4 +14,6 @@ The council discusses this, before deciding to side with Beelzebub in the north.
 
 Arthur and Aka'vral decide to take 35 men on an excursion north, keeping the rest of the army under Lei'ros at Riulva to fend of Kharazien.
 
-[[Session 33b - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 31b - The Path of Honor]]|[[The Path of Honor]]|[[Session 33b - The Path of Honor]]|

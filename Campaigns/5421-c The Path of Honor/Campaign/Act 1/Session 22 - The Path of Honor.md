@@ -1,4 +1,10 @@
-[[Session 21 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 21 - The Path of Honor]]|[[The Path of Honor]]|[[Session 23 - The Path of Honor]]|
 
 Torquil Leogan is bound by his unbreakable oaths, and his mind involuntarily reaches out and contacts Voren.
 
@@ -26,4 +32,6 @@ She complies in shock, depriving Auril of the knowledge Torquil was carrying.
 
 Auril leaves in anger, carrying Liriel, and with her, the Codex of Abraham the Mage. Dri'ros tells the king to flee, as the rest of the party also begins to flee south, led by Ivvan.
 
-[[Session 23 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 21 - The Path of Honor]]|[[The Path of Honor]]|[[Session 23 - The Path of Honor]]|

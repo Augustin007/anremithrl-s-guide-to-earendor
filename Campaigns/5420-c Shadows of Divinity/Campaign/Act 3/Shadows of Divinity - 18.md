@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 17|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 17]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 19]]|
 
 Dag, Rag, and Crag invade druegar outpost of the cult of the whispered one trying to find a cure for the poison.
 
@@ -22,4 +28,7 @@ Seven fingered hands
 [[wondrous-items:mirror-of-infinite-transpondence]]
 [[wondrous-items:tentacle-rod]]
 8 dog, horse, and 2 raven
-[[Shadows of Divinity - 19|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 17]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 19]]|

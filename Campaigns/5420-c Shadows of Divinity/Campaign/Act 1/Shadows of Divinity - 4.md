@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 3|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 3]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 5]]|
 
 William Chased spear for several hours
 
@@ -22,4 +28,6 @@ Alantothi goes.
 
 Gomezier
 
-[[Shadows of Divinity - 5|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 3]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 5]]|

@@ -1,17 +1,18 @@
 ---
+file: campaign
 DM:
   - Austin
-status: Finished
+status: finished
 ---
 [[Session 1 - Echoes of Divinity|Campaign]]
 #### Player Characters
 [[Nil'ge'tar Remshi'ul]]
 [[PINE-APL]]†
-[[Jessica Black]]
+[[Jess Val]]
 [[Colossus Methunroa]]†
 [[William Treaty]]
 #### Other Major Characters In the Story
-[[Lord Klaethor]]†
+[[Duke Klaethor Vasterra]]†
 [[Alphie]]†
 [[Idros Aka-ilion]]†
 [[Kalquend]]†
@@ -27,7 +28,7 @@ status: Finished
 [[Auril]]
 [[Eleutheros]]
 #### Other Minor Characters In the Story
-[[Anremithrl]]
+[[Anremithrl Kuildel]]
 [[Xandred Valerius]]
 [[Rick]]†
 [[Baeor (Gnome)]]

@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 7|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 7]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 9]]|
 
 Colossus escapes the curse on his room.
 
@@ -34,4 +40,6 @@ Special forces hiding in caves.
 
 Krag hungry, cold, in the dying Gnomehelm.
 
-[[Shadows of Divinity - 9|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 7]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 9]]|

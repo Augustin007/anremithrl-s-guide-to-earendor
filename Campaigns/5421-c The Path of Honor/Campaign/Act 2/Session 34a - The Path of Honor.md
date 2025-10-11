@@ -1,4 +1,10 @@
-[[Session 33a - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 33a - The Path of Honor]]|[[The Path of Honor]]|[[Session 35a - The Path of Honor]]|
 
 Naras descends again into the tunnels. His tunnel crew avoids one of the creatures. When they reach the mining area. When they stop for a break, he inspects one of the spikes from the creature, cutting through its metalic-looking exoskeleton. A curious teenaged man inspects what Naras is doing. The creature's blood dries up and eats through metal and skin.
 
@@ -7,4 +13,7 @@ One of the creatures. arrives and attacks, Naras manages to avoid its initial st
 Syl is unable to follow out of the tunnels as they make their way back to the pits. A new guy, Tepozo, joins them. He is one-armed, jolly, and talkative. He and Leren become friends. Syl attempts to communicate with them by dropping things from the top of the pits.
 
 They are called to reenter the tunnels.
-[[Session 35a - The Path of Honor|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 33a - The Path of Honor]]|[[The Path of Honor]]|[[Session 35a - The Path of Honor]]|

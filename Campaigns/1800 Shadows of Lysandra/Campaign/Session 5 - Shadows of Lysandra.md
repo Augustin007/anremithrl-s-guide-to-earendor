@@ -1,3 +1,13 @@
-[[Session 4 - Shadows of Lysandra |<-prev]]
-Eamon and Orris recall that Sir Baelor had spoken of black ships on a previous mission. They meet with Sir Baelor. Levar doesn't want to share the evidence with him, but Baelor, who dislikes them, doesn't want to cooperate with any part of the investigation. Eamon, frustrated, reveals the evidence and says that if Baelor didn't cooperate, he'd treat him as an enemy. Baelor, seeing the evidence, is appalled, and tells of what he knows, and how his mission likely led to Andros's. He doesn't really know much, but helps them piece things together. Combining both of their evidences Baelor realises Levar is an enemy, working against them, and explains his conclusion in secret to Orris and Eamon, who disbelieve him, and capture him, believing him an enemy trying to mislead them and turn them against each other. As they're planning to leave, they get attacked by assasins, Levar turns on Orris and Eamon, revealing Baelor as true, and that he was sabotoging the investigation, and Baelor sacrifices his life for Orris and Eamon. Orris and Eamon kill Levar. They are found by knights who arrive just in time to see the two of them standing over the two dead knights. 
-[[Session 6 - Shadows of Lysandra|next->]]
+---
+file: session
+campaign: Shadows of Lysandra
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - Shadows of Lysandra ]]|[[Shadows of Lysandra]]|[[Session 6 - Shadows of Lysandra]]|
+
+Eamon and Orris recall that Sir Baelor had spoken of black ships on a previous mission. They meet with Sir Baelor. Levar doesn't want to share the evidence with him, but Baelor, who dislikes them, doesn't want to cooperate with any part of the investigation. Eamon, frustrated, reveals the evidence and says that if Baelor didn't cooperate, he'd treat him as an enemy. Baelor, seeing the evidence, is appalled, and tells of what he knows, and how his mission likely led to Andros's. He doesn't really know much, but helps them piece things together. Combining both of their evidences Baelor realises Levar is an enemy, working against them, and explains his conclusion in secret to Orris and Eamon, who disbelieve him, and capture him, believing him an enemy trying to mislead them and turn them against each other. As they're planning to leave, they get attacked by assasins, Levar turns on Orris and Eamon, revealing Baelor as true, and that he was sabotoging the investigation, and Baelor sacrifices his life for Orris and Eamon. Orris and Eamon kill Levar. They are found by knights who arrive just in time to see the two of them standing over the two dead knights.
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 4 - Shadows of Lysandra ]]|[[Shadows of Lysandra]]|[[Session 6 - Shadows of Lysandra]]|

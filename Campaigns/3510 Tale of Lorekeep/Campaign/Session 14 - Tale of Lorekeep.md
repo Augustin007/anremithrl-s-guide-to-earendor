@@ -1,2 +1,13 @@
-[[Session 13 - Tale of Lorekeep |<-prev]]
-[[Session 15 - Tale of Lorekeep|next->]]
+---
+file: session
+campaign: Tale of Lorekeep
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 13 - Tale of Lorekeep ]]|[[Tale of Lorekeep]]|[[Session 15 - Tale of Lorekeep]]|
+
+
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 13 - Tale of Lorekeep ]]|[[Tale of Lorekeep]]|[[Session 15 - Tale of Lorekeep]]|

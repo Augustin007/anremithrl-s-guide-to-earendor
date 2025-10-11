@@ -1,4 +1,10 @@
-[[Session 27 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 27 - The Path of Honor]]|[[The Path of Honor]]|[[Session 29b - The Path of Honor]]|
 
 Tarnil - 27
 Qorneth - 16
@@ -14,4 +20,6 @@ They regroup and rest, replenish their equipment, and leave there the strange sp
 
 They travel south, where they are attacked by a strange necrotic force. It kills over half of their men before gunning straight for Tarnil, demanding the dagger of vengeance. Tarnil recognises her as the redhead travelling with the "bag blowers". When Tarnil doesn't have it, the force departs.
 
-[[Session 29b - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 27 - The Path of Honor]]|[[The Path of Honor]]|[[Session 29b - The Path of Honor]]|

@@ -1,4 +1,10 @@
-[[Session 16 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 16 - The Path of Honor]]|[[The Path of Honor]]|[[Session 18 - The Path of Honor]]|
 
 18 Torquil
 17 Guard 1
@@ -13,4 +19,6 @@ Talor and Torquil talk about Caxius's death, and continue to try to find their b
 
 Liriel and Naras travel through the city, eventually meeting Ivvan.
 
-[[Session 18 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 16 - The Path of Honor]]|[[The Path of Honor]]|[[Session 18 - The Path of Honor]]|

@@ -1,4 +1,10 @@
-[[Session 7 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 7 - The Path of Honor]]|[[The Path of Honor]]|[[Session 9 - The Path of Honor]]|
 
 The seven reach the city.
 One of the kids knows a bit of Khuzdul and helps them get in. This is the older girl. She appears talkative and bright, with sudden bouts of silence.
@@ -12,4 +18,7 @@ Liriel Danstal doesn't let the others see her cry and mostly seems to be bottlin
 The eight year old doesn't sleep and doesn't blink. She only said one word, "Serin". She seems strangely attached to Talor of the three adults. She seems mostly listless and depressed and quiet, though she did wordlessly comfort the four year old boy when he woke up for a bit.  Serin speaks a tiny bit more, stating that she doesn't sleep. She is peredhel, the others guess, a human with a little bit of elvish in her blood.
 The four year old wakes up the next morning, and is fairly talkative, but soon starts getting sick again. His name is Kerran. He seems attached to Torquil.
 They buy some more equipment, seeing a canary follow them.
-[[Session 9 - The Path of Honor|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 7 - The Path of Honor]]|[[The Path of Honor]]|[[Session 9 - The Path of Honor]]|

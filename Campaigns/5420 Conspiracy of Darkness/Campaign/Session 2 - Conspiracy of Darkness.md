@@ -1,4 +1,11 @@
-[[Session 1 - Conspiracy of Darkness |<-prev]]
+---
+file: session
+campaign: Conspiracy of Darkness
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 3 - Conspiracy of Darkness]]|
+
 They try to continue towards Ashkara Thul, against Dren's wishes. Vorlin and Saria talk, getting along quite well, making Kaelith somewhat jealous. Xalvor and Dren talk about Edrin Vel.
 
 In the distance, they see the figure. They chase again, but it vanishes. They track the figure and find the killed by a trap. 
@@ -15,4 +22,6 @@ They debate the idea of an inflitration until they finally decide to rest.
 
 The next day, they make it to a ridge over which they can see the excavation site of Ashkara Thul. The cult is much larger scale than they had imagined, and are slowly uncovering the pyramid and lands around it.
 
-[[Session 3 - Conspiracy of Darkness|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 1 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 3 - Conspiracy of Darkness]]|

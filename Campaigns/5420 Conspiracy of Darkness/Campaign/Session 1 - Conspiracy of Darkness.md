@@ -1,3 +1,11 @@
+---
+file: session
+campaign: Conspiracy of Darkness
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Conspiracy of Darkness]]|[[Session 2 - Conspiracy of Darkness]]|
+
 The campaign begins a week into their journey. The five mages are camping in the desert of Az Kumal. 
 
 They've been there for the last few days, using up food and water. Trapped in shifting dunes, walking in circles. Marching in the twilight to avoid the heat of the day and cold of the night.
@@ -32,4 +40,7 @@ With the corrected course, they set out the next dusk. They find it quickly.
 Xalvor studies the markings and writing, translating it into broken Chiss. It's a warning, and a riddle leading to Ashkara Thul.
 
 They spot someone running away from the party.
-[[Session 2 - Conspiracy of Darkness|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|———|[[Conspiracy of Darkness]]|[[Session 2 - Conspiracy of Darkness]]|

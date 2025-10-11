@@ -1,4 +1,11 @@
-[[Session 25 - Echoes of Divinity |<-prev]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 25 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 27 - Echoes of Divinity]]|
+
 Session XXVI: Missing Spear and Dwarven Danger
 - Nugget insults several dwarves and gets kicked out of several taverns as he spends more and more of his coin on drink. Eventually he passes out in an alleyway.
 - He wakes up, his belongings stolen.
@@ -11,4 +18,7 @@ Without waiting for Collosus, the group decided to attack the dwarves themselves
 
 William spotted the hidden attacker, but was unable to fight because he had just fallen out of a window. Jess fought off the rogue, and PINE-APL kills him by heating up his armour and crushing his head. But Jess was shot by a dart from the other dwarf above. Just when it seemed like Jess was about to die, Collosus arrived in time and used a powerful spell to save her, exhausting himself in the process.
 - Police arrive.
-[[Session 27 - Echoes of Divinity|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 25 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Session 27 - Echoes of Divinity]]|

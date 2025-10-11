@@ -1,4 +1,11 @@
-[[Session 2 - Conspiracy of Darkness |<-prev]]
+---
+file: session
+campaign: Conspiracy of Darkness
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 2 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 4 - Conspiracy of Darkness]]|
+
 Dren uses the cultist's robes to pretend to be a cultist and introduces the other four as brand new initiates. They are taken to the new groups of initiates.
 
 At every turn, they realise the cult has a lot more magic and wealth at its disposal than they thought. It's a lot more organised, powerful, and prepared than they would have thought.
@@ -20,5 +27,6 @@ The group reuinites. Xalvor's hesitation puts them all under suspicion, and Vorl
 In the night, Kaeleth sees a vision of Hechilspet speaking to him, offering him power and knowledge, telling him his perception of Hechilspet is flawed.
 As Kaeleth talks more and more with Hechilspet, he believes he can grant Hechilspet enough freedom to keep him satiated, and believes Hechilspet is truly remorseful. His curiousity peaqued, he agrees to talk with Hechilspet more.
 
-
-[[Session 4 - Conspiracy of Darkness|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 2 - Conspiracy of Darkness ]]|[[Conspiracy of Darkness]]|[[Session 4 - Conspiracy of Darkness]]|

@@ -1,4 +1,10 @@
-[[Session 0 - Origins of the Greenclad|<- Prev]]
+---
+file: session
+campaign: Origins of the Greenclad
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 0 - Origins of the Greenclad]]|[[Origins of the Greenclad]]|[[Session 2 - Origins of the Greenclad]]|
 
 Miyatol, feeling out of place at orientation, trying desperately to follow rules, sees "a boy wearing secondhand robes, carrying only a single satchel, with a posture that screams confidence." (From notes). Miyatol feels more confident talking to him. This is Richard. At first interaction, Richard seems arrogant, but he backs it up with a lot of knowledge.
 They talk a bit, and Miyatol earns Richard's respect. They talk about not having tutors or books like other but instead learning from "stolen notes and half-burned scrolls".
@@ -41,4 +47,6 @@ Narnor feels empty once the rush of popularity fades and she's back on her own. 
 
 Daedroy watches as Stoic throws his coat onto a chair, kicks his boots off, and collapses onto his bed without a care. He asks Stoic if he's even looked at his schedule. Stoic hasn't, and doesn't care.
 
-[[Session 2 - Origins of the Greenclad|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 0 - Origins of the Greenclad]]|[[Origins of the Greenclad]]|[[Session 2 - Origins of the Greenclad]]|

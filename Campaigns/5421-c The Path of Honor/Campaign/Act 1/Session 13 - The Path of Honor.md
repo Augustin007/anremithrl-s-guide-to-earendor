@@ -1,4 +1,10 @@
-[[Session 12 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 12 - The Path of Honor]]|[[The Path of Honor]]|[[Session 14 - The Path of Honor]]|
 
 37 Dareth
 30 Naras
@@ -46,5 +52,6 @@ Talor, Torquil, Naras, Liriel, Lirien, Serin, Kerran, and Aric reach the bell to
 
 56/115 - Ranor
 
-
-[[Session 14 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 12 - The Path of Honor]]|[[The Path of Honor]]|[[Session 14 - The Path of Honor]]|

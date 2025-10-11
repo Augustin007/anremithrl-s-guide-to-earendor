@@ -1,4 +1,10 @@
-[[Shadows of Divinity - 13|<- Prev]]
+---
+file: session
+campaign: Shadows of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 13]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 15]]|
 
 %%
 22-23 Nightal
@@ -38,6 +44,6 @@ Krag follows Dareth into the cave and is captured by the Drow and brought into t
 William talks to Theriad alongside Halt. 
 Then returns to send messages to the two on the list in Veloria, dealing with the bounty hunter's guild.
 
-
-
-[[Shadows of Divinity - 15|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Shadows of Divinity - 13]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 15]]|

@@ -1,6 +1,8 @@
 ---
-DM: Austin
-status: Ongoing
+file: campaign
+DM: 
+  - Austin
+status: ongoing
 ---
 Alaric
 Thorne

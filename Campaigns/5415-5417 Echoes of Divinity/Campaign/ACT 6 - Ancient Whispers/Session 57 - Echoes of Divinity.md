@@ -1,4 +1,11 @@
-[[Session 56 - Echoes of Divinity |<-prev]]
+---
+file: session
+campaign: Echoes of Divinity
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 56 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Shadows of Divinity - 1]]|
+
 Session LVII: The tree
 - The party traverses the lake, and Nugget is killed by the Aboleth and his stuff sinks to the floor. Azmodeus calls in his favour at this moment and Nugget has a few more moments of life. 
 - PINE-APL parkours to the tree like geometry dash.
@@ -21,4 +28,7 @@ Session LVII: The tree
 - Eleutheros takes Lady Black as his Champion in his planned ascension to Godhood under the name Dionysus. Lady Black agrees.
 - William leaves to Veloria to create the company DragonArrow.
 - Colossus goes north to find the peoples that remain of Idros and Westhaven. Idros is dead. He recovers too as many gnomes as possible and manages to legally obtain the land of Gnomes'helm and begins to make reparations and found his country.
-[[Shadows of Divinity - 1|next->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 56 - Echoes of Divinity ]]|[[Echoes of Divinity]]|[[Shadows of Divinity - 1]]|

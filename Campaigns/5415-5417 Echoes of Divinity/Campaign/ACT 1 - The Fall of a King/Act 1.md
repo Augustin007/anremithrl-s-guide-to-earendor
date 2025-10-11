@@ -1,3 +1,12 @@
+---
+file: act
+campaign: Echoes of Divinity
+---
+
+| Previous |        Campaign        |   Next    |
+| :------: | :--------------------: | :-------: |
+|   ———    | [[Echoes of Divinity]] | [[Act 2]] |
+
 Session I: Tempted by the Trickster
 - Nil'ge'tar fights the dwarves and loses, making the deal with Azmodeus and beginning his journey South.
 - Colossus awakens in Gnomes'helm and spends the night in the woods. He meets Roger Revelle and watches the humans.
@@ -27,4 +36,8 @@ Session IX: Slavery and the Spear
 - Nugget secretly sells their captive into slavery and uses the proceeds to buy a spear.
 - Colossus researches the gnomes and prostitutes himself.
 
-[[Act 2]]
+
+
+| Previous |        Campaign        |   Next    |
+| :------: | :--------------------: | :-------: |
+|   ———    | [[Echoes of Divinity]] | [[Act 2]] |

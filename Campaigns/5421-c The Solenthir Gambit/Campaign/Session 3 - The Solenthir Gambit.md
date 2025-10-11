@@ -1,4 +1,11 @@
-[[Session 2 - The Solenthir Gambit |<-prev]]
+---
+file: session
+campaign: The Solenthir Gambit
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 2 - The Solenthir Gambit ]]|[[The Solenthir Gambit]]|[[Session 4 - The Solenthir Gambit]]|
+
 Tarold decides to double back and try the Endelwine again. The North is clearly far too dangerous, now.
 
 They begin doubling back. Tarold coaches her on Karish, the language of Karr and of Rymfel, his own native language.
@@ -21,4 +28,6 @@ Tarold fights at these frost forms, accruing injuries. He charms one into fighti
 
 He passes out. Aemma goes back and uses his ring to summon the light-steed, she loads him onto the horse and the rides back across the southern border of Drakenthorne into the warmth of Neros. Armor is severely damaged.
 
-[[Session 4 - The Solenthir Gambit|next->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 2 - The Solenthir Gambit ]]|[[The Solenthir Gambit]]|[[Session 4 - The Solenthir Gambit]]|

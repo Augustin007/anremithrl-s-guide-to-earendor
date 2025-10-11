@@ -1,4 +1,10 @@
-[[Session 18 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 18 - The Path of Honor]]|[[The Path of Honor]]|[[Session 20 - The Path of Honor]]|
 
 Ivvan, Naras, and Liriel try to work out how to get past the blade barriers.
 
@@ -10,4 +16,6 @@ Guards are asleep. Slowly the defences fall. Prisoners are escaping. Behind them
 
 Liriel is shocked by the carnage at the prison. Serin is even quieter than before. Liriel tries to buy a knife before Naras gives her one and promises to teach her.
 
-[[Session 20 - The Path of Honor|Next ->]]
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 18 - The Path of Honor]]|[[The Path of Honor]]|[[Session 20 - The Path of Honor]]|

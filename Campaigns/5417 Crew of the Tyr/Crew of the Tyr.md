@@ -1,8 +1,10 @@
 ---
+file: campaign
 DM:
   - Stroman
   - Haines
   - John
+status: finished
 ---
 John (Session 1), Haines (Session 1 ending), Stroman (Sessions 2-4)
 Finished

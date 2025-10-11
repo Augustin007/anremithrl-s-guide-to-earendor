@@ -1,5 +1,10 @@
-
-[[Session 27 - The Path of Honor|<- Prev]]
+---
+file: session
+campaign: The Path of Honor
+---
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 27 - The Path of Honor]]|[[The Path of Honor]]|[[Session 29a - The Path of Honor]]|
 
 Aileen Vinter
 Lendrick (elder) Vinter
@@ -16,4 +21,7 @@ Naras meets Aileen Vinter, the older dragonborn's wife. They talk about some stu
 Naras catches a glimpse of Halva, a young child in the family. 
 
 ---
-[[Session 29a - The Path of Honor|Next ->]]
+
+| Previous | Campaign | Next |
+|:--:|:--:|:--:|
+|[[Session 27 - The Path of Honor]]|[[The Path of Honor]]|[[Session 29a - The Path of Honor]]|

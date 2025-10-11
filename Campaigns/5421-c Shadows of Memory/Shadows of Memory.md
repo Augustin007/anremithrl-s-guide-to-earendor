@@ -1,6 +1,7 @@
 ---
+file: campaign
 DM: Hassan
-status: Indefinite Hiatus
+status: ongoing
 ---
 
 (TO DO: Ask Hassan for more details.)
