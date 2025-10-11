@@ -1,4 +1,17 @@
-  
+---
+classification: changeling
+race: neroshi
+birth: 4963 AS
+death: unknown
+PC: true
+class:
+  warlock:
+    fiend: 3
+aliases:
+  - Zee
+  - Sebastian
+  - Sebastian Valerious
+---  
 
 Common Name: Sebastian “Zee“ Valerious 
 

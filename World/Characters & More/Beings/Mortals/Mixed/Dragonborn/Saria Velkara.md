@@ -1,11 +1,19 @@
 ---
-class: |-
-  Wizard (Evokation: fire): 2
-  Sorcerer (Custom: Pyromancer): 6
-Lineage: Dragonborn (Red chromatic)
-Birth Year: 5389 AS
-Death Year: 5420 AS
+classification: dragonborn (human, red chromatic)
+race: rymmish
+birth: 5389 AS
+death: 7th Nightal, 5420 AS
+PC: true
+class:
+  wizard:
+    evocation:
+      fire: 2
+  sorcerer:
+    pyromancer: 6
+aliases:
+  - saria
 ---
+
 Saria was the daughter of a minor gang leader in the criminal underworld of Rymfel.
 
 Her mother died when Saria was a child, assassinated by a rival gang, and her father raised her with little affection or patience.

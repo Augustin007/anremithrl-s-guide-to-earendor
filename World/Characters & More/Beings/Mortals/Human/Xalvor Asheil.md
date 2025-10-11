@@ -1,9 +1,16 @@
 ---
-class: "Wizard (Divination): 9"
-Lineage: Human
-Birth Year: 5398 AS
-Death Year: 5420 AS
+classification: human
+race: chiss
+birth: 5398 AS
+death: 7th Nightal, 5420 AS
+PC: true
+class:
+  wizard:
+    divination: 9
+aliases:
+  - xalvor
 ---
+
 Xalvor never knew his parents. He was found as a newborn, wrapped in a tattered cloak, abandoned at the gates of a Sol’karis hall.
 
 Showing aptitude for magic even as a child, he was taken in by the Sol'karis. Raised among scholars, wanderers, and mages, he grew up surrounded by books, philosophy, and magic.

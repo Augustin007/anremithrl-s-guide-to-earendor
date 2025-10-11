@@ -1,3 +1,10 @@
+---
+classification: epic
+race: celgon
+death: 1st Alturiak, 5421 AS
+PC: false
+aliases:
+---
 
 Tiamat was born of [[Rhea]] and one of the [[Epic Dragons]]when she was taken by the [[Epic Dragons]]. Her cousin, [[Bahamut]], was born similarly of [[Iris]]. 
 

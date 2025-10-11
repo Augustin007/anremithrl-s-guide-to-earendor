@@ -1,17 +1,18 @@
 ---
-class: |-
-  Sorcerer (Storm): 6
-  Fighter (Champion): 4
-Lineage: Human
-Birth Year: 5387 AS
-Death Year: 5420 AS
+classification: human
+race: rymish
+birth: 5387 AS
+death: 7th Nightal, 5420 AS
+PC: true
+class:
+  sorcerer:
+    storm: 6
+  fighter:
+    champion: 4
+aliases:
+  - vorlin
 ---
 
-Vorlin Talvas
-Human
-Sorcerer (Storm) 6
-Fighter (Champion) 4
-5387-5420 AS
 
 Vorlin was born in the upper middle-class of Trixail. His father Lon Talvas, was the captain of a trading ship for Remshi Co.
 

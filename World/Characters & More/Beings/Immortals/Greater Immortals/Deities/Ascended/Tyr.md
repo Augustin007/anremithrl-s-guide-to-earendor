@@ -1,8 +1,12 @@
 ---
-Lineage: Ascended (Eldar)
-Birth Year: 1884 BS
-Ascension: 295 BS
-Death Year:
+classification: ascended
+formerly: elf
+race: eldar
+birth: 1884 BS
+death: 295 BS
+PC: false
+aliases:
+  - Justice
 ---
 
 Tyr was the lover of [[Araushnee]]. During the Sundering War, because of his lesser status, could slip into the nine hells and evade the alarms and defenses that guarded the Raven Queen's prison. He unlocked her chains, and as they fell away, her power surged back, restoring her to the might she had wielded when she had slain the god of death. And he died soon thereafter, and the Raven Queen caught his soul as it fled, and in an act she could never replicate thereafter, she turned him into a god.

@@ -1,9 +1,20 @@
 ---
-Lineage: Ascended (Eldar)
-Birth Year: 1886 BS
-Ascension: 1214 AS
-Death Year:
+classification: ascended
+formerly: elf
+race: eldar
+birth: 1886 BS
+ascension: 1214 BS
+PC: false
+aliases:
+  - The Raven Queen
+  - Raven Queen
+  - Matron of Memory
+  - Regret
+  - Death
+  - Matron of Ravens
+  - Memory
 ---
+
 #redo 
 # The Raven Queen: A Lore Document
 

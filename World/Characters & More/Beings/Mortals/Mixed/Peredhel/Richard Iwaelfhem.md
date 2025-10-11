@@ -1,5 +1,19 @@
 ---
-
+classification: peredhel
+race: swanish
+birth: 4260 AS
+death: 5145 AS
+PC: true
+class:
+  sorcerer:
+    wild magic: 32
+  cleric:
+    life: 6
+  warlock:
+    hexblade: 1
+aliases:
+  - Richard
+  - Champion of the Raven Queen
 ---
 
 Richard, the head of the Ordus Texerum, is a wise and experienced half-elf who has dedicated his life to protecting Neros from magical threats. He is known throughout the country as a powerful wizard and a fierce defender of the realm.
@@ -54,7 +68,7 @@ He was quite troubled when he heard of Miyatol's mysterious death in Bremen.
 
 He would become a good friend of [[Theriad Keladri]], and manage to get Keladri a spot on the Geraseum.
 
-He helped [[Helena Naema]], [[Sebastian Valerius]], and [[Zahel-ben-minos]] expose the [[Selliso]] and [[Claremonts]].
+He helped [[Helena Naema]], [[Sebastian De Clairmont]], and [[Zahel-ben-minos]] expose the [[Selliso]] and [[Claremonts]].
 
 When Sebastian did a difficult temporary ressurection spell and recovered the soul of [[Baeor Dechaius]], Richard dived into the [[The Labyrinth of Insanity]] with [[Lucy Iwaelfhem]] and became a warlock of the Raven Queen to resurrect his friend.
 

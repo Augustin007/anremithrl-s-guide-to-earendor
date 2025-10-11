@@ -1,8 +1,11 @@
 ---
-Lineage: Ascended (Fae)
-Birth Year: 612 BS
-Ascension: 3343 AS
-Death Year:
+classification: ascended
+race: taurish
+formerly: archfey
+birth: 612 BS
+ascension: 3343 AS
+PC: false
+aliases:
 ---
 
 The Traveller.
@@ -17,4 +20,4 @@ He soon accumulated a small following and began his ascension to godhood. In the
 
 [[Tahlia Tormund]] owes the restoration of her sanity to him.
 
-He took [[Jessica Black|Lady Black]] as his apprentice in the year 5417 AA.
+He took [[Jess Val|Lady Black]] as his apprentice in the year 5417 AA.

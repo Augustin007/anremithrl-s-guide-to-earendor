@@ -1,3 +1,13 @@
+---
+classification: primordial
+race: firstborn
+PC: false
+aliases: 
+  - Darkness
+  - Abyss
+  - Whispers
+  - Negative
+---
 # Shar: The Whisperer in the Shadows
 
 ## Introduction

@@ -1,9 +1,19 @@
 ---
-class: "Wizard (Evocation): 54, Fighter (Champion): 12"
-Lineage: Ascended (Human)
-Birth Year: 3052 AS
-Ascension: 3090 AS
-Death Year: 5421 AS
+classification: ascended
+formerly: human
+race: chiss
+birth: 3052 AS
+ascension: 3090 AS
+death: 15th hammer, 5421 AS
+PC: false
+class:
+  wizard:
+    evocation: 54
+  fighter:
+    champion: 12
+aliases:
+  - the emperor
+  - Chiss
 ---
 Hechilspet was a king who ruled the C hish empire for some time. He was born of [[Iskandar|King Iskandar the Wise]] and [[Isa|Queen Isa]]. 
 

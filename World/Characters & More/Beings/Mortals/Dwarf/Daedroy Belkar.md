@@ -1,3 +1,16 @@
+---
+classification: dwarf
+race: swanish
+birth: 4259 AS
+death: 4337 AS
+PC: true
+class:
+  cleric:
+    grave: 29
+aliases:
+  - Daedroy
+---
+
 [[Daedroy Belkar]] was a cleric of the [[Araushnee|Raven Queen]] and saved the [[Klaethor Vatiusen II]]'s life from poison. He helped [[Richard Iwaelfhem]] defeat [[Hechilspet]] after Hechilspet's near escape. Daedroy would go on to die to the [[Dracolich of Karr]].
 
 Daedroy studied at Strixhaven alongside [[Miyatol Dodonus]], [[Stoic Vanem]], [[Richard Iwaelfhem]], and [[Narnor Azerim]]. He and Stoic both wanted to save lives, and they proceeded to study medicine. Daedroy also began in this time to pray to the Raven Queen, and he was chosen to be her next Champion. 

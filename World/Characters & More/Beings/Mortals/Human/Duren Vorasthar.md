@@ -1,10 +1,21 @@
 ---
-class: "Fighter (Champion): 3"
-Lineage: Human
-Birth Year: 1586 AS
-Death Year: 1630 AS
+classification: human
+race: vorokai
+birth: 1586 AS
+death: 1630 AS
+PC: true
+class:
+  fighter:
+    champion: 3
+aliases:
+  - Tar-Duren
+  - Duren I
+  - Taras-Duren
+  - Duren
 ---
-Duren, son of Valen, of clan Vorasthar, was born to Valen, the leader of the Vorasthar Tribe. 
+
+
+Duren, son of Valen, of clan Vorasthar, was born to Valen, the leader of the Vorokai Tribe. 
 
 In the year 1602, Duren left home travelling to the Echorias Valley. Along the way he met [[Thalen Nokkaran]] and upon reaching, met [[Eledan Lodis]]
 

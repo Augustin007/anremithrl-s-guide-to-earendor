@@ -1,11 +1,15 @@
 ---
-lineage: laterborn
-death: 1 Alturiak 5421 AS
+classification: arvandoric
+race: laterborn
+birth: 
+death: 1st Alturiak, 5421
+PC: false
+aliases:
+  - Frostmaiden
+  - Crying Sky
+  - Final Winter
+  - Queen of Silence
 ---
-
-#todo 
-
-**Titles:** The Frostmaiden, The Crying Sky, The Last Winter, The Queen of Silence, The Pale Sister of Asmodeus
 
 Auril was not born as a god of cold, nor of cruelty.  
 In the first ages she was the **goddess of the changing seasons**, a lesser daughter of Akadi — the Windmother — and one of the youngest to join the Celestial Council. She was radiant and gentle, a goddess of renewal, frost, and thaw alike, the herald of endings that promised rebirth.

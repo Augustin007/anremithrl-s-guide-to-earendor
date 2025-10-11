@@ -1,16 +1,17 @@
 ---
-class: |-
-  Wizard (Invention): 9
-  Warlock (Hexblade): 1
-Lineage: Peredhel
-Birth Year: 5376 AS
-Death Year: 5420 AS
+classification: peredhel
+race: chiss
+birth: 5376 AS
+death: 8th Nightal, 5420 AS
+PC: true
+class:
+  wizard:
+    invention: 9
+  warlock:
+    hexblade: 1
+aliases:
+  - kaelith
 ---
-
-Kaelith Musaed
-Half-elf
-Wizard (Invention): 9
-Warlock (Hexblade): 1
 
 Kaelith Musaed was always meant to excel.
 

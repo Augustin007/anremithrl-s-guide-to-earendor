@@ -1,8 +1,31 @@
 ---
-Lineage: Gnome (Forest)
-Birth Year: 
-Death Year:
+classification: gnome
+race: ferist
+birth: unclear
+death: 1st Alturiak, 5421 AS
+PC: true
+class:
+aliases:
+  - King of the Gnomes
+  - Lord of Gnomes'helm
+  - Alphite's bane
+  - Winter's bane
+  - Champion of the Raven Queen
+  - The Marethic Representative
+  - Whisper's Bane
+  - Monster's Bane
+  - The Final Student
+  - Historian
+  - Colossus
+  - Roger's gnome
+  - Methunroa's heir
+  - Endurance
+  - Red-eyed
+  - Stone slaughterer
+  - Saviour of Thundrak
+  - Destroyer of Names
 ---
+
 
 King Colossus of Gnomes'hell, a gnome who had been turned to stone and awakened alongside many other gnomes with no memories. He became the king of these gnomes for some time. He was a wizard with a formidable mind and photographic memory. During this time, he heard a voice in his head, this was the voice of the The Raven Queen, advising him. He was a weak king, and did not want to take the lead, instead allowing his advisor, Alphie, to do as he wished. When she warned him his advisor, Alphie, was evil. He did not listen to this voice, not trusting its source. But Alphie gave himself up to Auril in exchange for power to shatter his kingdom and take power, and now his people are currently scattered and many no longer see him as king, seeing instead Alphie as their lord. 
 

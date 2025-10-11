@@ -1,7 +1,11 @@
 ---
-Lineage: Dragonborn (Pure)
-Birth Year: 1243 BS
-Death Year:
+classification: dragonborn (elf)
+race: dravaran
+birth: 1243 BS
+death: 
+PC: false
+aliases:
+  - architect arcane
 ---
 
 Tal'berius was born of Tar'Daroth'ul Magnar'illion, thiry years before the sundering war, and is known as Tar'illion. He was the son of [[Magnar]]. His brother, [[Artorius]] and he were both geniuses and powerful sorcerers, and were sent to study under [[Rondar]], and quickly outpaced Rondar's existing apprentice, [[Garrett]] until he quit. Twelve years before the Sundering War, he and his brother published the [[Codex Arcanum]].

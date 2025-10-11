@@ -1,8 +1,22 @@
 ---
-Lineage: Vampire, Black Chromatic Dragonborn Human
-Birth Year: 5370 AS
-Death Year: 5417 AS
-Turning: 5421 AS
+classification: vampire
+formerly: dragonborn (human, black chromatic)
+race: perch
+birth: 5370 AS
+death: 5417 AS
+ressurection: 28th Hammer, 5421 AS
+PC: true
+class:
+  warlock:
+    hexblade: 12
+  paladin: 
+    vengeance: 6
+aliases:
+  - Nugget
+  - Nil'ge'tar
+  - the mad prince
+  - avenger
+  - Drakmor
 ---
 
 Drakmor-Prince Nugget Remshi, son of the Dragon King Draco-Remshi the Avenger of Deathwood Drakmor of Darkenthorne Warlock (Hexblade) 12/Paladin (Oath of Vengeance) 3: 

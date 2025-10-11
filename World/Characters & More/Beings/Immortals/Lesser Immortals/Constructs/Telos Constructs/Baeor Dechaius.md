@@ -1,9 +1,23 @@
 ---
-Lineage: Telos Construct (Formerly Goliath-Dwarf)
-Birth Year: 4265 AS
-Death Year: 4320 AS
-Telos Binding: 4980 AS
-Telos Unbinding: 5421 AS
+classification: Telos Construct
+formerly: Goliath-Dwarf
+race: durinuli
+birth: 4265 AS
+death: 4320 AS
+telos binding: 4980 AS
+telos unbinding: unknown
+PC: true
+class:
+  barbarian:
+    beserker: 12
+  fighter:
+    eldritch knight: 20
+    battlemaster: 4
+aliases:
+  - Baeor
+  - battlestorm
+  - high general baeor
+  - nerek
 ---
 
 Baeor was a half-Goliath half-dwarf from a family that traveled from [[Bremen]] to [[Neros]] before the [[Aetate Foedus]]. 
@@ -18,7 +32,7 @@ He fought in the wars that established the Aetate Foedus, but was slain after be
 
 He fought and killed the Aboleth of Rymfel.
 
-He was temporarily resurrected by [[Sebastian Valerius]] to provide evidence against Thorondor, but his spirit dissapated after the trial, but [[Lucy Iwaelfhem]] and Richard managed to save his escaping soul after Richard bound himself to [[Araushnee|The Raven Queen]] and bind it to a [[Telos Construct]].
+He was temporarily resurrected by [[Sebastian De Clairmont]] to provide evidence against Thorondor, but his spirit dissapated after the trial, but [[Lucy Iwaelfhem]] and Richard managed to save his escaping soul after Richard bound himself to [[Araushnee|The Raven Queen]] and bind it to a [[Telos Construct]].
 
 He fought and killed Thorondor, avenging his own death.
 

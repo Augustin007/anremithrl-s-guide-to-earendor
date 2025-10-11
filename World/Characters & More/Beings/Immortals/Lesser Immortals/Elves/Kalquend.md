@@ -1,3 +1,11 @@
+---
+classification: elf
+race: unknown
+birth: unknown
+death: 5417 AS
+PC: false
+aliases:
+---
 Kalquend was an elven sorcerer and wizard of great power. He moved to [[Termalaine]] under the [[Ordus Texerum]].
 He discovered a large trade of slaves going on in the region, and many nobles engaging in it, taking children from their families to pay off debts, killing families that dissented. He tried to speak out but was captured. 
 He escaped when he was brought before the nobles who wanted to make sure he hadn't told anyone. They provoked him, as he was captured, doing things to their slaves in front of him, until in a burst of uncontrolled rage magic, he summoned a meteor that killed them all, but left the slaves and himself unharmed. He freed them and helped them flee the city.

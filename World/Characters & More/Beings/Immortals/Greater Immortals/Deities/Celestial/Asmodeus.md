@@ -1,5 +1,8 @@
 ---
-lineage: Celestial
+classification: arvandoric
+race: celestial
+PC: false
+aliases:
 ---
 
 Born before the shaping of the mortal world, Asmodeus was one of three brothers born of the ashes of the Primordial Flame — Tharizdun, Asmodeus, and the Forgotten One. While Tharizdun sought dominion over Chaos and the Forgotten One sought meaning through mortality, Asmodeus sought Law, the perfection of cause and consequence.

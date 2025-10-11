@@ -1,4 +1,24 @@
-Copy-pasted from character sheet. Not D&D 5e, but ported over at one point
+---
+classification: human
+race: sonorous
+birth: 3500 AS
+PC: true
+class:
+  wizard:
+    bladesong: 4
+    loremaster: 2
+  cleric: 
+    knowledge: 34
+aliases:
+  - Champion of Knowledge
+  - Lorekeeper
+  - Sharer of Secrets
+  - Librarian
+  - Theriad
+  - Head Attendent
+---
+
+Copy-pasted from character sheet. Not D&D 5e intially, but ported over at one point
 
 Theriad is a warlock patron and quasi-deity. Theriad is just low level enough to squeeze through the tree of names with great cost, it leaves him greatly exhausted, and dispels any magic active on him, so he does not travel through much, but choses instead to stay in his primary personal demiplane. 
 

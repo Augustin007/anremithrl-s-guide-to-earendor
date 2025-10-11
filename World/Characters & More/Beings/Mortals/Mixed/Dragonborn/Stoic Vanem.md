@@ -1,3 +1,16 @@
+---
+classification: dragonborn (human, green chromatic)
+race: neroshi
+birth: 4261 AS
+death: 4312 AS
+PC: true
+class:
+  sorcerer:
+    wild magic: 32
+aliases:
+  - Richard
+---
+
 Stoic was an Velorian alchemist who helped [[Daedroy Belkar]] save the [[Klaethor Vatiusen II|Prince]] from poison. He helped expose [[Tormac]]. He also fought alongside [[Richard Iwaelfhem]]. He was slain on the battlefield of the Aetate Foedus.
 
 Stoic studied at Strixhaven alongside [[Miyatol Dodonus]], [[Daedroy Belkar]], [[Richard Iwaelfhem]], and [[Narnor Azerim]]. He and Daedroy wanted to save lives, and they proceeded to study medicine.

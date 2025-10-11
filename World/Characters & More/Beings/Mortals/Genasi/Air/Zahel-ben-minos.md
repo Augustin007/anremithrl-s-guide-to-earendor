@@ -1,3 +1,15 @@
+---
+classification: air genasi
+race: craet
+birth: 4940 AS
+death: unknown
+PC: true
+class:
+  rogue:
+    arcane trickster: 3
+aliases:
+  - Zahel
+---
 Zahel is a member of the house of Craet, a powerful aristocratic house known for its magical abilities and penchant for consulting with creatures of the elemental planes. However, he and his immediate family are estranged from the current head of the house, Cael ben Aretas, who cut off his grandson Minos for refusing to participate in an arranged marriage to advance the house’s position and for consulting with the Djinn. However, although Zahel reaps no benefits from his aristocratic roots, he remains in contact with the Djinn Tycha, from whom his branch of the house of Craet derive their genasi roots. Although she is inconsistent and flighty, her gifts have nevertheless been a matter of life and death at times in the uncertain, gilded age of Imperial Neros. Among them is Zahel’s pet rock dove (pigeon) Theodorus (Theo), whose elemental gifts include increased intelligence and discerning taste in where to relieve himself. 
 
 Often uses his friend Helena's position in the department of Information to obtain leads, to her consternation.

@@ -1,3 +1,18 @@
+---
+classification: peredhel
+race: soz'kez
+birth: 4258 AS
+death: 5130 AS
+PC: true
+class:
+  paladin:
+    devotion: 38
+aliases:
+  - Miyatol
+  - Dodonus
+  - Sanos
+---
+
 Miyatol studied at Strixhaven alongside [[Daedroy Belkar]], [[Stoic Vanem]], [[Richard Iwaelfhem]], and [[Narnor Azerim]]. He never participated in the shenanigans of his friends at the university and eventually dedicated himself to the oath of the [[Order of Pacis]], where he met [[Tyko]]. He was quite surprised when he met [[Narnor Azerim]], who had ascended to Lady of [[Azerim]], and asked about Richard. He encouraged her to keep up a correspondence with him.
 
 Tyko brought [[Lucy Iwaelfhem]] before him when she claimed she knew Richard. He made sure to pass this information to his friend Lady Narnor, who was the lady of the region.

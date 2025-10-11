@@ -1,8 +1,14 @@
 ---
-class: 
-Lineage: Halfling
-Birth Year: 5400 AS
-Death Year:
+classification: hafling
+race: rymish
+birth: 5400 AS
+death: 
+PC: true
+aliases:
+  - Jessica Black
+  - Jesus Black
+  - Jessica
+  - Lady Black
 ---
 
 Jess Val grew up a poor halfling. She loved music, and would often dance in the square with the players, who offered her a free apprenticeship, but shortly after there was an attack by the orcs, and her family, and much of her village was slaughtered. She turned to thievery to survive. Eventually she tried to break into the house of Lord Amos Black, Baron of Blackton at Rymfel. Now the lord was corrupt, and secretly ran his own criminal empire. When she tried to break into his house she was caught, but he was impressed by her ability, and thought he could use her for his own gain.

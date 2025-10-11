@@ -1,6 +1,0 @@
----
-Lineage: Human (Giant's blood)
-Birth Year: 5398 AS
-Death Year: 5420 AS
----
-Of [[World/Locations/Material Plane/Vasterra]] in [[Neros]]

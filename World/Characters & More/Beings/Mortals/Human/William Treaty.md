@@ -1,7 +1,15 @@
 ---
-Lineage: Human (Dragon's Blood)
-Birth Year: 5390 AS
-Death Year:
+classification: human
+race: swanish
+birth: 5390 AS
+death: 
+PC: true
+class:
+aliases:
+  - William no-name
+  - William
+  - DragonArrow
+  - Treaty-ma
 ---
 
 

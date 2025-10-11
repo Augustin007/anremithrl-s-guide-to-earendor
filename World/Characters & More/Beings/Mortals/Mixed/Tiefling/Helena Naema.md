@@ -1,3 +1,16 @@
+---
+classification: tiefling
+race: neroshi
+birth: 4937 AS
+death: unknown
+PC: true
+class:
+  bard:
+    eloquence: 3
+aliases:
+  - Helena
+  - Helena, DPT of Information
+---
 Physical traits
 
 Race - Tiefling 

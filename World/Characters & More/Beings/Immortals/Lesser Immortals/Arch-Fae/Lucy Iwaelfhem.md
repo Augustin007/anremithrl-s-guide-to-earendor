@@ -1,7 +1,17 @@
 ---
-Lineage: Dark Fae (Nyad)
-Birth Year: 4260 AS
-Death Year: 5421 AS
+classification: archfey
+race: dark nyad
+birth: 4260 AS
+death: 5421 AS
+PC: true
+class:
+  druid:
+    water: 46
+aliases:
+  - Sarnor's Gem
+  - Flightless
+  - Lucy
+  - Iwaelfhem
 ---
 
 Lucy was a dark faery and a Nyad, who lost her powers because of great crimes committed in the [[Feywild]], and was exiled to the [[Ephemeral Lands]]. Lucy was devoid of emotion to her mortal companions, but slowly warmed up to them, particularly [[Richard Iwaelfhem]], whom she would go on to marry. 
