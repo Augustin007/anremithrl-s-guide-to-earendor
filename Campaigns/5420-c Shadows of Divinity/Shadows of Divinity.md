@@ -47,7 +47,7 @@ status: ongoing
 [[Crug]]†
 [[Dug]]†
 [[The Darkness That Is]]
-[[Isphet]]
+[[Isfet]]
 [[Hekate]]
 [[Voren]]
 [[Kenet]]†

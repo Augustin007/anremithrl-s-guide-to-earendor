@@ -5,14 +5,18 @@ campaign: Adventures in Arthulion
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
 |[[Session 16 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 18 - Adventures in Arthulion]]|
-Duthrim, attempts to play politics while Jason, at his order, gets evidence by breaking into Mabry's safe, which turns out to be a mimic, and Jason is captured. Duthrim gains a feel for the political situation.
+Jason attempts to get evidence by breaking into Mabry's safe, but it turns out to be a mimic. Jason is captured.
 
-Jason and Theriad begin plotting how to get out, and bonding over academia and the prestige and glory in it, as well as the purity and love in it. They science their way out of the cell. 
+Duthrim and Thalion try inneffectively to stall.
 
-Duthrim tries again to talk to Mabry, but it is completely ineffective.
+Jason is put in a cell with Theriad. Theriad is despondant. Lenas is nursing fairly bad injuries and Jason tries to save him, but fails, bolstering Theriad's despondence. 
 
-Jason sets fire to the emerald palace while Duthrim and Theriad corner Mabry. 
+Galin berates Theriad, which angers him, and Jason speaks about his own family, killed in the Sonorous invasion, and of having to abandon academia. The two bond a bit.
 
-| Previous | Campaign | Next |
-|:--:|:--:|:--:|
-|[[Session 16 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 18 - Adventures in Arthulion]]|
+With Theriad's help, the three of them escape their cell. In an impulsive act as they get away, Theriad sets a fire in the dungeons.
+
+Mabry hears of Jason's capture and sets guards to arrest Thalion and Duthrim. Just then Theriad, Galin, and Jason arrive. They kill two of the guards and capture the others, taking Mabry hostage
+
+|                 Previous                  |          Campaign           |                   Next                   |
+| :---------------------------------------: | :-------------------------: | :--------------------------------------: |
+| [[Session 16 - Adventures in Arthulion ]] | [[Adventures in Arthulion]] | [[Session 18 - Adventures in Arthulion]] |

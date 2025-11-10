@@ -9,7 +9,6 @@ status: ongoing
 [[Thalai Elanthino]]†
 [[Huldan]]†
 [[Naras Vorasthar]]
-[[Syl]]
 [[Talor]]†
 [[Torquil Leogan]]†
 [[Binch]]†
@@ -36,6 +35,7 @@ status: ongoing
 [[Queen Iselda III]]
 [[Dareth]]†
 [[Ranor]]†
+[[Sylphrena]]
 Nirhak
 Dri'ros
 Kharazhien

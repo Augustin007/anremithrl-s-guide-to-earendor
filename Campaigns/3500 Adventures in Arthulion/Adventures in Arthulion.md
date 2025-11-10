@@ -24,8 +24,8 @@ status: finished
 #### Other Characters Seen or Referenced
 
 #### Summary
-After the eruption of the flameheart, many people are displaced, this includes Duthrim, who wanders around seeking work, eventually he meets Jason (Session 3), a wanderer, and the two being travelling the world taking on odd jobs, Duthrim hoping to eventually find stability, and Jason looking for glory and honor. (Odd Jobs, Sessions 1-9)
-Theriad is rescued from the flameheart eruption by elves, and studies in Nolorei. He returns to Nerheim as it is being rebuilt, but clashes with the Sonorous lords and is forced to flee. He meets Duthrim and Jason (Session 10). Duthrim and Theriad bond over being displaced by the eruption. He decides to travel with them. (Traveling Trio, Sessions 10-18)
+After the eruption of the flameheart, many people are displaced, this includes Duthrim, who wanders around seeking work, eventually he meets Jason (Session 3), a wanderer, and the two being travelling the world taking on odd jobs, Duthrim hoping to eventually find stability, and Jason looking for glory and honor. (Ashes and Embers, Sessions 1-5)
+Theriad is rescued from the flameheart eruption by elves, and studies in Nolorei. He returns to Nerheim as it is being rebuilt, but clashes with the Sonorous lords and is forced to flee. He meets Duthrim and Jason (Session 10). They deal with a plot by the Sonorous lords to take over Nolorei. Duthrim and Theriad bond over being displaced by the eruption. He decides to travel with them. (The Emerald Plot, Sessions 6-18)
 
 Duthrim leaves the party for some time, settling in Othron Ibrith. Jason and Theriad both attend the Clockwork Citadel Institute, a university. Theriad studies under Methunroa and becomes an accomplished scholar, and begins worshipping a figure from his visions, who he now recognises as Nebelum.
 Jason and Theriad are involved in several incidents at the university. (Student Shenanigens, Sessions 19-26)

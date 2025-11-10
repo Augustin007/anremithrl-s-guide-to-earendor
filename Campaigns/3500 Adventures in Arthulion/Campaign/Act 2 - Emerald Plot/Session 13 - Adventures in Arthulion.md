@@ -10,7 +10,11 @@ They travel without trouble, and hidden, back to Beden, but are out of money and
 
 The trio help a local solve some riddles, and explore a small cave, fighting a mimic.
 
-Theriad intends to send a letter to his adoptive father, the King, Arathasi of Nolorei, but has found out that King Arathasi was assasinated, and usurped by Baron Mabry, now styling himself as king, except for some political resistance. 
+The guards and the trio find a variety of different jobs
+
+Theriad intends to send a letter to his adoptive father, the King, Arathasi of Nolorei, but is delivered devastating news. King Arathasi was assasinated, and usurped by Baron Mabry, who is now styling himself as king, and is accepted except for some political resistance. Mabry supports the Sonorous Dominion and is urging nearby kingdoms to do the same.
+
+Theriad locks himself away and refuses to speak to anyone.
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
