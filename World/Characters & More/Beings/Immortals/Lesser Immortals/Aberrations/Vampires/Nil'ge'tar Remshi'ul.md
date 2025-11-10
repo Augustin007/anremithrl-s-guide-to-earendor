@@ -1,6 +1,9 @@
 ---
 classification: vampire
-formerly: dragonborn (human, black chromatic)
+formerly: dragonborn
+blooded:
+  - human
+  - black chromatic
 race: perch
 birth: 5370 AS
 death: 5417 AS

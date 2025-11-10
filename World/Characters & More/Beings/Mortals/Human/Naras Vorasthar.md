@@ -1,4 +1,4 @@
----
+w---
 Lineage: Human (Kesnan, Vorokai caste)
 Birth Year: 5395 AS
 Death Year:

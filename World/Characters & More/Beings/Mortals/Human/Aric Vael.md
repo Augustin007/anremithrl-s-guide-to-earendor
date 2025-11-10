@@ -1,6 +1,13 @@
 ---
+classification: human
+race: gol
+birth: 14th Hammer, 5406 AS
+PC: false
 aliases:
   - Aric
+  - Sliver of Darkness
+  - Sliver
+  - Ghaunadaur
 ---
 #### Stats
 

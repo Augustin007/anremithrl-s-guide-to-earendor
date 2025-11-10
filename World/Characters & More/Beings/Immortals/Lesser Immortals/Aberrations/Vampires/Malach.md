@@ -1,6 +1,6 @@
 ---
 classification: Vampire
-formerly: Yuan-Ti
+formerly: yuan-ti
 race: pureblood
 birth: 1572 AS
 death: 1603 AS

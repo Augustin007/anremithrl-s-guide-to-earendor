@@ -1,7 +1,11 @@
 ---
-Lineage: Goliath
-Birth Year: 5395 AS
-Death Year: 5421 AS
+classication:
+race:
+birth: 5395 AS
+death: 22nd Nightal, 5420 AS
+PC: true
+aliases: 
+  - thalai
 ---
 Thalai was born in 5395 in Solenthir. When he was sixteen, he enlisted in the Solenthiri army during the desperate struggles against Auril’s encroaching forces.
 

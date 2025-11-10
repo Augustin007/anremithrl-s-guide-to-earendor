@@ -1,8 +1,19 @@
 ---
-class: 
-Lineage: Goliath
-Birth Year: 5392 AS
-Death Year:
+classification: goliath
+race: solenthiri
+birth: 5392 AS
+death: Unclear, after 1st Alturiak 5421
+PC: true
+aliases:
+  - Siegebreaker
+  - Galio the relentless
+  - Galio
+  - Thunukalathy
+  - Avalanch
+  - Knightbreaker
+  - Dawncaller
+  - Zirvin
+  - Dwarf-friend
 ---
 
 Galio Thunukalathi the Relentless

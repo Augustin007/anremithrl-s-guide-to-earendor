@@ -1,6 +1,8 @@
 ---
-Lineage: Human
-Birth Year: 5353 AS
-Death Year: 5420 AS
+classication: human
+race: gol
+birth: 5353 AS
+death: 29th of Nightal, 5420 AS
+PC: false
 ---
 King of Golin

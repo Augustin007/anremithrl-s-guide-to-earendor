@@ -1,3 +1,9 @@
+---
+classication: arvandoric
+race: elohim
+PC: false
+---
+
 **Title: The Lady of Pain: Guardian and Enigma of Sigil**
 
 ---

@@ -1,6 +1,7 @@
 ---
-classification: dragpn
-formally: human
+classification: dragon
+blooded: black chromatic
+formerly: human
 race: rymish
 birth: 4608 AS
 death: 1st Hammer, 5421 AS

@@ -1,3 +1,12 @@
+---
+classication: booned
+formerly: human
+race: rymish
+birth: 4772 AS
+death: 1st of Alturiak, 5421 AS
+PC: false
+---
+
 The Eternal Warrior.
 
 Valus was a child who came from Rymfel. He was the eldest child of eight. Hoping to help protect his family from the continuous crime, invasions, and deep-seated corruption, he spent his days learning combat. 

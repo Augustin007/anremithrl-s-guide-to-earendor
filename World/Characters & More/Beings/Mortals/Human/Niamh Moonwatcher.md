@@ -1,4 +1,11 @@
 ---
+classification: human
+race: rymish
+birth: 5390 AS
+death: 7th of Hammer, 5421 AS
+PC: false
+aliases:
+  - shadow
 Lineage: Human
 Birth Year: 5390 AS
 Death Year: 5420 AS

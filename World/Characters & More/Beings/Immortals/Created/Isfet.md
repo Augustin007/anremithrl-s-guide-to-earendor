@@ -1,3 +1,8 @@
+---
+classication: created
+PC: false
+---
+
 Isfet, the Queen of Chaos, is one of the most powerful entities in [[Eärendor]]. She reigns over [[Pandemonium]], the realm of chaos and unpredictability. Her presence is felt throughout all other planes and dimensions, serving as a reminder that change and transformation are fundamental to existence.
 
 Isfet's role in the cosmic tapestry of Eärendor is significant. She stands as the embodiment of chaos, and her realm of Pandemonium represents the wild, untamed counterpart to the ordered and structured realms like [[Mechanus]]. This dynamic interplay between order and chaos creates a rich and complex universe where everything exists in a state of perpetual flux.

@@ -1,7 +1,13 @@
 ---
-Lineage: 
-Birth Year: 
-Death Year:
+classification: unknown
+formerly: peredhel
+race: karrish
+birth: 3399 AS
+death: 
+PC: false
+aliases:
+  - soothsayer
+  - dreamers
 ---
 
 No one can truly say where Bechel is from. 

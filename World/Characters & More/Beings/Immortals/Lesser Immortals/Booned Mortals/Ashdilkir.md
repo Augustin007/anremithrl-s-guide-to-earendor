@@ -1,6 +1,8 @@
 ---
 classification: retribution
-formerly: booned; human
+formerly:
+  - booned
+  - human
 race: devaali
 birth: 18 BS
 death: never

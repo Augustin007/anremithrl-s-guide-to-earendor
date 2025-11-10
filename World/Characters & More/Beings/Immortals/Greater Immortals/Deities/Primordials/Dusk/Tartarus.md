@@ -1,3 +1,11 @@
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - abyss
+---
+
 ## Introduction
 
 Tartarus is a Primordial being, a figure of immense power and complexity who dwells in the [[Abyss]]. Unlike other Primordials, Tartarus exhibits a nature more akin to the Dawn, making him a unique entity among his peers. This document aims to explore the enigmatic character of Tartarus, his alliances, and his role in the cosmic events that have shaped the Universe.

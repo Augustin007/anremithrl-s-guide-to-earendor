@@ -1,7 +1,12 @@
 ---
-Lineage: Demigod (Tiefling)
-Birth Year: 4618 AS
-Death Year: 5421 AS
+classification: Tiefling
+race: rymish
+birth: 4618 AS
+death: 15th Hammer, 5421 AS
+PC: true
+aliases:
+  - Tahlia
+  - Tormund
 ---
 
 Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal who was seduced by Azmodeus during [[The Sundered War]].

@@ -1,5 +1,8 @@
 ---
 classification: dragonborn (human, green chromatic)
+blooded:
+  - human
+  - green chromatic
 race: neroshi
 birth: 4261 AS
 death: 4312 AS

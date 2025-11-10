@@ -5,3 +5,4 @@ birth:
 death:
 PC:
 ---
+Anarchist

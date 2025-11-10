@@ -4,81 +4,179 @@
     "type": "split",
     "children": [
       {
-        "id": "95ab72b27ef1b0c9",
+        "id": "aa8f5afd61de4f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "90efd9ebf40a2796",
+            "id": "0acf7573569bcb8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Beings/Mortals/Human/Dren Malakir.md",
+                "file": "Ekenon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dren Malakir"
+              "title": "Ekenon"
             }
           },
           {
-            "id": "2fca586b78053efd",
+            "id": "2cfea78769fa9290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Beings/Mortals/Tabaxi/Orion von Pawston.md",
+                "file": "World/Characters & More/Beings/Immortals/Created/Ao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orion von Pawston"
+              "title": "Ao"
             }
           },
           {
-            "id": "d30e3a80811d6b1a",
+            "id": "ff224dd761b26a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Ascended/Hechilspet.md",
+                "file": "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hechilspet"
+              "title": "Crew of the Tyr"
             }
           },
           {
-            "id": "65b45fa9cdf3b038",
+            "id": "1b8ca245a646b10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Beings/Mortals/Human/Xalvor Asheil.md",
+                "file": "Campaigns/2500 Isle of Abbey/Isle of Abbey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xalvor Asheil"
+              "title": "Isle of Abbey"
             }
           },
           {
-            "id": "c2ff466e6fdc7274",
+            "id": "a27ce517c78acd9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Calendar/Calendar - Old.md",
+                "file": "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calendar - Old"
+              "title": "Adventures in Arthulion"
+            }
+          },
+          {
+            "id": "85de7bac5e85c816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rise of the Greenclad"
+            }
+          },
+          {
+            "id": "1ea3f4d5d1160e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5421-c Shadows of Calamity/Shadows of Calamity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadows of Calamity"
+            }
+          },
+          {
+            "id": "71c8b5135a135d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Asmodeus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Asmodeus"
+            }
+          },
+          {
+            "id": "ce426aa5c65d2097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": ";temp-adventures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": ";temp-adventures"
+            }
+          },
+          {
+            "id": "67f85a1aa4fa09c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Elves/Thurin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thurin"
+            }
+          },
+          {
+            "id": "617a9d9ba8586508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 27 - Adventures in Arthulion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 27 - Adventures in Arthulion"
+            }
+          },
+          {
+            "id": "7a9a1e7faadc07c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 25 - Adventures in Arthulion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 25 - Adventures in Arthulion"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -294,15 +392,15 @@
                 "calendar": "ID_0bc878cbdb68",
                 "ephemeral": {
                   "viewing": {
-                    "day": 15,
-                    "month": 0,
-                    "year": 5421
+                    "day": 22,
+                    "month": 11,
+                    "year": 5420
                   },
                   "viewState": 1,
                   "displaying": {
                     "day": 12,
-                    "month": 0,
-                    "year": 5421
+                    "month": 11,
+                    "year": 5420
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -343,7 +441,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 905.5
+    "width": 345.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,32 +460,35 @@
   },
   "active": "eec10ee5dff78b99",
   "lastOpenFiles": [
-    "World/Characters & More/Beings/Mortals/Tabaxi",
-    "Campaigns/5420-c Shadows of Divinity/Shadows of Divinity.md",
-    "Campaigns/5420 Shadows of the Fallen/Shadows of the Fallen.md",
-    "Campaigns/5420 Conspiracy of Darkness/Conspiracy of Darkness.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Ascended/Hechilspet.md",
-    "World/Characters & More/Beings/Mortals/Human/Dren Malakir.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Peredhel/Kaelith Musaed.md",
-    "World/Characters & More/Beings/Mortals/Human/Vorlin Talvas.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Saria Velkara.md",
-    "World/Characters & More/Beings/Mortals/Human/Xalvor Asheil.md",
-    "World/Locations/Map of Earendor.md",
-    "Meta/Homebrew/RAW/Character/Classes/Blood Hunter/blood-hunter:blood-curse.md",
-    "Meta/Homebrew/RAW/Character/Classes/Blood Hunter/blood-hunter:mutant.md",
-    "World/Calendar/Calendar - Old.md",
-    "Campaigns/5417 Crew of the Tyr/Crew of the Tyr.md",
-    "Campaigns/5415-5417 Echoes of Divinity/Echoes of Divinity.md",
-    "World/Characters & More/Beings/Mortals/Goliath/Dirk.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Tiefling/Helena Naema.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Quasi-Deities/Ascensions/Cordast Tresant.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Tharizdun.md",
-    "Campaigns/1600 Shattering of Shadows/Shattering of Shadows.md",
+    "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Ophiriel.md",
+    "World/Characters & More/Beings/Mortals/Gnome/Norvias.md",
+    "World/Characters & More/Beings/Mortals/Evenon.md",
+    "World/Characters & More/Beings/Mortals/Mixed/Tiefling/Ekenon.md",
+    ";temp-adventures.md",
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Elves/Thurin.md",
+    "World/Characters & More/Beings/Mortals/Mixed/Zal'kesh'ar.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 27 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 25 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 15 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 6 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 33 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 26 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 19 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 24 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 23 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 22 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 21 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 20 - Adventures in Arthulion.md",
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion.md",
+    "Tal'berius.md",
+    "World/Locations/Planes/Within Planes/Cities/Bremen.md",
     "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
-    "Campaigns/4280-4339 Origins of the Greenclad/Origins of the Greenclad.md",
-    "World/Characters & More/Beings/Immortals/Lesser Immortals/Constructs/Telos Constructs/Baeor Dechaius.md",
-    "Campaigns/4980 Rise of the Greenclad/Rise of the Greenclad.md",
-    "World/Characters & More/Beings/Mortals/Fae/Changeling/Sebastian De Clairmont.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Odd Jobs/Session 5 - Adventures in Arthulion.md",
+    "Campaigns/5421-c Shadows of Calamity/Shadows of Calamity.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 18 - Adventures in Arthulion.md",
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Demigod",
+    "World/Characters & More/Beings/Mortals/Tabaxi",
     "Campaigns/5421-c Shadows of Memory/Campaign",
     "Campaigns/5421-c Shadows of Memory",
     "Campaigns/5421-c The Solenthir Gambit/Campaign",
@@ -394,9 +496,6 @@
     "Campaigns/5421-c The Path of Honor/Campaign/Act 2",
     "Campaigns/5421-c The Path of Honor/Campaign/Act 1",
     "Campaigns/5421-c The Path of Honor/Campaign",
-    "Campaigns/5421-c The Path of Honor/Assets",
-    "Campaigns/5421-c The Path of Honor",
-    "Campaigns/5421-c Shadows of Calamity/Campaign",
     "Meta/Images/The Children/Liriel Danstal.png",
     "Meta/Images/The Children/Kerran Thorol.png",
     "Meta/Images/The Children/Aric Vael.png",

@@ -1,5 +1,7 @@
 ---
-Lineage: Goliath
-Birth Year: 5396 AS
-Death Year: 5420 AS
+classification: goliath 
+race: solenthiri
+birth: 5396 AS
+death:
+PC: false
 ---

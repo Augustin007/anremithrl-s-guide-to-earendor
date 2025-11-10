@@ -1,8 +1,13 @@
 ---
-Lineage: Vampire (Human)
-Birth Year: 1245 BS
-Death Year: 295 BS
-Turning: 295 BS
+classification: vampire
+formerly: human
+race: toris
+birth: 1245 BS
+death: 295 BS
+ressurection: 295 BS
+PC: false
+aliases:
+  - betrayer
 ---
 
 Kas was born in [[Torin]] pre-sundering war. He became a warlock and leuitenent of [[Vecna]]. He often regretted his choice to make himself beholden to Vecna. In order to escape his vow, he killed himself and jettisoned his soul through the dark regions with spells of protections, turning himself into a Vampire, then pretended to still side with Vecna until the moment was right and betrayed him, and from then aided the fight against him, striking the final blow using his own sword. When the group split the pieces of Vecna, he hid his piece, Vecna's heart, deep in a part the [[Underdark]] which was far beneath what would one day become [[Bremen]].

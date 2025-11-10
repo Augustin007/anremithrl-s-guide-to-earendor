@@ -1,3 +1,13 @@
+---
+classication: human
+race: gol
+birth: 12th of Uktar, 5414 AS
+death: 30th of Hammer, 5421 AS
+PC: false
+aliases:
+  - lirien
+---
+
 #### **Stats**
 
 **Race:** Human Male

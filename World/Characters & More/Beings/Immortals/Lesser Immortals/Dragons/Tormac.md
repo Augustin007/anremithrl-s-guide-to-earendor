@@ -1,7 +1,11 @@
 ---
-Lineage: Green Chromatic Dragon (Human)
-Birth Year: 4224 AS
-Death Year: 5421 AS
+classification: dragon
+blooded: green chromatic
+formerly: human
+race: neroshi
+birth: 4224 AS
+death: 23rd of Hammer, 5421 AS
+PC: false
 ---
 
 Tormac was an ambitious and cunning individual who rose through the ranks of the Ordus Texerum early in Neros's history. He was one of the founders of the Greenclad, a group of spies and assassins who he hired out to political allies, that way getting rid of enemies without doing anything himself, and getting paid by the nobles for the sourcing of an assassin, and by the assassins for the sourcing of a job.

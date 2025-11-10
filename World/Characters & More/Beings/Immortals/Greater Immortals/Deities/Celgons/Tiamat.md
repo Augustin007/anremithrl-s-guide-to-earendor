@@ -26,3 +26,4 @@ She reconciled with her half sister Auril when [[Tartarus]] took over the nine h
 
     Isendra (White Head) – Cold and calculating, embodying frost and relentless survival.
 
+She has a [[Dagger of Tiamat|dagger]].

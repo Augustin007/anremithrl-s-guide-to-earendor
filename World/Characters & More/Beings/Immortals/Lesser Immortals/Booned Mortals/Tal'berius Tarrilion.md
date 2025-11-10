@@ -1,5 +1,8 @@
 ---
-classification: dragonborn (elf)
+classification: dragonborn
+blooded:
+  - elf
+  - pure
 race: dravaran
 birth: 1243 BS
 death: 

@@ -1,7 +1,11 @@
 ---
-Lineage: Living Vampire (Human)
-Birth Year: 3386 AS
-Death Year:
+classification: living vampire
+race: toris
+birth: 3386 AS
+death: 
+PC: false
+aliases:
+  - shadow
 ---
 
 Aeoife was the twin sister of Scathatch, and they were the daughters of the first vampires, and dangerous creatures. They devoted their lives to studying combat.

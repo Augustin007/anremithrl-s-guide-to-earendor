@@ -8,7 +8,7 @@ There are tunnels that lead to the [[Underdark]] in Bremen.
 
 The house [[Decaius]] of [[Neros]] have ancestors from Bremen.
 
-[[Ashdilkir]] came to Bremen and founded the [[Den]], a ring of followers which would obtain for her what she needed, bring her news, and carry out her orders. [[Miyatol Dodonus]] went north and investigated several assassination, managing to capture members of the Den. With [[Tal'berius]]'s help, he was able to lay a trap and arrest most of them at a meeting. [[Tal'berius]] was driven away by his former friend [[Kas]], who allied himself with Ashdilkir, and Ashdilkir killed Miyatol and obtained [[Vecna]]'s heart, repurposing the lair that guarded it into her own..
+[[Ashdilkir]] came to Bremen and founded the [[Den]], a ring of followers which would obtain for her what she needed, bring her news, and carry out her orders. [[Miyatol Dodonus]] went north and investigated several assassination, managing to capture members of the Den. With [[Tal'berius Tarrilion]]'s help, he was able to lay a trap and arrest most of them at a meeting. Tal'berius was driven away by his former friend [[Kas]], who allied himself with Ashdilkir, and Ashdilkir killed Miyatol and obtained [[Vecna]]'s heart, repurposing the lair that guarded it into her own..
 
 Ashdilkir slowly lost her memory and her sanity, she wrote down everything she remembered, and over thirty-thousand years of her memories are in her personal library hidden in the caves of the underdark, deep beneath Bremen. 
 

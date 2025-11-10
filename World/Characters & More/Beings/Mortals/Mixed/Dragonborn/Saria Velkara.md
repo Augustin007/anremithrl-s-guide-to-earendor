@@ -1,5 +1,8 @@
 ---
 classification: dragonborn (human, red chromatic)
+blooded:
+  - human
+  - red chromatic
 race: rymmish
 birth: 5389 AS
 death: 7th Nightal, 5420 AS
