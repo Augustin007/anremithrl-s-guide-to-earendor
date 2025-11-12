@@ -16,7 +16,8 @@ Tormac, Green Chromatic
 
 Remshi , Black
 
-Ardor, Red
+Ardor, RedT
+
 Queen [[Tahlia Tormund]] of Rymfel, Lady [[Niamh Moonwatcher]], Queen [[Bechel of Bharam]] of Bharam, King [[Thorus Sandstrider]], Lady [[Lirien Rashauri]], King [[Aric Rashauri]].
 
 King Siegmond.

@@ -1,5 +1,3 @@
-**The Song of Creation**
-
 From time untamed, to time made whole,  
 There echoes roll, and stars ignite,  
 Before the dawn of space and name,  

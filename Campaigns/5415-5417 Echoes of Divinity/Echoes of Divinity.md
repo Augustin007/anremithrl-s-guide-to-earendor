@@ -14,7 +14,7 @@ status: finished
 #### Other Major Characters In the Story
 [[Duke Klaethor Vasterra]]†
 [[Alphie]]†
-[[Idros Aka-ilion]]†
+[[Id'ros Aka-Illion]]†
 [[Kalquend]]†
 [[Valthor Remshi]]
 [[Loquail]]†
