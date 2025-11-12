@@ -16,44 +16,36 @@ aliases:
 ---
 
 #redo 
-# The Raven Queen: A Lore Document
 
-## Introduction
+Araushnee was an elven queen born in the Age of Rising with great knowledge of the Arcane. She was betrothed to [[Glorfindel]], but she eloped with [[Tyr]] on the day she turned a century old. This very nearly caused a war. 
 
-The Raven Queen is a deity of immense complexity, embodying themes of memory, sorrow, and redemption. Once an Elven Queen named Araushnee, she ascended to godhood through a series of tragic and tumultuous events. This document aims to explore the multi-faceted nature of the Raven Queen, her rise to power, her fall from grace, and her role in the cosmic order following the Sundered War.
+Araushnee devoted much of her time to studying lore and magic, and her circle of wizards was quite proficient.
 
-## Early Life as Araushnee
+Fifty years before the Sundered War, she and her circle were able to perform a series of tests on [[Elandra]], and successfully created spells to capture Celestials.
 
-Araushnee was the Elven Queen of a realm deeply connected to the arcane arts. She was a beacon of grace and wisdom, leading her people with a compassionate hand. Her life took a tragic turn when her son was claimed by death, an event that shattered her emotionally and mentally.
+She was said to be infertile, and when she eventually concieved it was considered a miracle. A year before the end of the war, she had a son, Janhaire, who was born ill, and died a few days later. 
 
-## Ascension to Godhood
+This spurred the creation of the Unbinding Edict, with which she UnNamed [[The Forgotten One|Mortis]] and took his place, becoming the Raven Queen. 
 
-Consumed by grief and anger, Araushnee led her people in the study of forbidden magics. She aimed to challenge the gods themselves, particularly the god of death, to bring back her son. Her audacity led her to [[Arvandor]], the realm of gods, where she usurped the god of death and took his powers for herself. Thus, Araushnee became a god, but at a terrible cost.
+---
 
-## The Sundered War
+Main article: [[The Sundering War]]
 
-The Raven Queen played a pivotal role in the Sundered War, a cosmic conflict that nearly led to the annihilation of the mortal realm. Initially, she was a prisoner in the Nine Hells, subjected to unimaginable tortures. However, her liberation by the mortal Tyr turned the tide of the war, leading to the eventual victory of the Protector gods.
+The reprecussions of this caused the Sundered War.
 
-## The Palace of Memories
+---
 
-In her self-imposed exile, the Raven Queen resides in the Palace of Memories, a demiplane within the Shadowfell. This palace serves as a sanctuary for memories and stories, which she hoards obsessively. It is a place of sorrow but also of preservation, a testament to her complex nature.
+After the Sundered War, she did not feel welcome on [[Arvandor]], though her husband Tyr did. Instead she took the [[Shadowfell]], a leftover of a strange creation of [[Vecna]]'s, and reconstructed aspects of the Astral Plane there, and became known as the goddess of dying and the goddess of memories.
 
-## Divine Portfolio
+She was unable to provide resurrections until a deal with [[Marethyu]]. This was too late to bring back her son.
 
-- **Memory**: The Raven Queen is the guardian of all memories, preserving them in her Palace of Memories.
-  
-- **Sorrow**: She embodies the sorrow that comes from loss, a feeling she knows all too well.
-  
-- **Redemption**: After her role in the Sundered War, she also represents the possibility of redemption, even for a god.
+She took [[Richard Iwaelfhem]] as a champion and allowed him to resurrect [[Baeor Dechaius]], despite a cost to herself.[^1]
 
-## Worship and Followers
+She took [[Colossus Methunroa|Colossus]] as a champion and aided him. She sent him often ravens bearing messages.[^2]
 
-The Raven Queen has a small but devoted following. Her worshippers often include those who have suffered great losses and seek solace or redemption. They offer prayers and rituals to honor memories and the departed.
+She lost her divinity when Vecna returned to the Shadowfell and opened it to [[the Dark Regions]], due to how much of herself she had put into it. She slowly began dying along with the plane until Colossus offered to switch his championship to Marethyu in exchange for her life. She was able to then aid Colossus in reclaiming the Shadowfell and killing Vecna.[^3]
 
-## Cosmic Role Post-Sundered War
 
-After the Sundered War, the Raven Queen's realm became one of the final resting places for souls, alongside the Seven Heavens and the Nine Hells. She serves as a guardian of these souls, ensuring they find peace or face judgment based on their life's deeds.
-
-## Conclusion
-
-The Raven Queen is a deity of many layers, embodying the complexities of emotion, the weight of memories, and the possibility of redemption. Her story is one of tragedy, audacity, and ultimately, resilience. She remains a significant figure in the cosmic order, a god who has tasted both the bitterness of loss and the sweetness of redemption.
+[^1]: *Source:* [[Rise of the Greenclad]]
+[^2]: *Source:* [[Echoes of Divinity]]
+[^3]: *Source:* [[Shadows of Divinity]]

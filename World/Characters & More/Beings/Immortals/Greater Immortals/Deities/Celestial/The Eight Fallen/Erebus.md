@@ -1,1 +1,12 @@
-Erebus, the Shadow, was one of the original twenty Celestials created by the combined efforts of [[Atropus]], [[Kossuth]], [[Akadi]], and [[Istishia]] to counter [[Dur-baagal]]'s Elohim. Unlike many of his fellow Celestials, Erebus was a solitary figure, preferring the quietude of the shadows to the clamor of the Celestial Council. Erebus sacrificed himself during the battle against the [[Epic Dragons]], his shadowy form dissipating into the cosmic winds.
+---
+classification: celestial
+PC: false
+aliases:
+---
+
+Erebus is recalled by Thalorin as the kindest of the Celestials and Thalorin considered him a role model.[^1] 
+
+Erebus hoped for a peaceful resolution to the war, and spoke of kindness and friendhsip. He married [[Amora]]. He sacrificed himself for his friend Thalorin during the battle against the [[Epic Dragons]]. 
+
+
+[^1]: *Source:* [[Shadows of Divinity]]

@@ -9,7 +9,7 @@ aliases:
   - Tormund
 ---
 
-Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal who was seduced by Azmodeus during [[The Sundered War]].
+Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal who was seduced by Azmodeus during [[The Sundering War]].
 
 Tahlia was born in the year 4618 AA. 
 

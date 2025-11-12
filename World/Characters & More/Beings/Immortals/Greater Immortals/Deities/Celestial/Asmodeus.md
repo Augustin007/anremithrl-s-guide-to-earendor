@@ -1,54 +1,55 @@
 ---
-classification: arvandoric
-race: celestial
+classification: celestial
 PC: false
 aliases:
 ---
 
-Born before the shaping of the mortal world, Asmodeus was one of three brothers born of the ashes of the Primordial Flame — Tharizdun, Asmodeus, and the Forgotten One. While Tharizdun sought dominion over Chaos and the Forgotten One sought meaning through mortality, Asmodeus sought Law, the perfection of cause and consequence.
+Asmodeus is a celestial with a greater predilection for order and laws. It is said he has twice the measure of law to him because he took the serving that belonged to his brother [[Tharizdun]]. 
 
-In the beginning, Asmodeus served under the _Halls of Order_, standing beside Thalorin, Nebelum, and the other early architects of the firmament. He shaped language and the binding word, and it was his logic that would later become the foundation of divine law. When the world was first given shape, Asmodeus’s duty was to balance the impulses of his brother Tharizdun, whose hunger for annihilation endangered the new creation.
+He had a third sibling, [[The Forgotten One]], though he only knows this by trying to reconstruct the holes in his memory.
 
-For long ages, he was the arbiter between the divine and the primordial, the god who gave _name_ to consequence.
+Asmodeus married [[Rhea]], and they had a child, [[Auril]].
 
----
+Asmodeus was very close to both his brothers and was a good friend of [[Marduk]]. The four of them destroyed the armies of the Dusk. 
 
-When Araushnee, the Elven Queen, murdered the god of death — the brothers’ kin — it was Asmodeus who conceived the _Nine Hells_. He crafted it first not as a domain of damnation, but as a prison: a place where no divinity could escape justice. With Hekate and Orcus he forged the Chains of Law, and with Tharizdun he dragged the fallen queen screaming through the planes, binding her beneath the ninefold vaults of torment.
+Asmodeus was greatly grieved at Marduk's death, and disraught over Rhea's capture. When the war was over, he took over Tiamat's care.
 
-In those halls, Asmodeus first understood the intoxicating nature of dominion.  
-He who had been law became Lord of Law.
+Asmodeus became known for his strong sense of Justice, and served in the Halls of Order. He became good friends with [[Thalorin]]. He shaped language and the binding word, and his logic would later become the foundation of divine law.
 
-But when Tharizdun turned his wrath upon mortals, seeking to purge creation of its imperfection, Asmodeus too was moved to act — yet his reasoning diverged.  
-Where Tharizdun wished to _destroy_ mortals, Asmodeus wished to _remake_ them.  
-He saw in the flawed spark of humankind a mirror of the gods themselves — irrational, emotional, fallible — and therefore the greatest threat to order.  
-He spoke to the council of gods, proposing not wrath, but revision, to unmake and remake, perfected.
-
-Thalorin stood against him, invoking the very law Asmodeus had written — that none could be punished for what they had not yet done.  
-The vote failed by a single hand, Nebelum’s.  
-And so Asmodeus turned his law against itself.
+He made himself incapable of lying when he created language.He despises his reputation as the god of lies, as he prides himself on his ability to decieve without telling lies.
 
 ---
 
-Asmodeus and Tharizdun broke from the Council and raised the Betrayer Gods — those who believed the mortal experiment had gone too far. His voice was silver, his rhetoric flawless. Each god who joined him thought themselves just, righteous, reasonable. Yet the first war among gods — the Sundering War — began with his whisper.
+When [[Araushnee]] UnNamed [[The Forgotten One]], Asmodeus spoke to [[Acheron]] and [[Hekate]] and they constructed [[The Nine Hells]] and the [[Chains of Law]]. With Tharizdun he dragged the Raven Queen Araushnee into the ninefold vaults of torment.
 
-He did not crave bloodshed, only the silence that comes after it.  
-For he believed peace was the natural end of all law — not harmony, but stillness.
+He spoke to the council in favour of remaking the mortals to prevent another such occurrence, to make them beings of perfect law. 
 
-When the war ended, the Betrayers were cast into the very prison Asmodeus had built — the Nine Hells — and he became its king. Yet the irony was his triumph: his punishment became his throne. Within his infernal kingdom, Law was absolute. Souls that had chosen evil were sent to him not out of rebellion, but by decree of the new order of the heavens.  
-The _Betrayer_ became _the Warden_.
+When he was rejected, [[Tharizdun]] worked his words on his brother, and convinced him to exploit a loophole in the council's decision, and go destroy mortals for the good of the gods.
+
+He knew he could not get the gentler of the gods to agree with him, and he had to be very careful to prevent anyone from knowing what he would do until it was too late to ammend the law (for he *would* follow the law), but he ammassed a following and turned upon mortals. He applied his silver tongue and rhetoric so that each god who joined him thought themselves just, righteous, and reasonable. His brother Tharizdun amassed his own following, a gang of violent and erratic gods who had often struck against the rules, which troubled Asmodeus.
+
+Hekate betrayed Asmodeus, but the council refused to amend the laws or to attempt to bring him to justice, and that resulted in the great schism that ended the council. [[Thalorin]] and his people broke off and called themselves the [[Righteous Council]], and protected the mortals, and declared Asmodeus and his people the Betrayers.
+
+This became known as [[The Sundering War]]. In it [[Tharizdun]] was defeated and chained. The followers of Tharizdun refused Asmodeus's declaration of his rule over them and were swiftly defeated, Asmodeus saved those he could, and earned their loyalty. But Asmodeus's own were too few. He was able to force the creation of the Trees of Sanctuary, locking away the Righteous in the Seven Heavens, but unable to prevent his own from being locked away in the Nine Hells.
+
+Now locked away, his people quickly conquered the Nine Hells once they were imprisoned, and the followers of Tharizdun bent to his will. 
 
 ---
 
 For thousands of years Asmodeus ruled the Hells, perfecting their hierarchy. Each circle a reflection of sin transmuted into law, each archdevil a vassal in his chain of command.  
 But he never abandoned his old ambitions. He treated damnation not as punishment but as bureaucracy: every soul, every sin, every torment meticulously recorded, filed, and cross-referenced in the endless ledgers of Dis and Nessus.
 
-When Shar tried to free Tartarus, it was Asmodeus who refused. For Tartarus was chaos incarnate — the one power he could never control. Instead, he watched and waited, weaving the laws of the planes ever tighter, until even gods were bound by the fine print of his words.
+When Shar tried to free Tartarus, it was Asmodeus who refused, and drove her back, ending the Age of Shadows. 
 
-He remained bound in the Nine Hells, yet his influence spread through the mortal world by contract. Every oath sworn in desperation, every promise of power whispered in blood, drew its strength from the divine logic Asmodeus himself had invented in the First Age.
-
-He had become the god not merely of tyranny, but of _structure itself_ — the architecture of despair.
+He made many deals with mortals, helping lawyers and kings deceive. Starting cults in his name.
 
 ---
 
-### The Mortal Ages
-#todo 
+He made a deal with [[Nil'ge'tar Remshi'ul|Nil'ge'tar]] in an attempt to resurrect his brother [[The Forgotten One]]. The reasoning was both out of love for his brother, and because he believed his brother could help them escape the Nine Hells without losing their powers. He particularly disliked [[Nil'ge'tar Remshi'ul|Nil'ge'tar]]'s disregard for rules. He managed to get a deal with [[Colossus Methunroa|Colossus]] to free [[Nil'ge'tar Remshi'ul|Nil'ge'tar]], and they would both owe him one favour before they died. He used this favour at the [[Trees of Sanctuary]] to attempt to gain the memories of his brother locked in the Trees, but [[Nil'ge'tar Remshi'ul|Nil'ge'tar]] was able to kill himself before the death occurred. Nil'ge'tar freed Tartarus with an unbreakable vow to kill Asmodeus.[^1]
+
+Asmodeus escaped to the mortal plane, leaving behind his powers and divinity. He attempted to gain the alliance of [[Colossus Methunroa|Colossus]] and [[William Treaty|William]] but was turned away. He conquered the NAF leadership and drove away [[Bechel of Bharam]]. He was able to regain his divinity at the [[The Shattering]][^2]
+
+He was saddened at the death of his grandaughter [[Tahlia Tormund]].
+
+[^1]: *Source:* [[Echoes of Divinity]]
+[^2]: *Source:* [[Shadows of Divinity]]

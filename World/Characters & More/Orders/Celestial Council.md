@@ -14,7 +14,7 @@ Original Celestial Council:
 These are the original Celestials of the council
 1. [[Asmodeus]]
 2. [[Tharizdun]]
-3. [[Marethyu|Mortis]]
+3. [[Mortis]]
 4. [[Amora]]
 5. [[Thalassa]]
 6. [[Erebus]]
@@ -37,7 +37,7 @@ During the Eternal War, eight of them died, leaving:
 Post Eternal War
 1. [[Asmodeus]]
 2. [[Tharizdun]]
-3. [[Marethyu|Mortis]]
+3. [[Mortis]]
 4. [[Nebelum]]
 5. [[Thalorin]]
 6. [[Elandra]]

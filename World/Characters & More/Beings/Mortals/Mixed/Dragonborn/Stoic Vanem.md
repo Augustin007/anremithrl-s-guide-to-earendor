@@ -11,7 +11,7 @@ class:
   sorcerer:
     wild magic: 32
 aliases:
-  - Richard
+  - Stoic
 ---
 
 Stoic was an Velorian alchemist who helped [[Daedroy Belkar]] save the [[Klaethor Vatiusen II|Prince]] from poison. He helped expose [[Tormac]]. He also fought alongside [[Richard Iwaelfhem]]. He was slain on the battlefield of the Aetate Foedus.
