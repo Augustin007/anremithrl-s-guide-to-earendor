@@ -12,7 +12,7 @@ Eledan Lodis is a member of the Sorian order, also at the meeting.
 
 Thalen sells to the Sorian order.
 
-Frustrated at the little effort really put into peace, Thalen Nokkaran decides to take things into his own hands.
+Frustrated at the little effort really put into peace, Thalen Nokkaran decides to take things into his own hands. He attempts to convince people to form a peace.
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|

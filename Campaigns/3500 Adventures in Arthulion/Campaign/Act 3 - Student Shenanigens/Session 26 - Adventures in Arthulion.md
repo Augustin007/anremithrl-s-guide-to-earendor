@@ -11,7 +11,7 @@ The ambassador thanks them both. Theriad insists on public statements to prevent
 
 Lira speaks to Jason, telling him that she knows choosing mercy was hard for him. 
 
-Theriad has a final vision of the library.
+Theriad has another vision of the library. He manages to ask the strange figure its name, and it introduces itself as Nebelum, and Theriad awakens.
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
