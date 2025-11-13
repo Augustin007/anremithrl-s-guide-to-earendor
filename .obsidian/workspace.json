@@ -4,179 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "48600db0267b4a51",
-        "type": "split",
+        "id": "24451b09568d4031",
+        "type": "tabs",
         "children": [
           {
-            "id": "464012a8949f63d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "51ce80b9b2518fe4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Varian.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Varian"
-                }
+            "id": "b2083a6eff1bec25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": ";temp-adventures.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "7e8b2b15559f3754",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Timeline/6 The Age of Rising/The Age of Rising.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Age of Rising"
-                }
-              },
-              {
-                "id": "81aaffc9194321c5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Selgons/Tiamat.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiamat"
-                }
-              },
-              {
-                "id": "6f6422e4749535e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Asmodeus.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Asmodeus"
-                }
-              },
-              {
-                "id": "f031c8d8beca06a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Meta/Unfinished/Old/Frostmourne - Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Frostmourne - Notes"
-                }
-              },
-              {
-                "id": "ea22bff17644ce13",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Meta/Unfinished/Old/The Path of Honor/Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Notes"
-                }
-              },
-              {
-                "id": "76e2d124bd6781f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Selgons/Tiamat.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tiamat"
-                }
-              },
-              {
-                "id": "929c57a148cd1cd2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dawn/Firstborn/Selune.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Selune"
-                }
-              },
-              {
-                "id": "70b929d355d30460",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Calendar/The Shattering.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Shattering"
-                }
-              }
-            ],
-            "currentTab": 8
+              "icon": "lucide-file",
+              "title": ";temp-adventures"
+            }
           },
           {
-            "id": "24451b09568d4031",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ff224dd761b26a04",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Created/Ao.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ao"
-                }
+            "id": "c3d41fdda755e17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": ";temp-todo.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "b914bce1b21f8984",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World/Characters & More/Beings/Immortals/Created/Isfet.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Isfet"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": ";temp-todo"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "37d863c3fbdac295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cd80293f1a4e0b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 26 - Adventures in Arthulion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 26 - Adventures in Arthulion"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Selune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,19 +177,26 @@
               "state": {
                 "calendar": "ID_0bc878cbdb68",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 9,
+                    "month": 0,
+                    "year": 5421
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 12,
-                    "month": 1,
+                    "month": 0,
                     "year": 5421
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
                   "interpolateColors": true,
+                  "displayAbsoluteYear": true,
                   "displayMoons": true,
                   "displayWeather": true
                 },
-                "id": "ID_e8190929fb5a"
+                "id": "ID_e8190929fb5a",
+                "child": "ID_abc9689a7b19"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -352,12 +238,31 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "3f321cd31206004d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5e662979ed12f41",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "id": "ID_abc9689a7b19",
+                "parent": "ID_e8190929fb5a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 531.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,34 +278,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "70b929d355d30460",
+  "active": "8cd80293f1a4e0b8",
   "lastOpenFiles": [
-    "Meta/Standard/Universal Footnotes Document.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dawn/Firstborn/Selune.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Later-Born/Auril.md",
-    "World/Calendar/The Shattering.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Id'ros Aka-Illion.md",
-    "Id'ros Aka-illion.md",
-    "World/Locations/Map of Earendor.md",
-    "Campaigns/5420-c Shadows of Divinity/Campaign/Act 1/Shadows of Divinity - 6.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Stoic Vanem.md",
-    "World/Timeline/2 The Eternal Wars/The Eternal Wars.md",
-    "World/Timeline/7 The Sundering War/The Sundering War.md",
-    "The Sundering War.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Elohim/Lady of Pain.md",
-    "World/Characters & More/Beings/Immortals/Created/Marethyu.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Elohim/Vecna.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Selgons/Tiamat.md",
+    ";temp-adventures.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 26 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 25 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 24 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 23 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 22 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 21 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 20 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 19 - Adventures in Arthulion.md",
+    ";temp-todo.md",
+    "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 27 - Adventures in Arthulion.md",
     "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Selgons/Bahamut.md",
-    "Campaigns/5420-c Shadows of Divinity/Shadows of Divinity.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Varian.md",
-    "Meta/Unfinished/Old/The Path of Honor/Notes.md",
-    "World/Characters & More/Beings/Immortals/Created/Isfet.md",
-    "World/Timeline/6 The Age of Rising/The Age of Rising.md",
-    "Meta/Unfinished/Old/Frostmourne - Notes.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Asmodeus.md",
     "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/The Celestials.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Tharizdun.md",
+    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dawn/The Elemental Siblings/Akadi.md",
+    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dawn/Firstborn/Selune.md",
+    "World/Characters & More/Beings/Immortals/Created/Isfet.md",
+    "World/Characters & More/Beings/Immortals/Created/Ao.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 1/Session 22 - The Path of Honor.md",
+    "Campaigns/5421-c Shadows of Calamity/Campaign/Session 2 - Shadows of Calamity.md",
+    "World/Timeline/2 The Eternal Wars/The Eternal Wars.md",
+    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dusk/Atropus.md",
+    "Campaigns/5421-c Shadows of Calamity/Campaign/Session 6 - Shadows of Calamity.md",
+    "Campaigns/5421-c Shadows of Calamity/Campaign/Session 3 - Shadows of Calamity.md",
+    "Campaigns/5421-c Shadows of Calamity/Campaign/Session 5 - Shadows of Calamity.md",
+    "Campaigns/5421-c Shadows of Calamity/Campaign/Session 1 - Shadows of Calamity.md",
     "Meta/Unfinished/Untitled.canvas",
     "World/Academia/Literature",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
