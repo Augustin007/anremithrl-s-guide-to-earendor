@@ -1,3 +1,12 @@
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - Builder
+  - Nehusta the Builder
+  - Architect
+---
 ## Introduction
 
 Nehusta, the Builder, is a Primordial of Dusk, a whirlwind of creativity and endless possibilities. She is the vibrant tapestry of ideas, the embodiment of spontaneity, and the muse of the ever-changing universe. This document delves into the intricate layers of her existence, her role in the cosmology, and her impact on the Eternal Wars.

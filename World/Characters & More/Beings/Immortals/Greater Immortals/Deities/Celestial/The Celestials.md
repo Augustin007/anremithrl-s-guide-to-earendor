@@ -2,7 +2,7 @@ Here is a listing of the Celestials.
 
 #list 
 
-**The Eight Fallen:**
+###### The Eight Fallen:
 [[Amora]]
 [[Erebus]]
 [[Gond]]
@@ -12,7 +12,7 @@ Here is a listing of the Celestials.
 [[Thalassa]]
 [[Vhel]]
 
-**Arvandoric:**
+###### Arvandoric:
 [[Acheron]]
 [[Asmodeus]]
 [[Astraeus]]

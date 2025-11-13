@@ -8,32 +8,21 @@ aliases:
   - Whispers
   - Negative
 ---
-# Shar: The Whisperer in the Shadows
 
-## Introduction
+Shar dwells in the Abyss. 
 
-Shar, one of the Firstborn, is a primordial entity that exists beyond the boundaries of the [[Eärendor|Universe]]. Unlike her twin [[Selune]], who offers sanctuary and peace, Shar is the embodiment of darkness and discord, and dwells in the s[[Abyss]]. 
+Shar is one of the Firstborn, conceived from the primordial energies of [[Isfet|Chaos]] and [[Ao|Order]]. Her existence predates the formation of the Universe, and she the twin sister of Selune.
 
-## Origin
+She registers with strong negative Quiddity. She exists in the Almost and her region is permeated with her same quiddity. As the first source, Negative Quiddiity retains her lingering intent, which she goes out of her way to strengthen.
 
-Shar is a Firstborn, conceived from the primordial energies of [[Isfet|Chaos]] and [[Ao|Order]], much like her sister Selune. While Selune represents light and sanctuary, Shar embodies the darker aspects of existence, including entropy, decay, and strife.
+She fell in love with [[Tartarus]].
 
-## Role in the Eternal Wars
+Shar whispered in [[Atropus]] and [[Dur-baagal]]'s minds and caused them to mar [[Asgorath]]'s creation and kick off the Eternal Wars. Shar did not participate, but they connived on how best to manipulate the others and so Tartarus did on occasion fight in the wars.
 
-Shar played a significant but indirect role in the Eternal Wars. She did not engage in combat herself but whispered dark secrets and sowed discord among the Primordials and their offspring. It was Shar who whispered to [[Atropus]] and [[Dur-baagal]], instigating their rebellion and the subsequent chain of events that led to the Eternal Wars.
+Shar was in the mind of [[Orcus]], whispering many things.
 
-## The Abyss and Tartarus
+After [[The Sundering War]], she attempted to free [[Tartarus]], but was rebuffed by [[Asmodeus]]. All the same, her attempts left tendrils of her influence on the world. Including a creature meant to destroy the [[Trees of Sanctuary]], but turned into a protector by the [[Order of Names]].[^1][^2][^3]
 
-Shar has a close relationship with [[Tartarus]], a Primordial who dwells in the Abyss. Together, they orchestrated many of the conflicts that have plagued the Universe, including the Eternal Wars. While Tartarus engaged in direct combat and manipulation, Shar worked from the shadows, her whispers serving as the catalyst for betrayal and conflict.
-
-## Influence on Cosmic Entities
-
-Shar's influence is pervasive, affecting even the most steadfast of beings. Her whispers have the power to turn allies into enemies, to instigate rebellions, and to unravel the fabric of alliances. While she may not wield direct power in the cosmic battles, her influence is a corrosive force that has led to the downfall of many.
-
-## The Counterbalance to Selune
-
-Shar and Selune exist as cosmic counterbalances to each other. While Selune offers sanctuary and peace, Shar brings discord and strife. Their realms are polar opposites, with Selune's sanctuary existing as a place of truce and Shar's domain being a breeding ground for conflict and betrayal.
-
-## Conclusion
-
-Shar is a complex entity, embodying the darker aspects of the Universe. Her influence has been instrumental in shaping the events that have led to the Eternal Wars and the ongoing conflicts among the Primordials and their offspring. As long as the Universe exists, Shar's whispers will continue to sow the seeds of discord, serving as a constant reminder of the fragile balance that holds the cosmos together.
+[^1]: *Source:* [[Echoes of Divinity]]
+[^2]: *Source:* [[Shadows of Calamity]]
+[^3]: *Source:* [[Shadows of Divinity]]

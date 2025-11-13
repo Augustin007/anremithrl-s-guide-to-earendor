@@ -14,4 +14,9 @@ He is known as the god of foresight and wisdom.
 
 He and his seven separated [[Naras Vorasthar]] and his companions and subjected them each to individual tests. Out of these tests [[Torquil Leogan|Torquil]] gained clericdom of Bahamut, and [[Liriel Danstal]] gained the [[Codex of Abraham the Mage]].[^1]
 
+He often projects himself as a strange wizard with seven canaries, calling himself Fizban.
+
+He possesed Torquil during the destruction of Hreghalk[^2]. His light temporarily melted away [[Giggle Jiggles]].
+
 [^1]: *Source:* [[The Path of Honor]]
+[^2]: *Source:* [[Session 22 - The Path of Honor]]

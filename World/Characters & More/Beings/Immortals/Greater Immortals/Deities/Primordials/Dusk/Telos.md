@@ -1,3 +1,13 @@
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - Unstoppable
+  - Engineer
+  - Telos the Unstoppable
+  - Architect
+---
 ## Introduction
 
 Telos, known as the Unstoppable, is a Primordial of Dusk. He embodies the essence of persistence, focus, and methodical building. This document aims to explore the facets of his existence, his role in the cosmological framework, and his impact on the Eternal Wars.

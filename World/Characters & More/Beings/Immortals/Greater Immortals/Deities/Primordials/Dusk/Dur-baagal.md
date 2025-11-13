@@ -1,3 +1,11 @@
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - Cold and Cruel
+  - Dur-baagal the Cold and Cruel
+---
 ## Introduction
 
 Dur-baagal, known as the Cold and Cruel, is a Primordial of immense power and malevolence. Born during the age of the Primordials of Dusk, he has been a central figure in the shaping of the cosmos and the Eternal Wars that have raged between the Primordials of Dawn and Dusk.

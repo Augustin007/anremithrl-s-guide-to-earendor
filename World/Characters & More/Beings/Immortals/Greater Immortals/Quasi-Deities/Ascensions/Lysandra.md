@@ -1,2 +1,24 @@
-Lysandra was a priestess of Selune, the primordial of light. In a moment of desperation to save her people from a terrible plague, she offered her life to Selune. Touched by her devotion, Selune transformed her into a celestial being, forever to serve as a guardian of the night sky. Lysandra became the spirit of the Moon, granting her a form of cosmic immortality.  Lycanthropy is related to her?
-Year 12
+---
+classification: ascended
+formerly: human
+race: lysandran
+birth: 12 AS
+PC: false
+aliases:
+  - Luna
+  - Moon
+---
+
+Lysandra was named after the Lys islands, on which she was born. 
+
+She became a quasi-primordial.
+
+Lysandra was a priestess of [[Selune]], the primordial of light. In a moment of desperation to save her people from a terrible plague, she offered her life to Selune. It is not understood why Lysandra ascended and no one else has ascended via Selune.
+
+Selune transformed her into a quasi-primordial being, and Lysandra became the spirit of the Moon.
+
+Lycanthropy began as a curse on one of her enemies.
+
+The islands of Lys became known for Lysandra, to the point where the names were conflated. By the year 1600, the islands are firmly known as Lysandra.[^1]
+
+[^1]: *Source:* [[Shadows of Lysandra]]

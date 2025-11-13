@@ -14,6 +14,8 @@ No one can truly say where Bechel is from.
 
 She is half-elven.
 
+She worked with Jason to try to kill [[Ashdilkir]][^1]
+
 At some point, she allied herself with [[Asmodeus]].
 
 In the summer of the year 4639 AA, she aids [[Tahlia Tormund]] take the throne of Karr. 
@@ -28,10 +30,14 @@ After she left, she used the sight to make predictions and slowly formed a cult.
 
 They are brutal and inhumane. They enslave, rape, and kill those who are not of the cult. The cult of Bharam think of themselves as being peacekeepers and protectors of mortals, but it is clear that they are not benevolent beings as they have been responsible for many atrocities throughout history. They are dangerous, powerful, and have existed for centuries under the leadership of the soothsayer Bechel. They have a great amount of foreknowledge of the future and have allied themselves with [[Tartarus]] and the [[Betrayer Gods]].
 
-She obtained the [[Oathbow]] from the Dracholich, as well as the captured Lucy.
+She obtained the [[Oathbow]] from the Dracholich, as well as the captured Lucy.[^2]
 
-She fought against [[Marethyu]], [[Lucy Iwaelfhem]], [[Richard Iwaelfhem]], and [[Miyatol Dodonus]] after her enslavement of Lucy. They got away from her.
+She fought against [[Marethyu]], [[Lucy Iwaelfhem]], [[Richard Iwaelfhem]], and [[Miyatol Dodonus]] after her enslavement of Lucy. They got away from her.[^2]
 
-When the NAF reached out, she joined. Secretly, she was on the other side.
+When the NAF reached out, she joined. Secretly, she was on the other side.[^3]
 
-In the great meeting of the NAF, [[Bechel of Bharam]] spoke to Aric, turning him against his allies, seeing them as enemies, and Aric swore himself to [[Tartarus]] and killed [[Bressus Stonefist]]. 
+In the great meeting of the NAF, [[Bechel of Bharam]] spoke to Aric, turning him against his allies, seeing them as enemies, and Aric swore himself to [[Tartarus]] and killed [[Bressus Stonefist]]. [^3]
+
+[^1]: *Source:* [[Adventures in Arthulion]]
+[^2]: *Source:* [[Origins of the Greenclad]]
+[^3]: *Source:* [[Shadows of Divinity]]

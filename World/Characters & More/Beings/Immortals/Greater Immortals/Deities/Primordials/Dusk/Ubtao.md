@@ -1,3 +1,12 @@
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - Gentle-hearted
+  - Deciever
+  - Ubtao the Deciever
+---
 ## Introduction
 Ubtao, once known as the Heartseer, was a Primordial of unique abilities and complex allegiances. He possessed the rare gift of perceiving the hearts and minds of all beings, a gift that eventually led to his downfall. This document delves into the life, abilities, and ultimate betrayal of Ubtao, who was later named the Deceiver.
 

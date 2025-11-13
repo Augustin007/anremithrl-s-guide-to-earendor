@@ -2,6 +2,8 @@
 classification: elohim
 PC: false
 aliases:
+  - Whispered One
+  - Voice
 ---
 
 Vecna was a god. He was split into pieces by various beings during the Sundered War, formost of them was his own leuitenant [[Kas]], who betrayed them. Each piece was hidden in different dungeons, and they vowed never to allow them to be unified.

@@ -14,4 +14,6 @@ She is the sole source of Chaotic Quiddity.
 
 She is bonded to [[Ao]], and loves him.
 
-She at some point she gained the servitude of [[Faust]], who causes havoc in her name, though she is mostly indifferent to such ordinary havoc.^[Shadows of Divinity] 
+She at some point she gained the servitude of [[Faust]], who causes havoc in her name, though she is mostly indifferent to such ordinary havoc.[^1] 
+
+[^1]: *Source:* [[Shadows of Divinity]]

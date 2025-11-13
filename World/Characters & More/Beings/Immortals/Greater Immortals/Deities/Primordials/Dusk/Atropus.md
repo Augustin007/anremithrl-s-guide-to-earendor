@@ -1,4 +1,12 @@
-## Introduction
+---
+classification: primordial
+race: dusk
+PC: false
+aliases:
+  - Elder Evil
+  - Atropus the Elder Evil
+---
+## Introduction 
 
 Atropus, also known as the Elder Evil, is a malevolent Primordial figure in the cosmic narrative. He is a harbinger of entropy, decay, and destruction. Initially a part of the Primordials of Dusk, Atropus eventually becomes a central antagonist, leading rebellions and manipulating events to serve his dark ambitions.
 

@@ -1,16 +1,30 @@
-#review
-## Introduction
-Akadi, known as the Gentle, is the youngest of the Elemental Siblings. She is a Primordial of Dawn, the creator of air, and ruler of the [[Gentle Zephyr]].
-## Personality
-Akadi is light-hearted and filled with laughter. She is ever-free, embodying the whimsical and unpredictable nature of the wind. Her presence is so endearing that no one finds it in their heart to harbor strife against her. She is most beloved by her older siblings, especially [[Istishia]], who is fiercely protective of her. Among her siblings, [[Istishia]] was only ever truly loyal to her.
-## Realm: The Eternal Maelstrom
-The Eternal Maelstrom is a realm of constant movement, where air currents twist and spiral into complex patterns, creating a never-ending dance of wind and cloud. It is a place where the skies stretch infinitely, and the winds sing the songs of freedom.
-## Role in the Eternal Wars
-Akadi was a pivotal figure in the Eternal Wars, particularly when she was captured by [[Dur-baagal]], the Cold and Cruel. Her capture incited the wrath of the entire Dawn, leading to a counterattack that drove out the rebellion. Akadi's capture and subsequent rescue were turning points in the war, rallying the Dawn Primordials to act with renewed vigor.
-## Relationship with Ubtao
-Akadi had a unique relationship with [[Ubtao|Ubtao the Heartseer]], who was later known as Deceiver. She admired him and often visited him in the Root Hold within the [[Caverns of Stillness]]. Her admiration for Ubtao led to a rift between her and her brothers, [[Asgorath]] and [[Grumbar]], who later slew Ubtao for his betrayal.
-## Role in the Creation of the Celestials
+---
+classification: primordial
+race: elemental
+death: 9th of Hammer, 5421 AS
+PC: false
+aliases: 
+  - Gentle
+  - Akadi the Gentle
+  - Ever-Free
+---
 
-Akadi played a significant role in the creation of the Celestials, beings of divine power designed to counter Dur-baagal's Elohim. Atropus, the Elder Evil, sought her out along with her siblings Kossuth and Istishia to collaborate in this monumental endeavor. Akadi's essence of freedom and lightness was woven into the fabric of the Celestials, granting them a degree of autonomy and agility that set them apart from the Elohim. Akadi's influence is said to persist in the Celestials, manifesting as an innate desire for freedom and a resistance to any form of subjugation. This has made them formidable opponents in the cosmic struggles that continue to shape the universe.
-## Akadi's Legacy
-Akadi remains a symbol of freedom and unpredictability, embodying the essence of air in its purest form. Her realm, the Eternal Maelstrom, continues to be a haven for those who seek the freedom of the skies. Despite the scars left by the Eternal Wars, Akadi's spirit remains unbroken, her laughter echoing through the winds that sweep across the planes.
+Akadi was known as the Gentle. She was the youngest of the Elemental Siblings and the Primordial of Air.
+
+Akadi was lighthearted for all of her life and filled with laughter. She was most beloved of her siblings, especially by her sister [[Istishia]], who was fiercely protective of her. 
+
+Akadi turned down [[Dur-baagal]], for instead she loved [[Ubtao|Ubtao the Heartseer]]. She ofted visited Ubtao in the Root Hold.
+
+Her admiration for Ubtao led to a rift between her and her brothers, [[Asgorath]] and [[Grumbar]], who later slew Ubtao for his deception.
+
+[[Atropus]] and [[Dur-baagal]] captured Akadi, which incensed all of her siblings and kicked off [[The Eternal Wars]]. 
+
+Akadi was one of the four creaters of the Celestials, along with [[Kossuth]], [[Istishia]], and [[Atropus]].
+
+She accepted the Celestials and spoke often at their councils, and they considered her one of their own. She forgave them for killing her brother [[Arambar]], just as she forgave all the others for the atrocities they committed in the war. She viewed the celestials as her own children.
+
+She took pains to make her realm habitable to most mortals. She created many beings in her plane, for she loved life.
+
+She was killed by [[Tartarus]] and [[Shar]] on the 9th of Hammer, 5421 AS[^1].
+
+[^1]: *Source:* [[Shadows of Divinity]]
