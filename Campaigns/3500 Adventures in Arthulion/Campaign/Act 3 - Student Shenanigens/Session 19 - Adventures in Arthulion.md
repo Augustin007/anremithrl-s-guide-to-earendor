@@ -14,7 +14,7 @@ Theriad meets Methunroa, his mentor for his doctorate, and begins to study under
 
 Jason finds the silence unbearable and lashes out against other students and teachers.
 
-Jason's mentor, Falledric, is rather heartless and cold to Jason, and Jason barely is able to talk to him. This increases his isolation.
+Jason's mentor, Falledric, is rather heartless and cold to Jason, and Jason barely is able to talk to him. This increases his isolation. 
 
 Jason joins the dueling club and wins and loses a number of practice duels. He is too violent, often seeming to aim to harm, causing him to be reprimanded. During a later practice he imagines the dummies to be actual enemies until he breaks the dummies and the practice staffs.
 

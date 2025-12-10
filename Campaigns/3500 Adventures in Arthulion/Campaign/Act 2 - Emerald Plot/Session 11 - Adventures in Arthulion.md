@@ -14,7 +14,7 @@ Theriad appoints Feanor’s old seneschal Anor to temporary lordship and forces 
 
 With the aid of Theriad's resources, Kenaralis's experience, and the documents Noros had kept safe, they discover the truth of the plot, that being a foreign influence from Sonorous. Noloric weapons being imported into Sonorous. 
 
-Feeling safe and unhunted for the first time, Jason and Duthrim relax and drink and play some board games with Kenaralis, and invite Theriad, trying to cheer the grief-stricken man up. Theriad and Duthrim bond over having both been displaced by the eruption of the flameheart.
+Feeling safe and unhunted for the first time, Jason and Duthrim relax and drink and play some board games with Kenaralis, and invite Theriad, trying to cheer the grief-stricken man up. Jason is exceptionally good at chess, rivaled only by Theriad. Theriad and Duthrim bond over having both been displaced by the eruption of the flameheart.
 
 |                 Previous                  |          Campaign           |                   Next                   |
 | :---------------------------------------: | :-------------------------: | :--------------------------------------: |

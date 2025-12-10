@@ -13,7 +13,7 @@ The Judge Kenaralis doubts the charges and evidence truly point to Duthrim, and 
 
 With Duthrim released, they talk for a bit. Duthrim is told to meet with Leraniel, his appointed lawyer, so Jason goes to search for evidence to clear his friend's name while Duthrim goes to meet this new lawyer.
 
-Leraniel does not seem highly amicable towards Duthrim. He seems to believe Duthrim is guilty and insinuates that Duthrim should plead such, and focuses more on the charge of terrorism in Sonorous, and tries to dissuade Jason from looking for evidence.
+Leraniel does not seem highly amicable towards Duthrim. He seems to believe Duthrim is guilty and insinuates that Duthrim should plead such, and focuses more on the charge of terrorism in Sonorous, and tries to dissuade Jason from looking for evidence. Jason is stubborn and unfazed.
 
 |                 Previous                 |          Campaign           |                  Next                   |
 | :--------------------------------------: | :-------------------------: | :-------------------------------------: |

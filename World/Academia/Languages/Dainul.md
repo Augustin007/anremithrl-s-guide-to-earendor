@@ -76,7 +76,7 @@ These are excerpts from the notes of Theriad:
 
 ---
 
-I have studied many languages, and my knowledge of Khudzul is passable. Khudzul suggests to me I am within the borders of Othron Ibrith. I pull my cloak towards me and raise my hand in the traditional greeting of their culture. "Doz. korcav otho lah." *Hello, how do you fare?*
+I have studied many languages, and my knowledge of Dainul is passable. Dainul suggests to me I am within the borders of Othron Ibrith. I pull my cloak towards me and raise my hand in the traditional greeting of their culture. "Doz. korcav otho lah." *Hello, how do you fare?*
 
 
 "Ba, Kun otho." *Yes, thank you.*, I nod and reiterate my thanks. Then lean on my staff for a bit. I bow and give the traditional fare-well. "Ivaloth narhe" *See you again*. 

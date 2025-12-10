@@ -13,11 +13,12 @@ Theriad manages to get up again, he corners, duels, and kills Mabry in the burni
 
 Jason and Duthrim fight their way into Mabry's quarters and this time succesfully steal his correspondance and all the evidence.
 
-Theriad breaks into one of his old friends' homes and leaves behind all the evidence. He knows that for now he would be likely to be tried as a kingslayer. While there is evidence enough to exonorate him, it will take time, and there is too much pain in Nolorei, and too many friends gone. 
+Theriad breaks into one of his old friends' homes and leaves behind all the evidence. He knows that for now he would be likely to be tried as a kingslayer. While there is evidence enough to exonorate him, it will take time.
 
-He is arrested along with Jason. A few months later they are released. His older sister, the true daughter of the king, Lenier has taken the throne.
+They don't leave fast enough. He is arrested along with Jason. A few days later they are released. His older sister, the true daughter of the king, Lenier has taken the throne.
 
-Theriad has worked through a lot of his pain, but does not wish to remain near Nolorei and Nerheim. Neither do the other two. The three head far north. Theriad decides to go to the Clockwork Citadel to further his learning after the emerald palace burnt down, and with it, the library. Jason goes with him. Duthrim begins a forge in Othron Ibrith, not far away. 
+
+Theriad has worked through a lot of his pain, but does not wish to remain near Nolorei and Nerheim. There is too much pain in Nolorei, and too many friends gone. Neither do the other two. The three head far north. Theriad decides to go to the Clockwork Citadel to further his learning after the Emerald Palace burnt down, and with it, the library. Jason goes with him. Duthrim begins a forge in Othron Ibrith, not far away. 
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|

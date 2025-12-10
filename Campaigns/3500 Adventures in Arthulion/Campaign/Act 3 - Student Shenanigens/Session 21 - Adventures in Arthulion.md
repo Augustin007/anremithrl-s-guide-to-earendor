@@ -12,15 +12,15 @@ Theriad later sees the group hurt and realises what occurred, but decides to say
 
 Jason meets some political extremists advocating for killing Sonorous sympathizers. He likes them almost immediately.
 
-During drills Jason meets Lira Tanen, a scholar from the Department of History who fights with a thin rapier and no fear. He expresses his admiration for her fearlessness. She teases him. 
+During drills Jason meets Lira Tanen, a scholar from the Department of History who fights with a thin rapier and no fear. He expresses his admiration for her fearlessness. She teases him. Theriad teases that Jason likes her, but Jason asks Theriad to stop, explaining that she just reminds him of someone. Theriad believes Jason means his sister.
 
 She begins watching his matches consistently. 
 
-Theriad submits the results of his research so far and discusses magic with Methunroa. He talks late into the night about the nature of magic, Methunroa speaks of his own research in transmutation, Theriad at one point starts expressing his concern for his friend, and falls asleep, dreaming of the library and the strange figure. He talks to the strange figure, who claims to know the answer to his questions, but refuses to give him a hint.
+Theriad submits the results of his research so far and discusses magic with Methunroa. He talks late into the night about the nature of magic, Methunroa speaks of his own research in transmutation, Theriad at one point starts expressing his concern for his friend. As the conversation goes on, he falls asleep, far behind on sleep from all the work, dreaming of the library and the strange figure. He talks to the strange figure, who claims to know the answer to his questions, but refuses to give him a hint.
 
 Jason starts a newspaper, the Free Thought League, printing pieces opposed to Sonorous trade influence. 
 
-Jason speaks to Falledric. The meeting lasts for six minutes. Falledric expresses a singular compliment for his savagery and violence, but advises him to pour that ambition, singlemindedness, anger, selfishness, and lack of restraint into academics. Jason is slightly shaken, suddenly feeling a lot worse about himself, and liking his mentor even less.
+Jason speaks to Falledric. The meeting lasts for six minutes. Falledric expresses a singular compliment for his savagery and violence, but advises him to pour that ambition, singlemindedness, anger, selfishness, and lack of restraint into academics. Jason is slightly shaken, suddenly feeling a lot worse about himself, and liking his mentor even less, as he finds himself thinking that his father would disaprove.
 
 He tries to talk to Theriad, who tries to help, but only ends up making Jason feel worse.
 

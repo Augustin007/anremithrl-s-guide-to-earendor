@@ -2,9 +2,9 @@
 file: session
 campaign: The Path of Honor
 ---
-| Previous | Campaign | Next |
-|:--:|:--:|:--:|
-|[[Session 34a - The Path of Honor]]|[[The Path of Honor]]|[[Session 36a - The Path of Honor]]|
+|              Previous               |       Campaign        |                Next                 |
+| :---------------------------------: | :-------------------: | :---------------------------------: |
+| [[Session 34a - The Path of Honor]] | [[The Path of Honor]] | [[Session 36a - The Path of Honor]] |
 
 They reenter the tunnels. Now with Syl, Naras is able to detect magic to learn more about the stellatite and mining. Leren trains Tepozo on the equipment, the equipment uses the the Stellatite geodes that are too small to refine.  These can make poor batteries which are primed for Draconic quiddity and used to create Forcewalls to cut up chunks of stone for the mining. 
 
@@ -16,6 +16,6 @@ As they head up, Naras is more keenly aware of several quiddity fields on the wa
 
 Tepozo and Leren invite the bald darker skinned Cherhai man who corrected Tepozo before into of their group. They notice offhandly that Dundarion is gone. The bald man is Nirhak, and deeply knowledgable. They consider different escape plans.
 
-| Previous | Campaign | Next |
-|:--:|:--:|:--:|
-|[[Session 34a - The Path of Honor]]|[[The Path of Honor]]|[[Session 36a - The Path of Honor]]|
+|              Previous               |       Campaign        |                Next                 |
+| :---------------------------------: | :-------------------: | :---------------------------------: |
+| [[Session 34a - The Path of Honor]] | [[The Path of Honor]] | [[Session 36a - The Path of Honor]] |

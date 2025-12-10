@@ -4,11 +4,12 @@ DM:
   - Austin
 status: finished
 ---
-[[Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Odd Jobs/Session 1 - Adventures in Arthulion|Campaign]]
+[[Session 1 - Adventures in Arthulion|Campaign]]
 #### Player Characters
 [[Duthrim Ilirn]]
 [[Jason Naiyar]]
 [[Theriad Keladri]]
+[[Lorim Illirn]]
 #### Crossover Player Characters
 
 #### Other Major Characters In the Story
@@ -16,6 +17,8 @@ status: finished
 [[Leraniel]]
 [[Feanor III]]
 [[Noros]]
+[[Kael]]
+[[Rokan]]
 #### Other Minor Characters In the Story
 [[Keran Yanel]]
 [[Leras]]
@@ -30,7 +33,7 @@ Theriad is rescued from the flameheart eruption by elves, and studies in Nolorei
 Duthrim leaves the party for some time, settling in Othron Ibrith. Jason and Theriad both attend the Clockwork Citadel Institute, a university. Theriad studies under Methunroa and becomes an accomplished scholar, and begins worshipping a figure from his visions, who he now recognises as Nebelum.
 Jason and Theriad are involved in several incidents at the university. (Student Shenanigens, Sessions 19-26)
 
-Duthrim's children are kidnapped, and the three join again to free them. Travelling again, Jason realises how much he missed the freedom, and adventures on his own. (Sessions 27-29)
+Duthrim's children are nearly kidnapped, and the three join again to free them. Travelling again, Jason realises how much he missed the freedom, and adventures on his own. (Sessions 27-29)
 
 Theriad settles in Khar and Duthrim moves there too (fearing another kidnapping). Theriad continues to study.
 They defend the small remote village named Bvranek they live in from various threats. 

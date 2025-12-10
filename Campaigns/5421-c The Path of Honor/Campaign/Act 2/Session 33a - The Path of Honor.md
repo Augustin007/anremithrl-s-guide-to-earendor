@@ -12,7 +12,7 @@ Ivvan speaks with Sebastian Valerius and the Sons of Honor, negotiating a deal t
 
 After some more conversation Ivvan takes a carriage through the blink carriage. 
 
-Pretending Serin is his slave, Serin is good at pretending to be a slave, he makes his way through, speaking with what seems to be Szinvorn's advisor. Ivvan does not know his own palace and quickly gets lost. He takes one of the servants, a young boy named Aegreth who is moving silverware and plates, and forces Aegreth to lead him to Szinvorn's chambers. At Serin's insistence to keep things secret, they dunk him in water several times while Serin and Ivvan talk and plan how they will stay alive and figure this out. 
+Pretending Serin is his slave, Serin is good at pretending to be a slave, he makes his way through, speaking with what seems to be Szinvorn's advisor, Nal’dar Xil’reth. Ivvan does not know his own palace and quickly gets lost. He takes one of the servants, a young boy named Aegreth who is moving silverware and plates, and forces Aegreth to lead him to Szinvorn's chambers. At Serin's insistence to keep things secret, they dunk him in water several times while Serin and Ivvan talk and plan how they will stay alive and figure this out. 
 
 A lady arrives and Ivvan attempts to talk to her outside. She seems to be close to Szinvorn, immune to telepathy, and seems to figure out something is off. She says she'll see him at the ceremony and leaves, seeming insulted and suspicious.
 

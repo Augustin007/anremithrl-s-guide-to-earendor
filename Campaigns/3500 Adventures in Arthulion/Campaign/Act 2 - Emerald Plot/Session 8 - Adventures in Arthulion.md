@@ -2,10 +2,10 @@
 file: session
 campaign: Adventures in Arthulion
 ---
-| Previous | Campaign | Next |
-|:--:|:--:|:--:|
-|[[Session 7 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 9 - Adventures in Arthulion]]|
-Jason's investigation takes him to discover more about merchant politics and tax wars.  Yanel had been a prominent member of the Nerethi trade guild and had been proposing a total embargo on any country still dealing with the Sonorous Dominion. This was highly inconvenient to the Noloric mercantile guild, and they all benefited heavily from his death.
+|                 Previous                 |          Campaign           |                  Next                   |
+| :--------------------------------------: | :-------------------------: | :-------------------------------------: |
+| [[Session 7 - Adventures in Arthulion ]] | [[Adventures in Arthulion]] | [[Session 9 - Adventures in Arthulion]] |
+Jason's investigation takes him to discover more about merchant politics and tax wars.  Yanel had been a prominent member of the Nerethi trade guild and had been proposing a total embargo on any country still dealing with the Sonorous Dominion. This was highly inconvenient to the Noloric mercantile guild, and they all benefited heavily from his death. 
 
 Leraniel gets Kenaralis removed for failing to be impartial and favouring Duthrim and allowing bail, accusing Kenaralis of bias. Kenaralis is arrested for corruption. The new judge, Morendi, seems to heavily dislike Duthrim. Duthrim wonders why the lawyer that is meant to be on his side would do this.
 
@@ -15,7 +15,7 @@ His bail is nearly rescinded but Duthrim is given advice about elvish law by the
 
 Jason is attacked by assasins and kills them, they bear marks of the merchant guild. 
 
-The two meet for a few hours and lay out their evidence together.
+The two meet for a few hours and lay out their evidence together. Jason seems to have a working knowledge of a lot of politics, but at one point laments that he did not study enough politics as a child.
 
 |                 Previous                 |          Campaign           |                  Next                   |
 | :--------------------------------------: | :-------------------------: | :-------------------------------------: |
