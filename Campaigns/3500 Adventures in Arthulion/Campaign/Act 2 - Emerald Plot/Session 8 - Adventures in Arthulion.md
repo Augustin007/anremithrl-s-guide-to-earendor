@@ -15,7 +15,7 @@ His bail is nearly rescinded but Duthrim is given advice about elvish law by the
 
 Jason is attacked by assasins and kills them, they bear marks of the merchant guild. 
 
-The two meet for a few hours and lay out their evidence together. Jason seems to have a working knowledge of a lot of politics, but at one point laments that he did not study enough politics as a child.
+The two meet for a few hours and lay out their evidence together. Jason seems to have a working knowledge of a lot of politics and law, far outstripping Duthrim's. Duthrim, who is lowborn, is surprised when Jason frustratedly laments that he always refused to pay attention to his tutors politics properly, as he saw this amount of knowledge as the mark of someone dedicated to law and politics.
 
 |                 Previous                 |          Campaign           |                  Next                   |
 | :--------------------------------------: | :-------------------------: | :-------------------------------------: |

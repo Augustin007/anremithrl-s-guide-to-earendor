@@ -1,6 +1,4 @@
 
-
-
 A swift look of the geography of the world as of 5421 AS.
 
 The Eastern landmass is called Varethis, and the western one Velmyria. A smaller landmass called Izar exists further east than Varethis.
@@ -67,12 +65,12 @@ Some of Foedus is affected by eternal winter.
 - Bharam/Baram: Bharam is an ancient kingdom located in the northeasternmost reaches of Foedus. The cult known as the Dreamers of Bharam, led by the soothsayer Bechel, took over the government of Crof and renamed it Bharam. They are brutal and inhumane, enslaving, raping, and killing those who are not of their cult. Contains easiest gateway to the Shadowfell in some stone arches the cult does not dare approach.
 #### Continent: Sunktopeth
 A continent of rising and fallen empires, once dominated by Chish.
-- Chish. Based on a combination of Egypt and the Chiss Ascendency from Star Wars. Once a small country, it has been ruled by lines of Emperors tracing back to Iskandar the Wise. From Chish came the warlord emperor Hechilspet, who began a conquest of much of the world and ascended into godhood. Some see Hechilspet, known as the war god, as a good symbol of the country, while in other parts he is hated. Hechilspet massacred most non-humans, and because of him humans are a majority in most of the western continent. Two major religions prevail because of this, Sol'karis, based on egyptian worship of the gods, and the Ha'dii, who worship Hechilspet.
-- Sonorous: Founded by the Sonorous Warlords, based on the Sword-coast adventure guide. Known as Khili. A region large carved out of the south of the Chish empire only a couple hundred years ago. Ruled by oligarchs, competing warlords vying for dominance.
+- Chish. Based on a combination of Egypt and the Chiss Ascendency from Star Wars. Once a small country, it has been ruled by lines of Emperors tracing back to Iskandar the Wise. From Chish came the warlord emperor Hechilspet, who began a conquest of much of the world and ascended into godhood. Some see Hechilspet, known as the war god, as a good symbol of the country, while in other parts he is hated. Hechilspet massacred most non-humans, and because of him humans are a majority in most of the eastern continent. Two major religions prevail because of this, Sol'karis, based on egyptian worship of the gods, and the Ha'dii, who worship Hechilspet.
+- Khili: A republic founded by the last high lord of the Sonorous Dominion, Lord Hadvar Tevell, based on the Sword-coast adventure guide. Known as Khili. A region large carved out of the south of the Chish Empire, which considers itself the successor of the Sonorous Dominion. 
 - Szok'qol: Formerly part of Chish empire, but broke off in the civil war following Hechilspet's fall with no heirs.
-- Rhazuvo: Another split-off from the Chish empire.
+- Rhazuvo: A split off from the Sonorous Dominion before its transition to Khili. A kingdom rules by the Srach dynasty.
 - Nolorei: Elven kingdom. Nearly wiped out by the Chish during Hechilspet's time, but reconquered after his fall. Contains gateway to the Feywild.
-- Rhas'ser: Small country split from Chish Empire.
+- Rhas'ser: Small country split from Chish Empire. Was once Sol'kas.
 #### Continent: Ereskaal
 - Doglensia: A large empire to the east-north-eastern borders of Foedus. Not much lore about this. Bordered on three sides by the sea.
 - Ardwedil was once a major kingdom of elves before Hechilspet conquered much of their land and wiped out the elves. Other events have chipped away at their land, leaving an area in the middle of the east of Ereskaal. Known for their steel bows. 

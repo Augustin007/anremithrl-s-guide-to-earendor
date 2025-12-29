@@ -6,7 +6,7 @@ campaign: Adventures in Arthulion
 |:--:|:--:|:--:|
 |[[Session 9 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 11 - Adventures in Arthulion]]|
 
-Duthrim and Jason work together to break out of prison to figure out and stop this assassination. They try to ambush Leraniel, but he's dead in his home, killed with a dart. Police arrive just as they are there, incriminating them, and they are forced to flee, leaving behind documents.
+Duthrim and Jason work together to break out of prison to figure out and stop this assassination. They try to ambush Leraniel, but he's dead in his home, killed with a dart. They try to read through his documents quickly. It seems that Leraniel was looking into who Jason was. Asking his contacts in the Sonorous Dominion. The response he got was a warning to not look into it, and someone else asking for confirmation about Janvar's location. They inspect the murder weapon and notice that there is a note addressed directly to Jason on the dart, but they don't get a chance to read it. Police arrive, incriminating them, and they are forced to flee, leaving behind documents.
 
 Remembering the old merchant they helped, they rush to try to hide with Noros. After an explanation, he decides to hide them. He helps point them in the right direction, and sends a message to an informant. While talking with Noros, they realise who the target is, Theriad Keladri.
 

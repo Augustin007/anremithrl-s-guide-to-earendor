@@ -112,32 +112,32 @@ Chersai uses a runic script carved historically on stone tablets and branding ir
 
 ## 5. Sample Lexicon
 
-|Chersai|Gloss|
-|---|---|
-|kat|to kill|
-|strak|to seize / conquer|
-|fer|fight (noun)|
-|anol|to serve|
-|ranek|to rise, ascend|
-|morden|chains, bindings|
-|narkheth|slave|
-|mordash|property/chattel|
-|tashvar|freeman|
-|dyol|iron|
-|gar|blood|
-|ryt|strong|
-|nai|honorable|
-|dre|cursed or tainted|
-|orlek|to fear / dread|
-|khet|to submit|
-|yar|yes|
-|sor|no|
-|saha|enough / stop|
-|krātash|victory (excl.)|
-|rath|spare / mercy|
-|orn|none / never|
-|rak|overlord / warlord (root of “Rakh-”)|
-|chal|champion / conqueror (prefix)|
+| Chersai  | Gloss                                |
+| -------- | ------------------------------------ |
+| kat      | to kill                              |
+| strak    | to seize / conquer                   |
+| fer      | fight (noun)                         |
+| anol     | to serve                             |
+| ranek    | to rise, ascend                      |
+| morden   | chains, bindings                     |
+| narkheth | slave                                |
+| mordash  | property/chattel                     |
+| tashvar  | freeman                              |
+| dyol     | iron                                 |
+| gar      | blood                                |
+| ryt      | strong                               |
+| nai      | honorable                            |
+| dre      | cursed or tainted                    |
+| orlek    | to fear / dread                      |
+| khet     | to submit                            |
+| yar      | yes                                  |
+| sor      | no                                   |
+| saha     | enough / stop                        |
+| krātash  | victory (excl.)                      |
+| rath     | spare / mercy                        |
+| orn      | none / never                         |
+| rak      | overlord / warlord (root of “Rakh-”) |
+| chal     | champion / conqueror (prefix)        |
 
 ---
 

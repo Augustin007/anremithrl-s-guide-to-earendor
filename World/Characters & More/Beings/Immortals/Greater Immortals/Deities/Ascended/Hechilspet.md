@@ -38,14 +38,17 @@ He enjoyed pain in others, and often watched torture occuring. He occasionally s
 
 He pioneered divination and farsight, and had a group of enforcers known as the Bloodied Hand. He thus knew all that occurred in his lands, and crime was nearly eradicated under his rule. There are sects of people who prospered under his rule, and even the common people recognised the severe reduction in crime, and thus there were some who turned a blind eye to his bloodlust and atrocities and claimed times were better under this tyrant. 
 
-As he got older, and his body began to weaken, he began to fear death, and began searching for ways to prolong his life indefinitely. He sacrificed many slaves and siphoned their lives to increase in power, and began demanding worship of his people, until he ascended into godhood.
+As he got older, and his body began to weaken, he began to fear death, and began searching for ways to prolong his life indefinitely. In this time he met Lilith Tormund, a tiefling who sacrificed her hand to gain knowledge, and used her knowledge to reconstruct a Shard of the Forgotten One's divinity. Though was unable to directly use it for ascension, he was able to use it to perform the first resurrections and manipulate and absorb life forces. 
+
+He sacrificed many slaves and siphoned their lives to increase his own life and power, and began demanding worship of his people, until he ascended into godhood via that route.
 
 His acts of evil did not decrease as time pass, but rather increased. When he ascended he became more violent, impulsive, and mad. He needed greater punishments, more executions, more strange and unusual torture to satiate his bloodlust, and he became known as the god of pain. Soon many feared him, and all called him mad. 
 
 [[Eleutheros]] spoke often and boldly against him. 
 
-Eventually Hechilspet decided to track  down personally, as he in his pride did not believe he could be defeated. It is not known how, but Eleutheros managed to lock him away in a [[Hechilspet's Prison|prison]] fit for a god, modeled after [[the Nine Hells]]. This was the year 3343.
+Eventually Hechilspet decided to track Eleutheros down personally, as he in his pride did not believe he could be defeated. It is not known how, but Eleutheros managed to lock him away in a [[Hechilspet's Prison|prison]] fit for a god, modelled after [[the Nine Hells]]. This was the year 3433.
 
+Lilith would go on to steal the Shard she helped him create. 
 
 He somehow relayed messages to Tormac and Asmodeus from his prison, and the Greenclad worked to try to free him for some time, nearly succeeding.[^1] He also tricked [[Richard Iwaelfhem]] into making a deal with him.
 

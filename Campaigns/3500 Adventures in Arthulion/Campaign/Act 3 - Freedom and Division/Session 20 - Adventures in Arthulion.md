@@ -8,7 +8,7 @@ campaign: Adventures in Arthulion
 
 Jason spends his mornings at the dueling yard, skipping lectures. His matches draw crowds. He wins almost every one. When he loses he trains harder, and goes again and again until he can beat that person consistently.
 
-Theriad works with small manipulations of the fold metric, attempting to shift small amounts of energy by pulling twines together for a brief moment. 
+Theriad works with small manipulations of the fold metric, attempting to shift small amounts of energy by pulling twines together for a brief moment. While sometimes it can transfer energy instantly, it often crumples things in between as the twines pull together, and sometimes the energy seems to disappear entirely.
 
 Theriad eats alone now, unable to bear Jason's mockery of his 'softness', and unwilling to make new friends. He spends a lot of time thinking of Elara.
 
@@ -18,7 +18,7 @@ Theriad is approached by a group of younger students, undergraduates, who mock a
 
 Jason returns, drunk, late at night. He sees Theriad crying and mocks him, asking what it is about. Theriad calms himself and explains, finally confronting Jason. When Theriad falls asleep, Jason leaves, he tracks down each of the boys, and beats them up badly, breaking several of their bones and threatening them.
 
-Theriad dreams of a library.
+Theriad dreams of a library on fire.
 
 |                 Previous                  |          Campaign           |                   Next                   |
 | :---------------------------------------: | :-------------------------: | :--------------------------------------: |

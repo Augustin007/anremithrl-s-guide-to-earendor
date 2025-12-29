@@ -7,7 +7,7 @@ campaign: Adventures in Arthulion
 |[[Session 6 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 8 - Adventures in Arthulion]]|
 They stop at the Noloric border city, Taurelen. 
 
-Keran Yanel is assassinated. As inquests begin and everything is impounded, Duthrim is arrested as the prime suspect, as the weapon that killed Keran bears his mark. Further reports recognise it from reports of the terrorists in Sonorous, who attacked the garrison.
+Keran Yanel is assassinated. As inquests begin and everything is impounded, Duthrim is arrested as the prime suspect, as the weapon that killed Keran bears his mark. Further reports recognise it from reports of the terrorists in Sonorous who attacked the garrison.
 
 The Judge Kenaralis doubts the charges and evidence truly point to Duthrim, and allows Jason to post bail. With the caravan impounded, Duthrim and Jason haven't gotten payed, Jason spends the last of their coin to post it.
 

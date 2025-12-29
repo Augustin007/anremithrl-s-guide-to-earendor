@@ -8,234 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3a83c3c28315057",
+            "id": "c0b7c0965a57c044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Characters List.md",
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Characters List"
+              "title": "Short Stories - Adventures in Arthulion"
             }
           },
           {
-            "id": "61063031f62430e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 28 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "a3e3f56d0a8cb85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 28 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "446c2a8b3de079e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "49db36637ababd61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Academia/Languages/Dainul.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dainul"
-            }
-          },
-          {
-            "id": "40e316066faa8436",
+            "id": "77ffabb704deaf83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": ";temp-adventures.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": ";temp-adventures"
             }
           },
           {
-            "id": "296554533f178baa",
+            "id": "8348a78492227210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Locations/Map of Earendor.md",
-                "mode": "preview",
-                "source": false
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Map of Earendor"
+              "title": "Short Stories - Adventures in Arthulion"
             }
           },
           {
-            "id": "df4fa02026ad7632",
+            "id": "cedae3156cf4e1a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Academia/Languages/Rusekhet.md",
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Rusekhet"
-            }
-          },
-          {
-            "id": "67333058f7eff784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Characters & More/Beings/Mortals/Dwarf/Jason Naiyar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jason Naiyar"
-            }
-          },
-          {
-            "id": "46d9bb53ed804170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Academia/Languages/Velorian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Velorian"
-            }
-          },
-          {
-            "id": "b45612dc05d0e371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Academia/Languages/Rusekhet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rusekhet"
-            }
-          },
-          {
-            "id": "740f91e50b122e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": ";temp-adventures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": ";temp-adventures"
-            }
-          }
-        ],
-        "currentTab": 11
-      },
-      {
-        "id": "fb1da252fc4e1db4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3b97e3b6ec5a427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Embers and Ashes/Session 1 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "6bd7496f3dd3b475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 31 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 31 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "e24f2222320d1fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 32 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 32 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "b6f46a3135b5b1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 34 - Adventures in Arthulion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 34 - Adventures in Arthulion"
+              "title": "Short Stories - Adventures in Arthulion"
             }
           }
         ],
@@ -271,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jenvar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -312,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 33 - Adventures in Arthulion.md",
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 5 - Knowledge is Power/Session 37 - Adventures in Arthulion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 33 - Adventures in Arthulion"
+              "title": "Backlinks for Session 37 - Adventures in Arthulion"
             }
           },
           {
@@ -362,15 +187,15 @@
                 "calendar": "ID_0bc878cbdb68",
                 "ephemeral": {
                   "viewing": {
-                    "day": 28,
-                    "month": 0,
-                    "year": 5421
+                    "day": 1,
+                    "month": 1,
+                    "year": 3399
                   },
                   "viewState": 1,
                   "displaying": {
                     "day": 12,
-                    "month": 0,
-                    "year": 5421
+                    "month": 1,
+                    "year": 3399
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -380,7 +205,7 @@
                   "displayWeather": true
                 },
                 "id": "ID_e8190929fb5a",
-                "child": "ID_abc9689a7b19"
+                "child": "ID_cadbfa1acbaa"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -421,20 +246,21 @@
               "title": "Outline of Ashdilkir"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "3f321cd31206004d",
+        "id": "80eca3f6c06c8a61",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e662979ed12f41",
+            "id": "2bbe1366b67c4e73",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_0bc878cbdb68",
-                "id": "ID_abc9689a7b19",
+                "id": "ID_cadbfa1acbaa",
                 "parent": "ID_e8190929fb5a"
               },
               "icon": "CALENDARIUM_AGENDA",
@@ -462,34 +288,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b6f46a3135b5b1c4",
+  "active": "cedae3156cf4e1a5",
   "lastOpenFiles": [
-    ";temp-adventures.md",
-    "Untitled.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 5 - Knowledge is Power/Session 37 - Adventures in Arthulion.md",
+    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Ascended/Hechilspet.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Session 35 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 34 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 33 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 32 - Adventures in Arthulion.md",
-    "World/Academia/Languages/Rusekhet.md",
-    "World/Characters & More/Characters List.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
-    "Campaigns/3500 Adventures in Arthulion/Adventures in Arthulion.md",
-    "World/Academia/Languages/Dainul.md",
-    "World/Locations/Map of Earendor.md",
-    "World/Characters & More/Beings/Mortals/Dwarf/Jason Naiyar.md",
-    "World/Academia/Languages/Velorian.md",
-    "Untitled 1.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Embers and Ashes/Session 1 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 31 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 30 - Adventures in Arthulion.md",
-    "Campaigns/Campaign Chronology.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Ascended/Hechilspet.md",
-    "World/Characters & More/Beings/Immortals/Created/Marethyu.md",
-    "World/Locations/Material Plane/Mountainside Tavern.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 29 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 27 - Adventures in Arthulion.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Student Shenanigens/Session 26 - Adventures in Arthulion.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 1 - Embers and Ashes/Session 5 - Adventures in Arthulion.md",
-    "World/Characters & More/Beings/Mortals/Halfling/Finn.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 26 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 25 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 24 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 23 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 22 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 21 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 20 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 3 - Freedom and Division/Session 19 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 18 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 17 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 16 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 15 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 14 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 2 - Emerald Plot/Session 13 - Adventures in Arthulion.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Stories",
+    "Meta/Decks/Tarot/14-Temperance.png",
     "Meta/Unfinished/Untitled.canvas",
     "World/Academia/Literature",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
@@ -500,7 +328,6 @@
     "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire",
     "World/Characters & More/Beings/Immortals/Lesser Immortals/Demigod",
     "World/Characters & More/Beings/Mortals/Tabaxi",
-    "Campaigns/5421-c Shadows of Memory/Campaign",
     "Meta/Images/The Children/Liriel Danstal.png",
     "Meta/Images/The Children/Kerran Thorol.png",
     "Meta/Images/The Children/Aric Vael.png",
@@ -510,7 +337,6 @@
     "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-55-18 ChatGPT - D&D Tokens.png",
     "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-29-46 black chromatic dragonborn - Google Search.png",
     "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-24-54 Ivvan Maeror Illustration Request.png",
-    "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-24-27 Ivvan Maeror Illustration Request.png",
     "Untitled.canvas"
   ]
 }

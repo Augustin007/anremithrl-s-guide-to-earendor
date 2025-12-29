@@ -11,7 +11,7 @@ They turn in Rokan's head for the bounty and split the money, nobody looks at th
 
 A few days later they reach the Coriquendi town of Beden. Duthrim attempts to set up a forge of sorts, particularly since the local one closed, but is met with Coriquendi bureaucracy and is unable to navigate the forms. 
 
-Jason, demonstrating his quality as a soldier, is able to get hired as a mercantile guard by Keran Yanel a Nerethi silk merchant who seems to approve Jason's anti-Sonorous sentiments. Jason manages to get Duthrim hired as well, as a smith for the caravan. They begin travelling with Yanel through Nolorei forests, following the river Lel.
+Jason, demonstrating his quality as a soldier, is able to get hired as a mercantile guard by Keran Yanel, a Nerethi silk merchant who seems to approve Jason's anti-Sonorous sentiments. Jason manages to get Duthrim hired as well, as a smith for the caravan. They begin travelling with Yanel through Nolorei forests, following the river Lel.
 
 They have several conversations, and skip stones at a small lake where they stop. Jason states his father was a noble man and a warrior. The two differ on how many problems can be solved by violence.
 

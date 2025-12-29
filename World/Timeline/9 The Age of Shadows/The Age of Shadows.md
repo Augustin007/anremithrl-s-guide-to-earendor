@@ -29,7 +29,7 @@ Lilith studied the tree of names and sacrificed her arm for knowledge, but went 
 The Feywild is founded as a refuge against the darkness by the elf Eleutheros. He invites all who would come. Mostly the faeries and the elves. They retreat from the mortal realm.
 Reconnecting of the two continents. First interacontinental voyages since the Sundering War.  
 Hechilspet discovered blood magic and harvested remnants of dead souls to ressurect the forgotten god, stealing the Name from Lilith. (This event is completely unknown to anyone) First resurrection was done here. Hechilspet eventually was able to become immortal. Rare and powerful magic.
-Hechilspet’s Fall in (Most estimates say 3343) marks the end of the Age of Shadows in most history books.
+Hechilspet’s Fall in (Most estimates say 3433) marks the end of the Age of Shadows in most history books.
 The Silanderi is recovered.
 Strixhaven school was founded by Methunroa.
 

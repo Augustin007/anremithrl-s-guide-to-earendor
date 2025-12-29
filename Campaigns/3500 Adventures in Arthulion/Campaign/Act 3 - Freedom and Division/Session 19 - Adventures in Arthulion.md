@@ -10,7 +10,7 @@ Jason and Theriad arrive in the clockwork citadel.
 
 That night Theriad dreams of a vast library, a single figure tending to it. He draws the image the next morning.
 
-Theriad meets Methunroa, his mentor for his doctorate, and begins to study under him. He presents his ideas, partially inspired (though he does not say it aloud), out of something he saw with the Sonorous soldiers during his time in Nerheim, the idea of teleportation magic. Theriad quickly impresses Methunroa with his sharp mind and photographic memory, but struggles to feel safe and with his despondance. His hand shake near-constantly.
+Theriad meets Methunroa, his mentor for his doctorate, and begins to study under him. He presents his ideas, partially inspired (though he does not say it aloud), out of something he saw with the Sonorous soldiers during his time in Nerheim, the idea of teleportation magic. Theriad quickly impresses Methunroa with his sharp mind and memory, but struggles to feel safe and struggles with his despondance. His hand shake near-constantly.
 
 Jason finds the silence unbearable and lashes out against other students and teachers.
 

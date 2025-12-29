@@ -1,7 +1,9 @@
 {
   "vimMode": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "livePreview": false,
+  "defaultViewMode": "preview"
 }

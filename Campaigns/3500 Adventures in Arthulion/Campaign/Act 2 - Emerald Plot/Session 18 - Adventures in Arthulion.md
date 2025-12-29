@@ -17,8 +17,9 @@ Theriad breaks into one of his old friends' homes and leaves behind all the evid
 
 They don't leave fast enough. He is arrested along with Jason. A few days later they are released. His older sister, the true daughter of the king, Lenier has taken the throne.
 
+Theriad has worked through a lot of his pain, but does not wish to remain near Nolorei and Nerheim. There is too much pain in Nolorei, and too many friends gone. His people do not truly accept him, both for being an adopted heir, a human among elves, but also for burning the palace, for committing to destructive violence.
 
-Theriad has worked through a lot of his pain, but does not wish to remain near Nolorei and Nerheim. There is too much pain in Nolorei, and too many friends gone. Neither do the other two. The three head far north. Theriad decides to go to the Clockwork Citadel to further his learning after the Emerald Palace burnt down, and with it, the library. Jason goes with him. Duthrim begins a forge in Othron Ibrith, not far away. 
+Theriad does not remain near Nolorei. Neither do the other two. The three head far north. Theriad decides to go to the Clockwork Citadel to further his learning after the Emerald Palace burnt down, and with it, the library. Jason goes with him. Duthrim begins a forge in Othron Ibrith, not far away. 
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|

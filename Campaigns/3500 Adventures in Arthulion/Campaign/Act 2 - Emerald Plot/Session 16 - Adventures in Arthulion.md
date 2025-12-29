@@ -10,7 +10,7 @@ They reach a town and buy horses and begin riding to the Emerald Shores as fast 
 
 They arrive at the gates and camp just outside. Hoden goes to find the Arathasi Loyalists while Thalion scouts the palace. In the camps, conferring, Galin, Lenas, and Jason decide they cannot give him time to consolidate his power. Theriad barely speaks the whole time and Duthrim is somewhat concerned.
 
-Jason, Garlin, Lenas, and Theriad, being the more educated members of the group, are sent to demand an audience. Theriad ignores the plan and immediately lunges to kill Mabry and the four are siezed. Jason fights his way free and escapes through a window.
+Jason, Garlin, Lenas, and Theriad, being the more educated members of the group, are sent to demand an audience. Theriad ignores the plan and immediately lunges to try and kill Mabry. This immediately ends negotiations as the four are siezed. Jason fights his way free and escapes through a window.
 
 Theriad is scheduled for execution.
 
