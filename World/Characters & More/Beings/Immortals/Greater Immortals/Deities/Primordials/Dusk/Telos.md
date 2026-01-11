@@ -8,31 +8,18 @@ aliases:
   - Telos the Unstoppable
   - Architect
 ---
-## Introduction
 
-Telos, known as the Unstoppable, is a Primordial of Dusk. He embodies the essence of persistence, focus, and methodical building. This document aims to explore the facets of his existence, his role in the cosmological framework, and his impact on the Eternal Wars.
+Telos is a Primordial of Dusk. Before the Eternal Wars he fell in love with Nehusta and swore himself to her for eternity. He also was a friend of [[Kossuth]].
 
-## Origin
+Nehusta and Telos loved to build and dwelled in pockets between the planes, populating them with beautiful creations. From them in this time came the Elessar, the eldest of the gods, born of their conjoined power and will and intent to build beauty. Powerful beings that loved building and wonder and assisted in the building of many wondrous things.
 
-Telos emerged as a Primordial of Dusk, born from the ever-expanding fabric of reality. He is the husband of [[Nehusta]], the Builder, and together they inhabited [[The Architects' Pockets|pockets]] of Aether and Time that have blossomed into demiplanes.
+Forced into the conflict to protect their creations, Nehusta and Telos turned the Elessar away from building and into fighting. Many of the Elessar were slain or undone, and many of  their great creations were destroyed. Telos took up a blade of his creation, called the [[Sword of Eons]], and dived into the war to protect his love, fighting alongside his friend [[Kossuth]].
 
-## Personality
+In the end, Telos took a great wound for Nehusta, and his essense was scattering across the universe, and Nehusta begged to the Dawn and led them in creating a new body for Telos. The two fled the Universe thereafter, and dwell in [[Elysium]] with [[Selune]], creating things.
+
+His scattered remnants often bonded to things and scattered across the planes. Sometimes enough bits of his remnants come together and gain a modicum of sentience, which would became the Genasi.[^1][^2]
 
 Telos is a methodical builder, crafting things of great utility but often lacking in aesthetic beauty. He only embarks on projects he believes he can complete, embodying the essence of persistence and focus. His methodical nature serves as the perfect counterbalance to Nehusta's spontaneity, and his meticulous plans provide the structure for her creative flair.
 
-## Role in the Eternal Wars
-
-Telos, along with Nehusta, was reluctantly drawn into the Eternal Wars to defend their creations. The Elessar, their divine progeny, were repurposed from builders to warriors. During the conflict, Telos suffered a grievous wound that nearly led to his dissolution. However, thanks to Nehusta's intervention and a grand work of creation, he was reborn in a new, unstoppable form.
-
-Nehusta and Telos abandoned the [[Eärendor|Universe]] and their creations during the Eternal Wars, and they sought refuge in [[Elysium]] with [[Selune]].
-
-## The Elessar
-
-Telos co-created the Elessar with Nehusta, initially as aids for their building projects within their pocket realms. These beings later became warriors during the Eternal Wars, and many were lost or undone. Telos' rebirth was a pivotal moment, marking a shift in the balance of power and influencing the course of the war.
-## Legacy
-
-Telos stands as a symbol of unyielding determination and focus. His methodical approach to creation has left a lasting impact on the universe, serving as a counterpoint to the chaotic and ever-changing nature of existence. Despite the trials and tribulations of the Eternal Wars, Telos remains a beacon of what can be achieved through persistence and careful planning.
-
-## Conclusion
-
-Telos, the Unstoppable, is a complex entity whose influence is felt across the cosmological landscape. His unwavering focus and determination make him an essential part of the universe's intricate tapestry. As a Primordial of Dusk, he represents the unyielding drive to build and create, even in the face of overwhelming odds.
+[^1]: *Source:* [[Shadows of Divinity]]
+[^2]: *Source:* [[The Path of Honor]]

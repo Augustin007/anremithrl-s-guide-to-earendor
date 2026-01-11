@@ -28,11 +28,11 @@ When she returned, he forgave her. She did not ask which of the two he had loved
 
 Scathatch proceeded to seek her sister out, trying to help as many people as possible along the way, giving away money, fighting away monsters and bandits, and giving people rides until she ended up stranded, without money or equipment, in the kingdom of Swanward.
 
-She lived in the woods, gathering and hunting, making primitive equipment, until she was caught by the head of the ranger order, [[Herbert]]. After talking with him, he realised her prowess in combat, and offered her a job teaching apprentice rangers. She helped develop the ranger curriculum, making the Swanward rangers the deadly force they are today.
+She lived in the woods, gathering and hunting, making primitive equipment, until she was caught by the head of the ranger order, [[Herbert]]. After talking with him, he realised her prowess in combat, and offered her a job teaching apprentice rangers. She helped develop the ranger curriculum, making the Swanward rangers the deadly force they are today.[^1]
 
 She did not like training people for stealth and subterfuge though, prefering honourable open combat, and took the job only because of her vast need for money. The moment she had enough, she quit, and returned to searching for her sister.
 
-As she continued to travel, she took on various apprentices, who she taught her ways. Among these was [[Valus]], who eventually gained immortality and helped Scathatch finally track down her sister.
+As she continued to travel, she took on various apprentices, who she taught her ways. Among these was [[Valus]], who eventually gained immortality and helped Scathatch finally track down her sister.[^2]
 
 Aeoife denied all attempts at reconciliation, until Scathatch, with her new apprentice Joanna, were attacked by Aeoife, and Joanna was mortally wounded protecting Scathatch.
 
@@ -42,5 +42,10 @@ Joanna would go on to marry a man named Gilmore. Scathatch warned her against fa
 
 Thereafter, Scathatch heard Aeoife was looking for her and sent her then-apprentice, a man named Prichard, to look for Aeoife and send her a message to turn her away. After some correspondence, Scathatch discovered that Aeoife was in a similar situation that Joanna was some centuries ago, and feeling pity, Scathatch agreed to meet her sister, but when she went to meet her, Aeoife was gone.
 
-Scathatch would roam the countryside for the next eighty years with a group of students, hunting monsters and righting wrongs. She left the students with Joanna when [[William Treaty]] asked for her help. She would go on to requisition the help of [[Xandred Valerius]] and die at his hands.
+Scathatch would roam the countryside for the next eighty years with a group of students, hunting monsters and righting wrongs. She left the students with Joanna when [[William Treaty]] asked for her help. She would go on to requisition the help of [[Xandred Valerius]] and die at his hands.[^3]
 
+[^1]: *Source:* [[Echoes of Divinity]]
+
+[^2]: *Source:* [[The Path of Honor]]
+
+[^3]: *Source:* [[Shadows of Divinity]]

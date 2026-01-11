@@ -14,17 +14,17 @@ No one can truly say where Bechel is from.
 
 She is half-elven.
 
-She worked with Jason to try to kill [[Ashdilkir]][^1]
+She worked with Jason to try to kill [[Ashdilkir]] and to obtain a fragment of [[The Forgotten One]][^1].
 
 At some point, she allied herself with [[Asmodeus]].
 
-In the summer of the year 4639 AA, she aids [[Tahlia Tormund]] take the throne of Karr. 
+In the summer of the year 4639 AA, she aided [[Tahlia Tormund]] take the throne of Karr. 
 
 She tried to obtain the hand of [[Vecna]], but was met with the [[Dracholich of Karr]]. In the end he made an alliance with Bechel, giving her slaves and prisoners from his take, but would not suffer her to come near the hand. 
 
 When Bechel betrayed Asmodeus in the winter of the next year, Tahlia chased after her into the nine hells, and Bechel captured her. 
 
-Bechel kept her there sustaining her life by siphoning off Thalia's immortality, and protecting herself from the torture of the nine hells by stealing Asmodeus's protection over Thalia. This endured until Bechel was given the Sight by [[Marethyu]], 
+Bechel kept her there sustaining her life by siphoning off Thalia's immortality, and protecting herself from the torture of the Nine Hells by stealing Asmodeus's protection over Thalia. This endured until Bechel was given the Sight by [[Marethyu]], 
 
 After she left, she used the sight to make predictions and slowly formed a cult. They took over the kingdom of Crof and rename it [[Bharam]], and began to call themselves the [[Dreamers of Bharam]].
 
@@ -36,7 +36,7 @@ She fought against [[Marethyu]], [[Lucy Iwaelfhem]], [[Richard Iwaelfhem]], and 
 
 When the NAF reached out, she joined. Secretly, she was on the other side.[^3]
 
-In the great meeting of the NAF, [[Bechel of Bharam]] spoke to Aric, turning him against his allies, seeing them as enemies, and Aric swore himself to [[Tartarus]] and killed [[Bressus Stonefist]]. [^3]
+In the great meeting of the NAF, [[Bechel of Bharam]] spoke to [[Aric Rashauri]], turning him against his allies, seeing them as enemies, and Aric swore himself to [[Tartarus]] and killed [[Bressus Stonefist]]. [^3]
 
 [^1]: *Source:* [[Adventures in Arthulion]]
 [^2]: *Source:* [[Origins of the Greenclad]]

@@ -2,6 +2,7 @@
 classification: selgon
 PC: false
 aliases:
+  - Fizban
 ---
 
 Bahamut is the son of one of the Epic Gods. He was the son of the [[Silent One]] and of [[Iris]], but his parents were killed by the [[Broodmaker]].  The broodmaker loved him more than [[Tiamat]], his own daughter. Bahamut was used as bait to kill the Broodmaker.

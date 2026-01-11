@@ -5,4 +5,4 @@ birth:
 death:
 PC:
 ---
-worships baalzebub
+A teifling and warlock of [[Ba'al'zebul]].

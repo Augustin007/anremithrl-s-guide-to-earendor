@@ -7,32 +7,21 @@ aliases:
   - Darkness
   - Pit
 ---
-## Introduction
+Tartarus was born among the Dusk from the very edges of the Universe and the [[Abyss]], But he was more akin to the firstborn than to the Dusk, both in level of power and in temperament, and never took a liking for time and space, choosing instead to dwell deep in the Abyss, where he developed a connection with [[Shar]]. The two are always of one mind, and no strife or lies have ever passed between them.
 
-Tartarus is a Primordial being, a figure of immense power and complexity who dwells in the [[Abyss]]. Unlike other Primordials, Tartarus exhibits a nature more akin to the Dawn, making him a unique entity among his peers. This document aims to explore the enigmatic character of Tartarus, his alliances, and his role in the cosmic events that have shaped the Universe.
+He was a creature of destruction, that delighted in suffering, and so was Shar, and the two became greatly united, and developed a strange sort of care for the other. 
 
-## Origin
+He and Shar saw [[Atropus]] wishing to rebel and encouraged him, lying and offering support. While he saw through their lies, and succefully manipulated them into helping more than once[^1], their encouragement and manipulation did affect him and he would not have begun to gather allies. Tartarus subtly convinced [[Dur-baagal]] that Atropus was being too careful and too slow and enticed him to begin his attack on his own, causing the Eternal Wars.
 
-Tartarus was born from the edges of the [[Eärendor|Universe]], formed from the quasi-planes that materialized where the Universe touched the beyond. His essence is a blend of the Abyss and elements that are beyond Aether and Time, making him a creature of Emptiness.
+He protected the Celestials from the epic dragons, since it angered Asgorath, and had [[Auril]] and Dur-baagal fight to the death for his amusement, and agreed to aid the winner. When Auril won he helped the Celestials win the Eternal Wars.
 
-## Characteristics
+During this time, Tharizdun developed a fondness for [[Tharizdun]] and [[Acheron]], who did not get along with each other, and so it was that when Tharizdun was hurt, and Asmodeus asked for Tartarus's help, Tartarus put a bit of his essence into Tharizdun. 
 
-Tartarus is a creature of destruction, much like his wife [[Shar]], with whom he shares an unbreakable bond. The two are always of one mind, and no strife or lies have ever passed between them. His nature sets him apart from other Primordials of Dusk, aligning him more closely with the Dawn.
+He and Shar used that bit of essense to talk to Tharizdun, and convinced him to begin the Sundering War, which they saw as just an extension of the Eternal Wars. 
 
-## Alliances and Conflicts
+Tartarus was eventually tricked and captured by the [[Lady of Pain]][^2]. He siphoned of [[Ashdilkir]]'s sanity to survive [[The Labyrinth of Insanity]]. He was freed by [[Nil'ge'tar Remshi'ul|Nil'ge'tar]] shortly before Nugget's original death[^2], and began preparing to destroy the Tree of Sanctuary to awaken Asgorath[^1].
 
-### The Eternal Wars
+Asmodeus claimed that Tartarus was the only primordial who ever scared him.[^1]
 
-Tartarus played a passive role in the Eternal Wars, orchestrating events from the Abyss and watching the evil unfold. He later joined forces with [[Atropus]] and [[Dur-baagal]], albeit temporarily, to tip the scales in favor of the Dusk.
-
-### Alliance with the Gods
-
-During the rise of the [[Epic Dragons|Dragons]], Tartarus allied himself with the gods to defeat these new threats. His alliance was not just out of admiration for [[Auril]]'s prowess but also out of a primal need for survival. He helped the gods trick and defeat the Dragons but retreated once the immediate danger had passed.
-
-## Role in the Imprisonment of Asgorath
-
-Tartarus did not participate in the capture and imprisonment of [[Asgorath]]. His alliance with the gods was limited to the defeat of the Dragons, and he returned to the Abyss once that objective was achieved.
-
-## Conclusion
-
-Tartarus is a Primordial of great power and complexity, whose actions and alliances have had a profound impact on the cosmic balance. His unique nature and strategic alliances make him a key player in the unfolding drama of the Universe, yet his ultimate goals remain as enigmatic as the Abyss he calls home.
+[^1]: *Source:* [[Shadows of Divinity]]
+[^2]:  *Source:* [[Echoes of Divinity]]

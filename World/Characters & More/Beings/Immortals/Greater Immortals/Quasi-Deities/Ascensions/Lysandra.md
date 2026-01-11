@@ -17,8 +17,9 @@ Lysandra was a priestess of [[Selune]], the primordial of light. In a moment of 
 
 Selune transformed her into a quasi-primordial being, and Lysandra became the spirit of the Moon.
 
-Lycanthropy began as a curse on one of her enemies.
+Lycanthropy began as a curse on one of her enemies.[^2]
 
-The islands of Lys became known for Lysandra, to the point where the names were conflated. By the year 1600, the islands are firmly known as Lysandra.[^1]
+The islands of Lys became known for Lysandra, to the point where the names were conflated. By the year 1600, the islands were firmly known as Lysandra.[^1]
 
 [^1]: *Source:* [[Shadows of Lysandra]]
+[^2]: *Source:* [[Traces of Divinity]]

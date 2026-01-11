@@ -1,12 +1,6 @@
-# The Sol’karis: The Wandering Order of Magic and Mercy  
-
-### Origins and Purpose  
-
 The Sol’karis is a small but deeply respected order operating within sections of the Chiss Empire. Originally founded as a haven for persecuted mages, the order has evolved into a loose collection of scholars, healers, and wanderers who seek to balance knowledge with service. The government of the Chiss Empire recognizes the order’s neutrality, granting them exemption from taxes and respecting their role as an asylum for those seeking refuge from magical persecution.  
 
 Though never particularly wealthy or powerful, the Sol’karis has endured for centuries, not through force or conquest but by offering guidance, wisdom, and aid to those in need.  
-
-### A Tradition of Balance: Knowledge and Service  
 
 At its heart, the Sol’karis is dedicated to two principles: the pursuit of knowledge and the responsibility to use magic for the greater good. However, how that balance should be struck has always been a point of contention.  
 
@@ -19,8 +13,6 @@ This divide is not formalized into factions, but it is deeply felt.
 
 The two perspectives often clash, but neither side holds dominance over the order. The Sol’karis remains a gathering of individuals rather than a rigid hierarchy, bound together by shared values rather than strict doctrine.  
 
-### Operations and Influence in the Chiss Empire  
-
 Unlike larger magical institutions or religious orders, the Sol’karis does not wield political power or military strength. It exists at the edges of society, operating with the quiet approval of the Chiss Empire, which tolerates their presence so long as they do not interfere too greatly in affairs of state.  
 
 The Chiss government has granted them several privileges, including:  
@@ -28,9 +20,8 @@ The Chiss government has granted them several privileges, including:
 - Recognition of Asylum – Those who seek sanctuary within the Sol’karis halls are protected from arrest or persecution while within their walls.  
 - Neutrality in Conflicts – The empire does not expect the Sol’karis to take sides in political disputes or wars, though individual members sometimes choose to act on their own convictions.  
 
-Despite these allowances, the Sol’karis is not a major player in imperial politics. They operate in the margins of the Chiss Empire, often seen as eccentric recluses or well-meaning meddlers rather than an institution of power.  
+The Sol’karis are not a major player in imperial politics. They operate in the margins of the Chiss Empire, often seen as eccentric recluses or well-meaning meddlers rather than an institution of power.  
 
-#### Sol’karis Halls  
 While many members live nomadic lives, the order does maintain a handful of modest halls scattered throughout the Chiss Empire. These halls serve as:  
 - Libraries and archives for magical research.  
 - Shelters for travelers and refugees seeking safety.  
@@ -39,15 +30,12 @@ While many members live nomadic lives, the order does maintain a handful of mode
 
 These halls are small, sparsely funded, and often in remote areas, relying on donations and trade to sustain themselves. While the empire permits their existence, it does not actively support them.  
 
-#### The Wandering Sol’karis  
 Many members of the Sol’karis choose to travel rather than remain in one place. These wanderers act as:  
 - Mediators and healers, tending to rural communities and travelers in need.  
 - Archaeologists and explorers, searching for lost knowledge and magical artifacts.  
 - Defenders against rogue mages, bandits, and magical creatures.  
 
 These wandering mages are the most visible face of the Sol’karis, often seen as folk heroes or wandering sages in the regions where they travel.  
-
-### Reputation and Challenges  
 
 - Some see them as harmless scholars, out of touch with the practical needs of the empire.  
 - Others view them as troublemakers, interfering in matters that do not concern them.  

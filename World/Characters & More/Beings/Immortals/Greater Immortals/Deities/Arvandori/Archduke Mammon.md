@@ -13,4 +13,6 @@ During the Sundered War, he bribed leaders among men with promises of great rich
 
 He has generally chosen to show himself with a long beard and a wide smile on his face, sitting on a throne covered in gold coins. 
 
-[[Isendra]] did not invite him to leave the nine hells with her.
+[[Isendra]] did not invite him to leave the nine hells with her.[^1]
+
+[^1]: *Source:* [[Shadows of Divinity]]

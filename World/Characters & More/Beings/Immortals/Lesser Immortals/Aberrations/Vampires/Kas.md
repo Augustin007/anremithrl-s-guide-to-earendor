@@ -1,6 +1,6 @@
 ---
-classification: vampire
-formerly: human
+classification: Timeless
+formerly: human vampire
 race: toris
 birth: 1245 BS
 death: 295 BS
@@ -30,4 +30,11 @@ He ruled much of Bremen in secret.
 
 He often checked the other pieces, making sure they hadn't been used.
 
-He woke up one day hearing [[Tartarus]]'s voice in his ears, warning him one of the pieces had been stolen. Kas tracked down the left arm to [[Tal'berius Tarrilion]], and fought him, accidentally allowing [[Tahlia Tormund]] to get the eye.
+He woke up one day hearing [[Tartarus]]'s voice in his ears, warning him one of the pieces had been stolen. Kas tracked down the left arm to [[Tal'berius Tarrilion]], and fought him, accidentally allowing [[Tahlia Tormund]] to get the eye.[^1]
+
+He became concerned with [[Asmodeus]]'s doings and hired his daughter Aeoife to infiltrate the NAF and spy on Asmodeus.[^2]
+
+When she was captured by the [[DragonArrow]] Company, he spoke to Ashdilkir to help rescue their daughter, and helped her ascend to Ashariel. During [[The Shattering]], he was pushed through the Conduit and thrown out of time itself by [[Ghalen]].[^2]
+
+[^1]: *Source:* [[The Path of Honor]]
+[^2]: *Source:* [[Shadows of Divinity]]

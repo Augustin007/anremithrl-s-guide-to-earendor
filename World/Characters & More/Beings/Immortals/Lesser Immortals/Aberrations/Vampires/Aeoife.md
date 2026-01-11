@@ -8,7 +8,7 @@ aliases:
   - shadow
 ---
 
-Aeoife was the twin sister of Scathatch, and they were the daughters of the first vampires, and dangerous creatures. They devoted their lives to studying combat.
+Aeoife was the twin sister of Scathatch, and they were the daughters of the [[Kas]] and [[Ashdilkir]], and dangerous creatures. They devoted their lives to studying combat.
 
 They inherited some vampiric traits.
 
@@ -28,10 +28,25 @@ She avoided her sister.
 
 Eventually, she ended up in [[United Kingdom of Veloria]], where bounty hunting was especially lucrative. She met and intensely disliked [[Valus]], who had been taught by Scathatch, and came bearing a message of reconciliation from her sister, which she denied, sending him back to tell Scathatch.
 
-Aeoife denied several more attempts from Scathatch. Sometimes in person In the end she tried to kill [[Scathatch]] and her apprentice [[Joanna]], who overpowered her and refused to harm her, leaving her there.
+Aeoife denied several more attempts from Scathatch. Sometimes in person. In the end she tried to kill [[Scathatch]] and her apprentice [[Joanna]], who overpowered her and refused to harm her, leaving her there.
 
 Scathatch did not again attempt to contact her sister.
 
 Aeoife would go on to meet the swordsman [[Niten]] and marry him. When he was old, she approached Valus and asked him where he had purchased his immortality. Valus refused to answer. Aeoife then attempted to track down her sister, who had granted immortality to Joanna. While she was desperately seeking Scathatch, Niten died alone in Veloria, awaiting Aeoife's return. Aeoife did not yet know this by the time she tracked down Scathatch. Scathatch refused to see her sister at first, but hearing the situation, finally agreed to speak to Aeoife. During the delay, Aeoife received the news of Niten's death, and so Aeoife fled in grief and did not meet Scathatch at the meeting place.
 
 She continued her bounty hunting work in Veloria after this, blaming her sister that she was not there with Niten in his final moments. 
+
+Her father hired her to help the work of the [[Den]], as part of this, she joined [[Asmodeus]] as a spy. He gave her his Elduinari so she could perform a Soul Splice with a number of souls, including [[Nil'ge'tar Remshi'ul]].[^1] 
+
+Scathatch admitted to [[William Treaty]] that she regretted not reconciling with her sister, and suggested William also seek her as an ally. Valus deeply disagreed. William approached her on the 13th of Hammer , which Kas ordered Aeoife to use in an attempt to kill him. [^1]
+
+Aeoife sabotaged William's ship and absorbed several of the crew on board, including [[Halt O'clommel]] and Valus. She was eventually dispelled by William into [[The Dark Regions]]. [^1]
+
+She met [[Sylphrena]] in The Dark Regions used Syl's bond with [[Naras Vorasthar]] to reform, and left them unharmed.[^2]
+
+She attacked [[Baron Daron]] and the [[Analyst]] to obtain a Vial of Asmodean Ichor, but was turned into a sheep and dropped into a pocket dimension with a slower time.[^1]
+
+She was freed by her parents during [[The Shattering]].[^1]
+
+[^1]: *Source:* [[Shadows of Divinity]]
+[^2]: *Source:* [[The Path of Honor]]

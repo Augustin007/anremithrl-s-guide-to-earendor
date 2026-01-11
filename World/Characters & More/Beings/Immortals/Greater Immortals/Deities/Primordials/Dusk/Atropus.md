@@ -6,30 +6,23 @@ aliases:
   - Elder Evil
   - Atropus the Elder Evil
 ---
-## Introduction 
 
-Atropus, also known as the Elder Evil, is a malevolent Primordial figure in the cosmic narrative. He is a harbinger of entropy, decay, and destruction. Initially a part of the Primordials of Dusk, Atropus eventually becomes a central antagonist, leading rebellions and manipulating events to serve his dark ambitions.
 
-## Origin and Characteristics
+Atropus came into existence as an effect of the creation of the Universe, and was a Dusk Primordial. 
 
-Atropus came into existence as one of the Primordials of Dusk. Unlike his peers, he embodies the essence of destruction and decay. He is known for consuming Aether and leaving behind pure negative energy. His nature sets him apart, making him a feared and isolated figure among both the Dawn and Dusk.
+He was deeply annoyed at the lack of consideration by the Dawn in regards to the Dusk. And had a number of grievances against the Cosmic Twins in particular. [[Grumbar]] called him the most intelligent of the dusk[^1].
 
-## Role in the Eternal Wars
+He plotted for a long time, and deeply, and listened to the councils of [[Shar]] and [[Tartarus]], and recognised their attempts to manipulate him, but fell for it anyways. He learned from them and used this knowledge to gain the aid of [[Dur-baagal]], who felt spurned by [[Istishia]] and [[Akadi]]. 
 
-Atropus plays a pivotal role in the Eternal Wars, leading the rebellion alongside [[Dur-baagal]], the Cold and Cruel. Initially successful, their alliance eventually crumbles due to internal conflicts and the intervention of the Cosmic Twins, [[Asgorath]] and [[Arambar]]. His manipulation extends to sowing discord among the Elemental siblings, leading to infighting and weakening the Dawn's unity.
+Atropus garnered the sympathy of [[Nehusta]] and [[Telos]][^2], but failed to convert them fully to his side. He tricked them into becoming a distraction when he and Dur-baagal attempted to reshape a region of the Planes to make their own. It failed badly, forcing them to absorb a vast amount of quiddity, overwriting the twins' will and leaving behind pure negative energy, imbalancing the flow of time and wrecking the planes. The centre of their action was pulled towards the [[Abyss]], and became the [[The Dark Regions|Dark Regions]]. 
 
-## Creation of the Celestials
+Atropus was able to convince [[Ubtao]], who had seen them, to keep it a secret as the twins attempted to discover what had happened. But as the Dawn suspected them, Atropus and Dur-baagal fled, and Shar hid them. Atropus pressured Ubtao to aid them, lest Atropus reveal Ubtao's concealment of the culprits. But before the last of Atropus's plans could fall in place, Dur-baagal, emboldened, began the attack and took Akadi for himself.
 
-Not to be outdone by Dur-baagal's Elohim, [[Atropus]] collaborates with [[Kossuth]], [[Akadi]], and [[Istishia]] to create the Celestials—beings of divine power. These Celestials are initially used to counter Dur-baagal's Elohim but later serve Atropus' darker purposes.
+This would begin the Eternal Wars. 
 
-## Betrayal and Manipulation
+At one point in the wars, and in an attempt to rival Dur-baagal's Elohim. 
 
-After the defeat of Dur-baagal, Atropus seizes control of the Celestials, turning them against his former allies. 
+[[Atropus]] collaborated with [[Kossuth]], [[Akadi]], and [[Istishia]] to create the Celestials, but secretly built into them obedience to him, and used the Celestials to win many victories until [[Arambar]] freed them from his will, and they rebelled against him, destroying him.
 
-## Downfall and Legacy
-
-Atropus meets his end when the Celestials, granted free will by Arambar's final act, rebel against him. Despite his downfall, his actions leave an indelible mark on the cosmic landscape, contributing to the ongoing chaos and setting the stage for future conflicts.
-
-## Conclusion
-
-Atropus is a complex figure whose actions drive much of the cosmic narrative's conflict. His thirst for destruction and manipulation make him a formidable antagonist, and his legacy continues to influence the balance of power in the universe.
+[^1]: *Source:* [[Origins of the Greenclad]]
+[^2]: *Source:* [[Echoes of Divinity]]

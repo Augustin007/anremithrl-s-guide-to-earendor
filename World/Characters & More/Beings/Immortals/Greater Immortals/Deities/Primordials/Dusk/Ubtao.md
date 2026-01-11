@@ -7,23 +7,16 @@ aliases:
   - Deciever
   - Ubtao the Deciever
 ---
-## Introduction
-Ubtao, once known as the Heartseer, was a Primordial of unique abilities and complex allegiances. He possessed the rare gift of perceiving the hearts and minds of all beings, a gift that eventually led to his downfall. This document delves into the life, abilities, and ultimate betrayal of Ubtao, who was later named the Deceiver.
 
-## Origins
-Ubtao was a Primordial of Dusk, born from the ever-expanding tapestry of existence. Unlike his more malevolent or elemental siblings, Ubtao was more introspective, preferring the quiet depths of the Root Hold within the [[Caverns of Stillness]]. His unique ability allowed him to perceive the innermost thoughts and feelings of all beings, even those as distant and enigmatic as [[Isfet|Chaos]] and [[Ao|Order]].
+Ubtao, of the Dusk, was known as the Heartseer. He was born in the heart of the universe, in its first essense, and his soulbond expanded across all of it. Thus he could see all that occurred everywhere and at once, including into the innermost thoughts of all beings, even [[Ao]] and [[Isfet]] themselves. Though as time passed the primordials learned how to avoid his notice if they so desired.
 
-## Akadi
-[[Akadi]] was the only Primordial who could visit Ubtao without disturbing him. And she loved him. And when he was slain she was greatly saddened.
+But it was overwhelming to him, and he tried to shut his mind away to it, and chose to dwell the the most still part of the universe, and was disturbed if anyone came to him. [[Akadi]] was the only Primordial who could visit Ubtao without disturbing him. And she loved him, and he perceived it and loved her back. 
 
-## The Eternal Wars and Betrayal
-During the Eternal Wars, Ubtao found himself in a precarious position. When questioned by the Cosmic Twins about the destruction wrought by Atropus and Dur-baagal, he chose to lie, sowing seeds of doubt and suggesting that the destruction could have been an accident. This act earned him the title of the Deceiver.
+Certain accounts claim that there is a descendent of the two of them. One of these accounts was found by [[Duren Vorasthar|Duren]], but gave no name or details.[^1] The [[Cobalt Archive]] tediously removes any reference to this. [[Methunroa]] suspected this to be hiding some great secret, but [[Theriad]] believed it was likely nothing.[^2]
 
-## Downfall
-His betrayal was eventually discovered by the Cosmic Twins. In a final confrontation in the Root Hold, Ubtao was slain by [[Asgorath]] and [[Grumbar]], his essence scattered across the planes. This act caused a rift between Akadi and her brothers, as she had admired Ubtao and was angered by his death.
+When [[Atropus]] began carrying out his plan, he made sure to remain in overwhelming places when he thought of it, thus making sure that Ubtao would not focus his mind on Atropus. When Atropus and Dur-baagal did cause a disturbance, thus attracted Ubtao's attention. Atropus convinced him to say nothing in order to avoid conflict. When [[Asgorath]] and [[Arambar]] attempted to question Ubtao, he lied and said it must have been some strange accident, but had seen nothing. 
 
-## Legacy
-Ubtao's legacy is one of complexity and tragedy. His unique abilities could have made him a mediator and peacemaker, but instead, they led him down a path of deception and ultimately to his demise. His actions during the Eternal Wars had far-reaching consequences, affecting the alliances and outcomes of many battles.
+His betrayal was eventually discovered by the Dawn. In a final confrontation in the Root Hold, Ubtao was slain by Asgorath and [[Grumbar]], his essence scattered across the planes. This act caused a rift between Akadi and her brothers, as she was angered by his death.
 
-## Conclusion
-Ubtao, the Deceiver, remains a cautionary tale in the annals of Primordial history. His choices during critical moments shaped the course of the Eternal Wars and left an indelible mark on the relationships between the Primordials. Though his essence is scattered, the impact of his actions continues to reverberate through the planes.
+[^1]: *Source:* [[Shattering of Shadows]]
+[^2]: *Source:* [[Adventures in Arthulion]]
