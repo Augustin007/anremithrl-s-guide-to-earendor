@@ -51,7 +51,7 @@ Tar'nil's younger son
 [[Vecna]]†
 [[Gorthaur]] (The Darkness that Is)
 [[Marethyu]]
-[[Baalzebub]]
+[[Ba'al'zebul]]
 [[Ashdilkir]]
 **The Children**
 [[Aric Vael]]

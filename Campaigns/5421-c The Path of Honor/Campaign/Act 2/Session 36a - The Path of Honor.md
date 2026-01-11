@@ -15,7 +15,7 @@ Hesina is clearly suspicious of Ivvan and after leaving has ordered Ivvan to com
 
 Ivvan considers different ways of handling Aegreth.
 
-Ivvan speaks with advisor Zar’thal Krenvaar. 
+Ivvan speaks with advisor Zar’thal Crevaar. 
 
 |              Previous               |       Campaign        |                Next                 |
 | :---------------------------------: | :-------------------: | :---------------------------------: |

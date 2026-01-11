@@ -11,7 +11,7 @@ status: ongoing
 [[Ekenon]]
 
 #### Other Major Characters
-[[Baalzebub]]
+[[Ba'al'zebul]]
 [[Kalquend (familiar)]]
 
 #### Summary

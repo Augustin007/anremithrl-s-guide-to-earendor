@@ -151,7 +151,7 @@ Tarnoth is born to Renk and Jolvin
 
 #### Bravnek Blues 
 
-Duthrim and Lorim move to the hamlet of Bravnek shortly after the Rebellion. Far from the dominion, as far north as Khazad, where Lorim's parents, Wilgar and Narbrin live, seeking peace in the country and foothills. Jolvin and Birkgar stayed in Bravnek during the rebellion. Lorim's parents are somewhat older anyways, and they move in to take care of the family estate.
+Duthrim and Lorim move to the hamlet of Bravnek shortly after the Rebellion. Far from the dominion, as far north as Khazad, where Lorim's parents, Wilgar and Nabrin live, seeking peace in the country and foothills. Jolvin and Birkgar stayed in Bravnek during the rebellion. Lorim's parents are somewhat older anyways, and they move in to take care of the family estate.
 
 Winter has just begun, in a few months it will be the Feast of Lights. Birkgar, who was two when his parents left, and is now four, is somewhat distant and far more attached to Wilgar, but even more attached to his brother. The two brothers are inseparable. Jolvin is eight and "almost nine".
 

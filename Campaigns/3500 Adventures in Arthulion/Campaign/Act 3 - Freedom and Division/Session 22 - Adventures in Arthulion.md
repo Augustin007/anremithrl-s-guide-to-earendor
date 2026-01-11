@@ -5,6 +5,7 @@ campaign: Adventures in Arthulion
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
 |[[Session 21 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 23 - Adventures in Arthulion]]|
+
 Lira spends time talking to Jason. She helps him feel better.
 
 Jason spends most days in the duelling yard. His fights have become exhibitions, half sport and half spectacle. Lira watches from the balcony, sometimes cheering, sometimes turning away when his blows land too hard. He wins a silver token in the monthly tournament and hands it to her without explanation. She keeps it.
