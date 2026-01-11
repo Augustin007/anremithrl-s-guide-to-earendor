@@ -1,0 +1,1 @@
+The research done by Elorin Valthor. It also contained in secret code his diary of his encounters with the [[Bechel of Bharam|dreamers]]. This diary would at one point be taken by [[Jason Naiyar]] after Elorin's death.

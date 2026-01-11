@@ -114,6 +114,8 @@ Now, your soul does regenerate its bond, as long as there isn't a source of Nega
 
 As no folds are known, there are no forces it applies to matter. These are forces in metaphor only. The forces of life and death. Of willpower.
 
+The Singular Axon is known as the magic of Connection. Having large amounts charge in it is very powerful, but amassing it requires destroying people's soul-bond and harvesting the charge. This can only be done at the exact moment of death. To do this you would require large amounts of living beings sacrificed. The more intelligent, young, and sentient, the more magic you can squeeze out. Hechilspet used this to ascend into godhood and it was how he powered his cult. 
+
 The Singular Axon is the only true bit of magic here. Everything else is just physics.
 
 #### Nonstandard Axons
@@ -239,3 +241,23 @@ Healing Edicts, which use self-image, and biology, to reform the body. Having in
 
 ### Location
 The structure of the topology gives us the planes. Different local structures and topologies affect the way magic seems to work. For example around portals, which affect the minimum local dimensionality and makes thus the surfaces shown by Gauss's law to be a lot larger than they are meant to be. 
+
+### Materials
+
+Different materials interact with magic differently as well.
+
+Metals in particular have all sorts of different effects. Cobalt's effects are why the Sorian Order (often called the Cobalt Archive), stores its knowledge in an archive deep in Cobalt mines. 
+
+Alloys and the like tend to be less able to conduct magic compared to 'pure' metals. This is more a rule of thumb than an actual rule.
+
+Brass is almost impossible to stick magic onto. It's not antimagic, magic works perfectly fine around brass, just not on brass itself. It's magic-slippery. Try to cast a levitation spell on brass and you'll end up levitating something near the brass instead. Steel is decently magic-slippery almost like trying to put a sticker on a surface with oil on it. Technically possible but very difficult. The technical term in-world is snidic. Snidic materials are often used for locks that you don't want affected by knock spells, or for armour and weapons. There are whole branches of spellwork devoted to trying to get a spell to stick to a snidic material.
+
+Silver and gold and obsidian are not snidic. In fact, they are magically conductive. They tend to attract magic, to some extent. They can conduct and redirect it, and store it to some extent. It will vary depending on the metal and axon. Gold is a conduit and reservoir for the Field axon, Silver is for Draw axon, obsidian is for Entropic axon. Gold, silver, and other things that are like sponges for magic tend to rust or oxidise in other ways (burn up) as the magic leaves them, making magical transport expensive, and preventing those materials from working as wires. That being said, these sorts of effects often are needed for spells, and create a need for material components. There are also materials that make good reservoirs but are not conduits, and vice-versa.
+
+There's all sorts of different interactions between axons and metals. Particularly some of the nonstandard axons, and strange metals.
+
+Positive and negative magic ignore this. They are more attracted to willpower and emotions. To life. Living materials. Abiotic material is dead to them. They tend to ignore metals and the like. They are weird. 
+
+There is a type of crystal, called Stellatite, that can hold magic without decay, being a perfect reservoir and conduit. Unfortunately it is rare and dangerous to mine. It appears in small geodes about a mile or so under the impossible mountains, and in some areas in the Shattered Region. It is highly expensive, but it is used in forming arcane batteries, and other magic items. So far nobody has been able to synthesise it.
+
+A similar material, called Zhanite, is a perfect conductor for Draconic magic specifically, and formed in Izar.

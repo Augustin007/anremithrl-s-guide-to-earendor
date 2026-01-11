@@ -641,6 +641,9 @@ PROJECTED
 Auril and Liriel attack the encampment at the Tree. Liriel is UnCharmed by Colossus, but continues to work with Auril to defeat them, but is forced to retreat. Liriel leaves behind the silver ravens.
 [[Session 35a - The Path of Honor]]
 Tepozo, Leren, and Naras continue to work in the Caves of Karr. Syl tries to find a way out for them. They meet Nirhak.
+[[Session 36a - The Path of Honor]]
+Ivvan in Carabran.
+
 ## 30th of Hammer
 Liriel frees Aric. 
 

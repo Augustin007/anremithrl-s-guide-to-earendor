@@ -86,5 +86,4 @@ Sometimes considered part of Ereskaal, the name of the continent changed over ti
 - Swanward: Fantasy England. Large island to the South-west of Foedus. Based also on Araluen. The Swanward rangers are a major force. They use Pounds, but also accept Paros.
 - Lysandr: A vast archipelago of hundreds of islands, east of Taur. Each island functions semi-independently, but they have a shared cultural heritage. Somewhat inspired by Greek culture.
 ## Izar
-Lore of Izar has been granted to someone else, who is DMing a game in my world and asked for a region to be allowed to write lore for:
-- Alyeluma, Amnarinas, Chaulhone, Aethyrwin, Famele, Linleandra, Alsemar, Himsenat
+Lore of Izar has been granted to someone else, who is DMing a game in my world and asked for a region to be allowed to write lore for. 

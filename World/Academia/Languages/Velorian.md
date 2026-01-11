@@ -1,4 +1,3 @@
-# Velorian Linguistics: The Language of a Rising Empire
 
 ## I. Introduction to Velorian Language
 
