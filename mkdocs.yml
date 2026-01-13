@@ -1,0 +1,6 @@
+site_name: Obsidian Vault
+theme:
+  name: material
+
+docs_dir: Vault
+site_dir: site
