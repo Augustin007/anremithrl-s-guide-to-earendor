@@ -1,51 +1,46 @@
-# .github/workflows/deploy.yml
-name: Build and Deploy Obsidian Vault Site
+# .github/workflows/deploy-mkdocs.yml
+name: Build and Deploy Obsidian Vault as MkDocs Site
 
 on:
   push:
-    branches: [ "main" ]  # Replace with your default branch if different
+    branches:
+      - main
+  workflow_dispatch:
 
 permissions:
-  pages: write           # Required permission to deploy to GitHub Pages
+  contents: read
+  pages: write
   id-token: write
 
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repository
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
-      # Step 2: Set up Python
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      # Step 3: Install MkDocs and theme
-      - name: Install site dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material
-          # You can install additional MkDocs plugins if needed
-          # e.g., pip install mkdocs-awesome-pages-plugin
 
-      # Step 4: Build the static site
-      - name: Build MkDocs site
+      - name: Build the MkDocs site
         run: mkdocs build --clean
 
-      # Step 5: Upload build output as a Pages artifact
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
       - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
-          path: ./site  # MkDocs outputs the site by default into 'site/'
+          path: site/
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
