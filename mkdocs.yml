@@ -2,5 +2,5 @@ site_name: Obsidian Vault
 theme:
   name: material
 
-docs_dir: .
+docs_dir: guide-to-earendor
 site_dir: site
