@@ -1,6 +1,26 @@
-site_name: Obsidian Vault
-theme:
-  name: material
+site_name: Anremithrl’s Guide to Earendor
+site_url: https://augustin007.github.io/anremithrl-s-guide-to-earendor/
 
 docs_dir: guide-to-earendor
 site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+
+plugins:
+  - search
+  - roamlinks
+  - obsidian-support
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - attr_list
+  - toc:
+      permalink: true
+

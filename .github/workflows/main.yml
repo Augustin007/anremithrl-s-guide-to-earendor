@@ -1,10 +1,8 @@
-# .github/workflows/deploy-mkdocs.yml
-name: Build and Deploy Obsidian Vault as MkDocs Site
+name: Build and Deploy MkDocs Site
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -13,7 +11,7 @@ permissions:
   id-token: write
 
 jobs:
-  build_and_deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,24 +21,28 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install mkdocs mkdocs-material
+          pip install \
+            mkdocs \
+            mkdocs-material \
+            mkdocs-roamlinks-plugin \
+            mkdocs-obsidian-support-plugin
 
-      - name: Build the MkDocs site
+      - name: Build site
         run: mkdocs build --clean
 
-      - name: Configure GitHub Pages
+      - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: site/
 
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy
         uses: actions/deploy-pages@v4
+
