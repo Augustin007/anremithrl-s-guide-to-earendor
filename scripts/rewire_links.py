@@ -13,6 +13,7 @@ vault = otools.Vault(ROOT).connect().gather()
 # Build a map: note slug -> full relative path (as Path)
 note_map: dict[str, Path] = {}
 for raw_path in vault.md_file_index:
+    print(raw_path)
     # Ensure it's a Path object
     path = Path(raw_path)
     # Create a slug path relative to the vault root
