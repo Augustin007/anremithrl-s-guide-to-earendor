@@ -82,60 +82,14 @@
             "id": "d993b4d538352f64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 28 - Adventures in Arthulion"
-            }
-          },
-          {
-            "id": "81cb26a2bf285857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35b - The Path of Honor.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Session 35b - The Path of Honor"
-            }
-          },
-          {
-            "id": "0f7b8a16cfb1c0c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d0d154928fef52c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Calendar/Calendar - Old.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Calendar - Old"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -167,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Thilcerth",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -342,7 +296,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 546.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,55 +313,56 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0f7b8a16cfb1c0c1",
+  "active": "d993b4d538352f64",
   "lastOpenFiles": [
-    ";temp-todo.md",
-    ";temp-Notes.md",
-    "World/Characters & More/Beings/Mortals/Evenon.md",
-    "World/Characters & More/Orders/The Sol'karis.md",
-    "World/Characters & More/Orders/Sons of Xandred.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 36a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34b - The Path of Honor.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 28 - Adventures in Arthulion.md",
-    "World/Characters & More/Characters List.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
-    "World/Calendar/Calendar - Old.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28b - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 27 - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33a - The Path of Honor.md",
-    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 27 - Adventures in Arthulion.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Ka'vral'tar Remshi'il.md",
-    "Meta/Obsidian Tools/Shortest Files.md",
-    "World/Characters & More/Beings/Mortals/Gnome/Alphie.md",
-    "World/Characters & More/Beings/Mortals/Human/Jason Naiyar.md",
-    "World/Academia/Law",
-    ";temp-arth",
-    "World/Timeline/12 The Age of Ash",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Stories",
-    "Meta/Decks/Tarot/14-Temperance.png",
+    "guide-to-earendor/Meta/Unfinished/;temp-todo.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-Stroman.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-Notes.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt3.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt2.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt1.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt0.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt-1.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-adventures.md",
+    "guide-to-earendor/Meta/Unfinished/;temp-arth",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 36a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28b - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28a - The Path of Honor.md",
+    "guide-to-earendor/Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Stories",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2",
+    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 1",
+    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 4",
+    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 3",
+    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 2",
+    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 1",
+    "guide-to-earendor/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 6 - Ancient Whispers",
+    "guide-to-earendor/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 5 - Otherwordly Oddesey",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Uldren Nashol.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Torquil Leogan.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Tar’id’lion’nil Remshi’ul.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Talor.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Sylphrena.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Qorneth Nashol.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Naras Vorasthar.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Ivvan Maeror.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Giggle Jiggles.png",
+    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
+    "guide-to-earendor/Meta/Unfinished/Untitled.canvas",
     "Meta/Unfinished/Untitled.canvas",
-    "World/Academia/Literature",
-    "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
-    "Meta/Standard/Campaign/{start}-{end} {name}/Campaign",
-    "Meta/Standard/Campaign/{start}-{end} {name}",
-    "Meta/Standard/Campaign",
-    "Meta/Standard/Untitled.base",
-    "Meta/Images/The Children/Liriel Danstal.png",
-    "Meta/Images/The Children/Kerran Thorol.png",
-    "Meta/Images/The Children/Aric Vael.png",
-    "Meta/Images/Tokens/Art/Torquil Leogan.webp",
-    "Meta/Images/Tokens/Art/Serin Rathir2.webp",
-    "Meta/Images/Tokens/Art/Screenshot 2025-01-25 at 00-33-16 Auril image - Google Search.png",
-    "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-55-18 ChatGPT - D&D Tokens.png",
-    "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-29-46 black chromatic dragonborn - Google Search.png",
-    "Meta/Images/Tokens/Art/Screenshot 2025-01-24 at 00-24-54 Ivvan Maeror Illustration Request.png",
     "Untitled.canvas"
   ]
 }
