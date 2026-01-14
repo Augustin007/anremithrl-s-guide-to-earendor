@@ -6,23 +6,14 @@ site_dir: site
 
 theme:
   name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.expand
 
 plugins:
   - search
-  - roamlinks:
-      ignore_missing: true
-      allow_relative: true
-  - obsidian-support
 
 markdown_extensions:
-  - admonition
   - footnotes
   - tables
-  - attr_list
+  - admonition
   - toc:
       permalink: true
 

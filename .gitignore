@@ -2,7 +2,7 @@ Unfinished/
 bin/
 lib*
 pyvenv.cfg
-*.py
+#*.py
 share
 .vim
 #.obsidian
