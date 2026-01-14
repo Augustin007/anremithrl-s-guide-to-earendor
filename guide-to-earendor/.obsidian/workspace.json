@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 34a - The Path of Honor"
+              "title": "index"
             }
           },
           {
@@ -301,6 +301,7 @@
   },
   "active": "8f966f0282d9b29c",
   "lastOpenFiles": [
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}/Session {;number} - {name}.md",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir (Darkness).png",
@@ -336,7 +337,6 @@
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:dunamancy.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid-core.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid,.md",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children",
     "Meta/Images/Tokens/Tokens/The Path of Honor/Players",

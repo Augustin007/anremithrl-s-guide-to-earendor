@@ -30,7 +30,6 @@ note_map: dict[str, Path] = {}
 for raw_path in vault.md_file_index:
     # Ensure it's a Path object
     path = find(raw_path+'.md')[18:-3]
-    print(path)
     #path = Path(find(raw_path)[18:-3])
     # Create a slug path relative to the vault root
     rel = Path(path)#.relative_to(ROOT).with_suffix('')

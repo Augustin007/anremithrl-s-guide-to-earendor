@@ -6,6 +6,14 @@ site_dir: site
 
 theme:
   name: material
+  locale: en
+  color_mode: dark
+  nav_style: light
+  shortcuts:
+    next: 78
+    previous: 80
+    search: 83
+  navigation_depth: 4
 
 plugins:
   - search
