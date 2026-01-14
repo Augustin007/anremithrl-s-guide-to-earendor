@@ -4,6 +4,21 @@ import re
 from pathlib import Path
 
 import obsidiantools.api as otools
+import os
+from typing import Final
+
+
+def find(filename: str) -> str:
+    cwd: Final[str] = os.getcwd()
+
+    for root, _, files in os.walk(cwd):
+        if filename in files:
+            absolute_path: str = os.path.join(root, filename)
+            relative_path: str = os.path.relpath(absolute_path, cwd)
+            return relative_path
+    return filename
+
+#    raise FileNotFoundError(f'File not found: {filename}')
 
 ROOT = Path('guide-to-earendor')
 SITE_PREFIX = '/anremithrl-s-guide-to-earendor'
@@ -13,9 +28,8 @@ vault = otools.Vault(ROOT).connect().gather()
 # Build a map: note slug -> full relative path (as Path)
 note_map: dict[str, Path] = {}
 for raw_path in vault.md_file_index:
-    print(raw_path)
     # Ensure it's a Path object
-    path = Path(raw_path)
+    path = Path(find(raw_path+'.md')[:-3])
     # Create a slug path relative to the vault root
     rel = path#.relative_to(ROOT).with_suffix('')
     slug = rel.as_posix()
