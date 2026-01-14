@@ -5,6 +5,8 @@ from pathlib import Path
 
 ROOT = Path('guide-to-earendor')
 
+SITE_PREFIX = '/anremithrl-s-guide-to-earendor'
+
 WIKILINK = re.compile(r'\[\[([^|\]]+)(?:\|([^\]]+))?\]\]')
 
 def slugify(text: str) -> str:
@@ -17,7 +19,7 @@ def replace(match: re.Match[str]) -> str:
     target = match.group(1)
     label = match.group(2) or target
     slug = slugify(target)
-    return f'[{label}]({slug}/)'
+    return f'[{label}]({SITE_PREFIX}/{slug}/)'
 
 for md in ROOT.rglob('*.md'):
     content = md.read_text(encoding='utf-8')
