@@ -77,19 +77,9 @@
               "icon": "lucide-file",
               "title": "Characters List"
             }
-          },
-          {
-            "id": "d993b4d538352f64",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,8 +222,8 @@
                 "id": "ID_e8190929fb5a",
                 "child": "ID_cadbfa1acbaa"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
@@ -242,8 +232,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -252,8 +242,8 @@
             "state": {
               "type": "MAIN_VIEW",
               "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
+              "icon": "lucide-ghost",
+              "title": "MAIN_VIEW"
             }
           },
           {
@@ -269,6 +259,16 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Ashdilkir"
+            }
+          },
+          {
+            "id": "80954d8827e5378e",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -288,8 +288,8 @@
                 "id": "ID_cadbfa1acbaa",
                 "parent": "ID_e8190929fb5a"
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM_AGENDA"
             }
           }
         ]
@@ -313,56 +313,56 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d993b4d538352f64",
+  "active": "eec10ee5dff78b99",
   "lastOpenFiles": [
-    "guide-to-earendor/Meta/Unfinished/;temp-todo.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-Stroman.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-Notes.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt3.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt2.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt1.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt0.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-prompt-1.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth/;temp-adventures.md",
-    "guide-to-earendor/Meta/Unfinished/;temp-arth",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 36a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 35a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 33a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 32a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 31a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 30a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 29a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28b - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 28a - The Path of Honor.md",
-    "guide-to-earendor/Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Stories",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 2",
-    "guide-to-earendor/Campaigns/5421-c The Path of Honor/Campaign/Act 1",
-    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 4",
-    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 3",
-    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 2",
-    "guide-to-earendor/Campaigns/5420-c Shadows of Divinity/Campaign/Act 1",
-    "guide-to-earendor/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 6 - Ancient Whispers",
-    "guide-to-earendor/Campaigns/5415-5417 Echoes of Divinity/Campaign/ACT 5 - Otherwordly Oddesey",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Uldren Nashol.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Torquil Leogan.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Tar’id’lion’nil Remshi’ul.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Talor.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Sylphrena.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Qorneth Nashol.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Naras Vorasthar.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Ivvan Maeror.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/Players/Giggle Jiggles.png",
-    "guide-to-earendor/Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
-    "guide-to-earendor/Meta/Unfinished/Untitled.canvas",
+    "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}/Session {;number} - {name}.md",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir (Darkness).png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Lirien Vael.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Liriel Danstal.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Kerran Thorol.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Aric Vael.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Uldren Nashol.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Torquil Leogan.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Tar’id’lion’nil Remshi’ul.png",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Talor.png",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:wizard.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:wizard-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:warlock.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:warlock-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:transmutation.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:technomagic.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:sorcerer.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:sorcerer-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:sorcerer,.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:ritual.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:ranger.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:ranger-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:paladin.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:paladin-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:optional.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:necromancy.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:illusion.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:homebrew.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:evocation.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:enchantment.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:eldritch-knight.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:dunamancy.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid-core.md",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid,.md",
+    "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children",
+    "Meta/Images/Tokens/Tokens/The Path of Honor/Players",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells",
+    "Meta/Homebrew/RAW/Character/Extra_Abilities/Disciplines",
+    "Meta/Homebrew/RAW/Character/Classes/Wizard",
+    "Meta/Homebrew/RAW/Character/Classes/Warlock",
+    "Meta/Homebrew/RAW/Character/Classes/Sorcerer",
+    "Meta/Homebrew/RAW/Character/Classes/Sidekick",
+    "Meta/Homebrew/RAW/Character/Classes/Rogue",
     "Meta/Unfinished/Untitled.canvas",
+    "guide-to-earendor/Meta/Unfinished/Untitled.canvas",
     "Untitled.canvas"
   ]
 }
