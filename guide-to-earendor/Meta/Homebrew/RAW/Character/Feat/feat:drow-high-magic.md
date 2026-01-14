@@ -1,3 +1,0 @@
-Source: Xanathar's Guide to Everything
-*Prerequisite: Elf (drow)*
-You learn more of the magic typical of dark elves. You learn the [[spell:detect-magic|detect magic]] spell and can cast it at will, without expending a spell slot. You also learn [[spell:levitate|levitate]] and [[spell:dispel-magic|dispel magic]], each of which you can cast once without expending a spell slot. You regain the ability to cast the spell in this way when you finish a long rest. Charisma is your spellcasting ability for these spells.

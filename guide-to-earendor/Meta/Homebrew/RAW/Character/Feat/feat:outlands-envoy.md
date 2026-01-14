@@ -1,5 +1,0 @@
-Source: Planescape - Adventures in the Multiverse
-*Prerequisite: 4th Level, [[feat:scion-of-the-outer-planes|scion of the outer planes]] (The Outlands) Feat.*
-You have spent significant time in Sigil or the Outlands, the crossroads of the multiverse. Being steeped in converging planar energies grants you these benefits:
-**Ability Score Increase.** Increase an ability score of your choice by 1, to a maximum of 20.  
-**Crossroads Emissary.** You learn the *[[spell:misty-step|misty step]]* and *[[spell:tongues|tongues]]* spells. You can cast each spell once using this feat without a spell slot, and you must finish a long rest before you can cast that spell in this way again. When you cast *[[spell:tongues|tongues]]* using this feat, you require no material components. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the one chosen when you gained the Scion of the Outer Planes feat.

@@ -37,20 +37,6 @@
             }
           },
           {
-            "id": "c493c85e6ec0a8eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Unfinished/Prep.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prep"
-            }
-          },
-          {
             "id": "8f966f0282d9b29c",
             "type": "leaf",
             "state": {
@@ -313,8 +299,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c493c85e6ec0a8eb",
+  "active": "8f966f0282d9b29c",
   "lastOpenFiles": [
+    "Meta/Unfinished/Prep.md",
     "index.md",
     "index,md",
     "Meta/Unfinished/Posts.md",
@@ -352,7 +339,6 @@
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:ranger-core.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:paladin.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:paladin-core.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:optional.md",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children",
     "Meta/Images/Tokens/Tokens/The Path of Honor/Players",
