@@ -1,5 +1,8 @@
-from pathlib import Path
+from __future__ import annotations
+
 import re
+from pathlib import Path
+
 import obsidiantools.api as otools
 
 ROOT = Path('guide-to-earendor')
@@ -7,37 +10,46 @@ SITE_PREFIX = '/anremithrl-s-guide-to-earendor'
 
 vault = otools.Vault(ROOT).connect().gather()
 
+# Build a map: note slug -> full relative path (as Path)
+note_map: dict[str, Path] = {}
+for raw_path in vault.md_file_index:
+    # Ensure it's a Path object
+    path = Path(raw_path)
+    # Create a slug path relative to the vault root
+    rel = path.relative_to(ROOT).with_suffix('')
+    slug = rel.as_posix()
+    note_map[slug] = rel
+
+# Regex for wiki-style links
 WIKILINK = re.compile(r'\[\[([^|\]]+)(?:\|([^\]]+))?\]\]')
 
-# Build a mapping from file path to its slugified output directory
-note_map = {}
-for path, data in vault.md_file_index.items():  # note: md_file_index maps Path->metadata
-    slug = path.relative_to(ROOT).with_suffix('')
-    note_map[path] = slug.as_posix()
-
-def resolve_link(source_path: Path, target_name: str) -> str:
+def resolve(target: str) -> str:
     """
-    Given a source file and the name of a link in its text,
-    use the vault's graph to resolve to a target path (if it exists).
+    Resolve a wiki link target to a root-relative mkdocs URL.
     """
-    # Look up the actual target file directly if possible
-    # vault.md_file_index keys are full Paths
-    for path in vault.md_file_index:
-        if path.stem.lower() == target_name.lower():
-            return f'{SITE_PREFIX}/{note_map[path]}/'
-    # Fallback: render the label as inert
-    return f'{SITE_PREFIX}/{target_name.lower()}/'
+    # Normalize (lowercase and replace spaces with hyphens)
+    key = target.strip().lower().replace(' ', '-')
+    for slug in note_map:
+        # Exact match on slug ending segment
+        if slug.endswith('/' + key) or slug == key:
+            return f'{SITE_PREFIX}/{slug}/'
+    # Fallback: link to target slug at root
+    return f'{SITE_PREFIX}/{key}/'
 
 def rewrite_file(md: Path) -> None:
     text = md.read_text(encoding='utf-8')
-    def repl(m):
-        label = m.group(2) or m.group(1)
-        url = resolve_link(md, m.group(1))
+
+    def repl(match):
+        name = match.group(1)
+        label = match.group(2) or name
+        url = resolve(name)
         return f'[{label}]({url})'
+
     new_text = WIKILINK.sub(repl, text)
     if new_text != text:
         md.write_text(new_text, encoding='utf-8')
 
+# Rewrite every markdown file
 for md_file in ROOT.rglob('*.md'):
     rewrite_file(md_file)
 
