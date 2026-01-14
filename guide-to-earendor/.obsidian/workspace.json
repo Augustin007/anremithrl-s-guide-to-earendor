@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Calendar/Calendar - Old.md",
+                "file": "Meta/Unfinished/Prep.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Calendar - Old"
+              "title": "Prep"
             }
           },
           {
@@ -70,16 +70,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Characters List.md",
+                "file": "World/Characters & More/Beings/Mortals/Human/William Treaty.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Characters List"
+              "title": "William Treaty"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,8 +313,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "eec10ee5dff78b99",
+  "active": "c493c85e6ec0a8eb",
   "lastOpenFiles": [
+    "Meta/Unfinished/Posts.md",
+    "Meta/Unfinished/Travel Distances.md",
+    "Meta/Unfinished/Tyr And Marethyu Dialogue.md",
+    "Meta/Unfinished/Untitled.canvas",
+    "World/Calendar/Calendar - Old.md",
+    "Campaigns/5421-c The Path of Honor/Campaign/Act 2/Session 34a - The Path of Honor.md",
+    "World/Characters & More/Beings/Mortals/Human/William Treaty.md",
+    "World/Characters & More/Characters List.md",
+    "Kaul Voros.md",
+    "Campaigns/5421-c The Path of Honor/The Path of Honor.md",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}/Session {;number} - {name}.md",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir (Darkness).png",
@@ -342,15 +352,6 @@
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:paladin-core.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:optional.md",
     "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:necromancy.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:illusion.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:homebrew.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:evocation.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:enchantment.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:eldritch-knight.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:dunamancy.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid-core.md",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells/spells:druid,.md",
     "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
     "Meta/Images/Tokens/Tokens/The Path of Honor/The Children",
     "Meta/Images/Tokens/Tokens/The Path of Honor/Players",
@@ -361,7 +362,6 @@
     "Meta/Homebrew/RAW/Character/Classes/Sorcerer",
     "Meta/Homebrew/RAW/Character/Classes/Sidekick",
     "Meta/Homebrew/RAW/Character/Classes/Rogue",
-    "Meta/Unfinished/Untitled.canvas",
     "guide-to-earendor/Meta/Unfinished/Untitled.canvas",
     "Untitled.canvas"
   ]

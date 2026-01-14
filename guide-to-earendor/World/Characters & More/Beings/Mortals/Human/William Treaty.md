@@ -9,7 +9,7 @@ aliases:
   - William no-name
   - William
   - DragonArrow
-  - Treaty-ma
+  - Treaty
 ---
 
 

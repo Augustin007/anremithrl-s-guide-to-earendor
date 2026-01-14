@@ -30,7 +30,7 @@ status: ongoing
 [[Ekenon]]
 #### Other Major Characters In the Story
 [[Szinvorn Dyrrith]]
-[[Kaul Voros]]
+[[Voros Kaul]]
 [[Voren]]†
 [[Queen Iselda III]]
 [[Dareth]]†
