@@ -13,7 +13,7 @@ theme:
 
 plugins:
   - search
-  - roamlinks
+  - roamlinks:
       ignore_missing: true
       allow_relative: true
   - obsidian-support
