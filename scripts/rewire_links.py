@@ -17,7 +17,7 @@ for raw_path in vault.md_file_index:
     # Ensure it's a Path object
     path = Path(raw_path)
     # Create a slug path relative to the vault root
-    rel = path.relative_to(ROOT).with_suffix('')
+    rel = path#.relative_to(ROOT).with_suffix('')
     slug = rel.as_posix()
     note_map[slug] = rel
 
