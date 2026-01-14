@@ -8,9 +8,8 @@ from obsidiantools.api import Vault
 ROOT = Path('guide-to-earendor')
 SITE_PREFIX = '/anremithrl-s-guide-to-earendor'
 
-vault = Vault(str(ROOT)).connect()
+vault = Vault(ROOT).connect()
 
-# Map: (source_path, target_name) -> target_path
 resolution: dict[tuple[Path, str], Path] = {}
 
 for link in vault.links:
