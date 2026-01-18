@@ -1,0 +1,3 @@
+This was the primary of the [[The Architects' Pockets]], the heart of [[Telos]] and [[Nehusta]]'s creations. A burgeon in the heart of the [[Fountains of Creation]] and the [[The Great Forges]], where the energy of both planes flowed. On the anvil of the everforge did they create the Elessar.
+
+[[Dur-baagal]] invaded it during the eternal wars and they sealed it off beyond the reach of any since. Left there is the Everhammer of Telos, and the Stone of Infinite Paths, used by Nehusta to forsee the path to save Telos. 

@@ -7,6 +7,7 @@ aliases:
   - Gentle
   - Akadi the Gentle
   - Ever-Free
+  - Akida
 ---
 
 Akadi was known as the Gentle. She was the youngest of the Elemental Siblings and the Primordial of Air.

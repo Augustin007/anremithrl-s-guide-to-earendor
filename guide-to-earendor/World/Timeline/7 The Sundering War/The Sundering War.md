@@ -1,3 +1,7 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Rising]]|[[Ages Past]]|[[The Age of Wandering]]|
+
 Sundering War (~1200-0 BS)
 Araushnee (later the Raven Queen) descends into madness after the death of her son, igniting the Sundered War.
 The god Vecna rises as a tyrant, seeking dominion over life and death.
@@ -234,3 +238,7 @@ The protector gods create the Trees of Sanctuary. This marks the official end of
 > Tal'berius carved out the heart of Tharizdun for himself, and as the god still lived, Tal'berius dragged him down to the nine hells and chained him with his own chains. He contained the rift into Chaos in an orb made of glass forged in Order, and hid it deep in a dungeon of his own construction, and Tal'berius retreated from the world of mortals for a long time.
 > 
 > Though the rift was gone, the bindings of the world were made loose, and great amount of chaotic energies transformed the region, and war between the gods scattered the people. 
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Rising]]|[[Ages Past]]|[[The Age of Wandering]]|

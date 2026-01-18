@@ -1,3 +1,6 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Wandering]]|[[Ages Past]]|[[The Age of Heroes]]|
 
 (~1800-~3450 AS):  Age of Shadows
 
@@ -113,3 +116,7 @@ The age of Shadows ended and the Age of Heroes began when Lysiria and Eolande to
 > The Vedrans, fierce warriors and skilled tacticians, built a formidable army and established Vedrath as a military stronghold. The Vedrans played a crucial role in defending against external threats and maintaining stability within the Shattered Teeth. Their martial arts and battle tactics were highly respected, and their warriors were often sought as mercenaries by other tribes.
 > 
 > The Heirhians, with their advanced seafaring technology and bustling port of Heirhaven, played a crucial role in connecting the various regions through trade. Heirhaven became a melting pot of cultures, attracting merchants, adventurers, and scholars from across the Shattered Teeth. The Heirhians' shipbuilding skills were legendary, and their navy was a formidable force on the seas.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Wandering]]|[[Ages Past]]|[[The Age of Heroes]]|

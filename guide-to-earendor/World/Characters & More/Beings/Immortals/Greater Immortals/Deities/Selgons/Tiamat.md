@@ -32,7 +32,7 @@ His purpose was to act where the others froze and hesitated. To be impulsive and
 Cold. Clear minded. She best retained the fragments of Tiamat’s original self. The intellect and compassion and capacity to dream. Who fronted when she felt safe and alone, but never hid away altogether. The others all respected her deep intelligence and considered her the bravest of the bunch.
 
 
-The five heads together awakened [[Magnar]]'s dragonhood.
+The five heads together awakened [[Magnar Illion]]'s dragonhood.
 
 When [[The Sundering War]] began, she followed her adoptive father [[Asmodeus]], for she was completely loyal to him, and terrified of losing his love and approval.
 

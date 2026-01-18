@@ -1,3 +1,6 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of the Primordials]]|[[Ages Past]]|[[The Age of The Gods]]|
 
 > **A Categorization of Beings, by Anonymous**
 > 
@@ -8,29 +11,29 @@
 > In the end, the gods ruled the world. Though many say the war is not over, but only in brief interlude. 
 
 
-> **From the accounting of Methunroa**
+> **From the accounting of [[Methunroa]]**
 > 
 > **_The Treason of Atropus and Dur-baagal_**
 > 
-> Shar whispered to Atropus many things, and so subtly did she say things and ask them, that Atropus believed the ideas were his own. And his anger was kindled. Had not Asgorath and Arambar not built Planes of the Dawn? Why, then, did they not build the Planes of the Dusk? 
+> [[Shar]] whispered to [[Atropus]] many things, and so subtly did she say things and ask them, that Atropus believed the ideas were his own. And his anger was kindled. Had not [[Asgorath]] and [[Arambar]] built Planes of the Dawn? Why, then, did they not build the Planes of the Dusk? 
 > 
-> And he took Dur-baagal into his confidence, for the two were great friends. And when the Cosmic Twins were busy praising Nehusta and Telos, they began to destroy the work of Asgorath and Arambar. 
+> And he took [[Dur-baagal]] into his confidence, for the two were great friends. And when the Cosmic Twins were busy praising [[Nehusta]] and [[Telos]], they began to destroy the bindings of the Planes. 
 > 
-> Atropus became the Elder Evil, and he was was the harbinger of entropy and decay, and he embodied destruction, and he consumed the Aether. And he left behind pure negative energy, and thus the Dark Regions became as they are now.
+> Atropus was thus named the Elder Evil, as he was was the harbinger of entropy and decay, and he embodied destruction. He consumed the Aether and he left behind pure negative energy. From thence the [[The Dark Regions|Dark Regions]] became as they are now.
 > 
 > Dur-baagal, the Cold and Cruel, was the embodiment of frigid desolation. He reveled in the stillness that comes from extreme cold, a stillness that could halt even the flow of Time itself. And because of him, Time no longer flows uniformly across the planes.
 > 
 > And when the Cosmic Twins turned away from the works of Nehusta and Telos, and they beheld the destruction wrought upon their masterpiece, they were greatly angered. And their countenance darkened.
 > 
-> And they charged into the Root Hold, and they beheld Ubtao and asked him what had occurred. And Atropus and Dur-baagal heard their angry voices ring out across the Universe, and they were afraid, for they knew that their hearts and minds were lain bare for Ubtao.
+> And they charged into the Root Hold, and they accosted [[Ubtao]] and asked him what had occurred. And Atropus and Dur-baagal heard their angry voices ring out across the Universe, and they were afraid, for they knew that their hearts and minds were lain bare for Ubtao.
 > 
-> But Ubtao liked neither war nor strife, for it troubled him greatly, and he lied. "I know not who would dare such a thing. What cause have we for anger, twins? That this destruction is not of good, I can tell, but which one of us is evil? Not even Tartarus, who dwells in the Abyss would do such a thing. Perhaps it was an imbalance, some accident that no one could have foreseen. It can be reforged, and stronger than before, and nothing will be lost."
+> But Ubtao liked neither war nor strife, for it troubled him greatly, and he lied. "I know not who would dare such a thing. What cause have we for anger, twins? That this destruction is not of good, I can tell, but which one of us is evil? Not even [[Tartarus]], who dwells in the Abyss would do such a thing. Perhaps it was an imbalance, some accident that no one could have foreseen. It can be reforged, and stronger than before, and nothing will be lost."
 > 
-> And he spoke thusly, and the twins were calmed.
+> And he spake thusly, and the twins were calmed.
 > 
-> Atropus and Dur-baagal, afraid of the ire of the Cosmic Twins, ceased their destructive endeavors—for a time. They approached Asgorath, their hearts filled with a newfound caution. And they did what they should have done at first. "Would you not craft for us realms of our own, as you have done for the Primordials of Dawn?" they inquired.
+> Atropus and Dur-baagal, afraid of the ire of the Cosmic Twins, ceased their destructive endeavors, for a time, and they approached Asgorath, filled with a newfound caution, and they did what they ought to have done at first, and asked for what they wished. "Would you not craft for us realms of our own, as you have done for the Primordials of Dawn?"
 > 
-> But Asgorath was not easily deceived. He had begun to suspect the two, and he denied them their request. And after they left he spoke to his brother, and they pieced together what had occurred. And Atropus and Dur-baagal fled.
+> But Asgorath was not so easily deceived. He had begun to suspect the two, and he denied them their request. And after they left he spoke to his brother, and they pieced together what had occurred. And Atropus and Dur-baagal fled.
 > 
 > But their malevolence was rekindled, for they were angered, but they were still afraid. Because of their anger, they listened to Shar as she whispered in their minds that they would need allies if they were to rebel.
 > 
@@ -44,11 +47,11 @@
 > 
 > Meanwhile, Dur-baagal, the Cold and Cruel, ventured into the Abyss to seek an audience with Tartarus. "Join us," he urged, "and the planes shall be reshaped for the Dusk!"
 > 
-> Tartarus, who had long stood by Shar and orchestrated this war, pretended to have slowly been swayed by Dur-baagal's words. And he agreed. With Tartarus on their side, Atropus and Dur-baagal were emboldened, for he was a Primordial of great power, and many thought he was more powerful than even the Cosmic Twins.
+> Tartarus, who had long stood by Shar and orchestrated this war, pretended to have slowly been swayed by Dur-baagal's words. And he agreed. With Tartarus on their side, Atropus and Dur-baagal were emboldened, for he was a Primordial of great power, and many thought him more powerful than even the Cosmic Twins.
 > 
 > ***The Eternal Wars***
 > 
-> And the Eternal Wars erupted like a tempest, a maelstrom of clashing elements and conflicting wills. Atropus, the Elder Evil, and Dur-baagal, the Cold and Cruel, led their rebellion. The Children of the Dusk were the first to be thrown into the fray. They were pawns, expendable and numerous, sent to wreak havoc upon the elemental planes and the Ethereal Plane.
+> And the Eternal Wars erupted like a tempest, into a maelstrom of clashing elements and conflicting wills. Atropus and Dur-baagal led their rebellion. The Children of the Dusk were the first to be thrown into the fray. They were pawns, expendable and numerous, sent to wreak havoc upon the elemental planes and the Ethereal Plane.
 > 
 > And in the first fray the rebellion was victorious. Atropus and Dur-baagal, once united in their malevolence, found themselves at odds over the spoils of their conquests.
 > 
@@ -60,11 +63,11 @@
 > 
 > And Asgorath saw now that Ubtao had betrayed them, for they had no warning of what had occurred, and that he had lied to them first, and he named him the Deceiver, and with Grumbar slew him in Root Hold, and his essence was scattered. And Akadi was angered at Asgorath and Grumbar her brothers, for she had loved Ubtao.
 > 
-> At this moment, it is said they sensed a presense with them, who beheld the end of Ubtao. The first end that ever was. It seemed older and more ancient and terrible than them. We have known this presense by many names, and we call it death.
+> At this moment, it is said they sensed a [[Marethyu|presence]] with them, who beheld the end of Ubtao. The first end that ever was. It seemed older and more ancient and terrible than them. We have known this presence by many names, and we call it death. The presence spoke to them, though they have, (to my interrogation), only the barest memories, and none agree on what it spoke about.
 > 
 > And the Arambar and Grumbar were upset, and they grieved. And they wished for no more strife.
 > 
-> But again Atropus and Dur-baagal rose against the Dawn. Atropus spoke to the Dawn from afar, fleeing from their wrath, but sowing strife between them. And the Dawn did not remain unified, for Istishia first turned against Kossuth, and Akadi, still grieving, sided with her brother. And Grumbar took no side, and both Kossuth and Istishia scorned him. 
+> But again Atropus and Dur-baagal rose against the Dawn, and when they arose to strike him, Atropus fled from their wrath. Often times thereafter he spoke to the Dawn from afar, sowing strife between them, and the Dawn did not remain unified. Istishia first turned against Kossuth, and Akadi, still grieving, sided with her brother. And Grumbar took no side, and both Kossuth and Istishia scorned him. 
 > 
 > The Elemental siblings fought each other in cataclysmic battles that reshaped the Planes, and soon their alliance was no more, and it was not Kossuth who stood by the Cosmic Twins, but Grumbar. And Istishia stood by Atropus. 
 > 
@@ -126,13 +129,13 @@
 > 
 > And Atropus fled, and he thought to make a stand of his own, and he called together the Dawn, and the Children of the Dusk. But though the Children of the Dusk, many thousands strong, came to him at his need (for they still feared Atropus, and did not comprehend the power of the Celestials), not one of the Dawn did.
 > 
-> Three Celestials alone faced down the armies of Atropus. They were Asmodeus, Tharizdun, and their forgotten brother. And only three it took to quickly tear apart every last one of the Children of the Dusk and Atropus with them. Three alone stood alone against many thousands, and not a drop of godly Ichor was spilled. And neither the Children of the Dusk nor Atropus had a chance to fully comprehend their loss before they were slain, for the battle was swift. 
+> Three Celestials alone faced down the armies of Atropus. They were [[Asmodeus]], [[Tharizdun]], and their [[The Forgotten One|forgotten brother]]. And only three it took to quickly tear apart every last one of the Children of the Dusk and Atropus with them. Three alone stood alone against many thousands, and not a drop of godly Ichor was spilled. And neither the Children of the Dusk nor Atropus had a chance to fully comprehend their loss before they were slain, for the battle was swift. 
 > 
-> And this is known as the Slaughter of the Night. For the gods murdered each one of the Children of the Dusk, and many came unwillingly, or would have fled. 
+> And this is known as the [[Slaughter of the Night]]. For the gods murdered each one of the Children of the Dusk, and many came unwillingly, or would have fled. 
 > 
 > And so it was that the gods, unshackled and autonomous, took command of the Universe.
 > 
-> During this time, the gods themselves began to expand, and the second generation of gods was born. Auril, was the first of the later-born gods, born of Asmodeus, a Celestial, and of Rhea, an Elohim. And fourteen more followed before Asgorath returned.
+> During this time, the gods themselves began to expand, and the second generation of gods was born. [[Auril]], was the first of the later-born gods, born of Asmodeus, a Celestial, and of [[Rhea]], an Elohim. And fourteen more followed before Asgorath returned.
 > 
 > ***The Dragons of Chaos and Order***
 > 
@@ -142,11 +145,11 @@
 > 
 > And Asgorath unleashed his Dragons upon the Universe. With their indomitable might, he fought against the gods.  
 > 
-> And the gods tried to fight back, but they soon saw it was futile. For the twenty Celestials stood against the four dragons, and eight of them fell before they fled. They were these: Amora, who loved deeply, and was loved deeply in return; Thalassa, who had been the favorite of Istishia when formed and remembered still the water; Erebus, the shadow, who did not venture out much, nor make many friends, but sacrificed himself all the same; Mor, who spoke little and said less; Vhel, who had advocated for them to flee, but had not prevailed; Marduk, who had been great friends with Asmodeus; Lux, who alone of the council had sided with Vhel; and Gond, the twin brother of Nebelum, who had ventured far and wide collecting much knowledge with his brother.
+> And the gods tried to fight back, but they soon saw it was futile. For the twenty Celestials stood against the dragons, and eight of them fell before they fled. They were these: [[Amora]], who loved deeply, and was loved deeply in return; [[Thalassa]], who had been the favorite of Istishia when formed and remembered still the water; [[Erebus]], the shadow, who did not venture out much, nor make many friends, but sacrificed himself all the same; [[Mor]], who spoke little and said less; [[Vhel]], who had advocated for them to flee, but had not prevailed; [[Marduk]], who had been great friends with Asmodeus; [[Lux]], who alone of the council had sided with Vhel; and [[Gond]], the twin brother of [[Nebelum]], who had ventured far and wide collecting much knowledge with his brother.
 > 
-> And the Celestials saw they were outmatched, for they had only felled one of the Dragons. And they fled, and they were chased.
+> And the Celestials saw they were outmatched, for they had only felled one of the Dragons, the [[Eater of Dawn|Eater]]. And they fled, and they were chased.
 > 
-> And the Elohim came in, against the bidding of the Celestials, and they aided in their escape, and many were slain, The sisters, Iris and Rhea were captured. To Rhea was born Tiamat half-dragon, and to Iris was born Bahamut. Rhea died first, and Iris lived but a bit longer.
+> And the Elohim came in, against the bidding of the Celestials, and they aided in their escape, and many were slain, The sisters, Iris and Rhea were captured. To Rhea was born [[Tiamat]] half-dragon, and to [[Iris]] was born [[Bahamut]]. Rhea died first, and Iris lived but a bit longer.
 > 
 > And the gods desired the aid of Tartarus, and they journeyed into the Abyss. And Tartarus was not afraid of them, but Dur-baagal tried to flee, and the gods would have slain him together, but Tartarus would not allow it. And he stopped Dur-baagal and dragged him back. And he turned to Auril, who he saw was still angry at the capture of her mother, and he saw her anger as a fire to be stoked, and he challenged her to duel Dur-baagal in single combat.
 > 
@@ -156,7 +159,7 @@
 > 
 > Tartarus, who had watched the duel unfold, was impressed by her might. He saw in her a fire that could be stoked, a potential ally to the Abyss. And to her, he spoke of vengeance and might. And her anger against Asgorath and the Dragons was fanned into a great inferno.
 > 
-> Yet Tartarus did not speak only of admiration, for at last he harbored his own fears. The Epic Dragons of Chaos and Order, unleashed by Asgorath, were beings of such raw power that even he felt a twinge of apprehension. He knew that alliances were now more crucial than ever.
+> Yet Tartarus did not speak only of admiration, for at last he harboured his own fears. The Epic Dragons unleashed by Asgorath were beings of such raw power that he knew he could not contend with them on his own.
 > 
 > And so, Tartarus extended his hand in alliance, not just out of admiration for Auril's prowess, but out of a primal need for survival. For he knew that the Universe had entered a new era, one where even Primordials could fall, and alliances, however tenuous, were the only way to navigate the storm that was to come. 
 > 
@@ -168,11 +171,11 @@
 > 
 > But the gods returned to the Universe arrayed for war. And the Elemental Siblings were afraid, and they retreated to their planes, and the gods sealed them there, for they had no quarrel with the elemental siblings, but they also did not wish them to help Asgorath.
 > 
-> And Asgorath realized he was outmatched, but he still fought all the same. And he slew two before he was captured: Alea, who had been one of the Elessar, and when she died many memories of the creations of Nehusta and Telos were lost, as it was with any of the Elessar that had fallen; and Ferum of the Elohim, who was a master duelist, and even as he fell he greatly wounded Asgorath.
+> And Asgorath realized he was outmatched, but he still fought all the same. And he slew two before he was captured: [[Alea]], who had been one of the Elessar, and when she died many memories of the creations of Nehusta and Telos were lost, as it was with any of the Elessar that had fallen; and [[Ferum]] of the Elohim, who was a master duelist, and even as he fell he greatly wounded Asgorath.
 > 
-> They did not slay him, for though many wished to do so, Thalorin did not wish to see more death, and he swayed the council. So instead they imprisoned him. They tore apart a small part of the Ethereal Plane for material, and they wove together in its place, even as Asgorath and Arambar had, the threads of Time and Aether. They wove into it the elements, for they knew that time and space alone would not contain their creator. This new realm was the Material Plane. And the gods channeled their divine energy into it, creating Ley Lines as bars to the prison, an eternal prison to keep Asgorath asleep.
+> They did not slay him, for though many wished to do so, [[Thalorin]] did not wish to see more death, and he swayed the council. So instead they imprisoned him. They tore apart a small part of the Ethereal Plane for material, and they wove together in its place, even as Asgorath and Arambar had, the threads of Time and Aether. They wove into it the elements, for they knew that time and space alone would not contain their creator. This new realm was the Material Plane. And the gods channelled their divine energy into it, creating Ley Lines as bars to the eternal prison to keep Asgorath asleep.
 
-> **The Tale of Dragons, by Magnar**
+> **The Tale of Dragons, by [[Magnar Illion|Magnar]]**
 > 
 > Deep inquiries on my last visit to Arvandor have allowed me to compile this tale, though most of the gods who lived through that time breathe hardly a word, my friend Asmodeus has proven most talkative, no doubt in part due to his belief in truth, and no doubt because he does not wish his daughter to believe her nature is shameful, but I think these latest issues with Araushnee have stirred old thoughts among the gods, and they may again take arms as we humans do. 
 > 
@@ -186,13 +189,13 @@
 > 
 > Now amongst the four there was one dragon of greater malevolence, and this one was named by the gods the Broodmaker. 
 > 
-> And when the Celestials fled, the Broodmaker turned to its siblings and established himself as the leader, and ordered the dragons to bleed themselves on the battlefield. So it was that they conquered the Elemental Siblings, and stopped their infighting and bickering, and brought them to heel. 
+> And when the Celestials fled, the [[Broodmaker]] turned to its siblings and established himself as the leader, and ordered the dragons to bleed themselves on the battlefield. So it was that they conquered the Elemental Siblings, and stopped their infighting and bickering, and brought them to heel. 
 > 
 > And he took the spoils of this conquest, and took their strength. He took a great liking for Istishia, and for this reason Istishia is weakest of he siblings still.
 > 
 > And so bled and experienced, they struck again at the Celestials, and killed many Elohim before they could retreat.
 > 
-> Three other dragons lived. The Unmaker, The Silent One, and The Final Coil. 
+> Three other dragons lived. The [[Unmaker]], The [[Silent One]], and The [[Final Coil]]. 
 > 
 > Now one of the dragons, The Silent One, had grown in wisdom and kindness, and this alone spared the Divine, for he sped ahead to warn them, and attempted to mediate a peace. When that failed, he bought them time for the escape.
 > 
@@ -213,3 +216,7 @@
 > The Final Coil dwelt near to Asgorath in those final years, many times longer than the rest were alive, as Asgorath ruled the planes, in an ever-tighter iron fist. The gods and their rebellion went to each of the Elemental Siblings one at a time. The Final Coil grew in cunning, wisdom, and skill, avoiding their traps, slaying beasts.
 > 
 > Their final onslaught killed the final dragon, and Asgorath. The gods, using the knowledge of the elemental siblings, were able to reshape the threads and capture them, and now they plot ever in their slumber, beneath the surface of our planet.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of the Primordials]]|[[Ages Past]]|[[The Age of The Gods]]|

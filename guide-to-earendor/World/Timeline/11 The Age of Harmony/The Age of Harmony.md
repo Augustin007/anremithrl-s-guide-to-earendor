@@ -1,3 +1,7 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Heroes]]|[[Ages Past]]|[[The Age of Ash]]|
+
 4600 - Age of Harmony begins. Modern International Calendar system put into place. Chose 0 to be best guess as to when the Sundering War occured, since most calendars were based on that, though wildly inconsistent and not kept very well throughout the ages.
 
 Nadia worked with the Fairy Lucy Iwaelf, who had known Richard the pyromancer, to make similar advancements in the field of water-shaping, and eventually generalise it to all evocation. They also recreated spells to summon elementals from texts about the Sundered War.
@@ -43,3 +47,7 @@ Institution of the Neroshi Paros as international coin.
 5421-current: **Bonds of Fate Campaign**: 
 
 5421 - Current Point in most of my campaigns.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Heroes]]|[[Ages Past]]|[[The Age of Ash]]|

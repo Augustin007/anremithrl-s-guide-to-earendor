@@ -1,4 +1,8 @@
-``(~3450-4600) AS:
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Shadows]]|[[Ages Past]]|[[The Age of Harmony]]|
+
+(~3450-4600) AS:
 Veloria is founded
 
 Elorin Valthor writes the book "The Codex of Ebb and Flow", inventing equations to study and predict tides.
@@ -94,3 +98,7 @@ The Age of Heroes was a transformative period that left an indelible mark on the
 > In this time, King Eldan II of the Vossari, named after Eldan of Heth, known as Eldan Bauglak, united many countries in a great alliance. He saw the two countries as weakened, and thought that he could conquer them both. He broke his alliance with Kesna and attacked them first, and then Cyddartiame. This caused the great alliance between Kesna and Cyddartiame. Together they defeated Bauglak.
 > 
 > Seeing benefit in this alliance, and desiring peace, Varnak forged the great alliance with the Cyddartiame during this time. And they supported each other during several conflicts.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Shadows]]|[[Ages Past]]|[[The Age of Harmony]]|

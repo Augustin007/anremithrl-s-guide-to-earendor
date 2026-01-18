@@ -13,7 +13,7 @@ He aided in dragging the [[Araushnee|Raven Queen]] to [[The Nine Hells]], and sp
 
 He gathered to him the crueler gods who reveled in destruction and led them in the first assaults on the mortals. As the war evolved Tharizdun's followers fought alongside Asmodeus but undisciplined. They delighted in destruction for its own sake, horrified even their allies, and nearly unmade the Material Plane before [[Thalorin]] intervened.
 
-He killed [[Varian]] in combat at Hatreth. He also created the disease that killed Nanor. He was met by [[Magnar]], [[Tal'berius Tarrilion|Tal'berius]], and [[Artorius]]. He succesfully killed Magnar and Artorius before Tal'berius was capable of carving his heart out and chaining him with the [[Chains of Law]]. 
+He killed [[Varian]] in combat at Hatreth. He also created the disease that killed Nanor. He was met by [[Magnar Illion]], [[Tal'berius Tarrilion|Tal'berius]], and [[Artorius]]. He succesfully killed Magnar and Artorius before Tal'berius was capable of carving his heart out and chaining him with the [[Chains of Law]]. 
 
 Tal'berius kept his heart. It is still beating in his [[Architect's Sanctum]].[^1][^2][^3]
 

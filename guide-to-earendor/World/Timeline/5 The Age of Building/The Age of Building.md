@@ -1,3 +1,7 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Awakening]]|[[Ages Past]]|[[The Age of Rising]]|
+
 ~5,000-3,000 BS Age of Building
 
 The interference lessens as Thalorin and the forgotten one speak before the council. The hidden name speaks to various others on this subject. Though Thalorin and the forgotten are blamed for letting him in, they did not. He could have never been locked out. Though they are punished for bringing the Hidden Name into the home of the gods, Thalorin and the forgotten one do begin a movement against harming mortals or using them as slaves or servants. Toying with them.
@@ -20,3 +24,7 @@ Eltharion the Observer. Pioneer in observational astronomy, cataloging celestial
 
 Aelfwin, a philosopher of the Edain, laid down the foundational principles of first-order logic, integrating logical reasoning into philosophical discourse.
 The word "Ahiarime" was coined by Dallion, and elf, and the son of Singollo. Dallion is known as the first mathematician. Ahiarime translates to variable. It was originally defined by Dallion as "I nao telco iyes nosse ana ahime" which translates approximately to "that which is of the nature that it be related to change. He used it to formalise the idea of 'unknowns' and what to do if there was more than one thing that was not known.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Awakening]]|[[Ages Past]]|[[The Age of Rising]]|

@@ -1,33 +1,41 @@
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|———|[[Ages Past]]|[[The Age of the Primordials]]|
+
+Beyond time was the Almost that was. That which pre-causes time. Little is known of this time.
+
 These represent writings in the world, and are not completely accurate to true lore.
 
-> **An Excerpt from _The Annals of Time_ by Liriel the Stargazer**
+
+> **An Excerpt from _The Annals of Time_ by [[Liriel the Stargazer]]**
 > 
-> There is the first cause. From this cause all else is. There is the first cause, and from this, Ao and Isfet are. They are the King of Order and the Queen of Chaos. And they were, are, and will be caused at all times, or no times, everywhere and nowhere. They are beyond time and beyond space. Beyond the notion of beginnings and endings. All there is, there, is a notion of _causation_, and they were not the first cause.
+> There is the first cause. From this cause all else is. There is the first cause, and from this, [[Ao]] and [[Isfet]] are. They are the King of Order and the Queen of Chaos. And they were, are, and will be caused at all times, or no times, everywhere and nowhere. They are beyond time and beyond space. Beyond the notion of beginnings and endings. All there is, there, is a notion of _causation_, and they were not the first cause.
 > 
 > And they, in turn, caused almost-time and almost space, and they entered it, so that they may spend some time of it together. In the almost-time and space, things formed. And they swirled and moved. They were one way then another. And it was beautiful and fascinating. And Ao and Isfet wished to perfect it. But they could not. 
 > 
-> From their union, in the almost, emerged the Firstborn. These are the first beings to have a beginning, the first beings that could ever have an end. These were the two sisters Selûne and Shar, the twins of light and dark. They are called so, for Selûne always tended to good, and was filled with the love handed down through Ao and through Isfet from the First Cause, and it is said that Selûne had the double portion of this love, for Shar had none of it.
+> Caused by their union, in the almost, emerged the Firstborn. These are the first beings to have a beginning, the first beings that could ever have an end. These were the two sisters [[Selune|Selûne]] and [[Shar]], the twins of light and dark. They are called so, for Selûne always tended to good, and was filled with the love handed down through Ao and through Isfet from the First Cause, and it is said that Selûne had the double portion of this love, for Shar had none of it.
 > 
-> in the very next that was, Asgorath and Arambar emerged, and unlike Selune and Shar, they were enamoured with time and space, and they wished to perfect it, for they were it's embodiment. They were formed of the love of Ao and Isfet for the Almost. They were more ephemeral and moody. Ever changing, and bound to time, but loved creation and order. The Cosmic Twins were more powerful than their elder sisters. Within the bounds of almost time and almost space, they created structures that held it together and stable. They formed the Universe, the Aether of Spacetime. And Ao and Isfet could not enter it, for they had no beginning or end.
+> in the very next that was, [[Asgorath]] and [[Arambar]] emerged, and unlike Selune and Shar, they were enamoured with time and space, and they wished to perfect it, for they were it's embodiment. They were formed of the love of Ao and Isfet for the Almost. They were more ephemeral and moody. Ever changing, and bound to time, but loved creation and order. The Cosmic Twins were more powerful than their elder sisters. Within the bounds of almost time and almost space, they created structures that held it together and stable. They formed the Universe, the Aether of Spacetime. And Ao and Isfet could not enter it, for they had no beginning or end.
 > 
-> Four others emerged, in this order: Grumbar, Istishia, Kossuth, and Akida, and these are the Primordials of the Dawn. They children of Ao and Isfet, before they retreated from the almost.
+> Four others emerged, in this order: [[Grumbar]], [[Istishia]], [[Kossuth]], and [[Akadi|Akida]], and these are the Primordials of the Dawn. They children of Ao and Isfet, before they retreated from the almost.
 
-> **From _The Chronology_ by Ghalen**
+> **From the letters of [[Rondar]] and [[Garret]]**
+> Time and Space are bound by that with [[Hast]] named the _Aether_. It is as threads, woven throughout. Vibrating and pulling at each other. We see a small portion of that. And they hate to move. Theories conflict, but I personally measure twenty-three dimensions of freedom. Where they intersect with the three dimensional slice which is our plane of existence, it forms the barest particles of existence.
+
+> **From _The Chronology_ by [[Ghalen]]**
 > 
 > Beyond time and space there is only a sense of causation, not of beginning or end. Everything is all at once in a stable manner, collapsed into a fixed point.
 > 
 > Within it all, there is the first cause, and from there, Ao and Isfet are _caused_. 
 > 
-> They, in turn, created the almost time. ... In almost time, there is no sense of continuous time and space, but there is a sense of _next_, and of nearness. Things that enter or exit will be present at all points of it, and join again at any point 'after' to leaving, but only be one continuous presence outside of it. While beyond time and space order is supreme, in this almost time and space, chaos is more powerful.
+> They, in turn, created the almost time, and in almost time, there is no sense of continuous time and space, but there is a sense of _next_, and of nearness. A metric on energy and closeness and energy itself. The hints of threads and axons and other such things. And it behaves thus that things that enter or exit will be present at all points of it, and join again at any point 'after' to leaving, but only be one continuous presence outside of it.
 > 
 > The weaving of almost space and time is not perfect. Almost time exists in some places where almost space doesn't, and the other is also true.
+> 
+> And slowly (if I may use that word to describe a process in the Almost), they wove that sense of nearness until it resembled a metric on a topology. Hast called this metric the Aether, though he, of course, was wrong.
 
-
-> **From the letters of Rondar and Garret**
-> Time and Space are bound by that with Hast named the _Aether_. It is as threads, woven throughout. Vibrating and pulling at each other. We see a small portion of that. And they hate to move. Theories conflict, but I personally measure twenty-three dimensions of freedom. Where they intersect with the three dimensional slice which is our plane of existence, it forms the barest particles of existence.
-
-
-> **From *The Accounting* by Methunroa**
+> **From *The Accounting* by [[Methunroa]]**
 > 
 > At first there were only the Queen of Chaos and the King of Order. They were older than the Universe. From where they came nothing is known. It is said only that they simply *are*.
 > 
@@ -61,13 +69,13 @@ These represent writings in the world, and are not completely accurate to true l
 > 
 > And each of the Elemental Siblings took to their planes and fashioned their own creations.
 > 
-> Grumbar created Earth, and he filled his home with it. And the realm became known as the Caverns of Stillness. It is a labyrinthine network of tunnels, chambers, and vast underground landscapes, all made of various forms of earth and stone. 
+> Grumbar created Earth, and he filled his home with it. And the realm became known as the [[Caverns of Stillness]]. It is a labyrinthine network of tunnels, chambers, and vast underground landscapes, all made of various forms of earth and stone. 
 > 
-> Istishia created the water, reflecting her ever-changing nature. And she named her realm the Cresting Spires. The water can be as still as a pond in one moment and as turbulent as a stormy sea in the next. Towering waves rise and fall. 
+> Istishia created the water, reflecting her ever-changing nature. And she named her realm the [[Cresting Spires]]. The water can be as still as a pond in one moment and as turbulent as a stormy sea in the next. Towering waves rise and fall. 
 > 
-> Kossuth with his own blazing passions sparked the Undying Pyre. It is a landscape of fire, where rivers of lava flow through mountains of fire. And the realm is most beautiful, for the fires fly in all colors, and they illuminate all the wonders there.
+> Kossuth with his own blazing passions sparked the [[Undying Pyre]]. It is a landscape of fire, where rivers of lava flow through mountains of fire. And the realm is most beautiful, for the fires fly in all colors, and they illuminate all the wonders there.
 > 
-> Akadi, who was but newly come into being, and filled with laughter, fashioned the element of air. The Gentle Zephyr is a realm of boundless skies and ceaseless winds. It is a place of constant movement, where air currents twist and spiral into complex patterns, creating a never-ending dance of wind and cloud.
+> Akadi, who was but newly come into being, and filled with laughter, fashioned the element of air. The [[Gentle Zephyr]] is a realm of boundless skies and ceaseless winds. It is a place of constant movement, where air currents twist and spiral into complex patterns, creating a never-ending dance of wind and cloud.
 > 
 > We named them Elements, and these are not the elements of us, the Wizards. Of the Alchemists and Chemists, like Oxygen and Iron and Argon, but instead represent a shift, or a state. Grumbar with the creation of mass and matter and solid, Istishia transforming it into movement, and liquid. Kossuth his fire, lightning, energy and it's movement, and Akadi with air and lightness.
 > 
@@ -75,4 +83,8 @@ These represent writings in the world, and are not completely accurate to true l
 > 
 > These were the children of chaos and order. These were the Primordials of Dawn.
 > 
-> And when the realms were forged, then began the age of the Primordials.
+> And when the realms were forged, then began the Age of the Primordials.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|———|[[Ages Past]]|[[The Age of the Primordials]]|

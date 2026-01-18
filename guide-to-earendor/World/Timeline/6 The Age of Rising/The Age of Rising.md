@@ -1,3 +1,7 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Building]]|[[Ages Past]]|[[The Sundering War]]|
+
 The Age of Rising (~3000-1,200 BS):
 Later tribes and kingdoms begin to form. Larger kingdoms like the Ardwedili and Narheth. 
 Fendrel used mathematics to predict an eclipse, chart planets more accurately, monitor the movement of ley lines, and other such events. He worked with Liriel the stargazer for some time.
@@ -62,7 +66,7 @@ Vecna creates the great plague, which spreads across the land. In the Taur-en-Fa
 > 
 > The country of Thalassos was filled with dams and roads and bridges. It had armies and navies, and it was the largest of the countries of old.
 > 
-> **Of Magnar Rilion**
+> **Of Magnar Illion**
 > 
 > Now in this region lived Magnar Rilion. He was an elf of the Dravaran. And he was greatly generous, despite living in the poverty of Dravaran, and he lived near Echoriath, and the magic of it clung to him. And he became a sorcerer of great power. He could not reign in his magic, and it would explode out of him. He sought the help of the gods, and the council of Arvandor gave him a blessing, and Tiamat and Bahamut worked their magic on him, and he became the first mortal dragon, and he had now control over his powers. 
 > 
@@ -73,3 +77,7 @@ Vecna creates the great plague, which spreads across the land. In the Taur-en-Fa
 > Now Tal'berius and Artorius were the elder, and they were devoted to learning, and they were strong in magic and learning. and among other things, they compiled the Codex Arcanum. They studied under the greatest minds of the age.
 > 
 > Nanor was born only a year before the sundering.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Age of Building]]|[[Ages Past]]|[[The Sundering War]]|

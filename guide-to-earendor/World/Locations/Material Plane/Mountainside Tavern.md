@@ -1,1 +1,1 @@
-The Mountainside Tavern is an outpost of the guild one thousand miles Southwest of Oracus. It's carved into the Mountain of Tears. It is here that [[Tarold Velgain]] and [[Aemma Dechaius]] first met.
+The Mountainside Tavern is an outpost of the guild one thousand miles Southwest of Oracus. It's carved into the Mountain of Tears in [[Neros]]. It is here that [[Tarold Velgain]] and [[Aemma Dechaius]] first met.

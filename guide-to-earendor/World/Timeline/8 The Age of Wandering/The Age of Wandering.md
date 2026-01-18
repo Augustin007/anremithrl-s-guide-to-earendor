@@ -1,3 +1,7 @@
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Sundering War]]|[[Ages Past]]|[[The Age of Shadows]]|
+
 (~0-~1800 AS)
 Age of Wandering:
 
@@ -58,3 +62,7 @@ The Age of Wandering began to end when the first whispers of Shar were heard, an
 In this time it was that Lady Elmenore the Unforgiving came into power.
 
 The Dragon Glaumhot was formed by Tiamat.
+
+| Previous |  | Next |
+|:--:|:--:|:--:|
+|[[The Sundering War]]|[[Ages Past]]|[[The Age of Shadows]]|

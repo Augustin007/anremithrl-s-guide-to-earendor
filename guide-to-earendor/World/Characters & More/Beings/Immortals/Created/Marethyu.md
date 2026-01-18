@@ -16,13 +16,17 @@ Marethyu was present when [[Arambar]] fell during the Eternal Wars. The sentienc
 
 Istishia and Tartarus each sought Marethyu’s aid during the Eternal Wars, but refused the price. 
 
+He returned the broken staff of [[Thyriel]] the Archon after his dissapearance, absolving Shar of Thyriel's murder, but claiming that Thyriel has gone where he is forbidden to go.
+
+[[Auril]] came to Marethyu and wished to retroactively save her [[Rhea|mother]], and despised Marethyu for not saving her mother during the Eternal Wars. Marethyu could not alter the past, and Auril wished for nothing else, and so he could do nothing for her.
+
 He created Sigil at the behest of the [[Lady of Pain]] in exchange for her ability to communicate, cursing her to eternal loneliness.
 
 He dislikes the [[Araushnee|Raven Queen]], and considers her as pretending to do his job[^1][^6], but still offered her a price for the ability to provide resurrections.[^6]
 
 He aided in creating and maintaining the [[Material Plane]] and the [[Trees of Sanctuary]] in exchange for [[Thalorin]]'s wakefulness. 
 
-He made a deal with [[Eleutheros]] in order to create the [[Feywild]] and protect the people, his nature prevented him from deferring the cost[^2], and Eleutheros claimed the cost was almost too high.[^3]
+He made a deal with [[Eleutheros]] in order to create the [[Feywild]] and protect the people, his nature prevented him from deferring the cost, punishing him for attempting to do so[^2], and Eleutheros claimed the cost was almost too high.[^3]
 
 He once offered to cure [[Ashdilkir]], but she refused.[^4]
 
