@@ -12,7 +12,7 @@ The landscape of Kar-Rymfel is marked by vast swamps and marshes, which contribu
 
 **Notable Events and Figures**:
 - **[[The Greenclad]]**: Originating within Kar-Rymfel, this infamous order of thieves and assassins has had a significant impact on both the local and neighboring regions. Their deep connections with the nobility of Kar-Rymfel have allowed them to operate with impunity, further entrenching the corruption within the country.
-- **[[Quandale Black|Lord Quandale Amos Black of Blackton]]**: Emblematic of the criminal elite, Lord Quandale rebuilt Blackton from its ruins to serve as a base for his illicit activities, effectively becoming a kingpin who manipulates the socio-political landscape for personal gain.
+- **[[Lord Amquos Black|Lord Amquos Black of Blackton]]**: Emblematic of the criminal elite, Lord Amquos rebuilt Blackton from its ruins to serve as a base for his illicit activities, effectively becoming a kingpin who manipulates the socio-political landscape for personal gain.
 
 **Cultural Impact**:
 Kar-Rymfel is a land where danger and opportunity coexist, attracting adventurers, mercenaries, and those with the cunning to navigate its complex and often treacherous social fabric. The pervasive influence of the [[Underdark]] and the ever-present threat of supernatural entities contribute to the country's notorious reputation in the lore of Eärendor. 

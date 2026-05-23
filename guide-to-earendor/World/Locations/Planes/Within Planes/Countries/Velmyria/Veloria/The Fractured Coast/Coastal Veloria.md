@@ -19,7 +19,7 @@ Its territory once ran along the southeastern edge of the Velorian continent. Th
 
 This chaotic geography both isolates and protects. In the stormless months, trade flows freely and port cities flourish. In the Stormmonths, powerful keeps and rune-inscribed bunkers shelter cities from the worst of the elements. Towns arose wherever nature provided shelter, as travel and agriculture were nigh-impossible during much of the year.
 
-From this arose what the philosopher Veden claimed was Coastal Veloria's defining paradox: the difficulty of travel isolated the various provinces, but their lack of self-sufficiency made them utterly dependent on each other. What had begun as a hopeful coalition quickly revealed its fragility.
+From this arose what the philosopher Veden claimed was Coastal Veloria's defining feature: the difficulty of travel isolated the various provinces, but their lack of self-sufficiency made them utterly dependent on each other.
 
 
 **Maritime Acts**

@@ -6,6 +6,6 @@ The climate on Cordast's Home varies greatly from area to area, with some areas 
 
 One of these, is a helicopter-hat-like creature.
 
-A great castle floats in this plane. A group of the [[The Hidden Thieves]], led by [[Quandale Black]], ran a heist to steal something.
+A great castle floats in this plane. A group of the [[The Hidden Thieves]], led by [[Lord Amquos Black]], ran a heist to steal something.
 
 [[Jess Val|Lady Black]] was caught here for some time by [[Ashdilkir]].

@@ -17,4 +17,4 @@ The Harmonium Nexus
 The Harmonium Nexus is a sprawling city suspended in a web of energy. In it live many of the Elessar, for that is where they lived before the Eternal Wars, and from it much of Arvandor was designed. The Axis Key resides here, an artifact that allows its bearer to open pathways to any of the Architect’s Pockets
 
 
-#Planes_and_Regions/Lesser/Demiplanes  #stub 
+#Planes_and_Regions/Lesser/Demiplanes 

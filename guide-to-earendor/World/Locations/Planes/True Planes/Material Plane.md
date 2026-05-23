@@ -1,7 +1,3 @@
-#Planes_and_Regions/True 
-
-Things nether enter nor exit the Material Plane because of the [[Trees of Sanctuary]].  Only the Plane-walkers can slip through the branches of this multi-dimensional tree.
-
 The Material Plane is divided into different sub-planes.
   [[Shadowfell]] (The sub-plane of Memory)
   [[Feywild]]  (The sub-plane of Illusion)
@@ -13,4 +9,5 @@ Quasi-Planes
   [[The Nine Hells]]
   [[The Fractured Realms]]
   [[The Lorekeep]]
-  
+
+For about five thousand years, during the [[Ages Past|Ages of Sanctuary]], entering or exiting the material true plane, or shifting through it in any way, was made nearly impossible by the [[Trees of Sanctuary]]
