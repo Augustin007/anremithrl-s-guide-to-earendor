@@ -7,7 +7,7 @@ campaign: Shadows of Lysandra
 |[[Session 2 - Shadows of Lysandra ]]|[[Shadows of Lysandra]]|[[Session 4 - Shadows of Lysandra]]|
 
 Alden has to go, and doesn't go with them.
-Eamon and Orris and Levar leave Lys Alar at Sir Levar's suggestion and head to the High Temple of Lysandra, hoping to get some information from the records about Aldros's latest mission. 
+Eamon and Orris and Levar leave Lys Alar at Sir Levar's suggestion and head to the High Temple of Lysandra, hoping to get some information from the records about Andros's latest mission. 
 They are attacked by monsters on their way out.
 Sir Tymon and his squire Varek intercept the party, bearing a message from Sir Markov, demanding Levar and Orris's presense.
 Before parting ways, Levar warns Eamon to trust no one outside their circle

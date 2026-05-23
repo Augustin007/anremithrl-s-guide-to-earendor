@@ -9,7 +9,7 @@ They reach the borders of the dominion, but can see an army gathering in the dis
 
 Recognizing the shear infeasibility of having one of the twelve legions at one of hundreds of border crossings, even accounting for the Sonorous holding technology like the pocket stables to travel faster, they start suspecting a spy in their ranks. They consider Nerol as the most likely suspect, and feed him false information about where they are going as they double back to the West. When they reach the pass and find it, too, blocked. Nerol complains about their incompetence, as they've gone the wrong way. If Nerol *was* the spy, then the false information did not fool him in the very first place.
 
-The delaying is buying Lord Grellen time to consolidate the lords and crush the rebellion, and they resolve to make it there soon. 
+The delaying is buying Lord Grellan time to consolidate the lords and crush the rebellion, and they resolve to make it there soon. 
 
 Theriad suggests splitting the group up, and Lorim backs him. Jason travels with the main documents and important goods along with a smaller group of four soldiers, and the forty others go as a distraction to a different area. They do not inform Nerol or any of the others where Jason is going.
 
@@ -19,7 +19,7 @@ Theriad has a vision again of Elara. Duthrim guides the group to one of Kael's h
 
 Theriad speaks in delirium with Lorim, thinking her to be Elara for a moment, begging her to forgive him for failing her. When his vision ends, he is embarrassed, and that he owes her one for the trouble, which she says she'll remember.
 
-Via sending stone, Jason, Kael, and King Ravol coordinate. The larger Neroshi force is nearly arriving at this point. They coordinate a flanking ambush.
+Via sending stone, Jason, Kael, and King Ravon coordinate. The larger Neroshi force is nearly arriving at this point. They coordinate a flanking ambush.
 
 Jason gives a great speech before the men, foretelling the death of their enemies, seeming prophetic.
 

@@ -443,7 +443,7 @@ He reunites with Birkgar after the written exam, and the two of them eat and cha
 
 The practical exam begins. Birkgar excels at leadership and teamwork. Communicating clearly and keeping his head. He is not as bad as he had feared at the magic, if a little bellow average. He feels he knows more theory and has studied harder than most of the others, and has less fear of fire. He is confident by the end.
 
-They stay at an inn. Duthrim keeps an eye out for Tizmek. The next day they attend the ceremony. The results are being read aloud, Duthrim scored the only perfect score on the written exam and the highest in leadership skills. The list of accepted candidates begins, and Birkgar Illern is accepted with the highest of honors, into apprenticeship under the third circle. 
+They stay at an inn. Duthrim keeps an eye out for Tizmek. The next day they attend the ceremony. The results are being read aloud, Birkgar scored the only perfect score on the written exam and the highest in leadership skills. The list of accepted candidates begins, and Birkgar Illern is accepted with the highest of honors, into apprenticeship under the third circle. 
 
 ---
 #### A Quiet Storm

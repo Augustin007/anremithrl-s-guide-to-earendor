@@ -6,17 +6,11 @@ campaign: Traces of Divinity
 |:--:|:--:|:--:|
 |[[Session 1 - Traces of Divinity ]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|
 
-Ophiriel knocks Thurin out and drags him through the swamps of Rymfel to Blackton.
+As they approach Blackton, Neithen tries to avoid it and reveals he knows Amquos Blackton. Ophiriel suspects him and he attempts to jump Ophiriel. In the ensuing scuffle, they are both injured. Neithen flees, avoiding the rival crime lord Amquos Blackton, leader of the Hidden Thieves. Ophiriel avoids a group of thieves and begins heading down a different road, towards Trixail, the former capital of Trixail.
 
-It is a day before the full moon. Norvias and Zal'kesh'ar are travelling along the south and get attacked by bandits, when they intimidate the bandits, and the bandits run away, they kill them anyways.
+Norvias gets more information on Neithen and plans a trip into Trixail from which they can go to Fonterano, where Neithen rules, and promises to pay the Hidden Thieves double for any bounty that might be placed on him after worrying that the family he robbed might seek revenge. He buys two horses: Horse and Vita.
 
-----
-
-Promised to pay double.
-
-Horses: Horse, Vida
-
-Novias & Zal
+It is a day before the full moon. Norvias and Zal'kesh'ar are travelling along the south and get attacked by bandits, when they intimidate the bandits, and the bandits run away, they kill them anyways. 
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|

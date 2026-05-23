@@ -40,7 +40,7 @@ The forewarning allows several groups to get away. and it could have been many m
 
 The siege begins, and fighting mostly happens in the long tunnels of the caves, running around. The Sonorous Dominion uses several devices to hold troops in pocket dimensions for a few minutes, allowing large armies to appear in corridors seemingly out of nowhere. Theriad coordinates the battle and evacuation with Korr and Rurik in the war room. Duthrim uses his knowledge of mines and caves to safely trigger collapses, blocking off tunnels. Janvar and a group of men and holds one of the passages from a wave of enemies, until the final enemies trigger an explosive rune on himself instead of being captured, causing a cave-in that separates Janvar from the rest, leaving him deafened and bloodied.
 
-The scarred twins show up and give him some water. Janvar tries to talk to them, asking if they're Trellan's sons, but they say nothing and leave. A moment later Lady Miranjen Grellan makes an appearance.
+The scarred twins show up and give him some water. Janvar tries to talk to them, asking if they're Tevell's sons, but they say nothing and leave. A moment later Lady Miranjen Grellan makes an appearance.
 
 She takes off his helmet, admiring the Whist on it. Miranjen proposes to Janvar to join them. That her father faked her death and long stopped claiming her his daughter. That he used her only as a tool for his plans. Revenge for how she spared him before, but at least now he did not care if she married him. They could be together again, if Janvar left the rebellion. They could take their revenge on her. She tells him about the horrible tortures she endured under him, and reminds him he had prophesied they would be together forever. Miranjen calls him her whist. 
 

@@ -64,7 +64,7 @@ Tar'nil's younger son
 [[Vildara Sable]]
 [[Mardor]]†
 [[Nanold]]†
-[[Lord Amos Black]]
+[[Lord Amquos Black]]
 [[Aeoife]]
 [[Dri'ros Na'ak-Dan'ul]]†
 [[Duthrim Ilirn]]††

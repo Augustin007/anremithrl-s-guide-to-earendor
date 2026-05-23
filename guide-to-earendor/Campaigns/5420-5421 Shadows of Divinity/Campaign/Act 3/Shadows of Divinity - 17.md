@@ -7,7 +7,7 @@ campaign: Shadows of Divinity
 |[[Shadows of Divinity - 16]]|[[Shadows of Divinity]]|[[Shadows of Divinity - 18]]|
 
 [[spell:lesser-restoration]]
-[[character]]
+[[Meta/Obsidian Tools/Standard/character]]
 [[barbarian]]
 [[spells:wizard]]
 [[spells:necromancy]]

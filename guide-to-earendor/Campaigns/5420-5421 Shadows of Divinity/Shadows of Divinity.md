@@ -30,7 +30,7 @@ status: ongoing
 [[Valthor Remshi]]†
 [[Tormac]]†
 [[Morgana]]
-[[Alantothi]]†
+[[Felgar Alantothi]]†
 [[Aukan Kalagiano]]†
 [[Duke Klaethor Vasterra]]†
 [[Noab]]†
