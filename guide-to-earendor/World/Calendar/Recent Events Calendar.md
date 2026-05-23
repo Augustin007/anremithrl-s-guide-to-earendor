@@ -1,4 +1,4 @@
-A calendar compiling all notes with an explicit date given. Not intended to tell the complete story, but rather as a reference for how things intertwine. The real calendar beginning from 1st of Flamerule, 5420 AS, as events from before aren't covered.
+A calendar compiling all notes with an explicit date given. Not intended to tell the complete story, but rather as a reference for how things intertwine. Timeline beginning from 1st of Flamerule, 5420 AS, and events from before aren't covered.
 
 Things on calendar
 Main Festivals, etc. of different cultures.
@@ -291,18 +291,31 @@ Voren talks and Eldon is slain. Chaos.
 [[Session 2 - Traces of Divinity]]
 Norvias and Zal'keshar reach Trixail catching wind of Faust and some news of Neithen. Norvias murders someone.
 ## 29th of Nightal 
+Lady Niamh Moonwatcher is assasinated after fleeing Asmodeus.
+
 [[Shadows of Divinity - 15]]
 Morgana and Faust made their way following the Ley line, meeting with an attendent of knowledge along the way. 
 [[Shadows of Divinity - 10]]
 Rescue goes according to plan. A random location is chosen at the last moment, and 327 men are extracted without a single casualty.
 [[Shadows of Divinity - 10]]
 Derek tries to get elected.
+[[Session 4 - Traces of Divinity]]
+Zal'keshar is arrested for the murder committed by Norvias and interrogated. A cloaked figure, a vigilante identifying himself as Ravenhead, talks to Theriad Keladri about several strange recent events before beginning an investigation on the murder. 
+Norvias tracks Faust's scent to Morgana's home and meets Morgana's parents, who attack him. They are revealed to be hemalurgically spiked and part of the Kollus. Learning more about the Den, Norvias meets Mials and agrees to potentially help them, staying the night with them.
+A bounty is placed on Lancel Moonwatcher.
+
+
 ## 30th of Nightal
 [[Shadows of Divinity - 15]]
 Morgana learned to rip people's spines out while Faust accidentally cursed himself. They continue travelling, hoping to get the curse undone at Oracus.
 [[Shadows of Divinity - 10]]
 Another food store collapses. There is evidence of sabotage.
 Derek gets elected after Voren's men guard the gates. Technically legal. Mira speaks out and is assassinated in secret.
+[[Session 5 - Traces of Divinity]]
+Gethin greets Ravenhead as he comes back in and reveals himself as Lancel, and persuades him to get ready for recieving his aunt, Niamh. After a brief conversation Lancel and Gethin retreat from the wine cellar to prepare for Lancel’s aunt’s arrival. He also shows Lancel the vial of godsblood that was collected earlier in the morning.
+Norvias joins The Den formally and is recruited for a heist, and a gold metalmind is made for him. They plan to use him to find and retrieve the godsblood from the Moonwatcher Manor during a window in which the TAXBLADE is out for maintenance. 
+Lancel sees the black sails on the ship and hears the report of Lady Niamh's suicide from the ship's captain. Gethin and Lancel return privately to the Moonwatcher Manor, and agree they have to mourn later. He is aware Almack and other political rivals will begin making moves. He also begins preparing his manor to deal with the bounty he placed on himself in an attempt to catch the murderer who committed a series of hits.
+
 ## 1st of Hammer, 5421 AS [New Year's]
 [[Shadows of Divinity - 10]]
 Krag reaches out to Silvercloak Haron Trueforge. 
@@ -311,14 +324,24 @@ Krag realised Mira is not bleeding from new wounds. Krag realised Mira was murde
 He draws attention to the sabotage of the stores by a hooded gnome.
 He helps one of the Raven's wings who has passed out.
 
+[[Session 6 - Traces of Divinity]]
+Norvias gets the earring. Gethin and Lancel read a message from Niamh.
+Norvias runs the heist with Mials, and is spotted by Lancel from his observatory. In the subsequent combat, Lancel puts on his power armor and activates the Taxblade while Gethin returns with the map to the Oathbreaker stolen by Niamh. Asmodeus arrives and hijacks Norvias's metalmind and helps Norvias find the Nest.
+Tahlia begins firing on the palace when Norvias summons Asmodeus when he meets Gethin. In the ensuing combat, Asmodeus captures Gethin and hijacks the taxblade and kills Mials.
+
+
 The great dragon-king Valthor Remshi is slain. His last spell drives away Auril's forces from the Tree. Aftereffects of this spell cause an earthquake. There is an enormous earthquake.  Buildings collapse.
 
+[[Session 6 - Traces of Divinity]]
+The Earthquake ends Asmodeus's projection. Tahlia destroys the palace while Lancel flees and argues with a captured Norvias.
 [[Session 1 - The Path of Honor]]
 The cabin collapses over Naras, Talor, and Ahktos
 [[Session 2 - The Path of Honor]]
 Searching for some haven from the storm after the Earthquake, Syl, Talor, Naras, and Ahktos stumble too near to the Necromancer and Syl gets captured by his wards. They fight an undead Thalai, resurrected as a wailing revenant, finally working together, and free Syl, unknowingly leaving a trace on themselves.
 They flee the necromancer and wind up in the village of Caradhas, which was crushed by the snow from the hills around it. 
 The traveller sends Lady Black on a mission to the Nine Hells.
+
+
 ## 2nd of Hammer
 [[Shadows of Divinity - 10]]
 William, Singollo, and Galio each investigate the Earthquake independently and come to the conclusion that it originated from the Tree of Names.
@@ -392,7 +415,6 @@ Talor and Aemma set off to rescue the Solenthiri Princess.
 Galio and Colossus search for the source of Necrotic power that has made people vanish. Another disappearance occurs.
 Galio talks to Asenath while Colossus detects his thoughts. Knowing Asenath plans to betray him, he places him under arrest. Realising his plot failed, Asenath attacks Galio and is instantly killed by the high guard.
 
-Lady Niahm Moonwatcher commits Suicide
 ## 8th of Hammer
 [[Shadows of Divinity - 19]]
 Faust and Morgana eventually made a deal with Lucy to undo his curse.

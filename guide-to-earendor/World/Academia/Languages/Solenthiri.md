@@ -164,6 +164,3 @@ These names are designed to reflect the culture and environment of Solenthir,
 ### 5. Example Sentences
    - Basic Sentence: "Galio (S) the rock (O) lifts (V)." In your language, this might be something like "Galio raka liftun."
    - Descriptive Sentence: "The cold (S) the night (O) embraces (V)." Translated, this could be "Die kalt nachti umarmun."
-
-### Consistency and Documentation
-- Keeping Track: As you develop the language, maintaining a consistent lexicon and set of grammatical rules is crucial. Document new words, phrases, and rules as they are created.

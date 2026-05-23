@@ -1,87 +1,62 @@
 {
   "main": {
-    "id": "35aa609f636378d2",
+    "id": "a0f1e4394db01de7",
     "type": "split",
     "children": [
       {
-        "id": "b8212d6b53591adb",
+        "id": "92f901f20aec07e1",
         "type": "tabs",
         "children": [
           {
-            "id": "216a6c4665251ef2",
+            "id": "1a7b61956879812c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Characters & More/Characters List.md",
+                "file": "Campaigns/5421 Traces of Divinity/Campaign/Session 6 - Traces of Divinity.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Characters List"
+              "title": "Session 6 - Traces of Divinity"
             }
           },
           {
-            "id": "1e0237167782330b",
+            "id": "32d187d83a8072fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Unfinished/Todo; prompts/;temp-todo.md",
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Aberrations/Vampires/Kas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": ";temp-todo"
+              "title": "Kas"
             }
           },
           {
-            "id": "0ec6057e999f9d7a",
+            "id": "1df3d3947b2ddde6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Unfinished/Stories/4-Stories.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "4-Stories"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d3deaea9d5a03532",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad91779520de47a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Characters & More/Beings/Immortals/Created/Marethyu.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Marethyu"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "301156946b6789ca",
+            "id": "7e339fae70844ae4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Locations/Planes/Demiplanes/The Architects' Pockets.md",
-                "mode": "preview",
+                "file": "Knowledge is Power.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Architects' Pockets"
+              "title": "Knowledge is Power"
             }
           }
         ]
@@ -90,15 +65,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7ad196071d6cc2c3",
+    "id": "d3b326d079413749",
     "type": "split",
     "children": [
       {
-        "id": "f13c52cf6f6ee984",
+        "id": "1dd5b98a96d34c84",
         "type": "tabs",
         "children": [
           {
-            "id": "eec10ee5dff78b99",
+            "id": "85744e378688d4e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -111,15 +86,15 @@
             }
           },
           {
-            "id": "1def03c888b3de2f",
+            "id": "d8e00fb3986ccc91",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -128,7 +103,7 @@
             }
           },
           {
-            "id": "761f281f04a69acc",
+            "id": "6950bf0e48e5e2b2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -141,23 +116,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300
   },
   "right": {
-    "id": "cbb166d7a23c9775",
+    "id": "c203d7428e3445e2",
     "type": "split",
     "children": [
       {
-        "id": "67512cf53e117e6b",
+        "id": "a66cae3a20c72fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "de35aaeffee92eb3",
+            "id": "323a2823720f45a3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 5 - Knowledge is Power/Session 37 - Adventures in Arthulion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +141,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 37 - Adventures in Arthulion"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "b2d4cdf45255b931",
+            "id": "13462470fcf11063",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -184,7 +158,7 @@
             }
           },
           {
-            "id": "73bd4dabc38aee66",
+            "id": "73ddbfca4a54fc28",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -199,75 +173,21 @@
             }
           },
           {
-            "id": "7cdce83d4d452f55",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_0bc878cbdb68",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 13,
-                    "month": 1,
-                    "year": 5421
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 12,
-                    "month": 1,
-                    "year": 5421
-                  },
-                  "displayDayNumber": false,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": true,
-                  "displayWeather": true
-                },
-                "id": "ID_e8190929fb5a",
-                "child": "ID_cadbfa1acbaa"
-              },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
-            }
-          },
-          {
-            "id": "df023e10cd90f10e",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "d0dcdec7fd535939",
-            "type": "leaf",
-            "state": {
-              "type": "MAIN_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "MAIN_VIEW"
-            }
-          },
-          {
-            "id": "80ed3f07e79ff33c",
+            "id": "a6cb5e5d3eb034e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Ashdilkir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ashdilkir"
+              "title": "Outline"
             }
           },
           {
-            "id": "80954d8827e5378e",
+            "id": "275ad1b78553368d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -276,37 +196,15 @@
               "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "80eca3f6c06c8a61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2bbe1366b67c4e73",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_0bc878cbdb68",
-                "id": "ID_cadbfa1acbaa",
-                "parent": "ID_e8190929fb5a"
-              },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM_AGENDA"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 546.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -314,60 +212,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0ec6057e999f9d7a",
+  "active": "85744e378688d4e9",
   "lastOpenFiles": [
-    "Meta/Unfinished/Stories/3-Stories.md",
-    "Meta/Unfinished/Reviewed/Ancient Civilisations in Age of Building.md",
-    "Meta/Unfinished/Reviewed/Classification of Beings.md",
-    "Meta/Unfinished/Reviewed/Cults.md",
-    "Meta/Unfinished/Reviewed/Dragons.md",
-    "Meta/Unfinished/Reviewed/Godly Politics.md",
-    "Meta/Unfinished/Reviewed/Lesser Gods.md",
-    "Meta/Unfinished/Todo; prompts/;temp-todo.md",
-    "World/Characters & More/Characters List.md",
+    "Meta/Unfinished/Chaos.md",
+    "Campaigns/5421 Traces of Divinity/Campaign/Session 6 - Traces of Divinity.md",
+    "index.md",
+    "Campaigns/1600 Shattering of Shadows/Campaign/Session 2 - Shattering of Shadows.md",
+    "Campaigns/1600 Shattering of Shadows/Campaign/Session 1 - Shattering of Shadows.md",
+    "Campaigns/1600 Shattering of Shadows/Shattering of Shadows.md",
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Ashdilkir.md",
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Aberrations/Vampires/Kas.md",
+    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
+    "Meta/Unfinished/Knowledge is Power.md",
+    "World/Characters & More/Beings/Mortals/Mixed/Tiefling/Tahlia Tormund.md",
+    "World/Characters & More/Beings/Immortals/Greater Immortals/Quasi-Deities/Bechel of Bharam.md",
+    "World/Academia/Languages/Rusekhet.md",
+    "World/Academia/Languages/Gol.md",
+    "World/Locations/Planes/Within Planes/Countries/Velmyria/Hatreth/Shattered Region.md",
+    "Untitled.md",
+    "Meta/Unfinished/Niamh's Letter.md",
+    "World/Locations/Planes/Within Planes/Countries/Countries.md",
     "World/Locations/Map of Earendor.md",
-    "World/Locations/Planes/The Planes.md",
-    "World/Items/Artifacts & Items.md",
-    "World/Items/Amulet of the Barren Realm.md",
-    "Meta/Unfinished/Stories/10-Stories.md",
-    "World/Timeline/Ages Past.md",
-    "Meta/Unfinished/Stories/6-Stories.md",
-    "Meta/Unfinished/Stories/4-Stories.md",
-    "World/Characters & More/Beings/Immortals/Created/Marethyu.md",
-    "World/Timeline/3 The Age of the Gods/The Age of The Gods.md",
-    "World/Timeline/2 The Eternal Wars/The Eternal Wars.md",
-    "Meta/Unfinished/Stories/1-Stories.md",
-    "World/Timeline/1 The Age of the Primordials/The Age of the Primordials.md",
-    "World/Locations/Planes/Demiplanes/The Architects' Pockets.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Primordials/Dusk/Ubtao.md",
-    "World/Timeline/4 The Age of Awakening/The Age of Awakening.md",
-    "World/Timeline/5 The Age of Building/The Age of Building.md",
-    "Meta/Unfinished/Dialogue, notes, prep",
-    "Meta/Unfinished/Format Things/Untitled.canvas",
-    "Meta/Unfinished/Format Things",
-    "Meta/Unfinished/Stories",
-    "Meta/Unfinished/Expanded",
-    "Meta/Unfinished/Reviewed",
-    "Meta/Unfinished/Numbered/Toss",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Serin Rathir (Darkness).png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Lirien Vael.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Liriel Danstal.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Kerran Thorol.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children/Aric Vael.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Uldren Nashol.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Torquil Leogan.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Tar’id’lion’nil Remshi’ul.png",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/Players/Talor.png",
-    "Meta/Standard/Campaign/{start}-{end} {name}/Campaign/Act {;number}",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/The Children",
-    "Meta/Images/Tokens/Tokens/The Path of Honor/Players",
-    "Meta/Homebrew/RAW/Character/Extra_Abilities/Spells",
-    "guide-to-earendor/Meta/Unfinished/Untitled.canvas",
-    "Untitled.canvas"
+    "World/Locations/Planes/Within Planes/Countries/Velmyria/Veloria/United Kingdom of Veloria.md",
+    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 1 - Rise of the Greenclad.md",
+    "Meta/Unfinished/Session 3 - Origins of the Greenclad.md",
+    "Meta/Unfinished/Dialogue, notes, prep/Todo; prompts/;temp-arth/;temp-prompt4.md",
+    "Meta/Unfinished/Dialogue, notes, prep/Dialogue.md",
+    "Meta/Unfinished/Dialogue, notes, prep/Headmaster's speech.md",
+    "Meta/Unfinished/Dialogue, notes, prep/Posts.md"
   ]
 }

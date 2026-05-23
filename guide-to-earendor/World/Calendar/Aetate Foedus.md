@@ -4,4 +4,4 @@ The battle would have been short, but Thorondor [[Selliso]], of Neros, who had b
 
 On the fifth day of the battle of the Aetate Foedus, a Kuildel general named [[Voros Kaul]] made a warlock bargain with [[Tharizdun]] and used it to raise an undead army and launched an attack against the Nerosean encampment, sacking the medical tents.
 
-(844)
+4320 AS.
