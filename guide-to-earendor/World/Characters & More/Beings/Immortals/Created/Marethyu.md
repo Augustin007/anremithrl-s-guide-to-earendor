@@ -32,7 +32,7 @@ He once offered to cure [[Ashdilkir]], but she refused.[^4]
 
 He granted [[Bechel of Bharam]] the Sight in exchange for her regular sight.
 
-He granted [[Valus]] and his swordsmen immortality in exchange for their inability to use any form of magic.
+He granted [[Valus]] and his swordsmen immortality in exchange for their inability to use any form of magic.[^5]
 
 He granted [[Koluss]] the ability to extend his mind over others in exchange for Koluss's daughter.
 

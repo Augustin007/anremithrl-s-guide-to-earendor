@@ -12,4 +12,4 @@ aliases:
   - Duke Vasterra
   - Lord Klaethor
 ---
-Of [[Vasterra]] in [[Neros]].
+Of [[Vasterra 1]] in [[Neros]].

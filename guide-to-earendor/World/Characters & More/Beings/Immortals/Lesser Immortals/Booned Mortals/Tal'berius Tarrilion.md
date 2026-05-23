@@ -22,6 +22,8 @@ Kas and Tal'berius became good friends in this time.
 
 ~200 BS Artorius died fighting [[Tharizdun]], and Tal'berius in his anger, caused a cataclysmic rip in the weave that nearly destroyed the universe, which he was able to use to cut out the heart of the god and chain it down. This rip allowed pure Chaos through, which Tal'berius contained in the [[Orb of Annihilation]]. It also caused the destruction of the entire region, which would soon be called the Shattered Teeth. This would also be one of the major turning points in the war.
 
+In the [[Siege of the Black Gates]], Tal'berius foresaw the betrayal by the [[Nildus]] and dueled [[Zara]]. He took a piece of crystallised draconic quiddity from her belonging.
+
 Tal'berius and [[Dallion]] became loose friends during this time.
 
 After Artorius's death, [[Fangrim]] and Tal'berius create the first constructs.
@@ -30,7 +32,7 @@ Tal'berius fought and drove away [[Korvus]] with the aid of [[Shyvana]], stealin
 
 Tal'berius also earned the enmity of [[Tiberon]] and [[Rowena]], hunting artifacts on his own to keep for himself.
 
-Falledric steals the [[Orb of Annihilation]] from him, and Tal'berius is unable to recapture it.
+Falledric stole the [[Orb of Annihilation]] from him, and Tal'berius was unable to recapture it.
 
 He was hired as Architect Arcane by his nephew when the city of Westhaven was founded as a sanctuary during the Sundered War.
 
@@ -52,22 +54,22 @@ He tracked down [[Ashdilkir]] and with [[Miyatol Dodonus]]'s help was able to ta
 
 He regained the Orb of Annhilation, bypassing the teleportation block, and trying to avoid the attention of more powerful magic users, by using the [[Echoes of Divinity]] ship and crew to get to Othron Ibrith, and kills Falledric.
 
-He hired them again for dealing with Ashdilkir, but failed to obtain the stone. Nearly dying when Ashdilkir bests him and kills his clone, as well as losing two taxblades, prompting him to realise that his mechanical bodyguards have not been updated in centuries and have fallen far from modern capabilities.
+He hired them again for dealing with Ashdilkir, but failed to obtain the stone. During this time, [[William Treaty]] stole the quiddity from him using the Doors. He nearly died when Ashdilkir bested him and killed his clone, and lost two taxblades, prompting him to realise that his mechanical bodyguards have not been updated in centuries and have fallen far from modern capabilities. He began construction of the new TAXBLADE forms, and began thinking about using the Spiral to obtain it.
 
-He was at the Tree of Sanctuary during the Confrontation and cut of a branch of it using a remnant from on of the [[Epic Dragons]]. 
+He was at the Tree of Sanctuary during the Confrontation and cut of a branch of it using the quiddity he stole from Zara.
 
-He sacrificed his hand to answer certain questions he has about the tree, and was thus able to construct the Astral Leywrite. It did not work at the time because of Atropus's damage to the structure of the planes.
+He sacrificed his hand to answer certain questions he has about the tree, and was thus able to construct the Astral Leywrite. It did not work at the time because of [[Atropus]]'s damage to the structure of the planes.
 
-When he discovered the Second Rift, he attempted to rebind it as he did before, but Chaos is more powerful than it used to be. In the end, in desparation, he traveled and obtained Vecna's hand, and replaced his missing hand with it. He uses Vecna's power to contain the Chaos.
+When he discovered the Second Rift, he attempted to rebind it as he did before, but Chaos is more powerful than it used to be. In the end, in desparation, he traveled and obtained Vecna's hand, and replaced his missing hand with it. He used Vecna's power to contain the Chaos.
 
 He advised Gallio to give up Aldarkeep pass.
 
-He agreed to fight in the longest night when he speaks to William Treaty.
+He agreed to fight in the longest night when he spoke to William Treaty.
 
 [[Tahlia Tormund]] stole the Eye of Vecna from his vault during this time. 
 
 After Ashdilkir ascended, Tal'berius spoke with Kas again, rekindling their old friendship for the first time, and advised him that Ashdilkir may be beyond saving.
 
-The hand disappeared after Vecna's destruction. 
+The hand disappeared after Vecna's destruction, unbinding the Second Rift. 
 
 At the Shattering, Tal'berius absorbed the Tree after Colossus destroyed it becoming the origin of the Ley Lines. He redirected Auril's divinity (and thus Dur'bagaal's remnant) and formed the Conduit. 

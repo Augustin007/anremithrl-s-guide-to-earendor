@@ -1,4 +1,4 @@
-Finn was a sorcerer who lived in the region which would eventually become the [[Shattered Teeth]]. He was born pre-sundering. He was known for his expertise in the arts, particularly painting, which he believed to be one of the most potent forms of harnessing internal magical powers.
+Finn was a sorcerer who lived in the region which would eventually become the [[Shattered Region]]. He was born pre-sundering. He was known for his expertise in the arts, particularly painting, which he believed to be one of the most potent forms of harnessing internal magical powers.
 
 Finn's interest in art stemmed from his belief that it could be used as a way of expressing emotions and thoughts without using words. Magic, he argued, was an art as well, and something deep and intuitive that required a similar mindset as art did, something that expanded from within one's self without formal direction.
 
