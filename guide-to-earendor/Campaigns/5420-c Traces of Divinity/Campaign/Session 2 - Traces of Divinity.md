@@ -4,7 +4,7 @@ campaign: Traces of Divinity
 ---
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
-|[[Session 1 - Traces of Divinity ]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|
+|[[Campaigns/5420-c Traces of Divinity/Campaign/Session 1 - Traces of Divinity]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|
 
 As they approach Blackton, Neithen tries to avoid it and reveals he knows Amquos Blackton. Ophiriel suspects him and he attempts to jump Ophiriel. In the ensuing scuffle, they are both injured. Neithen flees, avoiding the rival crime lord Amquos Blackton, leader of the Hidden Thieves. Ophiriel avoids a group of thieves and begins heading down a different road, towards Trixail, the former capital of Trixail.
 
@@ -14,4 +14,4 @@ It is a day before the full moon. Norvias and Zal'kesh'ar are travelling along t
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
-|[[Session 1 - Traces of Divinity ]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|
+|[[Campaigns/5420-c Traces of Divinity/Campaign/Session 1 - Traces of Divinity]]|[[Traces of Divinity]]|[[Session 3 - Traces of Divinity]]|

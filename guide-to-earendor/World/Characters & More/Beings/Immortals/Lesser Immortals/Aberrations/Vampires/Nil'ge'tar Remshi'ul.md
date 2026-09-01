@@ -35,7 +35,7 @@ Nugget was firmly against the peace when peace talks began and was swiftly exile
 
 He was gravely injured when he and a group of fellow exiled soldiers attacked a dwarven camp, and his soldiers died around him. He escaped and was going to die in the snow, but survived by swearing service to Asmodeus in exchange for a promise of vengeance.[^1] 
 
-Asmodeus led him meet and befriend [[Colossus]], because of Colossus's ties to the Raven Queen at the time. Nugget would spy on Colossus for Asmodeus, following him, and guiding Colossus to go northward, where they would take up a job under [[Id'ros Aka-Illion]] to attempt to discover the root of [[Auril]]'s power in the material plane.[^2] 
+Asmodeus led him meet and befriend [[Colossus Methunroa|Colossus]], because of Colossus's ties to the Raven Queen at the time. Nugget would spy on Colossus for Asmodeus, following him, and guiding Colossus to go northward, where they would take up a job under [[Id'ros Aka-Illion]] to attempt to discover the root of [[Auril]]'s power in the material plane.[^2] 
 
 The friendship between Nugget and Colossus was tenuous and had much conflict.
 

@@ -1,0 +1,1 @@
+You shoot an arrow in the air and declare where it will land on a piece of paper you flip down, it will land after a whole round if anyone is in that space, (or some other amount of time; potentially configurable, further in the future more damage?), but if it hits it auto crits?

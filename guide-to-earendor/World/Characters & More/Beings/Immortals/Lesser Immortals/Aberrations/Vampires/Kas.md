@@ -34,7 +34,7 @@ He woke up one day hearing [[Tartarus]]'s voice in his ears, warning him one of 
 
 He became concerned with [[Asmodeus]]'s doings and hired his daughter Aeoife to infiltrate the NAF and spy on Asmodeus.[^2]
 
-When she was captured by the [[DragonArrow]] Company, he spoke to Ashdilkir to help rescue their daughter, and helped her ascend to Ashariel. During [[The Shattering]], he was pushed through the Conduit and thrown out of time itself by [[Ghalen]].[^2]
+When she was captured by the [[DragonArrow]] Company, he spoke to Ashdilkir to help rescue their daughter, and helped her ascend to Ashariel. He was involved in [[The Shattering]].[^2]
 
 [^1]: *Source:* [[The Path of Honor]]
 [^2]: *Source:* [[Shadows of Divinity]]

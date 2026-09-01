@@ -10,7 +10,7 @@ kobolds emerge as deformities from the draconic magic first poured in to contain
 People are scattered, don't know what is going on. Most information is lost. Several species are extinct from the sundering war and the time after it. The elves mantain their dominance as a mortal species.
 
 Eleutheros and Feullin studied the residual magical energies from the Sundered War, developing spells to cleanse and rejuvenate the land
-The Faeries, who fought under Asmodeus, are hated. But Asmodeus gives them a last gift to help them escape into small pockets between the planes with illusions. The gnomes who fought against their creator, are forgiven.  The faeries are slowly forgiven over time, but never trusted. The Faeries often curse or bless people who interfere with them, creating several of the beastfolk.
+The Faeries, who fought under Asmodeus, are hated. But Asmodeus gives them a last gift to help them escape into small pockets between the planes with illusions. The gnomes, who fought against their creator, are forgiven.  The faeries are slowly forgiven over time, but never trusted. The Faeries often curse or bless people who interfere with them, creating several of the beastfolk.
 
 As the last skirmishes are fought, small kingdoms begin to arise again.
 

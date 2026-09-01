@@ -1,3 +1,14 @@
+---
+academia: language
+---
+
+Chersai.
+
+This is the language spoken in [[Cherhal]]. 
+
+
+
+
 Language of Cherhal: Chersai
 
 Cherhal, a warlike nation in the far southern reaches near Echoriati and Chiss, has developed a language as harsh and efficient as its militaristic culture and brutal institutions. The people of Cherhal prize dominance, unwavering order, and loyalty—values baked into the structure of Chersai, their common tongue. 

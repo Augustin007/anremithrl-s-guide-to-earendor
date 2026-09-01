@@ -574,7 +574,7 @@ Naras, Ivvan, Serin, and Aric leave the rest of the Bag Blowers and begin headin
 Tarold and Aemma camp away from any cities an begin heading East. They are attacked and forced to head back South for supplies.
 
 [[Session 1 - Bonds of Fate]][[Session 2 - Bonds of Fate]][[Session 3 - Bonds of Fate]]
-Evenon and Ekenon attend a Drakzhal party in Xyrdakul, beginning Beelzebub's ploy.
+Evenon and Ekenon attend a Drakzhal party in Xirdakul, beginning Beelzebub's ploy.
 
 Kharazien begins moving his troops towards the Perch, worrying Lei'ros and his forces, as they try to regroup.
 ## 22nd of Hammer
@@ -657,39 +657,40 @@ Tepozo arrives at the Stellatite Mines and is put with Tunnel-crew 7b, his unfla
 [[Session 33a - The Path of Honor]]
 Ivvan goes to Carabran. Does what he does at Carabran.
 ## 29th of Hammer
-PROJECTED
-Colossus and Nugget Remshi kill Vecna and restore the Shadowfell. 
-PROJECTED
-Auril and Liriel attack the encampment at the Tree. Liriel is UnCharmed by Colossus, but continues to work with Auril to defeat them, but is forced to retreat. Liriel leaves behind the silver ravens.
+[[Shadows of Divinity - 26]]
+Colossus and Nugget Remshi kill Vecna and restore the Shadowfell.
 [[Session 35a - The Path of Honor]]
 Tepozo, Leren, and Naras continue to work in the Caves of Karr. Syl tries to find a way out for them. They meet Nirhak.
 [[Session 36a - The Path of Honor]]
 Ivvan in Carabran.
 
 ## 30th of Hammer
-Liriel frees Aric. 
-
-PROJECTED
-Colossus restores the Divinity of Tyr and The Raven Queen.
-
+Liriel frees Aric, still possessed, the two of them agree to help Auril.
+Baron Daron dies of a heart attack.
 Korvus finishes his experiments and Ashdilkir is able to ascend. She becomes Ashariel. Retribution.
  
 ## 1st of Alturiak [Longest Night]
 [[The Shattering]]
 A great ley line shifting, which occurs every few hundred years, and the longest night (winter solstice), coincide to make the border between realms thinnest, allowing creatures to pass through the Tree more easily.
-At the longest night, in a great battle at the tree, Tartarus is able to get his forces there, killing Isendra on the other end. Many things occur. See Longest Night. Baron Daron, the Analyst, and Galio die in the fighting.
+Tartarus's forces attack the tree again. 
+
+
 Azmodeus returns to his godhood as Be'elzebub gives him the Ichor. He successfully severs Tartarus's bond, restoring Nil'ge'tar's sanity.
 
+[[Shadows of Divinity - 27]]
+Auril and Liriel attack the encampment at the Tree along with the Silven Crown. Liriel is UnCharmed by Colossus, but continues to work with Auril to defeat them, but is forced to retreat. Liriel leaves behind the silver ravens along with the rest of Krag's gear. The analyst grieves over the death of Baron Daron, and remains in the back lines, where he overhears Kas and Ashariel. He confronts them and learns from them how to use the Labyrinth Stone. There is a long battle, and Auril makes it to the tree and is able to make an opening for Tartarus. Isendra and Lady Jessica Black try to keep him out while Colossus and William manage to bind Auril and strip away her quiddity, revealing the actual Divine Unbinding spell to everyone who was there. Auril is still a very powerful being, if severely weakened and she attempts to use up Aric's life force and his connection to the Darkness to restore herself to divinity, and Liriel here turns on her and kills her using the Codex, taking up her divinity, while Aric, now expanded, gains mastery over the Darkness. 
+Tartarus kills Isendra and Jessica while the Analyst rushes to tell William how the labyrinth stone can be used to capture Tartarus, but Tartarus destroys the gem. Tartarus begins unravelling the material plane. William attempts to draw from the Deck of Many Things as a last-ditch effort but it instead traps him in another plane. Gallio attacks Tartarus to buy a tiny bit of time.
+Realising Tartarus's true plan to awaken Azgorath, and in order to prevent the immediate destruction of the world, Colossus causes the Shattering, destroying the Tree and allowing the protectorate to swoop in. Colossus is killed by the blast.
+Gallio is strengthened by an awakening Thalorin to wrestle down the recovering Tartarus, and shifts the two of them into his personal pocket dimension, expelling his men, and ordering Tal'berius to slow down time there. Tartarus can easily kill him and return, but it will be centuries in the exterior.
+Maegard kills Valus. 
+Tal'berius uses the explosion of divinity from the tree to form the Conduit, stabalising the Planes, undoing Dur'bagaal's and Atropus's first act of destruction at the beginning of the Eternal Wars, and thus allowing the Arcane Leywrite to allow Tal'berius to comprehend and channel the power of the Trees, which now passes through Tal'berius. 
+Grumbar is awakened as time flows properly again. The Shadow is freed. As gods from other planes arrive on the scene, Tal'berius keeps them away, and Tal'berius kills Hekate, taking her power.
+Ashariel and Kas use the Conduit to free the Shadow and begin their plan of revenge against the gods. 
+William Treaty's men begin to search for him.
 [[Session 31b - The Path of Honor]]
 Aka'vral's forces arrive at Riulva and see evidence of this fighting, a few miles away. They rush to investigate, arriving moments before the Shattering.
-
-Auril is killed by Liriel using the Codex, since she attempts to use Aric's possesion, to restore her divinity, just as the Shattering happens.
-Realising Tartarus's true plan to awaken Azgorath, and in order to prevent the immediate destruction of the world, Colossus uses the Divine Unbinding spell to steal Auril's divinity, but is unable to kill her, revealing the spell to everyone there. Colossus causes the Shattering, destroying the Tree and allowing the protectorate to swoop in. Colossus and Gallio are killed by the ensuing blast. Tal'berius Absorbs the Tree. 
-Within stopped time. The fully awakened Thalorin draws Tartarus away to a great battle. Great earthquakes occur. Sections of the atmosphere ignite as the Divine Ley lines collapse. Azgorath and the Epic Dragons stir in their slumber. Ghalen prevents Kas from killing Ashariel when she arrives, by shoving him into the growing threads from the Conduit. Lady Black dies in the chaos. Other things occur. Maegard kills Valus. Tal'berius Auril's divinity to form The Conduit, stabalising the Planes, undoing Dur'bagaal's and Atropus's first act of destruction at the beginning of the Eternal Wars, and thus allowing the Arcane Leywrite to allow Tal'berius to comprehend and channel the power of the Trees. Grumbar is awakened as time flows properly again. The Shadow is freed. Tal'berius kills Hekate, scattering her essense across the Material Plane.
-The conduit ends the Time Stop, and any other time-fluctuating effects, expelling Kas from Time and Space, converting him into the Chronomancer Ghalen. 
-Nil'ge'tar and William Treaty retreat with the combined armies of the NAF and DragonArrow.
-As everyone flees and retreats, the Aboleth dead, the lake evaporated, tree destroyed, Aka'vral and Arthur's forces scout the area. Arthur sees the conduit laying on the ground and wonders what it is, nearly touching it and expelling himself to Ghalen. Talberius stands where the tree once was, slowly ascending beyond his previous locations, the orb of anhilation is cracking in his arm. 
-Cordast Tresant observes this, planning.
+As everyone flees and retreats, the Aboleth dead, the lake evaporated, tree destroyed, Aka'vral and Arthur's forces scout the area. Arthur sees the conduit laying on the ground and wonders what it is, nearly touching it. Talberius stands where the tree once was, slowly ascending beyond his previous locations, becoming something new, the orb of anhilation is cracking in his arm (once Vecna's), which is disintegrating, chaos getting absorbed.
+They see Cordast Tresant stairing at this from the distance.
 [[Session 31b - The Path of Honor]]
 Aka'vral and Arthur's forces are met by Ashariel. 
 [[Session 32b - The Path of Honor]]
@@ -699,7 +700,7 @@ Aka'vral and Arthur rescue Taelardan.
 The Incineration begins, the Ley Lines light the sky and cause the Ashfalls. Day and night are dominated by the lighted sky, making it difficult to distinguish. A massive earthquake and its aftershocks topple buildings as the planet returns to its previous angle (pre-Auril), pushing back the winter. Ash falls at all times, starting to destroy crops.
 An assasination attempt fails on Arthur. 
 
-Beelzebub conquers Xyrdakul, killing the council and king. 
+Beelzebub conquers Xirdakul, killing the council and king. 
 
 Faust leaves the plane. 
 

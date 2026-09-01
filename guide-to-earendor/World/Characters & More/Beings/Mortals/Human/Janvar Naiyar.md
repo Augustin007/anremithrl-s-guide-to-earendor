@@ -11,3 +11,7 @@ aliases:
   - Jason
   - Naiyar
 ---
+
+Janvar Naiar was born to 
+
+Janvar eventually did betray Jason to the hook-handed man.

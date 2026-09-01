@@ -6,7 +6,9 @@ aliases:
 
 Varian was the brother of [[Thalorin]] and [[Elandra]]. 
 
-He was the patron of the Anami people, having aided Anamos in founding them and fighting against Thadred. Varian was the king of Thalassos, and the mortal rulers were merely regents chosen by him. 
+He loved [[Thalassa]], and was grived when she died.
+
+He was the patron of the Anami people, having aided Anamos in founding them and fighting against Thadred. Varian was the king of Thalassos, (which he named after his lover), and the mortal rulers were merely regents chosen by him. 
 
 Some of his people went south, to Eldorath, and pledged themselves to Nebelum.
 

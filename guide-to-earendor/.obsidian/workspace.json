@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "92f901f20aec07e1",
+        "id": "e3e9f564be24f26c",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7b61956879812c",
+            "id": "d2b4bbeb4e622230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/5421 Traces of Divinity/Campaign/Session 6 - Traces of Divinity.md",
+                "file": "Campaigns/5420-c Traces of Divinity/Campaign/Session 8 - Traces of Divinity.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 8 - Traces of Divinity"
+            }
+          },
+          {
+            "id": "99a3d06eebd20166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5420-c Traces of Divinity/Campaign/Session 6 - Traces of Divinity.md",
                 "mode": "preview",
                 "source": true
               },
@@ -22,7 +36,245 @@
             }
           },
           {
-            "id": "32d187d83a8072fc",
+            "id": "09cf2bd803caaf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dis.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Dis"
+            }
+          },
+          {
+            "id": "831c6b2ecda8c6ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5418 Blood of Thalorin/Campaign/Session 2 - Blood of Thalorin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 2 - Blood of Thalorin"
+            }
+          },
+          {
+            "id": "d8ad18a69b08d26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Dialogue, notes, prep/Todo; prompts/;temp-todo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": ";temp-todo"
+            }
+          },
+          {
+            "id": "83bc7e6d474a2f8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unfinished/Niamh's Letter.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Niamh's Letter"
+            }
+          },
+          {
+            "id": "32232f546272fa62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Save"
+            }
+          },
+          {
+            "id": "d35eff1a3e2acfb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "642043b2e91af94e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "9e5187f1b820cd5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Mortals/Human/Niamh Moonwatcher.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Niamh Moonwatcher"
+            }
+          },
+          {
+            "id": "14ab9f0f9a6962db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Greater Immortals/Deities/Celestial/Acheron.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Acheron"
+            }
+          },
+          {
+            "id": "c0e94eb4c01bda0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Mortals/Human/Niamh Moonwatcher.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Niamh Moonwatcher"
+            }
+          },
+          {
+            "id": "84262e07853fb17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5420-5421 Shadows of Divinity/Campaign/Act 4/Shadows of Divinity - 27.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Shadows of Divinity - 27"
+            }
+          },
+          {
+            "id": "88733362e00e8c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Calendar/Recent Events Calendar.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Recent Events Calendar"
+            }
+          },
+          {
+            "id": "152f0b0bd6776389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Calendar/The Shattering.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Shattering"
+            }
+          },
+          {
+            "id": "6737d14321e3febf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Locations/Planes/Within Planes/Countries/Countries.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Countries"
+            }
+          },
+          {
+            "id": "baa47fcc8cc5278e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Mortals/Human/Niamh Moonwatcher.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Niamh Moonwatcher"
+            }
+          },
+          {
+            "id": "264c7cd34a84fcc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4 - Into Fire/Session 30 - Adventures in Arthulion.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 30 - Adventures in Arthulion"
+            }
+          },
+          {
+            "id": "d08578044d639314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Ashdilkir.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ashdilkir"
+            }
+          },
+          {
+            "id": "00f9abd4d24a4bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,30 +288,217 @@
             }
           },
           {
-            "id": "1df3d3947b2ddde6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7e339fae70844ae4",
+            "id": "e3334c2aa8a7c156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge is Power.md",
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Aberrations/Vampires/Kas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Kas"
+            }
+          },
+          {
+            "id": "3a2af32145eee5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Tal'berius Tarrilion.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tal'berius Tarrilion"
+            }
+          },
+          {
+            "id": "ba73cb026356a212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Save.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Save"
+            }
+          },
+          {
+            "id": "635230cd0f5528cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tm.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tm"
+            }
+          },
+          {
+            "id": "671c50d9007e83fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tppm.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "tppm"
+            }
+          },
+          {
+            "id": "bd1e399792b9d416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5421-c Children of Calamity/Children of Calamity.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Children of Calamity"
+            }
+          },
+          {
+            "id": "2f8dffd40ba50f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5418 Road to Rymfel/Campaign/Session 3 - Road to Rymfel.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 - Road to Rymfel"
+            }
+          },
+          {
+            "id": "7add8932caad24f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Obsidian Tools/Unresolved Links.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Unresolved Links"
+            }
+          },
+          {
+            "id": "ebb1a63eaaba84b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Immortals/Lesser Immortals/Dragons/Valthor Remshi.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Valthor Remshi"
+            }
+          },
+          {
+            "id": "ca1ffffff829a71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Characters & More/Beings/Mortals/Mixed/Dragonborn/Iti'esse Kyr'ash.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Iti'esse Kyr'ash"
+            }
+          },
+          {
+            "id": "30bfa1dafac2368d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Timeline/6 The Age of Rising/The Age of Rising.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "The Age of Rising"
+            }
+          },
+          {
+            "id": "5d13170dde952132",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raevhen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Raevhen"
+            }
+          },
+          {
+            "id": "b9c277e05a2e1ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fere'ind.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Knowledge is Power"
+              "title": "fere'ind"
+            }
+          },
+          {
+            "id": "8943888fd0b9b9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/5421-c Children of Calamity/Campaign/Session 3 - Children of Calamity.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 - Children of Calamity"
+            }
+          },
+          {
+            "id": "1a9b3992db970c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raevhen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Raevhen"
             }
           }
-        ]
+        ],
+        "currentTab": 34
       }
     ],
     "direction": "vertical"
@@ -79,7 +518,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,7 +532,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kharazien",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +548,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -116,7 +560,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5
   },
   "right": {
     "id": "c203d7428e3445e2",
@@ -132,6 +576,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/Locations/Map of Earendor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +586,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Map of Earendor"
             }
           },
           {
@@ -150,11 +595,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/Academia/Languages/Rusekhet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Rusekhet"
             }
           },
           {
@@ -195,12 +641,128 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "4980981388fd52bf",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 3,
+                    "month": 1,
+                    "year": 5421
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 12,
+                    "month": 1,
+                    "year": 5421
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_5a58ca2a98db",
+                "child": "ID_783a2a8a1a7a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "3240d7a440613ceb",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "f99b86870f6c0e8c",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 9,
+                    "month": 7,
+                    "year": 5419
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 12,
+                    "month": 3,
+                    "year": 5419
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_48eb5909f859",
+                "child": "ID_aa897a3818e9"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "1e78d9e8cecdaf19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842c7d00ac3be4c0",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "id": "ID_783a2a8a1a7a",
+                "parent": "ID_5a58ca2a98db"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "15438a1cae6a557b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee3b54dea7624acc",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0bc878cbdb68",
+                "id": "ID_aa897a3818e9",
+                "parent": "ID_48eb5909f859"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 1019.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,33 +779,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85744e378688d4e9",
+  "active": "1a9b3992db970c28",
   "lastOpenFiles": [
-    "Meta/Unfinished/Chaos.md",
-    "Campaigns/5421 Traces of Divinity/Campaign/Session 6 - Traces of Divinity.md",
+    "Meta/Unfinished/Untitled 2.md",
+    "Meta/Unfinished/Untitled 1.md",
+    "Meta/Unfinished/Untitled.md",
+    "Meta/Unfinished/Save.md",
+    "Meta/Unfinished/Lorekeep temp.md",
+    "Parabolic Shot.md",
+    "Meta/Unfinished/On this series.md",
     "index.md",
+    "Gags.md",
+    "fere'ind.md",
+    "Example Event.md",
+    "Dis.md",
+    "Meta/Unfinished/tm.md",
     "Campaigns/1600 Shattering of Shadows/Campaign/Session 2 - Shattering of Shadows.md",
     "Campaigns/1600 Shattering of Shadows/Campaign/Session 1 - Shattering of Shadows.md",
-    "Campaigns/1600 Shattering of Shadows/Shattering of Shadows.md",
-    "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Ashdilkir.md",
-    "World/Characters & More/Beings/Immortals/Lesser Immortals/Aberrations/Vampires/Kas.md",
-    "Campaigns/3500 Adventures in Arthulion/Campaign/Act 4.5 - Intermission -  Bvranek Blues/Short Stories - Adventures in Arthulion.md",
-    "Meta/Unfinished/Knowledge is Power.md",
-    "World/Characters & More/Beings/Mortals/Mixed/Tiefling/Tahlia Tormund.md",
-    "World/Characters & More/Beings/Immortals/Greater Immortals/Quasi-Deities/Bechel of Bharam.md",
-    "World/Academia/Languages/Rusekhet.md",
-    "World/Academia/Languages/Gol.md",
-    "World/Locations/Planes/Within Planes/Countries/Velmyria/Hatreth/Shattered Region.md",
-    "Untitled.md",
-    "Meta/Unfinished/Niamh's Letter.md",
-    "World/Locations/Planes/Within Planes/Countries/Countries.md",
-    "World/Locations/Map of Earendor.md",
-    "World/Locations/Planes/Within Planes/Countries/Velmyria/Veloria/United Kingdom of Veloria.md",
-    "Campaigns/4980 Rise of the Greenclad/Campaign/Session 1 - Rise of the Greenclad.md",
-    "Meta/Unfinished/Session 3 - Origins of the Greenclad.md",
-    "Meta/Unfinished/Dialogue, notes, prep/Todo; prompts/;temp-arth/;temp-prompt4.md",
-    "Meta/Unfinished/Dialogue, notes, prep/Dialogue.md",
-    "Meta/Unfinished/Dialogue, notes, prep/Headmaster's speech.md",
-    "Meta/Unfinished/Dialogue, notes, prep/Posts.md"
+    "World/Characters & More/Beings/Immortals/Lesser Immortals/Booned Mortals/Althazar the Bright.md",
+    "World/Items/Flameheart.md",
+    "Meta/Obsidian Tools/Shortest Files.md",
+    "Meta/Obsidian Tools/Widows.md",
+    "Meta/Obsidian Tools/Standard/character.md",
+    "World/Characters & More/Beings/Mortals/Human/Aemma Dechaius.md",
+    "World/Characters & More/Beings/Mortals/Human/Aric Vael.md",
+    "World/Characters & More/Beings/Mortals/Human/Analyst.md",
+    "World/Characters & More/Beings/Mortals/Human/Baron Daron.md",
+    "World/Characters & More/Orders/DragonArrow.md",
+    "Campaigns/5421-c Children of Calamity/Campaign/Session 3 - Children of Calamity.md",
+    "Meta/Obsidian Tools/Standard/Format Things/Untitled.canvas",
+    "Campaigns/5418 Road to Rymfel/Campaign",
+    "Campaigns/5418 Road to Rymfel",
+    "Campaigns/5420 Conspiracy of Darkness/Untitled",
+    "Untitled 1.base",
+    "Meta/Decks/Tarot/04-TheEmperor.png",
+    "Untitled.base",
+    "Campaigns/5421-c Children of Calamity/Campaign",
+    "Campaigns/5421-c Children of Calamity"
   ]
 }

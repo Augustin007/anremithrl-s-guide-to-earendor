@@ -11,7 +11,7 @@ Tovrost becomes the first person not born with magical connections to learn magi
 
 ~3500 AS: **West Marshes of Destishire**: A large group of people find themselves going down a mysterious path to a village in the middle of nowhere. Only nomadic adventurers find themselves in this part of the world. This tales the tale of their many comings and goings. 
 ~3500 AS: **Adventures in Arthulion**: Duthrim, Theriad, and Jason travel around the region of Arthulion. Eventually ending up in Destishire.
-~3500 AS: **Tale of Lorekeep Campaign**: After fleeing Destishire, and meeting Bechel of Baram, Theriad works on achieving his dream of constructing the lorekeep.
+~3500 AS: **Tale of Lorekeep Campaign**: After fleeing Destishire, and meeting Bechel of Bharam, Theriad works on achieving his dream of constructing the lorekeep.
 
 Theriad publishes "On Infinities", expanding set theory and creating foundational Real Analysis. At the age of fifteen he had already made significant advances in Pascal's work. Theriad proceeded to discover Hyperbolic geometry. He was also a historian, and he eventually called the attention of the god of knowledge, Nebelun. He founded Lorekeep, a great library, and taught many people. He developed teleportation magic from its very infancy, and was granted immortality by his god. He worked with Tal'berius for a long time in developing ideas of type theory and category theory. He also discovered the idea of homotopies. Created data storage crystals with the aid of Stoick.
 

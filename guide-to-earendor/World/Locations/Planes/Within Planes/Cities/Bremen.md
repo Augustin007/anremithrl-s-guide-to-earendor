@@ -1,8 +1,8 @@
-Bremen is a large city for trade located north-west of [[Goodmead]] in the country of [[Durinor]]. It is nestled against a large cliff face on the south on which a great sky-port is built. It was founded before [[Auril]] escaped the nine-hells. 
+Bremen is a large city for trade located north-west of [[Goodmead]] in the country of [[Durnor]]. It is nestled against a large cliff face on the south on which a great sky-port is built. It was founded before [[Auril]] escaped the nine-hells. 
 
 It is mostly populated by Dwarves and Goliaths, though other species roam it as well.
 
-When Durinor fell under the influence of the spell of eternal winter, Bremen was caught in this. 
+When Durnor fell under the influence of the spell of eternal winter, Bremen was caught in this. 
 
 There are tunnels that lead to the [[Underdark]] in Bremen. 
 

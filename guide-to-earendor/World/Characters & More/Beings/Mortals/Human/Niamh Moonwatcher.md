@@ -32,7 +32,7 @@ The war that followed lasted five years and was defined less by decisive battles
 
 Cormac, though rightful heir, lacked the authority to unify the realm alone. The loyalties of the lords were divided among claimants. 
 
-Bren Cathal, their older cousin on their father's side, who was a claimant to the throne, died in battle, and Cormac siezed the opportunity and arranged a marriage with Monya, Bren's younger half-sister and the daughter of Lord Cathal, in exchange for House Cathal's aid., unifying two of the largest claimants. 
+Bren Cathal, their older cousin on their father's side, who was a claimant to the throne, died in battle, and Cormac siezed the opportunity and arranged a marriage with Monya, Bren's younger half-sister and the daughter of Lord Cathal, in exchange for House Cathal's aid, unifying two of the largest claimants. 
 
 Cormac similarly tried to marry his sister off to Lord Neren, but Niamh did not want to and Gethin stepped in to forbid it.
 

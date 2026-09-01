@@ -1,7 +1,7 @@
 ---
 classification: Tiefling
 race: rymish
-birth: 4618 AS
+birth: 3485 AS
 death: 15th Hammer, 5421 AS
 PC: true
 aliases:
@@ -9,15 +9,19 @@ aliases:
   - Tormund
 ---
 
-Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal who was seduced by Azmodeus during [[The Sundering War]].
+Tahlia Tormund was born of Lilith Tormund, who was the daughter of [[Asmodeus]] and Nemi Tormund, a mortal woman who was seduced by Azmodeus during [[The Sundering War]], and [[Janvar Naiyar]], the son of Reneckvar Naiyar and Naemjen Tevell.
 
-Tahlia was born in the year 4618 AA. 
+Tahlia was born in the year 3485 AS in the Leth Pocket, where Tahlia hid out with Janvar from Ashdilkir. They lived there until Janvar was killed by members of the Cyddartiame Order. Lilith would chase his soul into the nine hells, where she would be spotted by Asmodeus and killed.
 
-She served her grandfather Asmodeus, and he helped her take the throne of Karr in the summer of the year 4639 AA with the aid of [[Bechel of Bharam]]. When Bechel betrayed Asmodeus in the winter of the next year, Tahlia chased after her into the nine hells, and Bechel captured her. 
+Asmodeus then took in his granddaughter Tahlia, though at the time she hated him, she eventually learned to temper her hate and keep it hidden, and to work for those she hated. Eventually her grasp on what was real and what was not began to fade, and she found it difficult to separate the lies she told herself from the truths. She suffered from growing bouts of insanity.
 
-Bechel kept her there sustaining her life by siphoning off Thalia's immortality, and protecting herself from the torture of the nine hells by stealing Asmodeus's protection over Thalia. This endured until Bechel was given the Sight by [[Marethyu]], 
+She helped Asmodeus on a number of missions and eventually settled on the material plane.
 
-Thalia was driven insane by her time in the nine hells. She avoided her grandfather, who would have killed he for failing him, and made her way through the nine hells without the protection of her grandfather. 
+She served her grandfather Asmodeus, and he helped her take the throne of Karr in the summer of the year 4639 AS with the aid of [[Bechel of Bharam]]. When Bechel betrayed Asmodeus in the winter of the next year, Tahlia chased after her into the nine hells, and Bechel captured her. 
+
+Bechel kept her there sustaining her life by siphoning off Thalia's immortality, and protecting herself from the torture of the nine hells by stealing Asmodeus's protection over Tahlia. This endured until Bechel was given the Sight by [[Marethyu]], 
+
+Thalia was driven insane by her time in the nine hells. She avoided her grandfather, who she feared would have killed he for failing him, and made her way through the nine hells without the protection of her grandfather. 
 
 One time, she came dangerously close to the Abyss, and could hear Shar's voice.
 

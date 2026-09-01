@@ -1,0 +1,1 @@
+Dakrenthorne was initially a part of [[Karr]]. [[Valthor Remshi]] would lay claim to it after [[Tahlia Tormund]]'s departure, and it would eventually become known as the Dakrenthorne Kingdom. 

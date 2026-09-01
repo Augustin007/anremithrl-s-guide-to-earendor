@@ -1,7 +1,14 @@
 ---
-class: Rogue (Swashbuckler) 6
-Lineage: Human
-Birth Year: 5403 AS
+classication: human
+race: neroshi
+birth: 5403 AS
+death:
+PC: true
+---
+
+
+Rogue (Swashbuckler) 6
+
 ---
 Aemma carries herself with the confidence and demeanor of someone raised among nobility, something she can't quite hide no matter how hard she tries.
 
@@ -30,12 +37,10 @@ She made enemies among the faculty and friends among troublemakers.
 
 By the time she was fifteen, Aemma had dropped out.
 
-She told herself it was by choice—that she was never meant to sit in classrooms, that she would find her own way, without rules and without expectations.
-
-But the truth was harsher—she failed out because she refused to play the game.
-
 ---
 
 Without a degree, without guild sponsorship, and without her family to fall back on, Aemma found herself stuck. 
 
 Despising the guild's bureaucracy, she managed to do the bare minimum to get quest markers. She completed both quests, minor unranked quests. If caught as unproctored, she could lose her guild permit and be expelled.
+
+She would eventually meet [[Tarold Velgain]] and take a proctorship under him.

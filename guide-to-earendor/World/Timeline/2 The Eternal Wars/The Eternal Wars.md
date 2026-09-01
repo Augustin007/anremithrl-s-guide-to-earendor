@@ -175,9 +175,9 @@
 > 
 > They did not slay him, for though many wished to do so, [[Thalorin]] did not wish to see more death, and he swayed the council. So instead they imprisoned him. They tore apart a small part of the Ethereal Plane for material, and they wove together in its place, even as Asgorath and Arambar had, the threads of Time and Aether. They wove into it the elements, for they knew that time and space alone would not contain their creator. This new realm was the Material Plane. And the gods channelled their divine energy into it, creating Ley Lines as bars to the eternal prison to keep Asgorath asleep.
 
-> **The Tale of Dragons, by [[Magnar Illion|Magnar]]**
+> **The Tale of Dragons, by [[Tar'daroth'ul Magnar'illion|Magnar]]**
 > 
-> Deep inquiries on my last visit to Arvandor have allowed me to compile this tale, though most of the gods who lived through that time breathe hardly a word, my friend Asmodeus has proven most talkative, no doubt in part due to his belief in truth, and no doubt because he does not wish his daughter to believe her nature is shameful, but I think these latest issues with Araushnee have stirred old thoughts among the gods, and they may again take arms as we humans do. 
+> Deep inquiries on my last visit to Arvandor have allowed me to compile this tale, though most of the gods who lived through that time breathe hardly a word, my friend Asmodeus has proven most talkative, no doubt in part due to his belief in truth, and no doubt because he does not wish his daughter to believe her nature is shameful, but I think these latest issues with Araushnee have stirred old thoughts among the gods, and they may again take arms as we lesser beings do. 
 > 
 > There was at first but one dragon. Formed, not of Chaos and Order as is said, but of the same nature that I now wear, a power reactive to the divine. Arambar and Asgorath toiled long in secret to perfect the nature of its power, and when the Celestials struck they were taken by surprise, and the battle turned sour. The dragon fell, and Asgorath and Arambar barely escaped, his knowledge of the formation of the planes turned towards his advantage, and they tracked down only Arambar. But eight of the celestials fell in that initial onslought, not knowing of the danger of draconic nature.
 >   

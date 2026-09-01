@@ -5,13 +5,13 @@
 J 4
 B 8
 
-**Year 1:**
+**Year 3463:**
 [[#Bravnek Blues]]
 J 9
 [[#A Bear in the Pines]]
 B 5
 
-**Year 2:**
+**Year 3464:**
 [[#The Case of the Missing Lamb]]
 J 10
 R 10
@@ -19,14 +19,14 @@ R 10
 B 6
 [[#Small Troubles are Home]]
 
-**Year 3:**
+**Year 3465:**
 J 11
 R 11
 [[#Feast of Light]]
 [[#The Bread Thief]]
 B 7
 
-**Year 4**
+**Year 3466**
 J 12
 [[#Of Ink and Iron]]
 R 12
@@ -34,14 +34,14 @@ R 12
 B 8
 [[#The Eighth Birthday]]
 
-**Year 5**
+**Year 3467**
 J 13
 R 13
 [[#Market Road]]
 B 9
 [[#Shadowhunt]]
 
-**Year 6**
+**Year 3468**
 J 14
 [[#Stones on Still Water]]
 R 14
@@ -50,7 +50,7 @@ B 10
 [[#Salt Cellar]]
 [[#Unbearable Weight]]
 
-**Year 7**
+**Year 3469**
 J 15
 [[#Contest of Rushford]]
 R 15
@@ -58,7 +58,7 @@ R 15
 B 11
 [[#Midwinter Return]]
 
-**Year 8**
+**Year 3470**
 J 16
 [[#Red Book of Bharam]]
 R 16
@@ -66,7 +66,7 @@ B 12
 [[#Bravnek Blues (Reprise)]]
 
 
-**Year 9**
+**Year 3471**
 J 17
 R 17
 [[#The Harri Contract]]
@@ -75,7 +75,7 @@ B 13
 [[#Fire]]
 
 
-**Year 10**
+**Year 3472**
 J 18
 R 18
 [[#Heart to Heart]]
@@ -83,7 +83,7 @@ B 14
 [[#Promise]]
 
 
-**Year 11**
+**Year 3473**
 
 J 19
 [[#Devouring Dream]]
@@ -91,57 +91,57 @@ R 19
 [[#Ember Road]]
 B 15
 
-**Year 12**
+**Year 3474**
 J 20
 R 20
 B 16
 [[#Together]]
 
 
-**Year 13**
+**Year 3475**
 J 21
 R 21
 B 17
 [[#Spiral]]
 [[#Return]]
 
-**Year 14**
+**Year 3476**
 [[#Dreamer]]
 J 22
 R 22
 B 18
 
-**Year 15**
+**Year 3478**
 J 23
 R 23
 B 19
 Birkgar gets married to Irna
 
-**Year 16**
+**Year 3479**
 J 24
 R 24
 B 20
 
-**Year 17**
+**Year 3480**
 J 25
 R 25
 B 21
 Renk and Jolvin get married
 
-**Year 18**
+**Year 3481**
 J 26
 R 26
 B 22
 [[#Midwinter]]
 Vandarul is born to Renk and Jolvin
 
-**Year 19**
+**Year 3482**
 J 27
 R 27
 B 23
 Angda is born to Birkgar and Irna
 
-**Year 20**
+**Year 3483**
 J 28
 R 28
 B 24

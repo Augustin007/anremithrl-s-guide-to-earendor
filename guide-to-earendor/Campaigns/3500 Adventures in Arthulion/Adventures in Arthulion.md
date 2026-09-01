@@ -7,7 +7,7 @@ status: finished
 [[Session 1 - Adventures in Arthulion|Campaign]]
 #### Player Characters
 [[Duthrim Ilirn]]
-[[Jason Naiyar]]
+[[Janvar Naiyar]]
 [[Theriad Keladri]]
 [[Lorim Illirn]]
 #### Crossover Player Characters

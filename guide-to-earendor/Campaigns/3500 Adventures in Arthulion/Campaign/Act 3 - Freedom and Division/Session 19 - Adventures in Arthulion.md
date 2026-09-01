@@ -6,6 +6,8 @@ campaign: Adventures in Arthulion
 |:--:|:--:|:--:|
 |[[Session 18 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 20 - Adventures in Arthulion]]|
 
+YEAR: 3457
+
 Jason and Theriad arrive in the clockwork citadel. 
 
 That night Theriad dreams of a vast library, a single figure tending to it. He draws the image the next morning.

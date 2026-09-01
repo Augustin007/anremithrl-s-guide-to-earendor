@@ -6,6 +6,9 @@ campaign: Adventures in Arthulion
 |                 Previous                  |          Campaign           |                   Next                   |
 | :---------------------------------------: | :-------------------------: | :--------------------------------------: |
 | [[Session 26 - Adventures in Arthulion ]] | [[Adventures in Arthulion]] | [[Session 28 - Adventures in Arthulion]] |
+
+YEAR: 3462 AS
+
 A few years later.
 
 Theriad has become a devotee of Nebelum, trying to learn more about the strange figure in his visions, and is working on completing his doctorate. Jason is somewhat behind, struggling with his internal problems. He and Lira have long broken up but keep a loose friendship. Duthrim married a woman named Lorim, and lives in the city of Branvol, an old and large city not quite fifty miles from the citadel, with his wife and his two kids, Jolvin and Birkgar. The three of them are decently successful. Theriad has been reinstated as a prince of Nolorei, and beyond that his research has accrued much funding, and with a lot of preparation and energy can teleport items without significant damage, and Jason works in law. Duthrim's forge accrues a modest amount of money that supports him. The three send as much support and money as they can to Kael and his rebels. They work to politically attack and discredit the Sonorous Lords. 

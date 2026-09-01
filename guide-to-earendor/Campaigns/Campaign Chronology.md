@@ -77,7 +77,7 @@ Duration: 53 Sessions
 [[Tale of Lorekeep]]
 ~3510 AS
 **Pitch**: 
-After fleeing Destishire, and meeting Bechel of Baram, Theriad works on achieving his dream of constructing the lorekeep.
+After fleeing Destishire, and meeting Bechel of Bharam, Theriad works on achieving his dream of constructing the lorekeep.
 **Story:** 
 Theriad flees Destishire and winds up in the north. He meets Bechel again, who has become the leader of a cult, and lost her eyesight, After some brief dealings with her, they part on unfriendly terms. Theriad travels through Othron Ibrith, Sholara, and Arithmorei, learning more about his god at each point and helping people he meets. He constructs a new spell, the teleportation circle, and spreads it among his order, keeping it a secret outside, and monetises it for his order. (People pay for memberships or for travel through teleportation circles.) He travels across the ocean to Veloria after a vision, and travels through the Untamed Lands until he finds the right place for his library, fighting a powerful demon in the land and beginning the construction.
 **Status:**
@@ -159,9 +159,9 @@ Faust takes control of the power vaccum of the lightwood.
 Faust trains Morgana, but Morgana eventually joins the Archfey Lucy and sets a dragon on Gallio.
 Gallio kills the dragon, a feat which he finds surprisingly easy. He worries the archfey travelling with him set the dragon on him to distract him from something, but she kills herself before he can confront her.
 **Status:**
-Ongoing
+Finished
 DM: Austin
-Duration: 24 Sessions
+Duration: 27 Sessions
 #### Conspiracy of Darkness
 [[Conspiracy of Darkness]]
 5420 AS
@@ -203,9 +203,9 @@ Duration: one-shot
 Norvias and Zal'kesh'ar go on a quest for vengence against Neithen. Along the way they meet Ophiriel and Thurin, who have the same enemy and the same quest.  
 **Story:** 
 **Status:**
-Indefinite Hiatus
+Ongoing
 DM: Austin
-Duration: 3 sessions
+Duration: 6 sessions
 #### Shadows of Calamity
 [[Shadows of Calamity]]
 5421-current AS
@@ -213,9 +213,9 @@ Duration: 3 sessions
 Brother Commander Alric, Brother Captain Thorne, Sister Seraphina, and Brother Kael are members of the Order of Names, and they rush to protect the Tree of Names from the forces of Auril.
 **Story:** 
 **Status:**
-Ongoing
+Finished
 DM: Austin
-Duration: 6 sessions
+Duration: 18 sessions
 #### The Path of Honor
 [[The Path of Honor]]
 5421-current AS
@@ -230,18 +230,18 @@ After they escape the underdark, they meet Giggles the Clown and Tar'id'lion'il 
 They meet twin escaped slaves Qorneth and Uldren, and trying to undo their tracking spells, Naras causes a chain reaction which kills Lirien, turning Aric against him. The party subdues both of them.
 The party splits, going different ways. One path of the story continues to follow Drakenthorne politics in the time of the Shattering, while the other handles the illegal slave trade in northern Foedus.
 **Status:**
-Ongoing
+Indefinite Hiatus
 DM: Austin
-Duration: 35 Sessions
+Duration: 36 Sessions
 #### Bonds of Fate
 [[Bonds of Fate]]
 5421-current AS
 **Pitch**: 
-Servants of the nine hells team up with anarchists in Xyrdakul.
+Servants of the nine hells team up with anarchists in Xirdakul.
 **Story:** 
 Evenon and Ekenon + politics and stuff. (TO DO: finish this.)
 **Status:**
-Hiatus
+Abandoned
 DM: Austin
 Duration: 3 Sessions
 #### Shadows of Memory
@@ -252,9 +252,9 @@ Two characters wake up without memories in a strange forest.
 **Story:** 
 Two characters wake up without memories in a strange forest. They wind up in Gardenborough after meeting Eric the Suicidal Goat.
 **Status:**
-Ongoing
+Hiatus
 DM: Hassan
-Duration: 1 Session
+Duration: 3 Sessions
 #### The Solenthir Gambit
 [[The Solenthir Gambit]]
 5421-current AS
@@ -267,6 +267,20 @@ They take on a bounty to rescue the captive Solenthiri princess in the North, en
 Hiatus
 DM: Austin
 Duration: 3 Sessions
+#### Children of Calamity
+[[Children of Calamity]]
+5421-current AS
+**Pitch**:
+Saelinor  would often take beatings for his little brother until he couldn’t take it anymore and he tan away at 14. He went to live with his friend Dylan. Years later he returned to find his little brother had committed suicide. He blames himself for leaving him and kills his dad. He then starts a Machiavellian terrorist organization and political group for children's rights. 
+He's arrested and placed in prison after killing a prominent politician.
+Reivhen is a murderhobo but looks very cute and also her parents tried to kill her, she killed her mother and her father was arrested and she was taken to an orphanage. She ran away from the orphanage and snuck into prison to go back to her father.
+And then the world ended.
+**Story:**
+The Shattering occurs, in the ensuing moments of chaos, a group of Bharamite soldiers breaks into the prison. In this chaos, Saelinor breaks out and saves the life of young Reivhen. The two make it to the nearest town, Brynbrooke, where they meet with Hilda, a baker, who guides them to the local branch of Saelinor's political group. Cormac the elder, Dylan, and Cormac the younger are there. Erikson is dead. They stay the night there. And prepare to leave.
+**Status**:
+Ongoing
+DM: Austin
+Duration: 1 Session
 
 ---
 
@@ -276,6 +290,3 @@ Campaigns not yet run
 ???? (I dunno. I like the name.)
 #### The Veil of Divinity
 To be started after Shadows of Divinity. Not yet begun. Vague character concepts already in the works.
-#### UNNAMED
-No Description - To be determined
-Had session 0. Characters are two dragonborn druids and an elven bard. Names haven't been set. Possible additional characters. Indefinite hiatus. Possibly abandoned?

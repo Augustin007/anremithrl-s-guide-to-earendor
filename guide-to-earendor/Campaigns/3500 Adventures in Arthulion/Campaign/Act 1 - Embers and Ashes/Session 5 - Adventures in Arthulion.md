@@ -22,6 +22,8 @@ Rokan has lost too much blood and Jason has no supplies. Duthrim and Kael arrive
 
 Jason unceremoniously saws off Rokan's head and convinces the others to head back to claim the bounty.
 
+They turn in Rokan's head for the bounty and split the money, nobody looks at them twice. The three consider where to go. Jason and Duthrim wish to leave the Sonorous Dominion, but Kael wishes to stay, stating he has family there. Kael leaves them, here, taking his cut of the money. Jason and Duthrim flee the dominion. 
+
 
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|

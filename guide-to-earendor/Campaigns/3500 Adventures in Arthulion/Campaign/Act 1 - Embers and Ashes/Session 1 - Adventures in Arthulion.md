@@ -5,6 +5,9 @@ campaign: Adventures in Arthulion
 | Previous | Campaign | Next |
 |:--:|:--:|:--:|
 |———|[[Adventures in Arthulion]]|[[Session 2 - Adventures in Arthulion]]|
+
+YEAR: 3455
+
 Duthrim makes his way through the streets of Nerheim. He is not a pure-bred of Sonorous, so neither the locals nor the invaders see him as their kin, calling him a *Rhakzaz*, an ill omen, an outsider. 
 
 Duthrim attempts to buy materials to start a forge, having had no stable job since the Flameheart (*Lubekhfril*) eruption, but his outsider status makes it very difficult for him. 

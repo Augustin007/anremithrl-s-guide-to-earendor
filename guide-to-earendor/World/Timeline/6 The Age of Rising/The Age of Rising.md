@@ -72,7 +72,7 @@ Vecna creates the great plague, which spreads across the land. In the Taur-en-Fa
 > 
 > And when Tar-Nakthos came into power, and enacted great cruelties, he killed the tyrant and became known as Tar-Rilion, and was known as a good king.
 > 
-> His descendents were his sons Tal'berius and Artorius and his daughter Nanor and the draconic magic had faded little between generations, though there form only had the slightest draconic aspect. 
+> His descendents were his sons Tal'berius and Artorius and his daughter Nanor and the draconic magic had faded little between generations, though their form only had the slightest draconic aspect. 
 > 
 > Now Tal'berius and Artorius were the elder, and they were devoted to learning, and they were strong in magic and learning. and among other things, they compiled the Codex Arcanum. They studied under the greatest minds of the age.
 > 

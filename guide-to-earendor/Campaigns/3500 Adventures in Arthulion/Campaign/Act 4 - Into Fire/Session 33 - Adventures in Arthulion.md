@@ -6,6 +6,8 @@ campaign: Adventures in Arthulion
 |:--:|:--:|:--:|
 |[[Session 32 - Adventures in Arthulion ]]|[[Adventures in Arthulion]]|[[Session 34 - Adventures in Arthulion]]|
 
+YEAR: 3463 AS
+
 They negotiate a surrender thus allow food to be brought in. Tevell swears fealty and bends the knee provided Janvar agrees to terms on warring honourably, and ending the suffering of the citizens and insists they 'rescue' his twins if he is to bend the knee. It is now confirmed that the two twins that follow Miranjen around are Janvar's uncles, Tevell's sons. Many still are suffering. Tevell is furious that they burnt the fields without a way to feed the people, and deeply dislikes his grandson, considering him reckless, selfish, and a poor leader. 
 
 Janvar is regretful, realising now the problem. Beyond this, while the Neroshi pressure on the north prevents the Dominion from sparing any troops they have up there, Lord Ghifarn has successfully blocked more Neroshi reinforcements from making their way south to the rebellion. The Neroshi did kill Lord Drogen before this stalemate occurred. Lords Rethen and Vorqet are busy tearing up the West. Reports claim Lord Grellan and Vorn are nearly returned from the invasion of Sol'kaz, leaving Sernech as an occupying force. 
